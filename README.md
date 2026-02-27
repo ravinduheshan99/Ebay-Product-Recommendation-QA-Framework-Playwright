@@ -62,6 +62,56 @@ npm run test:report
 npm run report:open
 ```
 
+### Advanced Commands
+
+For more detailed control over test execution:
+
+```bash
+# Run tests in interactive UI mode (watch, debug, replay)
+npx playwright test --ui
+
+# Run a specific test file
+npx playwright test tests/eBayBestSellerRecommendationHomePage.spec.js
+
+# Run tests matching a specific tag (e.g., @Web)
+npx playwright test --grep @Web
+
+# Run in debug mode with Inspector
+npx playwright test tests/eBayBestSellerRecommendationMainProductPage.spec.js --debug
+
+# Launch Playwright Codegen to record new tests
+npx playwright codegen https://www.ebay.com
+
+# Run tests with a custom config file
+npx playwright test --config playwright.config2.js
+
+# Run tests on a specific browser project (e.g., chromium, firefox, webkit, mobile)
+npx playwright test --project=firefox
+
+# Run tests in single-threaded mode (useful for CI or debugging)
+npx playwright test -j 1
+
+# Run with verbose output
+npx playwright test --reporter=verbose
+```
+
+#### Optional: Allure Reporting (Advanced)
+
+For comprehensive test reporting with Allure:
+
+```bash
+# Install Allure dependencies
+npm install -D @playwright/test allure-playwright
+npm install -g allure-commandline --save-dev
+
+# Run tests with Allure reporter
+npx playwright test --reporter=line,allure-playwright
+
+# Generate and open Allure report
+allure generate ./allure-results --clean
+allure open ./allure-report
+```
+
 ### Project Structure
 
 ```
@@ -95,6 +145,3 @@ To add more tests or pages:
 
 - The repository contains screenshots/videos/traces generated during test failures in `test-results/` and `playwright-report/`.
 - The framework is designed for clarity and reusability; feel free to adapt it to other websites.
-
----
-*Happy testing!* 🎯
