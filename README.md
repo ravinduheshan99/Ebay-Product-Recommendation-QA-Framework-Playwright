@@ -36,8 +36,8 @@ Additional tests include an end‑to‑end flow that ties the three pages togeth
 
 ```bash
 # clone repository
-git clone <your-repo-url>
-cd "Surge Global QA Assessment Playwright"
+git clone https://github.com/ravinduheshan99/Ebay-Product-Recommendation-QA-Framework-Playwright.git
+cd "QA Assessment Playwright"
 
 # install node dependencies and lockfile
 npm install
