@@ -1,0 +1,1 @@
+All Categories page loaded successfully for a search query with special characters

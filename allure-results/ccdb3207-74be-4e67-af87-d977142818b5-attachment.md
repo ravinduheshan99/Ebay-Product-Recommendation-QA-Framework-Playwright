@@ -1,0 +1,756 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - img
+  - img
+  - banner [ref=e5]:
+    - link "Skip to main content" [ref=e7] [cursor=pointer]:
+      - /url: "#mainContent"
+    - navigation [ref=e8]:
+      - generic [ref=e9]:
+        - generic [ref=e11]:
+          - text: Hi!
+          - link "Sign in" [ref=e12] [cursor=pointer]:
+            - /url: https://signin.ebay.com/ws/eBayISAPI.dll?SignIn&sgfl=gh&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dnoresults1772166713275%26_sacat%3D0%26_from%3DR40%26_trksid%3Dm570.l1313
+          - generic [ref=e13]:
+            - text: or
+            - link "register" [ref=e14] [cursor=pointer]:
+              - /url: https://signup.ebay.com/pa/crte?ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dnoresults1772166713275%26_sacat%3D0%26_from%3DR40%26_trksid%3Dm570.l1313
+        - link "Deals" [ref=e16] [cursor=pointer]:
+          - /url: https://www.ebay.com/deals
+        - link "Brand Outlet" [ref=e18] [cursor=pointer]:
+          - /url: https://www.ebay.com/b/Brand-Outlet/bn_7115532402
+        - link "Gift Cards" [ref=e20] [cursor=pointer]:
+          - /url: https://www.ebay.com/giftcards
+        - link "Help & Contact" [ref=e22] [cursor=pointer]:
+          - /url: https://www.ebay.com/help/home
+      - generic [ref=e23]:
+        - button "Ship to" [ref=e25] [cursor=pointer]:
+          - generic [ref=e26]: Ship to
+        - link "Sell" [ref=e28] [cursor=pointer]:
+          - /url: https://www.ebay.com/sl/sell
+        - generic [ref=e29]:
+          - link "Watchlist" [ref=e30] [cursor=pointer]:
+            - /url: https://www.ebay.com/mye/myebay/watchlist
+            - generic [ref=e31]: Watchlist
+            - img
+          - button "Expand Watch List" [ref=e32]
+        - generic [ref=e33]:
+          - link "My eBay" [ref=e34] [cursor=pointer]:
+            - /url: https://www.ebay.com/mys/home?source=GBH
+            - generic [ref=e35]: My eBay
+            - img
+          - button "Expand My eBay" [ref=e36]
+        - button "Notifications" [ref=e39] [cursor=pointer]:
+          - img
+          - generic [ref=e40]: Notifications
+        - generic [ref=e42]:
+          - link "Your shopping cart contains 0 items" [ref=e43] [cursor=pointer]:
+            - /url: https://cart.ebay.com
+            - generic "Your shopping cart contains 0 items" [ref=e44]:
+              - img
+          - button "Expand Cart" [ref=e45]
+    - generic [ref=e46]:
+      - generic [ref=e47]:
+        - link "eBay Home" [ref=e48] [cursor=pointer]:
+          - /url: https://www.ebay.com
+          - img "eBay Home" [ref=e49]
+        - button "Shop by category" [ref=e57] [cursor=pointer]:
+          - generic [ref=e58]: Shop by category
+          - img
+      - generic [ref=e59]:
+        - status [ref=e60]
+        - generic [ref=e62]:
+          - generic [ref=e63]:
+            - combobox "Search for anything" [ref=e64]: noresults1772166713275
+            - img
+            - button "Camera icon" [ref=e65]:
+              - img
+          - combobox "Select a category for search" [ref=e66]:
+            - option "All Categories" [selected]
+            - option "Antiques"
+            - option "Art"
+            - option "Baby"
+            - option "Books & Magazines"
+            - option "Business & Industrial"
+            - option "Cameras & Photo"
+            - option "Cell Phones & Accessories"
+            - option "Clothing, Shoes & Accessories"
+            - option "Coins & Paper Money"
+            - option "Collectibles"
+            - option "Computers/Tablets & Networking"
+            - option "Consumer Electronics"
+            - option "Crafts"
+            - option "Dolls & Bears"
+            - option "Entertainment Memorabilia"
+            - option "Everything Else"
+            - option "Gift Cards & Coupons"
+            - option "Health & Beauty"
+            - option "Home & Garden"
+            - option "Jewelry & Watches"
+            - option "Movies & TV"
+            - option "Music"
+            - option "Musical Instruments & Gear"
+            - option "Pet Supplies"
+            - option "Pottery & Glass"
+            - option "Real Estate"
+            - option "Specialty Services"
+            - option "Sporting Goods"
+            - option "Sports Mem, Cards & Fan Shop"
+            - option "Stamps"
+            - option "Tickets & Experiences"
+            - option "Toys & Hobbies"
+            - option "Travel"
+            - option "Video Games & Consoles"
+        - generic [ref=e67]:
+          - button "Search" [ref=e68] [cursor=pointer]:
+            - generic [ref=e69]: Search
+          - link "Advanced" [ref=e70] [cursor=pointer]:
+            - /url: https://www.ebay.com/sch/ebayadvsearch?_nkw=noresults1772166713275&_sacat=0&_from=R40&_trksid=m570.l1313
+  - generic [ref=e71]:
+    - generic [ref=e72]:
+      - generic [ref=e73]:
+        - text: "Related:"
+        - generic [ref=e74]:
+          - link "noren" [ref=e75] [cursor=pointer]:
+            - /url: https://www.ebay.com/sch/i.html?_nkw=noren&_sop=12
+          - link "vintage japanese noren" [ref=e76] [cursor=pointer]:
+            - /url: https://www.ebay.com/sch/i.html?_nkw=vintage+japanese+noren&_sop=12
+      - generic [ref=e78]:
+        - generic [ref=e79]:
+          - checkbox "Include description" [ref=e80]
+          - generic [ref=e81]:
+            - img
+        - text: Include description
+    - generic [ref=e83]:
+      - heading "Filter" [level=2] [ref=e84]
+      - list [ref=e85]:
+        - listitem [ref=e86]:
+          - list [ref=e87]:
+            - listitem [ref=e88]:
+              - heading "Category" [level=3] [ref=e89]:
+                - button "Category" [expanded] [ref=e90] [cursor=pointer]:
+                  - text: Category
+                  - generic [ref=e91]:
+                    - img
+              - list [ref=e93]:
+                - listitem [ref=e94]:
+                  - generic [ref=e95]:
+                    - generic [ref=e96]: Selected category
+                    - text: All
+                  - list [ref=e97]:
+                    - listitem [ref=e98]:
+                      - link "Consumer Electronics" [ref=e99] [cursor=pointer]:
+                        - /url: https://www.ebay.com/sch/293/i.html?_nkw=noresults1772166713275&_from=R40
+                      - list [ref=e100]:
+                        - listitem [ref=e101]:
+                          - link "Car Speakers & Speaker Systems" [ref=e102] [cursor=pointer]:
+                            - /url: https://www.ebay.com/sch/14936/i.html?_nkw=noresults1772166713275&_from=R40
+                        - listitem [ref=e103]:
+                          - button "More of category - Consumer Electronics" [ref=e105] [cursor=pointer]:
+                            - generic [ref=e106]: More
+                            - generic [ref=e107]:
+                              - img
+                    - listitem [ref=e108]:
+                      - button "Show more - All" [ref=e110] [cursor=pointer]:
+                        - generic [ref=e111]: Show More
+                        - generic [ref=e112]:
+                          - img
+            - listitem [ref=e113]:
+              - button "Update your location Update your shipping location" [ref=e117] [cursor=pointer]:
+                - generic [ref=e118]: Update your location
+                - img
+                - text: Update your shipping location
+            - listitem [ref=e119]:
+              - heading "Shipping and pickup" [level=3] [ref=e120]:
+                - button "Shipping and pickup" [expanded] [ref=e121] [cursor=pointer]:
+                  - text: Shipping and pickup
+                  - generic [ref=e122]:
+                    - img
+              - list [ref=e124]:
+                - listitem [ref=e125]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - checkbox
+                        - generic:
+                          - img
+                      - generic:
+                        - generic:
+                          - generic: Arrives in 2-4 days
+                - listitem [ref=e126]:
+                  - link "Free International Shipping" [ref=e128] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_nkw=noresults1772166713275&_sacat=0&_from=R40&rt=nc&LH_FS=1
+                    - generic [ref=e129]:
+                      - generic [ref=e130]:
+                        - checkbox [ref=e131]
+                        - generic [ref=e132]:
+                          - img
+                      - generic [ref=e135]: Free International Shipping
+                - listitem [ref=e138]:
+                  - generic [ref=e140] [cursor=pointer]:
+                    - generic [ref=e141]:
+                      - checkbox [ref=e142]
+                      - generic [ref=e143]:
+                        - img
+                    - button "Local Pickup" [ref=e144]:
+                      - generic [ref=e146]: Local Pickup
+            - listitem [ref=e147]:
+              - heading "Price" [level=3] [ref=e148]:
+                - button "Price" [expanded] [ref=e149] [cursor=pointer]:
+                  - text: Price
+                  - generic [ref=e150]:
+                    - img
+              - generic [ref=e153]:
+                - generic [ref=e155]:
+                  - generic [ref=e156]:
+                    - generic [ref=e158]: $
+                    - generic [ref=e160]:
+                      - generic: Min
+                      - textbox "Minimum Value in $" [ref=e162]
+                  - generic [ref=e163]: to
+                  - generic [ref=e164]:
+                    - generic [ref=e166]: $
+                    - generic [ref=e168]:
+                      - generic: Max
+                      - textbox "Maximum Value in $" [ref=e170]
+                  - generic [ref=e171]:
+                    - button "Submit price range" [disabled]:
+                      - img
+                - alert
+            - listitem [ref=e172]:
+              - heading "Condition" [level=3] [ref=e173]:
+                - button "Condition" [expanded] [ref=e174] [cursor=pointer]:
+                  - text: Condition
+                  - generic [ref=e175]:
+                    - img
+              - generic [ref=e176]:
+                - list [ref=e177]:
+                  - listitem [ref=e178]:
+                    - link "New (11) Items" [ref=e180] [cursor=pointer]:
+                      - /url: https://www.ebay.com/sch/i.html?_nkw=noresults1772166713275&_sacat=0&_from=R40&rt=nc&LH_ItemCondition=3
+                      - generic [ref=e181]:
+                        - generic [ref=e182]:
+                          - checkbox [ref=e183]
+                          - generic [ref=e184]:
+                            - img
+                        - generic [ref=e186]:
+                          - generic [ref=e187]:
+                            - text: New
+                            - generic [ref=e188]: (11) Items
+                          - generic [ref=e190]: (11)
+                - button "see all - Condition - opens dialog" [ref=e193] [cursor=pointer]:
+                  - generic [ref=e194]: see all
+            - listitem [ref=e195]:
+              - heading "Buying Format" [level=3] [ref=e196]:
+                - button "Buying Format" [expanded] [ref=e197] [cursor=pointer]:
+                  - text: Buying Format
+                  - generic [ref=e198]:
+                    - img
+              - list [ref=e200]:
+                - listitem [ref=e201]:
+                  - link "All Listings (11) Items Filter Applied" [ref=e203] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_nkw=noresults1772166713275&_sacat=0&_from=R40&rt=nc
+                    - generic [ref=e204]:
+                      - generic [ref=e205]:
+                        - generic [ref=e206]:
+                          - radio [checked] [ref=e207]
+                          - generic [ref=e208]:
+                            - img
+                        - generic [ref=e209]:
+                          - text: All Listings
+                          - generic "(11) Items" [ref=e210]: (11)
+                      - generic [ref=e211]: Filter Applied
+                - listitem [ref=e212]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - radio [disabled]
+                          - generic:
+                            - img
+                        - generic: Auction
+                - listitem [ref=e213]:
+                  - link "Buy It Now (11) Items" [ref=e215] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_nkw=noresults1772166713275&_sacat=0&_from=R40&rt=nc&LH_BIN=1
+                    - generic [ref=e217]:
+                      - generic [ref=e218]:
+                        - radio [ref=e219]
+                        - generic [ref=e220]:
+                          - img
+                      - generic [ref=e221]:
+                        - text: Buy It Now
+                        - generic "(11) Items" [ref=e222]: (11)
+                - listitem [ref=e223]:
+                  - link "Accepts Offers (4) Items" [ref=e225] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_nkw=noresults1772166713275&_sacat=0&_from=R40&rt=nc&LH_BO=1
+                    - generic [ref=e227]:
+                      - generic [ref=e228]:
+                        - radio [ref=e229]
+                        - generic [ref=e230]:
+                          - img
+                      - generic [ref=e231]:
+                        - text: Accepts Offers
+                        - generic "(4) Items" [ref=e232]: (4)
+            - listitem [ref=e233]:
+              - heading "Item Location" [level=3] [ref=e234]:
+                - button "Item Location" [expanded] [ref=e235] [cursor=pointer]:
+                  - text: Item Location
+                  - generic [ref=e236]:
+                    - img
+              - list [ref=e238]:
+                - listitem [ref=e239]:
+                  - link "Default Filter Applied" [ref=e241] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_nkw=noresults1772166713275&_sacat=0&_from=R40&rt=nc&LH_PrefLoc=98
+                    - generic [ref=e242]:
+                      - generic [ref=e243]:
+                        - generic [ref=e244]:
+                          - radio [checked] [ref=e245]
+                          - generic [ref=e246]:
+                            - img
+                        - generic [ref=e247]: Default
+                      - generic [ref=e248]: Filter Applied
+                - listitem [ref=e249]:
+                  - link "US Only" [ref=e251] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_nkw=noresults1772166713275&_sacat=0&_from=R40&rt=nc&LH_PrefLoc=3
+                    - generic [ref=e253]:
+                      - generic [ref=e254]:
+                        - radio [ref=e255]
+                        - generic [ref=e256]:
+                          - img
+                      - generic [ref=e257]: US Only
+                - listitem [ref=e258]:
+                  - link "North America" [ref=e260] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_nkw=noresults1772166713275&_sacat=0&_from=R40&rt=nc&LH_PrefLoc=4
+                    - generic [ref=e262]:
+                      - generic [ref=e263]:
+                        - radio [ref=e264]
+                        - generic [ref=e265]:
+                          - img
+                      - generic [ref=e266]: North America
+                - listitem [ref=e267]:
+                  - link "Europe" [ref=e269] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_nkw=noresults1772166713275&_sacat=0&_from=R40&rt=nc&LH_PrefLoc=5
+                    - generic [ref=e271]:
+                      - generic [ref=e272]:
+                        - radio [ref=e273]
+                        - generic [ref=e274]:
+                          - img
+                      - generic [ref=e275]: Europe
+                - listitem [ref=e276]:
+                  - link "Asia" [ref=e278] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_nkw=noresults1772166713275&_sacat=0&_from=R40&rt=nc&LH_PrefLoc=6
+                    - generic [ref=e280]:
+                      - generic [ref=e281]:
+                        - radio [ref=e282]
+                        - generic [ref=e283]:
+                          - img
+                      - generic [ref=e284]: Asia
+            - listitem [ref=e285]:
+              - heading "Show only" [level=3] [ref=e286]:
+                - button "Show only" [expanded] [ref=e287] [cursor=pointer]:
+                  - text: Show only
+                  - generic [ref=e288]:
+                    - img
+              - generic [ref=e289]:
+                - list [ref=e290]:
+                  - listitem [ref=e291]:
+                    - link "Free Returns" [ref=e293] [cursor=pointer]:
+                      - /url: https://www.ebay.com/sch/i.html?_nkw=noresults1772166713275&_sacat=0&_from=R40&rt=nc&LH_FR=1
+                      - generic [ref=e294]:
+                        - generic [ref=e295]:
+                          - checkbox [ref=e296]
+                          - generic [ref=e297]:
+                            - img
+                        - generic [ref=e300]: Free Returns
+                  - listitem [ref=e303]:
+                    - link "Returns Accepted" [ref=e305] [cursor=pointer]:
+                      - /url: https://www.ebay.com/sch/i.html?_nkw=noresults1772166713275&_sacat=0&_from=R40&rt=nc&LH_RPA=1
+                      - generic [ref=e306]:
+                        - generic [ref=e307]:
+                          - checkbox [ref=e308]
+                          - generic [ref=e309]:
+                            - img
+                        - generic [ref=e312]: Returns Accepted
+                  - listitem [ref=e315]:
+                    - link "Authorized Seller" [ref=e317] [cursor=pointer]:
+                      - /url: https://www.ebay.com/sch/i.html?_nkw=noresults1772166713275&_sacat=0&_from=R40&rt=nc&LH_AS=1
+                      - generic [ref=e318]:
+                        - generic [ref=e319]:
+                          - checkbox [ref=e320]
+                          - generic [ref=e321]:
+                            - img
+                        - generic [ref=e324]: Authorized Seller
+                  - listitem [ref=e327]:
+                    - link "Completed Items" [ref=e329] [cursor=pointer]:
+                      - /url: https://www.ebay.com/sch/i.html?_nkw=noresults1772166713275&_sacat=0&_from=R40&rt=nc&LH_Complete=1
+                      - generic [ref=e330]:
+                        - generic [ref=e331]:
+                          - checkbox [ref=e332]
+                          - generic [ref=e333]:
+                            - img
+                        - generic [ref=e336]: Completed Items
+                  - listitem [ref=e339]:
+                    - link "Sold Items" [ref=e341] [cursor=pointer]:
+                      - /url: https://www.ebay.com/sch/i.html?_nkw=noresults1772166713275&_sacat=0&_from=R40&rt=nc&LH_Sold=1
+                      - generic [ref=e342]:
+                        - generic [ref=e343]:
+                          - checkbox [ref=e344]
+                          - generic [ref=e345]:
+                            - img
+                        - generic [ref=e348]: Sold Items
+                  - listitem [ref=e351]:
+                    - link "Deals & Savings" [ref=e353] [cursor=pointer]:
+                      - /url: https://www.ebay.com/sch/i.html?_nkw=noresults1772166713275&_sacat=0&_from=R40&rt=nc&LH_Savings=1
+                      - generic [ref=e354]:
+                        - generic [ref=e355]:
+                          - checkbox [ref=e356]
+                          - generic [ref=e357]:
+                            - img
+                        - generic [ref=e360]: Deals & Savings
+                - button "see all - Show only - opens dialog" [ref=e365] [cursor=pointer]:
+                  - generic [ref=e366]: see all
+        - listitem [ref=e367]:
+          - button "More filters..." [ref=e369] [cursor=pointer]:
+            - generic [ref=e370]: More filters...
+    - main [ref=e371]:
+      - generic [ref=e373]:
+        - generic [ref=e375]:
+          - heading "5 results for morel ts1772166713275" [level=1] [ref=e377]
+          - generic [ref=e383]:
+            - button "Save this search noresults1772166713275 search" [ref=e387] [cursor=pointer]:
+              - generic [ref=e388]:
+                - img
+              - text: Save this search
+            - region "Not finding what you're looking for?" [ref=e389]:
+              - generic [ref=e392]:
+                - generic [ref=e393]:
+                  - generic [ref=e394]: Not finding what you're looking for?
+                  - text: Save noresults1772166713275 to get e-mail alerts and updates on your eBay Feed.
+                - button "Close tooltip" [ref=e395]:
+                  - img
+        - generic [ref=e396]:
+          - generic [ref=e397]:
+            - list [ref=e400]:
+              - listitem [ref=e401]:
+                - link "All selected" [ref=e402] [cursor=pointer]:
+                  - /url: https://www.ebay.com/sch/i.html?_nkw=noresults1772166713275&_sacat=0&_from=R40&rt=nc&LH_All=1
+                  - generic "All selected" [ref=e403]: All
+              - listitem [ref=e404]:
+                - generic [ref=e405]: Auction
+              - listitem [ref=e406]:
+                - link "Buy It Now" [ref=e407] [cursor=pointer]:
+                  - /url: https://www.ebay.com/sch/i.html?_nkw=noresults1772166713275&_sacat=0&_from=R40&rt=nc&LH_BIN=1
+                  - generic [ref=e408]: Buy It Now
+            - generic [ref=e409]:
+              - button "Condition" [ref=e411]:
+                - generic [ref=e412]:
+                  - generic [ref=e413]: Condition
+                  - img
+              - button "Item Location" [ref=e415]:
+                - generic [ref=e416]:
+                  - generic [ref=e417]: Item Location
+                  - img
+          - generic [ref=e418]:
+            - button "Sort" [ref=e422]:
+              - generic [ref=e423]:
+                - generic [ref=e424]: "Sort: Best Match"
+                - img
+            - button "Listing options selector. List View selected." [ref=e428]:
+              - generic [ref=e429]:
+                - img
+                - img
+      - generic [ref=e431]:
+        - listitem [ref=e433]:
+          - generic [ref=e434]:
+            - link [ref=e440] [cursor=pointer]:
+              - /url: https://ebay.com/itm/123456?itmmeta=012DEW30YG0MEEKND7NH&hash=item123546:g:acwAA9KNiJowH:sc:ShippingMethodStandard!95008!US!-1&itmprp=enc%3AbgepL1tlUHjMGCVfSTGJh%2BzsVKeJ3CQk7NizDI4BZeppuFnmyS6Ijyp8lh%2FnEw%2BWqO7uTV1Q6izE1R0T54aV8j71F4xlWfVcGft4%2FiOQhtqVXA1rW6M1atPARQRmhqUxtEPJKhKtSFgI%2Bvwlzb0GwVCtkp%3ABlBMUObkmabpYw
+            - generic [ref=e441]:
+              - generic [ref=e442]:
+                - link [ref=e443] [cursor=pointer]:
+                  - /url: https://ebay.com/itm/123456?itmmeta=012DEW30YG0MEEKND7NH&hash=item123546:g:acwAA9KNiJowH:sc:ShippingMethodStandard!95008!US!-1&itmprp=enc%3AbgepL1tlUHjMGCVfSTGJh%2BzsVKeJ3CQk7NizDI4BZeppuFnmyS6Ijyp8lh%2FnEw%2BWqO7uTV1Q6izE1R0T54aV8j71F4xlWfVcGft4%2FiOQhtqVXA1rW6M1atPARQRmhqUxtEPJKhKtSFgI%2Bvwlzb0GwVCtkp%3ABlBMUObkmabpYw
+                  - heading [level=3] [ref=e444]: Shop on eBay
+                - generic [ref=e446]: Brand New
+              - generic [ref=e448]:
+                - generic [ref=e449]: $20.00
+                - generic [ref=e450]: or Best Offer
+              - generic [ref=e452]: Sponsored
+        - listitem [ref=e454]:
+          - generic [ref=e455]:
+            - link [ref=e461] [cursor=pointer]:
+              - /url: https://ebay.com/itm/123456?itmmeta=012DEW30YG0MEEKND7NH&hash=item123546:g:acwAA9KNiJowH:sc:ShippingMethodStandard!95008!US!-1&itmprp=enc%3AbgepL1tlUHjMGCVfSTGJh%2BzsVKeJ3CQk7NizDI4BZeppuFnmyS6Ijyp8lh%2FnEw%2BWqO7uTV1Q6izE1R0T54aV8j71F4xlWfVcGft4%2FiOQhtqVXA1rW6M1atPARQRmhqUxtEPJKhKtSFgI%2Bvwlzb0GwVCtkp%3ABlBMUObkmabpYw
+            - generic [ref=e462]:
+              - generic [ref=e463]:
+                - link [ref=e464] [cursor=pointer]:
+                  - /url: https://ebay.com/itm/123456?itmmeta=012DEW30YG0MEEKND7NH&hash=item123546:g:acwAA9KNiJowH:sc:ShippingMethodStandard!95008!US!-1&itmprp=enc%3AbgepL1tlUHjMGCVfSTGJh%2BzsVKeJ3CQk7NizDI4BZeppuFnmyS6Ijyp8lh%2FnEw%2BWqO7uTV1Q6izE1R0T54aV8j71F4xlWfVcGft4%2FiOQhtqVXA1rW6M1atPARQRmhqUxtEPJKhKtSFgI%2Bvwlzb0GwVCtkp%3ABlBMUObkmabpYw
+                  - heading [level=3] [ref=e465]: Shop on eBay
+                - generic [ref=e467]: Brand New
+              - generic [ref=e469]:
+                - generic [ref=e470]: $20.00
+                - generic [ref=e471]: or Best Offer
+              - generic [ref=e473]: Sponsored
+        - generic [ref=e474]:
+          - region [ref=e477]:
+            - generic [ref=e478]:
+              - img
+            - paragraph [ref=e480]:
+              - text: 0 results found for
+              - link "noresults1772166713275" [ref=e481] [cursor=pointer]:
+                - /url: https://www.ebay.com/sch/i.html?_nkw=noresults1772166713275&_sacat=0&_from=R40&_blrs=spell_autorun
+              - text: ", so we searched for morel ts1772166713275"
+          - list [ref=e482]:
+            - listitem [ref=e483]:
+              - generic [ref=e484]:
+                - generic [ref=e486]:
+                  - link "Morel Virtus Nano Carbon 42 4\" 2-way Shallow Mount Component Speakers" [ref=e490] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/277757954072?_skw=noresults1772166713275&itmmeta=01KJENWA3GD7ZS9K3W6RGSJH4C&hash=item40abaa0818:g:ZkwAAeSwtplpoLyS&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xCMoEReq5B2YdbO%2BDg%2FYrkwYas8EAlwSSVC9iYO6L%2FVFrNhTPGNDm4ZLiIhOLpZ%2BtyY5IvDvxvq2Nt%2FG1JhmJ%2BpNQG5Gr4MpH%2Be5lJumveZhEMXRntrtT0E3v8DGQQLEtHWFNA6sxoVZHnw9mwAeUZg1vGOgCFm4AFcFO17rogYDFMO524uLQu0tlN3iJJQs%2BAVmAucgmuoPFykFYLTmT6McR3%2BoZhI8P%2BJZl%2FGJWy5bjxcvGua%2Fp4EcRtHoT%2FBZLI%3D%7Ctkp%3ABk9SR9yi8dWTZw
+                    - img "Morel Virtus Nano Carbon 42 4\" 2-way Shallow Mount Component Speakers" [ref=e491]
+                  - link "watch Morel Virtus Nano Carbon 42 4\" 2-way Shallow Mount Component Speakers" [ref=e493] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=277757954072&pt=null&srt=01000b000000500bba55c8180f7a0e3d1d0150154cd500c17546a51f5983ab4759879c50f09c50880e5a324b29250db221df3dd430a1954ae429a6c5d7a5e4040bf40adfb851a34550ef93294508001ab2eb12aae364f9&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dnoresults1772166713275%26_sacat%3D0%26_from%3DR40
+                    - generic [ref=e494]:
+                      - img
+                - generic [ref=e495]:
+                  - generic [ref=e496]:
+                    - link "New Listing Morel Virtus Nano Carbon 42 4\" 2-way Shallow Mount Component Speakers Opens in a new window or tab" [ref=e497] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/277757954072?_skw=noresults1772166713275&itmmeta=01KJENWA3GD7ZS9K3W6RGSJH4C&hash=item40abaa0818:g:ZkwAAeSwtplpoLyS&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xCMoEReq5B2YdbO%2BDg%2FYrkwYas8EAlwSSVC9iYO6L%2FVFrNhTPGNDm4ZLiIhOLpZ%2BtyY5IvDvxvq2Nt%2FG1JhmJ%2BpNQG5Gr4MpH%2Be5lJumveZhEMXRntrtT0E3v8DGQQLEtHWFNA6sxoVZHnw9mwAeUZg1vGOgCFm4AFcFO17rogYDFMO524uLQu0tlN3iJJQs%2BAVmAucgmuoPFykFYLTmT6McR3%2BoZhI8P%2BJZl%2FGJWy5bjxcvGua%2Fp4EcRtHoT%2FBZLI%3D%7Ctkp%3ABk9SR9yi8dWTZw
+                      - heading "New Listing Morel Virtus Nano Carbon 42 4\" 2-way Shallow Mount Component Speakers Opens in a new window or tab" [level=3] [ref=e498]:
+                        - generic [ref=e499]: New Listing
+                        - text: Morel Virtus Nano Carbon 42 4" 2-way Shallow Mount Component Speakers
+                        - generic [ref=e500]: Opens in a new window or tab
+                    - generic [ref=e502]: Open Box
+                  - generic [ref=e503]:
+                    - generic [ref=e504]:
+                      - generic [ref=e505]: $574.94
+                      - generic [ref=e506]: or Best Offer
+                      - generic [ref=e507]: +$85.59 delivery
+                      - generic [ref=e508]: Located in United States
+                    - generic [ref=e510]: ctabargainsatl 100% positive (1.3K)
+                  - generic [ref=e511]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading "Sponsored" [level=6]:
+                            - generic [ref=e512]: Sponsored
+            - listitem [ref=e513]:
+              - generic [ref=e514]:
+                - generic [ref=e516]:
+                  - link "Morel Virtus Nano Carbon 42 4\" 2-way Shallow Mount Component Speakers NEW" [ref=e520] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/277630164446?_skw=noresults1772166713275&itmmeta=01KJENWA3HXTXSSFWHZBV335A6&hash=item40a40c1dde:g:j4EAAOSwXsZmyqkP&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xD9iV2sqvFw9TH8YMTUc2gAgr4fXhf70LVdxGBQKXoFdpvod9v2Of8RVP6Z3edgqTB8L4cbQZMXO%2BUwZpus1np2iFIT9T0Prm0V2OO%2FYIe9rdrMRw3REpAbgPUeKQNDEi%2FKEi%2Bg3By1bPQDJpnuhVuIl4CVuklmuUDXYR9S3Sy2IufuEfFhNRx%2B1bnc0%2FrbhmP37cCJWhPBUkbe7kpuBUYGHNBc50ioKXjwGf%2BUu0QmBMEKfHGC7rwGZbBcqiBDclQ%3D%7Ctkp%3ABk9SR9yi8dWTZw
+                    - img "Morel Virtus Nano Carbon 42 4\" 2-way Shallow Mount Component Speakers NEW" [ref=e521]
+                  - link "watch Morel Virtus Nano Carbon 42 4\" 2-way Shallow Mount Component Speakers NEW" [ref=e523] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=277630164446&pt=null&srt=01000b00000050fae33bcf962b915439b59907ace80c2599f795eb6be5e562b637bd5fa8ea9b80d57821e6daabcefafc47904b9d7c95d6505f30da70f22612ded0887a76e5118a95a801e3604c103d48a2f318dfeea1ad&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dnoresults1772166713275%26_sacat%3D0%26_from%3DR40
+                    - generic [ref=e524]:
+                      - img
+                - generic [ref=e525]:
+                  - generic [ref=e526]:
+                    - link "Morel Virtus Nano Carbon 42 4\" 2-way Shallow Mount Component Speakers NEW Opens in a new window or tab" [ref=e527] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/277630164446?_skw=noresults1772166713275&itmmeta=01KJENWA3HXTXSSFWHZBV335A6&hash=item40a40c1dde:g:j4EAAOSwXsZmyqkP&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xD9iV2sqvFw9TH8YMTUc2gAgr4fXhf70LVdxGBQKXoFdpvod9v2Of8RVP6Z3edgqTB8L4cbQZMXO%2BUwZpus1np2iFIT9T0Prm0V2OO%2FYIe9rdrMRw3REpAbgPUeKQNDEi%2FKEi%2Bg3By1bPQDJpnuhVuIl4CVuklmuUDXYR9S3Sy2IufuEfFhNRx%2B1bnc0%2FrbhmP37cCJWhPBUkbe7kpuBUYGHNBc50ioKXjwGf%2BUu0QmBMEKfHGC7rwGZbBcqiBDclQ%3D%7Ctkp%3ABk9SR9yi8dWTZw
+                      - heading "Morel Virtus Nano Carbon 42 4\" 2-way Shallow Mount Component Speakers NEW Opens in a new window or tab" [level=3] [ref=e528]:
+                        - text: Morel Virtus Nano Carbon 42 4" 2-way Shallow Mount Component Speakers NEW
+                        - generic [ref=e529]: Opens in a new window or tab
+                    - generic [ref=e531]: Brand New
+                  - generic [ref=e532]:
+                    - generic [ref=e533]:
+                      - generic [ref=e534]:
+                        - text: $594.15
+                        - text: $699.00
+                      - generic [ref=e535]: Buy It Now
+                      - generic [ref=e536]: +$59.24 delivery
+                      - generic [ref=e537]: Located in United States
+                    - generic [ref=e539]: edge_custom_audio 99.9% positive (2.9K)
+                  - generic [ref=e540]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading "Sponsored" [level=6]:
+                            - generic [ref=e541]: Sponsored
+            - listitem [ref=e542]:
+              - generic [ref=e543]:
+                - generic [ref=e545]:
+                  - link "MOREL TEMPO ULTRA 602 6.5\" 120W RMS COMPONENT NEODYMIUM TWEETERS SPEAKERS NEW" [ref=e549] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/400673833651?_skw=noresults1772166713275&epid=1867718149&itmmeta=01KJENWA3H6FEH2RTVKW76KFFE&hash=item5d4a0582b3:g:KNAAAOSwEt5kZmgM&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAKVbuZQw9%2FAZuULFlfHlAEYz0v5trD2owlpsGpmEXl1vg26QXSeJJstpHudlGaetUfaMnhtBw2RSbi5Fpqo3qiBBwBLx%2FInOlE3tyH5GJfWYyg4IItB6c4RTBvnsVJGrKfA3MYMJmuiw9ZcJpuIBTdEpXRjLviViTB5B7OG6TsuD%2FOBAKiYgxjmeJA%2FzqMGnQStQ%2FcWPD%2FzSay2LmusptJ5hHeR87TJU6IzE%2F6r2ukqsozT69r7nw2qudZofIsTyKEfniPPjvqCH8vUtKSCmR%2BtIgbNUo0WppJ1TeQVdyjJw%3D%3D%7Ctkp%3ABk9SR96i8dWTZw
+                    - img "MOREL TEMPO ULTRA 602 6.5\" 120W RMS COMPONENT NEODYMIUM TWEETERS SPEAKERS NEW" [ref=e550]
+                  - link "watch MOREL TEMPO ULTRA 602 6.5\" 120W RMS COMPONENT NEODYMIUM TWEETERS SPEAKERS NEW" [ref=e552] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=400673833651&pt=null&srt=01000b00000050a261d21a67091e2766021d95e63503d81c8cbd919db25669dc08e27711a1edcea0d69dea2b19f738a60785a8790fc134401b6245540bcc3cf60de3c86b6d5a9fbd744c0432eeca8244861157316210ad&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dnoresults1772166713275%26_sacat%3D0%26_from%3DR40
+                    - generic [ref=e553]:
+                      - img
+                - generic [ref=e554]:
+                  - generic [ref=e555]:
+                    - link "MOREL TEMPO ULTRA 602 6.5\" 120W RMS COMPONENT NEODYMIUM TWEETERS SPEAKERS NEW Opens in a new window or tab" [ref=e556] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/400673833651?_skw=noresults1772166713275&epid=1867718149&itmmeta=01KJENWA3H6FEH2RTVKW76KFFE&hash=item5d4a0582b3:g:KNAAAOSwEt5kZmgM&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAKVbuZQw9%2FAZuULFlfHlAEYz0v5trD2owlpsGpmEXl1vg26QXSeJJstpHudlGaetUfaMnhtBw2RSbi5Fpqo3qiBBwBLx%2FInOlE3tyH5GJfWYyg4IItB6c4RTBvnsVJGrKfA3MYMJmuiw9ZcJpuIBTdEpXRjLviViTB5B7OG6TsuD%2FOBAKiYgxjmeJA%2FzqMGnQStQ%2FcWPD%2FzSay2LmusptJ5hHeR87TJU6IzE%2F6r2ukqsozT69r7nw2qudZofIsTyKEfniPPjvqCH8vUtKSCmR%2BtIgbNUo0WppJ1TeQVdyjJw%3D%3D%7Ctkp%3ABk9SR96i8dWTZw
+                      - heading "MOREL TEMPO ULTRA 602 6.5\" 120W RMS COMPONENT NEODYMIUM TWEETERS SPEAKERS NEW Opens in a new window or tab" [level=3] [ref=e557]:
+                        - text: MOREL TEMPO ULTRA 602 6.5" 120W RMS COMPONENT NEODYMIUM TWEETERS SPEAKERS NEW
+                        - generic [ref=e558]: Opens in a new window or tab
+                    - generic [ref=e560]: Brand New
+                  - generic [ref=e561]:
+                    - generic [ref=e562]:
+                      - generic [ref=e563]: $489.00
+                      - generic [ref=e564]: Buy It Now
+                      - generic [ref=e565]: +$78.60 delivery
+                      - generic [ref=e566]: Located in United States
+                      - generic [ref=e567]: 41 watchers
+                    - generic [ref=e569]: woofersetc_outlet 100% positive (72K)
+                  - generic [ref=e570]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading [level=6]:
+                            - generic [ref=e571]: Sponsored
+            - listitem [ref=e572]:
+              - generic [ref=e573]:
+                - generic [ref=e575]:
+                  - link "Morel 20152K 51 RR06" [ref=e579] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/187127471941?_skw=noresults1772166713275&itmmeta=01KJENWA3HTQD7RHB6QB1QFN8Q&hash=item2b91aa9f45:g:MZAAAeSwgzFn9wVY&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAtQC7DjTg4CORxv9UCRw%2FiQ0TMszsy2518kNlfOPelmrFJskYkOdyxzDSpBAHDnd3NBPCNuNRU4zBj9Nrx8UIYBS5APLmcNp%2BfUQeis4htUXqhrynpqKonJtAxvcl4%2B9JuFhpXynBnvvIGgQuY%2Br44KsH9D3Bh6XtcGylVnHP%2F9gRu9geeooiF7TjN%2F0SIlXpSrcRGNeKXVsESLKedthRraAknilgBitTwVyOPtBmDZ6gwmelNLGhCYOymrgdBNbhsgYiStQ21VayjDwvByaYa4DctgQd%2BpWCUpGK%2Bwg0b4w%3D%3D%7Ctkp%3ABk9SR96i8dWTZw
+                    - img "Morel 20152K 51 RR06" [ref=e580]
+                  - link "watch Morel 20152K 51 RR06" [ref=e582] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=187127471941&pt=null&srt=01000b0000005004f698c43360994f40b6e8be8b5a4d7580508040889fbc0f80446adde7385e76b40f01b6d5f465ac5a4abc4368fda95e4f697919b59023158d5825d7fbccb4e19dcfab297a19a46853232b9b83f997ef&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dnoresults1772166713275%26_sacat%3D0%26_from%3DR40
+                    - generic [ref=e583]:
+                      - img
+                - generic [ref=e584]:
+                  - generic [ref=e585]:
+                    - link "Morel 20152K 51 RR06 Opens in a new window or tab" [ref=e586] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/187127471941?_skw=noresults1772166713275&itmmeta=01KJENWA3HTQD7RHB6QB1QFN8Q&hash=item2b91aa9f45:g:MZAAAeSwgzFn9wVY&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAtQC7DjTg4CORxv9UCRw%2FiQ0TMszsy2518kNlfOPelmrFJskYkOdyxzDSpBAHDnd3NBPCNuNRU4zBj9Nrx8UIYBS5APLmcNp%2BfUQeis4htUXqhrynpqKonJtAxvcl4%2B9JuFhpXynBnvvIGgQuY%2Br44KsH9D3Bh6XtcGylVnHP%2F9gRu9geeooiF7TjN%2F0SIlXpSrcRGNeKXVsESLKedthRraAknilgBitTwVyOPtBmDZ6gwmelNLGhCYOymrgdBNbhsgYiStQ21VayjDwvByaYa4DctgQd%2BpWCUpGK%2Bwg0b4w%3D%3D%7Ctkp%3ABk9SR96i8dWTZw
+                      - heading "Morel 20152K 51 RR06 Opens in a new window or tab" [level=3] [ref=e587]:
+                        - text: Morel 20152K 51 RR06
+                        - generic [ref=e588]: Opens in a new window or tab
+                    - generic [ref=e590]: New without tags
+                  - generic [ref=e591]:
+                    - generic [ref=e592]:
+                      - generic [ref=e593]: $59.00
+                      - generic [ref=e594]: or Best Offer
+                      - generic [ref=e595]: +$35.70 delivery
+                      - generic [ref=e596]: Located in United States
+                    - generic [ref=e598]: stacehar1-32 100% positive (15)
+                  - generic [ref=e599]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading [level=6]:
+                            - generic [ref=e600]: Sponsored
+            - listitem [ref=e601]:
+              - generic [ref=e602]:
+                - generic [ref=e604]:
+                  - link "MOREL TEMPO ULTRA 602 MKII 6.5\" 120W RMS COMPONENT NEODYMIUM TWEETERS SPEAKERS" [ref=e608] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/403015486955?_skw=noresults1772166713275&itmmeta=01KJENWA3HHQR50FXR0SK2NP02&hash=item5dd5984deb:g:da4AAOSwl4NkZXwv&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xALC5TtZ%2FYseRCcJ8rs5%2Bt0xw8OlX4c%2B9nFiA1p28HS%2BwjuUT0wTt9O1vRsSb1SjxakbPUHT7ybdi3ZH20ZxaM17ma4esBRT2NPn1Pw2MQxNHDQDWdLVE0f%2F3605HFk8tRSymjzTu7w8WtIOslLvUhD3Lk%2FUR3XjCF0Cy5TNXCVId05QxmHH8fmelEVwPp9tIuvoCjy9mLtOdoaEOJgBMKn5tXcgQ6l6Ky1AxwEJfC9HTLRuy0uoGpeHAUWndlvPiCE5V%2FublfGQJZlMX36asofDmW0G4TTd%2F5VzSGqg29pbA%3D%3D%7Ctkp%3ABk9SR96i8dWTZw
+                    - img "MOREL TEMPO ULTRA 602 MKII 6.5\" 120W RMS COMPONENT NEODYMIUM TWEETERS SPEAKERS" [ref=e609]
+                  - link "watch MOREL TEMPO ULTRA 602 MKII 6.5\" 120W RMS COMPONENT NEODYMIUM TWEETERS SPEAKERS" [ref=e611] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=403015486955&pt=null&srt=01000b000000509d19b311e8dd8a0141557b81809f6fa932c84a1fd1db1dbdde9eb2756d7e5cbc1a2b252f6ebbb292f4a255646ab1c05b81514570c9077a3ff9b4d7a12be8fc9de9623e3dde9f9cdf187ffc4746b879bb&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dnoresults1772166713275%26_sacat%3D0%26_from%3DR40
+                    - generic [ref=e612]:
+                      - img
+                - generic [ref=e613]:
+                  - generic [ref=e614]:
+                    - link "MOREL TEMPO ULTRA 602 MKII 6.5\" 120W RMS COMPONENT NEODYMIUM TWEETERS SPEAKERS Opens in a new window or tab" [ref=e615] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/403015486955?_skw=noresults1772166713275&itmmeta=01KJENWA3HHQR50FXR0SK2NP02&hash=item5dd5984deb:g:da4AAOSwl4NkZXwv&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xALC5TtZ%2FYseRCcJ8rs5%2Bt0xw8OlX4c%2B9nFiA1p28HS%2BwjuUT0wTt9O1vRsSb1SjxakbPUHT7ybdi3ZH20ZxaM17ma4esBRT2NPn1Pw2MQxNHDQDWdLVE0f%2F3605HFk8tRSymjzTu7w8WtIOslLvUhD3Lk%2FUR3XjCF0Cy5TNXCVId05QxmHH8fmelEVwPp9tIuvoCjy9mLtOdoaEOJgBMKn5tXcgQ6l6Ky1AxwEJfC9HTLRuy0uoGpeHAUWndlvPiCE5V%2FublfGQJZlMX36asofDmW0G4TTd%2F5VzSGqg29pbA%3D%3D%7Ctkp%3ABk9SR96i8dWTZw
+                      - heading "MOREL TEMPO ULTRA 602 MKII 6.5\" 120W RMS COMPONENT NEODYMIUM TWEETERS SPEAKERS Opens in a new window or tab" [level=3] [ref=e616]:
+                        - text: MOREL TEMPO ULTRA 602 MKII 6.5" 120W RMS COMPONENT NEODYMIUM TWEETERS SPEAKERS
+                        - generic [ref=e617]: Opens in a new window or tab
+                    - generic [ref=e619]: Brand New
+                  - generic [ref=e620]:
+                    - generic [ref=e621]:
+                      - generic [ref=e622]: $489.00
+                      - generic [ref=e623]: Buy It Now
+                      - generic [ref=e624]: +$92.55 delivery
+                      - generic [ref=e625]: Located in United States
+                      - generic [ref=e626]: 5 watchers
+                    - generic [ref=e628]: woofersetc_outlet 100% positive (72K)
+                  - generic [ref=e629]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading "Sponsored" [level=6]:
+                            - generic [ref=e630]: Sponsored
+      - generic [ref=e632]:
+        - generic [ref=e633]:
+          - heading "Related Searches" [level=2] [ref=e634]
+          - group "Related Searches" [ref=e637]:
+            - list [ref=e640]:
+              - listitem [ref=e641]:
+                - link "noren" [ref=e643] [cursor=pointer]:
+                  - /url: https://www.ebay.com/sch/i.html?_sacat=0&_from=R40&_nkw=noren
+                  - generic [ref=e644]: noren
+              - listitem [ref=e645]:
+                - link "vintage japanese noren" [ref=e647] [cursor=pointer]:
+                  - /url: https://www.ebay.com/sch/i.html?_sacat=0&_from=R40&_nkw=vintage+japanese+noren
+                  - generic [ref=e648]: vintage japanese noren
+        - img "Busy" [ref=e651]:
+          - img
+      - img [ref=e654]
+    - iframe [ref=e660]:
+      - generic [ref=f22e1]:
+        - link [ref=f22e2] [cursor=pointer]:
+          - /url: https://googleads.g.doubleclick.net/pcs/click?xai=AKAOjsuod6j8vym4ipe1aAbvdyTBQTgdKufbBvJEgMLwUbLs0InWbU67RIX0qqOGJkN-x9byowXdZQIW97r0FJ4-8jWZBx1_W6k2vhfYc4Ciexvx88naAdCQopcG4f6eZsK72etIDRlBvNo4yprncpm8PIB0B-VlBK846AOM5f2qtcQCutTjQ1mCrrZrDMMXn4M95joAqOlzameggh1aAmnYZFNdVW6yv76w0cdaTJPkXfxjbiQW4_XZntKmETB9ZADmMsKkczVHLn58oggPiKGfRO2kn5dhCjfoQleLeXHTCDfqW6XzkAnDm97Vc9bfYPCHMweKvxKYH0dNAuMX9JxGfAylQmOe8V9Yz_QFL7GwUn4iBE2SqXm0D4eeYdgBB14Diyzq0r168Z9332LoSbnA3J5-49sY_FGlmJu2P2wYs9c&sai=AMfl-YS6sPhAAAHAK93PRYQ4gFR9M4R-lo2ogq46vS_ECFVIXXrHwQb8JMSHcpWn7HT267HqXIR0xhycevRPycYNUZrXFwd7BzFCvS7ZEZkH9yDeVB51ajo-siolM0hL4wfKV81S7nknpkE1V6er62jN4T6PwFtGYePOs6Q4ImbQbuAvtZLw8Htnvzeyx3BFHnjGcUIheAfLs4eAJbUKGD4fhdcikuH7dB2KnmjJMHn1Jp5qK7-Gf63vR02HsamCEDk6TB2pABGsPdLtITHuLlVTbg&sig=Cg0ArKJSzPr_x_Vvy639&fbs_aeid=%5Bgw_fbsaeid%5D&adurl=http://pages.ebay.com/new_buyer/getting_started_ES.html
+        - img [ref=f22e6] [cursor=pointer]
+        - button [ref=f22e8] [cursor=pointer]:
+          - img [ref=f22e9]
+  - generic [ref=e661]:
+    - contentinfo [ref=e664]:
+      - list [ref=e665]:
+        - listitem [ref=e666]:
+          - link "About eBay" [ref=e667] [cursor=pointer]:
+            - /url: https://www.ebayinc.com
+        - listitem [ref=e668]:
+          - link "Announcements" [ref=e669] [cursor=pointer]:
+            - /url: https://community.ebay.com/t5/Announcements/bg-p/Announcements
+        - listitem [ref=e670]:
+          - link "Community" [ref=e671] [cursor=pointer]:
+            - /url: https://community.ebay.com
+        - listitem [ref=e672]:
+          - link "Security Center" [ref=e673] [cursor=pointer]:
+            - /url: https://pages.ebay.com/securitycenter/index.html
+        - listitem [ref=e674]:
+          - link "Seller Center" [ref=e675] [cursor=pointer]:
+            - /url: https://www.ebay.com/sellercenter
+        - listitem [ref=e676]:
+          - link "Policies" [ref=e677] [cursor=pointer]:
+            - /url: https://www.ebay.com/help/policies/default/ebays-rules-policies?id=4205
+        - listitem [ref=e678]:
+          - link "Affiliates" [ref=e679] [cursor=pointer]:
+            - /url: https://partnernetwork.ebay.com/
+        - listitem [ref=e680]:
+          - link "Product Safety Tips" [ref=e681] [cursor=pointer]:
+            - /url: https://pages.ebay.com/safetytips
+        - listitem [ref=e682]:
+          - link "Help & Contact" [ref=e683] [cursor=pointer]:
+            - /url: https://www.ebay.com/help/home
+        - listitem [ref=e684]:
+          - link "Site Map" [ref=e685] [cursor=pointer]:
+            - /url: https://pages.ebay.com/sitemap.html
+      - generic [ref=e686]:
+        - text: Copyright © 1995-2026 eBay Inc. All Rights Reserved.
+        - link "Accessibility" [ref=e687] [cursor=pointer]:
+          - /url: https://www.ebayinc.com/accessibility/
+        - text: ","
+        - link "User Agreement" [ref=e688] [cursor=pointer]:
+          - /url: https://www.ebay.com/help/policies/member-behaviour-policies/user-agreement?id=4259
+        - text: ","
+        - link "Privacy" [ref=e689] [cursor=pointer]:
+          - /url: https://www.ebay.com/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260
+        - text: ","
+        - link "Consumer Health Data" [ref=e690] [cursor=pointer]:
+          - /url: https://www.ebayinc.com/company/privacy-center/privacy-notice/consumer-health-data-privacy-policy/
+        - text: ","
+        - link "Payments Terms of Use" [ref=e691] [cursor=pointer]:
+          - /url: https://pages.ebay.com/payment/2.0/terms.html
+        - text: ","
+        - link "Cookies" [ref=e692] [cursor=pointer]:
+          - /url: https://www.ebay.com/help/policies/member-behaviour-policies/ebay-cookie-notice?id=4267
+        - text: ","
+        - link "CA Privacy Notice" [ref=e693] [cursor=pointer]:
+          - /url: https://www.ebayinc.com/company/privacy-center/privacy-notice/state-privacy-disclosures/#california
+        - text: ","
+        - link "Your Privacy Choices" [ref=e694] [cursor=pointer]:
+          - /url: https://www.ebay.com/adchoice/ccpa
+        - text: and
+        - link "AdChoice" [ref=e695] [cursor=pointer]:
+          - /url: https://www.ebay.com/adchoice
+          - text: AdChoice
+          - img
+    - generic [ref=e697]:
+      - link "*Learn about pricing" [ref=e699] [cursor=pointer]:
+        - /url: https://pages.ebay.com/buy/popup/pricing.html
+      - generic [ref=e700]: "This page was last updated: Feb-26 21:31. Number of bids and bid amounts may be slightly out of date. See each listing for international shipping options and costs."
+  - img [ref=e701]
+  - img
+  - img [ref=e702]
+```

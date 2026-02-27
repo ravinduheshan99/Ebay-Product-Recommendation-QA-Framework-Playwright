@@ -1,0 +1,423 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - banner [ref=e5]:
+    - link [ref=e7] [cursor=pointer]:
+      - /url: "#mainContent"
+      - text: Skip to main content
+    - navigation [ref=e8]:
+      - generic [ref=e9]:
+        - generic [ref=e11]:
+          - text: Hi!
+          - link [ref=e12] [cursor=pointer]:
+            - /url: https://signin.ebay.com/ws/eBayISAPI.dll?SignIn&sgfl=gh&ru=https%3A%2F%2Fwww.ebay.com%2Fitm%2F395542267999
+            - text: Sign in
+          - generic [ref=e13]:
+            - text: or
+            - link [ref=e14] [cursor=pointer]:
+              - /url: https://signup.ebay.com/pa/crte?ru=https%3A%2F%2Fwww.ebay.com%2Fitm%2F395542267999
+              - text: register
+        - link [ref=e16] [cursor=pointer]:
+          - /url: https://www.ebay.com/deals
+          - text: Deals
+        - link [ref=e18] [cursor=pointer]:
+          - /url: https://www.ebay.com/b/Brand-Outlet/bn_7115532402
+          - text: Brand Outlet
+        - link [ref=e20] [cursor=pointer]:
+          - /url: https://www.ebay.com/giftcards
+          - text: Gift Cards
+        - link [ref=e22] [cursor=pointer]:
+          - /url: https://www.ebay.com/help/home
+          - text: Help & Contact
+      - generic [ref=e23]:
+        - generic [ref=e24]:
+          - button [ref=e25] [cursor=pointer]:
+            - generic [ref=e26]: Ship to
+          - dialog "Where are you shipping to?" [ref=e27]:
+            - generic [ref=e28]:
+              - generic [ref=e29]:
+                - heading "Where are you shipping to?" [level=2] [ref=e30]
+                - button "Dismiss" [active] [ref=e31]:
+                  - img
+              - iframe [ref=e33]:
+                - generic [active] [ref=f3e1]:
+                  - img
+                  - main [ref=f3e3]:
+                    - generic [ref=f3e7]:
+                      - paragraph [ref=f3e8]: Confirming helps us show products that can reach you, since some sellers only ship to certain areas.
+                      - generic [ref=f3e9]:
+                        - generic [ref=f3e10]:
+                          - generic [ref=f3e12]:
+                            - generic: Country or Region
+                            - generic [ref=f3e13]:
+                              - combobox "Country or Region" [ref=f3e14]:
+                                - option "Afghanistan"
+                                - option "Albania"
+                                - option "Algeria"
+                                - option "American Samoa"
+                                - option "Andorra"
+                                - option "Angola"
+                                - option "Anguilla"
+                                - option "Antigua and Barbuda"
+                                - option "APO/FPO/DPO"
+                                - option "Argentina"
+                                - option "Armenia"
+                                - option "Aruba"
+                                - option "Australia"
+                                - option "Austria"
+                                - option "Azerbaijan Republic"
+                                - option "Bahamas"
+                                - option "Bahrain"
+                                - option "Bangladesh"
+                                - option "Barbados"
+                                - option "Belarus"
+                                - option "Belgium"
+                                - option "Belize"
+                                - option "Benin"
+                                - option "Bermuda"
+                                - option "Bhutan"
+                                - option "Bolivia"
+                                - option "Bosnia and Herzegovina"
+                                - option "Botswana"
+                                - option "Brazil"
+                                - option "British Virgin Islands"
+                                - option "Brunei Darussalam"
+                                - option "Bulgaria"
+                                - option "Burkina Faso"
+                                - option "Burundi"
+                                - option "Cambodia"
+                                - option "Cameroon"
+                                - option "Canada"
+                                - option "Cape Verde Islands"
+                                - option "Cayman Islands"
+                                - option "Central African Republic"
+                                - option "Chad"
+                                - option "Chile"
+                                - option "China Mainland"
+                                - option "Colombia"
+                                - option "Comoros"
+                                - option "Congo, Democratic Republic of the"
+                                - option "Congo, Republic of the"
+                                - option "Cook Islands"
+                                - option "Costa Rica"
+                                - option "Cote d Ivoire (Ivory Coast)"
+                                - option "Croatia, Republic of"
+                                - option "Curacao"
+                                - option "Cyprus"
+                                - option "Czech Republic"
+                                - option "Denmark"
+                                - option "Djibouti"
+                                - option "Dominica"
+                                - option "Dominican Republic"
+                                - option "Ecuador"
+                                - option "Egypt"
+                                - option "El Salvador"
+                                - option "Equatorial Guinea"
+                                - option "Eritrea"
+                                - option "Estonia"
+                                - option "Ethiopia"
+                                - option "Falkland Islands (Islas Malvinas)"
+                                - option "Fiji"
+                                - option "Finland"
+                                - option "France"
+                                - option "French Guiana"
+                                - option "French Polynesia"
+                                - option "Gabon Republic"
+                                - option "Gambia"
+                                - option "Georgia"
+                                - option "Germany"
+                                - option "Ghana"
+                                - option "Gibraltar"
+                                - option "Greece"
+                                - option "Greenland"
+                                - option "Grenada"
+                                - option "Guadeloupe"
+                                - option "Guam"
+                                - option "Guatemala"
+                                - option "Guernsey"
+                                - option "Guinea"
+                                - option "Guinea-Bissau"
+                                - option "Guyana"
+                                - option "Haiti"
+                                - option "Honduras"
+                                - option "Hong Kong"
+                                - option "Hungary"
+                                - option "Iceland"
+                                - option "India"
+                                - option "Indonesia"
+                                - option "Ireland"
+                                - option "Israel"
+                                - option "Italy"
+                                - option "Jamaica"
+                                - option "Jan Mayen"
+                                - option "Japan"
+                                - option "Jersey"
+                                - option "Jordan"
+                                - option "Kazakhstan"
+                                - option "Kenya"
+                                - option "Kiribati"
+                                - option "Korea, South"
+                                - option "Kuwait"
+                                - option "Kyrgyzstan"
+                                - option "Laos"
+                                - option "Latvia"
+                                - option "Lebanon"
+                                - option "Liechtenstein"
+                                - option "Lithuania"
+                                - option "Luxembourg"
+                                - option "Macau"
+                                - option "Macedonia"
+                                - option "Madagascar"
+                                - option "Malawi"
+                                - option "Malaysia"
+                                - option "Maldives"
+                                - option "Mali"
+                                - option "Malta"
+                                - option "Marshall Islands"
+                                - option "Martinique"
+                                - option "Mauritania"
+                                - option "Mauritius"
+                                - option "Mayotte"
+                                - option "Mexico"
+                                - option "Micronesia"
+                                - option "Moldova"
+                                - option "Monaco"
+                                - option "Mongolia"
+                                - option "Montenegro"
+                                - option "Montserrat"
+                                - option "Morocco"
+                                - option "Mozambique"
+                                - option "Namibia"
+                                - option "Nauru"
+                                - option "Nepal"
+                                - option "Netherlands"
+                                - option "Netherlands Antilles"
+                                - option "New Caledonia"
+                                - option "New Zealand"
+                                - option "Nicaragua"
+                                - option "Niger"
+                                - option "Nigeria"
+                                - option "Niue"
+                                - option "Norway"
+                                - option "Oman"
+                                - option "Pakistan"
+                                - option "Palau"
+                                - option "Panama"
+                                - option "Papua New Guinea"
+                                - option "Paraguay"
+                                - option "Peru"
+                                - option "Philippines"
+                                - option "Poland"
+                                - option "Portugal"
+                                - option "Puerto Rico"
+                                - option "Qatar"
+                                - option "Reunion"
+                                - option "Romania"
+                                - option "Russian Federation"
+                                - option "Rwanda"
+                                - option "Saint Helena"
+                                - option "Saint Kitts-Nevis"
+                                - option "Saint Lucia"
+                                - option "Saint Pierre and Miquelon"
+                                - option "Saint Vincent and the Grenadines"
+                                - option "San Marino"
+                                - option "Saudi Arabia"
+                                - option "Senegal"
+                                - option "Serbia"
+                                - option "Seychelles"
+                                - option "Sierra Leone"
+                                - option "Singapore"
+                                - option "Slovakia"
+                                - option "Slovenia"
+                                - option "Solomon Islands"
+                                - option "Somalia"
+                                - option "South Africa"
+                                - option "Spain"
+                                - option "Sri Lanka" [selected]
+                                - option "Suriname"
+                                - option "Svalbard"
+                                - option "Swaziland"
+                                - option "Sweden"
+                                - option "Switzerland"
+                                - option "Tahiti"
+                                - option "Taiwan"
+                                - option "Tajikistan"
+                                - option "Tanzania"
+                                - option "Thailand"
+                                - option "Togo"
+                                - option "Tonga"
+                                - option "Trinidad and Tobago"
+                                - option "Tunisia"
+                                - option "Turkey"
+                                - option "Turkmenistan"
+                                - option "Turks and Caicos Islands"
+                                - option "Tuvalu"
+                                - option "Uganda"
+                                - option "Ukraine"
+                                - option "United Arab Emirates"
+                                - option "United Kingdom"
+                                - option "United States"
+                                - option "Uruguay"
+                                - option "Uzbekistan"
+                                - option "Vanuatu"
+                                - option "Vatican City State"
+                                - option "Venezuela"
+                                - option "Vietnam"
+                                - option "Virgin Islands (U.S.)"
+                                - option "Wallis and Futuna"
+                                - option "Western Sahara"
+                                - option "Western Samoa"
+                                - option "Yemen"
+                                - option "Zambia"
+                                - option "Zimbabwe"
+                              - img
+                          - generic [ref=f3e17]:
+                            - generic: Zipcode
+                            - textbox "Zipcode" [ref=f3e19]
+                        - button "Confirm" [ref=f3e20]
+                  - img [ref=f3e21]
+                  - img
+                  - img
+        - link [ref=e35] [cursor=pointer]:
+          - /url: https://www.ebay.com/sl/sell
+          - text: Sell
+        - generic [ref=e36]:
+          - link [ref=e37] [cursor=pointer]:
+            - /url: https://www.ebay.com/mye/myebay/watchlist
+            - generic [ref=e38]: Watchlist
+            - img
+          - button [ref=e39]: Expand Watch List
+        - generic [ref=e40]:
+          - link [ref=e41] [cursor=pointer]:
+            - /url: https://www.ebay.com/mys/home?source=GBH
+            - generic [ref=e42]: My eBay
+            - img
+          - button [ref=e43]: Expand My eBay
+        - button [ref=e46] [cursor=pointer]:
+          - img
+          - generic [ref=e47]: Notifications
+        - generic [ref=e49]:
+          - link [ref=e50] [cursor=pointer]:
+            - /url: https://cart.ebay.com
+            - generic [ref=e51]:
+              - img
+          - button [ref=e52]: Expand Cart
+    - generic [ref=e53]:
+      - generic [ref=e54]:
+        - link [ref=e55] [cursor=pointer]:
+          - /url: https://www.ebay.com
+          - img [ref=e56]
+        - button [ref=e64] [cursor=pointer]:
+          - generic [ref=e65]: Shop by category
+          - img
+      - generic [ref=e66]:
+        - status [ref=e67]
+        - generic [ref=e69]:
+          - generic [ref=e70]:
+            - combobox [ref=e71]
+            - img
+          - combobox [ref=e72]
+        - generic [ref=e73]:
+          - button [ref=e74] [cursor=pointer]:
+            - generic [ref=e75]: Search
+          - link [ref=e76] [cursor=pointer]:
+            - /url: https://www.ebay.com/sch/ebayadvsearch
+            - text: Advanced
+  - main [ref=e77]:
+    - generic [ref=e78]:
+      - generic [ref=e82]:
+        - generic [ref=e83]:
+          - heading [level=2] [ref=e84]: We looked everywhere!
+          - paragraph [ref=e85]:
+            - text: Looks like this page is missing. If you still need help, visit our
+            - link [ref=e86] [cursor=pointer]:
+              - /url: https://ocsnext.ebay.com/ocs/home
+              - text: help pages
+            - text: .
+        - link [ref=e87] [cursor=pointer]:
+          - /url: https://www.ebay.com
+          - text: Go to homepage
+      - region [ref=e88]
+  - contentinfo [ref=e92]:
+    - list [ref=e93]:
+      - listitem [ref=e94]:
+        - link [ref=e95] [cursor=pointer]:
+          - /url: https://www.ebayinc.com
+          - text: About eBay
+      - listitem [ref=e96]:
+        - link [ref=e97] [cursor=pointer]:
+          - /url: https://community.ebay.com/t5/Announcements/bg-p/Announcements
+          - text: Announcements
+      - listitem [ref=e98]:
+        - link [ref=e99] [cursor=pointer]:
+          - /url: https://community.ebay.com
+          - text: Community
+      - listitem [ref=e100]:
+        - link [ref=e101] [cursor=pointer]:
+          - /url: https://pages.ebay.com/securitycenter/index.html
+          - text: Security Center
+      - listitem [ref=e102]:
+        - link [ref=e103] [cursor=pointer]:
+          - /url: https://www.ebay.com/sellercenter
+          - text: Seller Center
+      - listitem [ref=e104]:
+        - link [ref=e105] [cursor=pointer]:
+          - /url: https://www.ebay.com/help/policies/default/ebays-rules-policies?id=4205
+          - text: Policies
+      - listitem [ref=e106]:
+        - link [ref=e107] [cursor=pointer]:
+          - /url: https://partnernetwork.ebay.com/
+          - text: Affiliates
+      - listitem [ref=e108]:
+        - link [ref=e109] [cursor=pointer]:
+          - /url: https://pages.ebay.com/safetytips
+          - text: Product Safety Tips
+      - listitem [ref=e110]:
+        - link [ref=e111] [cursor=pointer]:
+          - /url: https://www.ebay.com/help/home
+          - text: Help & Contact
+      - listitem [ref=e112]:
+        - link [ref=e113] [cursor=pointer]:
+          - /url: https://pages.ebay.com/sitemap.html
+          - text: Site Map
+    - generic [ref=e114]:
+      - text: Copyright © 1995-2026 eBay Inc. All Rights Reserved.
+      - link [ref=e115] [cursor=pointer]:
+        - /url: https://www.ebayinc.com/accessibility/
+        - text: Accessibility
+      - text: ","
+      - link [ref=e116] [cursor=pointer]:
+        - /url: https://www.ebay.com/help/policies/member-behaviour-policies/user-agreement?id=4259
+        - text: User Agreement
+      - text: ","
+      - link [ref=e117] [cursor=pointer]:
+        - /url: https://www.ebay.com/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260
+        - text: Privacy
+      - text: ","
+      - link [ref=e118] [cursor=pointer]:
+        - /url: https://www.ebayinc.com/company/privacy-center/privacy-notice/consumer-health-data-privacy-policy/
+        - text: Consumer Health Data
+      - text: ","
+      - link [ref=e119] [cursor=pointer]:
+        - /url: https://pages.ebay.com/payment/2.0/terms.html
+        - text: Payments Terms of Use
+      - text: ","
+      - link [ref=e120] [cursor=pointer]:
+        - /url: https://www.ebay.com/help/policies/member-behaviour-policies/ebay-cookie-notice?id=4267
+        - text: Cookies
+      - text: ","
+      - link [ref=e121] [cursor=pointer]:
+        - /url: https://www.ebayinc.com/company/privacy-center/privacy-notice/state-privacy-disclosures/#california
+        - text: CA Privacy Notice
+      - text: ","
+      - link [ref=e122] [cursor=pointer]:
+        - /url: https://www.ebay.com/adchoice/ccpa
+        - text: Your Privacy Choices
+      - text: and
+      - link [ref=e123] [cursor=pointer]:
+        - /url: https://www.ebay.com/adchoice
+        - text: AdChoice
+        - img
+  - paragraph [ref=e125]
+```

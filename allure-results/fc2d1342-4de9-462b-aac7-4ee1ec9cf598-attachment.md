@@ -1,0 +1,1059 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - banner [ref=e5]:
+    - link [ref=e7] [cursor=pointer]:
+      - /url: "#mainContent"
+      - text: Skip to main content
+    - navigation [ref=e8]:
+      - generic [ref=e9]:
+        - generic [ref=e11]:
+          - text: Hi!
+          - link [ref=e12] [cursor=pointer]:
+            - /url: https://signin.ebay.com/ws/eBayISAPI.dll?SignIn&sgfl=gh&ru=https%3A%2F%2Fwww.ebay.com%2F
+            - text: Sign in
+          - generic [ref=e13]:
+            - text: or
+            - link [ref=e14] [cursor=pointer]:
+              - /url: https://signup.ebay.com/pa/crte?ru=https%3A%2F%2Fwww.ebay.com%2F
+              - text: register
+        - link [ref=e16] [cursor=pointer]:
+          - /url: https://www.ebay.com/deals
+          - text: Deals
+        - link [ref=e18] [cursor=pointer]:
+          - /url: https://www.ebay.com/b/Brand-Outlet/bn_7115532402
+          - text: Brand Outlet
+        - link [ref=e20] [cursor=pointer]:
+          - /url: https://www.ebay.com/giftcards
+          - text: Gift Cards
+        - link [ref=e22] [cursor=pointer]:
+          - /url: https://www.ebay.com/help/home
+          - text: Help & Contact
+      - generic [ref=e23]:
+        - generic [ref=e24]:
+          - button [ref=e25] [cursor=pointer]:
+            - generic [ref=e26]: Ship to
+          - dialog "Where are you shipping to?" [ref=e27]:
+            - generic [ref=e28]:
+              - generic [ref=e29]:
+                - heading "Where are you shipping to?" [level=2] [ref=e30]
+                - button "Dismiss" [active] [ref=e31]:
+                  - img
+              - iframe [ref=e33]:
+                - generic [active] [ref=f3e1]:
+                  - img
+                  - main [ref=f3e3]:
+                    - generic [ref=f3e7]:
+                      - paragraph [ref=f3e8]: Confirming helps us show products that can reach you, since some sellers only ship to certain areas.
+                      - generic [ref=f3e9]:
+                        - generic [ref=f3e10]:
+                          - generic [ref=f3e12]:
+                            - generic: Country or Region
+                            - generic [ref=f3e13]:
+                              - combobox "Country or Region" [ref=f3e14]:
+                                - option "Afghanistan"
+                                - option "Albania"
+                                - option "Algeria"
+                                - option "American Samoa"
+                                - option "Andorra"
+                                - option "Angola"
+                                - option "Anguilla"
+                                - option "Antigua and Barbuda"
+                                - option "APO/FPO/DPO"
+                                - option "Argentina"
+                                - option "Armenia"
+                                - option "Aruba"
+                                - option "Australia"
+                                - option "Austria"
+                                - option "Azerbaijan Republic"
+                                - option "Bahamas"
+                                - option "Bahrain"
+                                - option "Bangladesh"
+                                - option "Barbados"
+                                - option "Belarus"
+                                - option "Belgium"
+                                - option "Belize"
+                                - option "Benin"
+                                - option "Bermuda"
+                                - option "Bhutan"
+                                - option "Bolivia"
+                                - option "Bosnia and Herzegovina"
+                                - option "Botswana"
+                                - option "Brazil"
+                                - option "British Virgin Islands"
+                                - option "Brunei Darussalam"
+                                - option "Bulgaria"
+                                - option "Burkina Faso"
+                                - option "Burundi"
+                                - option "Cambodia"
+                                - option "Cameroon"
+                                - option "Canada"
+                                - option "Cape Verde Islands"
+                                - option "Cayman Islands"
+                                - option "Central African Republic"
+                                - option "Chad"
+                                - option "Chile"
+                                - option "China Mainland"
+                                - option "Colombia"
+                                - option "Comoros"
+                                - option "Congo, Democratic Republic of the"
+                                - option "Congo, Republic of the"
+                                - option "Cook Islands"
+                                - option "Costa Rica"
+                                - option "Cote d Ivoire (Ivory Coast)"
+                                - option "Croatia, Republic of"
+                                - option "Curacao"
+                                - option "Cyprus"
+                                - option "Czech Republic"
+                                - option "Denmark"
+                                - option "Djibouti"
+                                - option "Dominica"
+                                - option "Dominican Republic"
+                                - option "Ecuador"
+                                - option "Egypt"
+                                - option "El Salvador"
+                                - option "Equatorial Guinea"
+                                - option "Eritrea"
+                                - option "Estonia"
+                                - option "Ethiopia"
+                                - option "Falkland Islands (Islas Malvinas)"
+                                - option "Fiji"
+                                - option "Finland"
+                                - option "France"
+                                - option "French Guiana"
+                                - option "French Polynesia"
+                                - option "Gabon Republic"
+                                - option "Gambia"
+                                - option "Georgia"
+                                - option "Germany"
+                                - option "Ghana"
+                                - option "Gibraltar"
+                                - option "Greece"
+                                - option "Greenland"
+                                - option "Grenada"
+                                - option "Guadeloupe"
+                                - option "Guam"
+                                - option "Guatemala"
+                                - option "Guernsey"
+                                - option "Guinea"
+                                - option "Guinea-Bissau"
+                                - option "Guyana"
+                                - option "Haiti"
+                                - option "Honduras"
+                                - option "Hong Kong"
+                                - option "Hungary"
+                                - option "Iceland"
+                                - option "India"
+                                - option "Indonesia"
+                                - option "Ireland"
+                                - option "Israel"
+                                - option "Italy"
+                                - option "Jamaica"
+                                - option "Jan Mayen"
+                                - option "Japan"
+                                - option "Jersey"
+                                - option "Jordan"
+                                - option "Kazakhstan"
+                                - option "Kenya"
+                                - option "Kiribati"
+                                - option "Korea, South"
+                                - option "Kuwait"
+                                - option "Kyrgyzstan"
+                                - option "Laos"
+                                - option "Latvia"
+                                - option "Lebanon"
+                                - option "Liechtenstein"
+                                - option "Lithuania"
+                                - option "Luxembourg"
+                                - option "Macau"
+                                - option "Macedonia"
+                                - option "Madagascar"
+                                - option "Malawi"
+                                - option "Malaysia"
+                                - option "Maldives"
+                                - option "Mali"
+                                - option "Malta"
+                                - option "Marshall Islands"
+                                - option "Martinique"
+                                - option "Mauritania"
+                                - option "Mauritius"
+                                - option "Mayotte"
+                                - option "Mexico"
+                                - option "Micronesia"
+                                - option "Moldova"
+                                - option "Monaco"
+                                - option "Mongolia"
+                                - option "Montenegro"
+                                - option "Montserrat"
+                                - option "Morocco"
+                                - option "Mozambique"
+                                - option "Namibia"
+                                - option "Nauru"
+                                - option "Nepal"
+                                - option "Netherlands"
+                                - option "Netherlands Antilles"
+                                - option "New Caledonia"
+                                - option "New Zealand"
+                                - option "Nicaragua"
+                                - option "Niger"
+                                - option "Nigeria"
+                                - option "Niue"
+                                - option "Norway"
+                                - option "Oman"
+                                - option "Pakistan"
+                                - option "Palau"
+                                - option "Panama"
+                                - option "Papua New Guinea"
+                                - option "Paraguay"
+                                - option "Peru"
+                                - option "Philippines"
+                                - option "Poland"
+                                - option "Portugal"
+                                - option "Puerto Rico"
+                                - option "Qatar"
+                                - option "Reunion"
+                                - option "Romania"
+                                - option "Russian Federation"
+                                - option "Rwanda"
+                                - option "Saint Helena"
+                                - option "Saint Kitts-Nevis"
+                                - option "Saint Lucia"
+                                - option "Saint Pierre and Miquelon"
+                                - option "Saint Vincent and the Grenadines"
+                                - option "San Marino"
+                                - option "Saudi Arabia"
+                                - option "Senegal"
+                                - option "Serbia"
+                                - option "Seychelles"
+                                - option "Sierra Leone"
+                                - option "Singapore"
+                                - option "Slovakia"
+                                - option "Slovenia"
+                                - option "Solomon Islands"
+                                - option "Somalia"
+                                - option "South Africa"
+                                - option "Spain"
+                                - option "Sri Lanka" [selected]
+                                - option "Suriname"
+                                - option "Svalbard"
+                                - option "Swaziland"
+                                - option "Sweden"
+                                - option "Switzerland"
+                                - option "Tahiti"
+                                - option "Taiwan"
+                                - option "Tajikistan"
+                                - option "Tanzania"
+                                - option "Thailand"
+                                - option "Togo"
+                                - option "Tonga"
+                                - option "Trinidad and Tobago"
+                                - option "Tunisia"
+                                - option "Turkey"
+                                - option "Turkmenistan"
+                                - option "Turks and Caicos Islands"
+                                - option "Tuvalu"
+                                - option "Uganda"
+                                - option "Ukraine"
+                                - option "United Arab Emirates"
+                                - option "United Kingdom"
+                                - option "United States"
+                                - option "Uruguay"
+                                - option "Uzbekistan"
+                                - option "Vanuatu"
+                                - option "Vatican City State"
+                                - option "Venezuela"
+                                - option "Vietnam"
+                                - option "Virgin Islands (U.S.)"
+                                - option "Wallis and Futuna"
+                                - option "Western Sahara"
+                                - option "Western Samoa"
+                                - option "Yemen"
+                                - option "Zambia"
+                                - option "Zimbabwe"
+                              - img
+                          - generic [ref=f3e17]:
+                            - generic: Zipcode
+                            - textbox "Zipcode" [ref=f3e19]
+                        - button "Confirm" [ref=f3e20]
+                  - img [ref=f3e21]
+                  - img [ref=f3e22]
+                  - img
+                  - img
+        - link [ref=e35] [cursor=pointer]:
+          - /url: https://www.ebay.com/sl/sell
+          - text: Sell
+        - generic [ref=e36]:
+          - link [ref=e37] [cursor=pointer]:
+            - /url: https://www.ebay.com/mye/myebay/watchlist
+            - generic [ref=e38]: Watchlist
+            - img
+          - button [ref=e39]: Expand Watch List
+        - generic [ref=e40]:
+          - link [ref=e41] [cursor=pointer]:
+            - /url: https://www.ebay.com/mys/home?source=GBH
+            - generic [ref=e42]: My eBay
+            - img
+          - button [ref=e43]: Expand My eBay
+        - button [ref=e46] [cursor=pointer]:
+          - img
+          - generic [ref=e47]: Notifications
+        - generic [ref=e49]:
+          - link [ref=e50] [cursor=pointer]:
+            - /url: https://cart.ebay.com
+            - generic [ref=e51]:
+              - img
+          - button [ref=e52]: Expand Cart
+    - generic [ref=e53]:
+      - generic [ref=e54]:
+        - link [ref=e55] [cursor=pointer]:
+          - /url: https://www.ebay.com
+          - img [ref=e56]
+        - button [ref=e64] [cursor=pointer]:
+          - generic [ref=e65]: Shop by category
+          - img
+      - generic [ref=e66]:
+        - status [ref=e67]
+        - generic [ref=e69]:
+          - generic [ref=e70]:
+            - combobox [ref=e71]
+            - img
+            - button [ref=e72]:
+              - img
+          - combobox [ref=e73]
+        - generic [ref=e74]:
+          - button [ref=e75] [cursor=pointer]:
+            - generic [ref=e76]: Search
+          - link [ref=e77] [cursor=pointer]:
+            - /url: https://www.ebay.com/sch/ebayadvsearch
+            - text: Advanced
+  - main [ref=e78]:
+    - generic [ref=e80]:
+      - list [ref=e84]:
+        - listitem [ref=e85] [cursor=pointer]:
+          - link [ref=e86]:
+            - /url: https://www.ebay.com/mye/myebay/saved
+            - text: Saved
+        - listitem [ref=e87] [cursor=pointer]:
+          - link [ref=e88]:
+            - /url: https://www.ebay.com/b/Electronics/bn_7000259124
+            - text: Electronics
+          - button [ref=e89]: "Expand: Electronics"
+        - listitem [ref=e90] [cursor=pointer]:
+          - link [ref=e91]:
+            - /url: https://www.ebay.com/b/Auto-Parts-Accessories/6028/bn_569479
+            - text: Motors
+          - button [ref=e92]: "Expand: Motors"
+        - listitem [ref=e93] [cursor=pointer]:
+          - link [ref=e94]:
+            - /url: https://www.ebay.com/b/Fashion/bn_7000259856
+            - text: Fashion
+          - button [ref=e95]: "Expand: Fashion"
+        - listitem [ref=e96] [cursor=pointer]:
+          - link [ref=e97]:
+            - /url: https://www.ebay.com/b/Collectibles-Art/bn_7000259855
+            - text: Collectibles and Art
+          - button [ref=e98]: "Expand: Collectibles and Art"
+        - listitem [ref=e99] [cursor=pointer]:
+          - link [ref=e100]:
+            - /url: https://www.ebay.com/b/Health-Beauty/26395/bn_1865479
+            - text: Sports
+          - button [ref=e101]: "Expand: Sports"
+        - listitem [ref=e102] [cursor=pointer]:
+          - link [ref=e103]:
+            - /url: https://www.ebay.com/b/Health-Beauty/26395/bn_1865479
+            - text: Health & Beauty
+          - button [ref=e104]: "Expand: Health & Beauty"
+        - listitem [ref=e105] [cursor=pointer]:
+          - link [ref=e106]:
+            - /url: https://www.ebay.com/b/Business-Industrial/12576/bn_1853744
+            - text: Industrial equipment
+          - button [ref=e107]: "Expand: Industrial equipment"
+        - listitem [ref=e108] [cursor=pointer]:
+          - link [ref=e109]:
+            - /url: https://www.ebay.com/b/Home-Garden/11700/bn_1853126
+            - text: Home & Garden
+          - button [ref=e110]: "Expand: Home & Garden"
+        - listitem [ref=e111] [cursor=pointer]:
+          - link [ref=e112]:
+            - /url: https://www.ebay.com/globaldeals
+            - text: Deals
+        - listitem [ref=e113] [cursor=pointer]:
+          - link [ref=e114]:
+            - /url: https://export.ebay.com/en/
+            - text: Sell
+          - button [ref=e115]: "Expand: Sell"
+      - generic [ref=e116]:
+        - group [ref=e117]:
+          - generic [ref=e118]:
+            - button [ref=e119] [cursor=pointer]:
+              - img
+            - list [ref=e121]:
+              - listitem [ref=e122]:
+                - complementary [ref=e123]:
+                  - generic [ref=e124]:
+                    - generic [ref=e125]:
+                      - heading [level=2] [ref=e126]: Free shipping. Global shopping.
+                      - paragraph [ref=e127]: Shop internationally and enjoy free shipping on many items.
+                      - link [ref=e128] [cursor=pointer]:
+                        - /url: https://www.ebay.com/e/latam/your-items-with-free-shipping
+                        - text: Shop now
+                    - img [ref=e130]
+              - listitem [ref=e131]:
+                - complementary [ref=e132]:
+                  - generic [ref=e137]:
+                    - generic [ref=e138]:
+                      - heading [level=2] [ref=e139]: Get your order or your money back
+                      - paragraph [ref=e140]: Shop confidently with eBay Money Back Guarantee.
+                    - link [ref=e141] [cursor=pointer]:
+                      - /url: https://pages.ebay.com/gbh/ebaymoneybackguarantee/
+                      - text: Learn more
+              - listitem [ref=e142]:
+                - complementary [ref=e143]:
+                  - generic [ref=e146]:
+                    - generic [ref=e147]:
+                      - generic [ref=e148]:
+                        - heading [level=2] [ref=e149]: All your faves are here
+                        - paragraph [ref=e150]: Refresh your space, elevate your style and power your work.
+                      - link [ref=e151] [cursor=pointer]:
+                        - /url: https://www.ebay.com/deals
+                        - text: Do your thing
+                    - list [ref=e152]:
+                      - listitem [ref=e153]:
+                        - link [ref=e154] [cursor=pointer]:
+                          - /url: https://www.ebay.com/b/Home-Garden/11700/bn_1853126
+                          - generic [ref=e155]:
+                            - text: Home and Garden
+                            - img
+                      - listitem [ref=e156]:
+                        - link [ref=e157] [cursor=pointer]:
+                          - /url: https://ebay.com/b/Fashion/bn_7000259856
+                          - generic [ref=e158]:
+                            - text: Fashion
+                            - img
+                      - listitem [ref=e159]:
+                        - link [ref=e160] [cursor=pointer]:
+                          - /url: https://www.ebay.com/b/Business-Industrial/12576/bn_1853744
+                          - generic [ref=e161]:
+                            - text: Business & Industrial
+                            - img
+              - listitem [ref=e162]:
+                - complementary [ref=e163]:
+                  - generic [ref=e166]:
+                    - generic [ref=e167]:
+                      - generic [ref=e168]:
+                        - heading [level=2] [ref=e169]: Revamp your ride inside and out
+                        - paragraph [ref=e170]: Get the right parts to keep your vehicle in top form.
+                      - link [ref=e171] [cursor=pointer]:
+                        - /url: https://www.ebay.com/b/Car-Truck-Parts-Accessories/6030/bn_562630
+                        - text: Shop now
+                    - list [ref=e172]:
+                      - listitem [ref=e173]:
+                        - link [ref=e174] [cursor=pointer]:
+                          - /url: https://www.ebay.com/b/Car-Truck-Exterior-Parts-Accessories/33637/bn_584029
+                          - generic [ref=e175]:
+                            - text: Exterior parts
+                            - img
+                      - listitem [ref=e176]:
+                        - link [ref=e177] [cursor=pointer]:
+                          - /url: https://www.ebay.com/b/Car-Truck-Interior-Parts-Accessories/33694/bn_584056
+                          - generic [ref=e178]:
+                            - text: Interior parts
+                            - img
+                      - listitem [ref=e179]:
+                        - link [ref=e180] [cursor=pointer]:
+                          - /url: https://www.ebay.com/b/Car-Truck-Lighting-Lamps/33707/bn_557923
+                          - generic [ref=e181]:
+                            - text: Lighting
+                            - img
+            - button [ref=e182] [cursor=pointer]:
+              - img
+            - button [ref=e183] [cursor=pointer]:
+              - img
+        - list [ref=e185]:
+          - listitem [ref=e186]
+          - listitem [ref=e187]
+          - listitem [ref=e188]
+          - listitem [ref=e189]
+      - complementary [ref=e190]:
+        - heading [level=2] [ref=e191]: The future in your hands
+        - group [ref=e192]:
+          - list [ref=e195]:
+            - listitem [ref=e196]:
+              - link [ref=e197] [cursor=pointer]:
+                - /url: https://www.ebay.com/b/bn_1648276
+                - generic [ref=e200]: Laptops
+            - listitem [ref=e201]:
+              - link [ref=e202] [cursor=pointer]:
+                - /url: https://www.ebay.com/b/bn_1643095
+                - generic [ref=e205]: Computer parts
+            - listitem [ref=e206]:
+              - link [ref=e207] [cursor=pointer]:
+                - /url: https://www.ebay.com/b/bn_320094
+                - generic [ref=e210]: Smartphones
+            - listitem [ref=e211]:
+              - link [ref=e212] [cursor=pointer]:
+                - /url: https://www.ebay.com/b/bn_1309143
+                - generic [ref=e215]: Enterprise networking
+            - listitem [ref=e216]:
+              - link [ref=e217] [cursor=pointer]:
+                - /url: https://www.ebay.com/b/bn_320042
+                - generic [ref=e220]: Tablets and eBooks
+            - listitem [ref=e221]:
+              - link [ref=e222] [cursor=pointer]:
+                - /url: https://www.ebay.com/b/bn_738891
+                - generic [ref=e225]: Storage and blank media
+            - listitem [ref=e226]:
+              - link [ref=e227] [cursor=pointer]:
+                - /url: https://www.ebay.com/b/bn_152392
+                - generic [ref=e230]: Lenses and filters
+      - complementary [ref=e231]:
+        - generic [ref=e232]:
+          - generic [ref=e233]:
+            - heading [ref=e234] [cursor=pointer]: Shopping made easy
+            - paragraph [ref=e236]: Enjoy reliability, secure deliveries and hassle-free returns.
+          - link [ref=e237] [cursor=pointer]:
+            - /url: https://pages.ebay.com/international-shipping/
+            - text: Start now
+      - complementary [ref=e238]:
+        - generic [ref=e239]:
+          - generic [ref=e240]:
+            - heading [level=2] [ref=e241]: Shop the world. Ship for free.
+            - paragraph [ref=e242]: Discover international finds with free shipping included.
+            - link [ref=e243] [cursor=pointer]:
+              - /url: https://www.ebay.com/e/latam/your-items-with-free-shipping
+              - text: Shop now
+          - img [ref=e245]
+      - complementary [ref=e246]:
+        - generic [ref=e248]:
+          - generic [ref=e249]:
+            - heading [level=2] [ref=e251]: Today's Deals
+            - generic [ref=e253]: All With Free Shipping
+          - group [ref=e254]:
+            - generic [ref=e255]:
+              - button [disabled] [ref=e256]:
+                - img
+              - list [ref=e258]:
+                - listitem [ref=e259]:
+                  - article [ref=e260]:
+                    - generic [ref=e261]:
+                      - button [ref=e263] [cursor=pointer]:
+                        - generic [ref=e264]:
+                          - img
+                      - link [ref=e265] [cursor=pointer]:
+                        - /url: https://www.ebay.com/itm/277390297931?_trkparms=amclksrc%3DITM%26aid%3D777008%26algo%3DPERSONAL.TOPIC%26ao%3D1%26asc%3D20250416182756%26meid%3Db951be4c438c4d9f849499c2b8baf674%26pid%3D102690%26rk%3D1%26rkt%3D15%26itm%3D277390297931%26pmt%3D0%26noa%3D1%26pg%3D4375194%26algv%3DFeaturedDealsV2%26tu%3D01KJEQ9VSRKT8NJAAZWW7ATPF0
+                    - link [ref=e267] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/277390297931?_trkparms=amclksrc%3DITM%26aid%3D777008%26algo%3DPERSONAL.TOPIC%26ao%3D1%26asc%3D20250416182756%26meid%3Db951be4c438c4d9f849499c2b8baf674%26pid%3D102690%26rk%3D1%26rkt%3D15%26itm%3D277390297931%26pmt%3D0%26noa%3D1%26pg%3D4375194%26algv%3DFeaturedDealsV2%26tu%3D01KJEQ9VSRKT8NJAAZWW7ATPF0
+                      - generic [ref=e268]:
+                        - generic [ref=e269]: Dyson V15 Detect Absolute Cordless Vacuum | Iron/Gold | Refurbished
+                        - generic [ref=e271]:
+                          - insertion [ref=e272]: $319.99
+                          - deletion [ref=e273]: $849.99
+                      - generic [ref=e274]: "- opens in new window or tab"
+                - listitem [ref=e275]:
+                  - article [ref=e276]:
+                    - generic [ref=e277]:
+                      - button [ref=e279] [cursor=pointer]:
+                        - generic [ref=e280]:
+                          - img
+                      - link [ref=e281] [cursor=pointer]:
+                        - /url: https://www.ebay.com/itm/356227859677?_trkparms=amclksrc%3DITM%26aid%3D777008%26algo%3DPERSONAL.TOPIC%26ao%3D1%26asc%3D20250416182756%26meid%3Db951be4c438c4d9f849499c2b8baf674%26pid%3D102690%26rk%3D2%26rkt%3D15%26itm%3D356227859677%26pmt%3D0%26noa%3D1%26pg%3D4375194%26algv%3DFeaturedDealsV2%26tu%3D01KJEQ9VSS0R6RA8D8Y7PEHT2Q
+                    - link [ref=e283] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/356227859677?_trkparms=amclksrc%3DITM%26aid%3D777008%26algo%3DPERSONAL.TOPIC%26ao%3D1%26asc%3D20250416182756%26meid%3Db951be4c438c4d9f849499c2b8baf674%26pid%3D102690%26rk%3D2%26rkt%3D15%26itm%3D356227859677%26pmt%3D0%26noa%3D1%26pg%3D4375194%26algv%3DFeaturedDealsV2%26tu%3D01KJEQ9VSS0R6RA8D8Y7PEHT2Q
+                      - generic [ref=e284]:
+                        - generic [ref=e285]: Apple iPhone 15 Pro Max A2849 256GB Unlocked Very Good
+                        - generic [ref=e287]:
+                          - insertion [ref=e288]: $534.99
+                          - deletion [ref=e289]: $999.99
+                      - generic [ref=e290]: "- opens in new window or tab"
+                - listitem [ref=e291]:
+                  - article [ref=e292]:
+                    - generic [ref=e293]:
+                      - button [ref=e295] [cursor=pointer]:
+                        - generic [ref=e296]:
+                          - img
+                      - link [ref=e297] [cursor=pointer]:
+                        - /url: https://www.ebay.com/itm/276709583737?_trkparms=amclksrc%3DITM%26aid%3D777008%26algo%3DPERSONAL.TOPIC%26ao%3D1%26asc%3D20250416182756%26meid%3Db951be4c438c4d9f849499c2b8baf674%26pid%3D102690%26rk%3D3%26rkt%3D15%26itm%3D276709583737%26pmt%3D0%26noa%3D1%26pg%3D4375194%26algv%3DFeaturedDealsV2%26tu%3D01KJEQ9VSSJDVXN8ZN3AGCNXDS
+                    - link [ref=e299] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/276709583737?_trkparms=amclksrc%3DITM%26aid%3D777008%26algo%3DPERSONAL.TOPIC%26ao%3D1%26asc%3D20250416182756%26meid%3Db951be4c438c4d9f849499c2b8baf674%26pid%3D102690%26rk%3D3%26rkt%3D15%26itm%3D276709583737%26pmt%3D0%26noa%3D1%26pg%3D4375194%26algv%3DFeaturedDealsV2%26tu%3D01KJEQ9VSSJDVXN8ZN3AGCNXDS
+                      - generic [ref=e300]:
+                        - generic [ref=e301]: Acer Swift Go 14" Laptop Intel Core Ultra 7 155H 16GB RAM 1TB SSD Refurbished
+                        - generic [ref=e303]:
+                          - insertion [ref=e304]: $371.99
+                          - deletion [ref=e305]: $799.99
+                      - generic [ref=e306]: "- opens in new window or tab"
+                - listitem [ref=e307]:
+                  - article [ref=e308]:
+                    - generic [ref=e309]:
+                      - button [ref=e311] [cursor=pointer]:
+                        - generic [ref=e312]:
+                          - img
+                      - link [ref=e313] [cursor=pointer]:
+                        - /url: https://www.ebay.com/itm/335155047362?_trkparms=amclksrc%3DITM%26aid%3D777008%26algo%3DPERSONAL.TOPIC%26ao%3D1%26asc%3D20250416182756%26meid%3Db951be4c438c4d9f849499c2b8baf674%26pid%3D102690%26rk%3D4%26rkt%3D15%26itm%3D335155047362%26pmt%3D0%26noa%3D1%26pg%3D4375194%26algv%3DFeaturedDealsV2%26tu%3D01KJEQ9VST777S3D5MEG8VNH56
+                    - link [ref=e315] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/335155047362?_trkparms=amclksrc%3DITM%26aid%3D777008%26algo%3DPERSONAL.TOPIC%26ao%3D1%26asc%3D20250416182756%26meid%3Db951be4c438c4d9f849499c2b8baf674%26pid%3D102690%26rk%3D4%26rkt%3D15%26itm%3D335155047362%26pmt%3D0%26noa%3D1%26pg%3D4375194%26algv%3DFeaturedDealsV2%26tu%3D01KJEQ9VST777S3D5MEG8VNH56
+                      - generic [ref=e316]:
+                        - generic [ref=e317]: Black & Decker BDST60096AEV 10-Compartment 16" Toolbox & Organizer New
+                        - generic [ref=e319]:
+                          - insertion [ref=e320]: $9.99
+                          - deletion [ref=e321]: $39.99
+                      - generic [ref=e322]: "- opens in new window or tab"
+                - listitem [ref=e323]:
+                  - article [ref=e324]:
+                    - generic [ref=e325]:
+                      - button [ref=e327] [cursor=pointer]:
+                        - generic [ref=e328]:
+                          - img
+                      - link [ref=e329] [cursor=pointer]:
+                        - /url: https://www.ebay.com/itm/317445115637?_trkparms=amclksrc%3DITM%26aid%3D777008%26algo%3DPERSONAL.TOPIC%26ao%3D1%26asc%3D20250416182756%26meid%3Db951be4c438c4d9f849499c2b8baf674%26pid%3D102690%26rk%3D5%26rkt%3D15%26itm%3D317445115637%26pmt%3D0%26noa%3D1%26pg%3D4375194%26algv%3DFeaturedDealsV2%26tu%3D01KJEQ9VSTTRDFNS8HADA4NART
+                    - link [ref=e331] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/317445115637?_trkparms=amclksrc%3DITM%26aid%3D777008%26algo%3DPERSONAL.TOPIC%26ao%3D1%26asc%3D20250416182756%26meid%3Db951be4c438c4d9f849499c2b8baf674%26pid%3D102690%26rk%3D5%26rkt%3D15%26itm%3D317445115637%26pmt%3D0%26noa%3D1%26pg%3D4375194%26algv%3DFeaturedDealsV2%26tu%3D01KJEQ9VSTTRDFNS8HADA4NART
+                      - generic [ref=e332]:
+                        - generic [ref=e333]: Mens Nike Gym Athletic Jordan Air Stretch Hoodie Hooded Sweatshirt Pullover New
+                        - generic [ref=e335]:
+                          - insertion [ref=e336]: $44.37
+                          - deletion [ref=e337]: $100.00
+                      - generic [ref=e338]: "- opens in new window or tab"
+                - listitem [ref=e339]:
+                  - article [ref=e340]:
+                    - generic [ref=e341]:
+                      - button [ref=e343] [cursor=pointer]:
+                        - generic [ref=e344]:
+                          - img
+                      - link [ref=e345] [cursor=pointer]:
+                        - /url: https://www.ebay.com/itm/256754180033?_trkparms=amclksrc%3DITM%26aid%3D777008%26algo%3DPERSONAL.TOPIC%26ao%3D1%26asc%3D20250416182756%26meid%3Db951be4c438c4d9f849499c2b8baf674%26pid%3D102690%26rk%3D6%26rkt%3D15%26itm%3D256754180033%26pmt%3D0%26noa%3D1%26pg%3D4375194%26algv%3DFeaturedDealsV2%26tu%3D01KJEQ9VSTYN9ATGE9ZVPFD03V
+                    - link [ref=e347] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/256754180033?_trkparms=amclksrc%3DITM%26aid%3D777008%26algo%3DPERSONAL.TOPIC%26ao%3D1%26asc%3D20250416182756%26meid%3Db951be4c438c4d9f849499c2b8baf674%26pid%3D102690%26rk%3D6%26rkt%3D15%26itm%3D256754180033%26pmt%3D0%26noa%3D1%26pg%3D4375194%26algv%3DFeaturedDealsV2%26tu%3D01KJEQ9VSTYN9ATGE9ZVPFD03V
+                      - generic [ref=e348]:
+                        - generic [ref=e349]: Samsung Galaxy S24 Ultra 512GB S928U Unlocked - Excellent
+                        - generic [ref=e351]: $607.99
+                      - generic [ref=e352]: "- opens in new window or tab"
+                - listitem [ref=e353]:
+                  - article [ref=e354]:
+                    - generic [ref=e355]:
+                      - button [ref=e357] [cursor=pointer]:
+                        - generic [ref=e358]:
+                          - img
+                      - link [ref=e359] [cursor=pointer]:
+                        - /url: https://www.ebay.com/itm/357950678927?_trkparms=amclksrc%3DITM%26aid%3D777008%26algo%3DPERSONAL.TOPIC%26ao%3D1%26asc%3D20250416182756%26meid%3Db951be4c438c4d9f849499c2b8baf674%26pid%3D102690%26rk%3D7%26rkt%3D15%26itm%3D357950678927%26pmt%3D0%26noa%3D1%26pg%3D4375194%26algv%3DFeaturedDealsV2%26tu%3D01KJEQ9VSVVQZJ6WN5CT789QSM
+                    - link [ref=e361] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/357950678927?_trkparms=amclksrc%3DITM%26aid%3D777008%26algo%3DPERSONAL.TOPIC%26ao%3D1%26asc%3D20250416182756%26meid%3Db951be4c438c4d9f849499c2b8baf674%26pid%3D102690%26rk%3D7%26rkt%3D15%26itm%3D357950678927%26pmt%3D0%26noa%3D1%26pg%3D4375194%26algv%3DFeaturedDealsV2%26tu%3D01KJEQ9VSVVQZJ6WN5CT789QSM
+                      - generic [ref=e362]:
+                        - generic [ref=e363]: Nintendo Switch OLED 64GB Game Console + 1 Year🛡️ Warranty | 2-Day Shipping📦✈️
+                        - generic [ref=e365]:
+                          - insertion [ref=e366]: $249.95
+                          - deletion [ref=e367]: $399.99
+                      - generic [ref=e368]: "- opens in new window or tab"
+                - listitem [ref=e369]:
+                  - article [ref=e370]:
+                    - generic [ref=e371]:
+                      - button [ref=e373] [cursor=pointer]:
+                        - generic [ref=e374]:
+                          - img
+                      - link [ref=e375] [cursor=pointer]:
+                        - /url: https://www.ebay.com/itm/326972192185?_trkparms=amclksrc%3DITM%26aid%3D777008%26algo%3DPERSONAL.TOPIC%26ao%3D1%26asc%3D20250416182756%26meid%3Db951be4c438c4d9f849499c2b8baf674%26pid%3D102690%26rk%3D8%26rkt%3D15%26itm%3D326972192185%26pmt%3D0%26noa%3D1%26pg%3D4375194%26algv%3DFeaturedDealsV2%26tu%3D01KJEQ9VSVDQC4RWY6XMQ3ZZ38
+                    - link [ref=e377] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/326972192185?_trkparms=amclksrc%3DITM%26aid%3D777008%26algo%3DPERSONAL.TOPIC%26ao%3D1%26asc%3D20250416182756%26meid%3Db951be4c438c4d9f849499c2b8baf674%26pid%3D102690%26rk%3D8%26rkt%3D15%26itm%3D326972192185%26pmt%3D0%26noa%3D1%26pg%3D4375194%26algv%3DFeaturedDealsV2%26tu%3D01KJEQ9VSVDQC4RWY6XMQ3ZZ38
+                      - generic [ref=e378]:
+                        - generic [ref=e379]: BISSELL Cleanview XR 200W Cordless Stick Vacuum
+                        - generic [ref=e381]:
+                          - insertion [ref=e382]: $69.99
+                          - deletion [ref=e383]: $199.99
+                      - generic [ref=e384]: "- opens in new window or tab"
+                - listitem [ref=e385]:
+                  - article [ref=e386]:
+                    - generic [ref=e387]:
+                      - button [ref=e389] [cursor=pointer]:
+                        - generic [ref=e390]:
+                          - img
+                      - link [ref=e391] [cursor=pointer]:
+                        - /url: https://www.ebay.com/itm/166819315978?_trkparms=amclksrc%3DITM%26aid%3D777008%26algo%3DPERSONAL.TOPIC%26ao%3D1%26asc%3D20250416182756%26meid%3Db951be4c438c4d9f849499c2b8baf674%26pid%3D102690%26rk%3D9%26rkt%3D15%26itm%3D166819315978%26pmt%3D0%26noa%3D1%26pg%3D4375194%26algv%3DFeaturedDealsV2%26tu%3D01KJEQ9VSWGC5H17TSPJ00Y5NV
+                    - link [ref=e393] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/166819315978?_trkparms=amclksrc%3DITM%26aid%3D777008%26algo%3DPERSONAL.TOPIC%26ao%3D1%26asc%3D20250416182756%26meid%3Db951be4c438c4d9f849499c2b8baf674%26pid%3D102690%26rk%3D9%26rkt%3D15%26itm%3D166819315978%26pmt%3D0%26noa%3D1%26pg%3D4375194%26algv%3DFeaturedDealsV2%26tu%3D01KJEQ9VSWGC5H17TSPJ00Y5NV
+                      - generic [ref=e394]:
+                        - generic [ref=e395]: Bose QuietComfort Noise Cancelling Headphones, Certified Refurbished
+                        - generic [ref=e397]:
+                          - insertion [ref=e398]: $187.00
+                          - deletion [ref=e399]: $199.00
+                      - generic [ref=e400]: "- opens in new window or tab"
+                - listitem [ref=e401]:
+                  - article [ref=e402]:
+                    - generic [ref=e403]:
+                      - button [ref=e405] [cursor=pointer]:
+                        - generic [ref=e406]:
+                          - img
+                      - link [ref=e407] [cursor=pointer]:
+                        - /url: https://www.ebay.com/itm/177487578212?_trkparms=amclksrc%3DITM%26aid%3D777008%26algo%3DPERSONAL.TOPIC%26ao%3D1%26asc%3D20250416182756%26meid%3Db951be4c438c4d9f849499c2b8baf674%26pid%3D102690%26rk%3D10%26rkt%3D15%26itm%3D177487578212%26pmt%3D0%26noa%3D1%26pg%3D4375194%26algv%3DFeaturedDealsV2%26tu%3D01KJEQ9VSWYZQT71TPSJ4M5Y03
+                    - link [ref=e409] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/177487578212?_trkparms=amclksrc%3DITM%26aid%3D777008%26algo%3DPERSONAL.TOPIC%26ao%3D1%26asc%3D20250416182756%26meid%3Db951be4c438c4d9f849499c2b8baf674%26pid%3D102690%26rk%3D10%26rkt%3D15%26itm%3D177487578212%26pmt%3D0%26noa%3D1%26pg%3D4375194%26algv%3DFeaturedDealsV2%26tu%3D01KJEQ9VSWYZQT71TPSJ4M5Y03
+                      - generic [ref=e410]:
+                        - generic [ref=e411]: Natural Polyresin Floor Lamp - Room Essentials
+                        - generic [ref=e413]:
+                          - insertion [ref=e414]: $34.99
+                          - deletion [ref=e415]: $75.00
+                      - generic [ref=e416]: "- opens in new window or tab"
+                - listitem [ref=e417]:
+                  - article [ref=e418]:
+                    - generic [ref=e419]:
+                      - button [ref=e421] [cursor=pointer]:
+                        - generic [ref=e422]:
+                          - img
+                      - link [ref=e423] [cursor=pointer]:
+                        - /url: https://www.ebay.com/itm/314644637511?_trkparms=amclksrc%3DITM%26aid%3D777008%26algo%3DPERSONAL.TOPIC%26ao%3D1%26asc%3D20250416182756%26meid%3Db951be4c438c4d9f849499c2b8baf674%26pid%3D102690%26rk%3D11%26rkt%3D15%26itm%3D314644637511%26pmt%3D0%26noa%3D1%26pg%3D4375194%26algv%3DFeaturedDealsV2%26tu%3D01KJEQ9VSWGQGVCGD92CG5W9BR
+                    - link [ref=e425] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/314644637511?_trkparms=amclksrc%3DITM%26aid%3D777008%26algo%3DPERSONAL.TOPIC%26ao%3D1%26asc%3D20250416182756%26meid%3Db951be4c438c4d9f849499c2b8baf674%26pid%3D102690%26rk%3D11%26rkt%3D15%26itm%3D314644637511%26pmt%3D0%26noa%3D1%26pg%3D4375194%26algv%3DFeaturedDealsV2%26tu%3D01KJEQ9VSWGQGVCGD92CG5W9BR
+                      - generic [ref=e426]:
+                        - generic [ref=e427]: FIRMAN WH03242F 4000W Electric Start Dual Fuel Inverter Generator - Refurbished
+                        - generic [ref=e429]: $499.99
+                      - generic [ref=e430]: "- opens in new window or tab"
+                - listitem [ref=e431]:
+                  - article [ref=e432]:
+                    - generic [ref=e433]:
+                      - button [ref=e435] [cursor=pointer]:
+                        - generic [ref=e436]:
+                          - img
+                      - link [ref=e437] [cursor=pointer]:
+                        - /url: https://www.ebay.com/itm/276605256956?_trkparms=amclksrc%3DITM%26aid%3D777008%26algo%3DPERSONAL.TOPIC%26ao%3D1%26asc%3D20250416182756%26meid%3Db951be4c438c4d9f849499c2b8baf674%26pid%3D102690%26rk%3D12%26rkt%3D15%26itm%3D276605256956%26pmt%3D0%26noa%3D1%26pg%3D4375194%26algv%3DFeaturedDealsV2%26tu%3D01KJEQ9VSX7M9RC6JW4RX4RR0Z
+                    - link [ref=e439] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/276605256956?_trkparms=amclksrc%3DITM%26aid%3D777008%26algo%3DPERSONAL.TOPIC%26ao%3D1%26asc%3D20250416182756%26meid%3Db951be4c438c4d9f849499c2b8baf674%26pid%3D102690%26rk%3D12%26rkt%3D15%26itm%3D276605256956%26pmt%3D0%26noa%3D1%26pg%3D4375194%26algv%3DFeaturedDealsV2%26tu%3D01KJEQ9VSX7M9RC6JW4RX4RR0Z
+                      - generic [ref=e440]:
+                        - generic [ref=e441]: Milwaukee M18 Fuel 30 Degree Framing Nailer (Bare Tool) Refurbished
+                        - generic [ref=e443]:
+                          - insertion [ref=e444]: $245.99
+                          - deletion [ref=e445]: $368.40
+                      - generic [ref=e446]: "- opens in new window or tab"
+                - listitem [ref=e447]:
+                  - article [ref=e448]:
+                    - generic [ref=e449]:
+                      - button [ref=e451] [cursor=pointer]:
+                        - generic [ref=e452]:
+                          - img
+                      - link [ref=e453] [cursor=pointer]:
+                        - /url: https://www.ebay.com/itm/147086500602?_trkparms=amclksrc%3DITM%26aid%3D777008%26algo%3DPERSONAL.TOPIC%26ao%3D1%26asc%3D20250416182756%26meid%3Db951be4c438c4d9f849499c2b8baf674%26pid%3D102690%26rk%3D13%26rkt%3D15%26itm%3D147086500602%26pmt%3D0%26noa%3D1%26pg%3D4375194%26algv%3DFeaturedDealsV2%26tu%3D01KJEQ9VSXVP5TTATCMG40C325
+                    - link [ref=e455] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/147086500602?_trkparms=amclksrc%3DITM%26aid%3D777008%26algo%3DPERSONAL.TOPIC%26ao%3D1%26asc%3D20250416182756%26meid%3Db951be4c438c4d9f849499c2b8baf674%26pid%3D102690%26rk%3D13%26rkt%3D15%26itm%3D147086500602%26pmt%3D0%26noa%3D1%26pg%3D4375194%26algv%3DFeaturedDealsV2%26tu%3D01KJEQ9VSXVP5TTATCMG40C325
+                      - generic [ref=e456]:
+                        - generic [ref=e457]: Crocs Adult Flip Flop Summer Sandals
+                        - generic [ref=e459]:
+                          - insertion [ref=e460]: $19.99
+                          - deletion [ref=e461]: $24.99
+                      - generic [ref=e462]: "- opens in new window or tab"
+                - listitem [ref=e463]:
+                  - article [ref=e464]:
+                    - generic [ref=e465]:
+                      - button [ref=e467] [cursor=pointer]:
+                        - generic [ref=e468]:
+                          - img
+                      - link [ref=e469] [cursor=pointer]:
+                        - /url: https://www.ebay.com/itm/336127075725?_trkparms=amclksrc%3DITM%26aid%3D777008%26algo%3DPERSONAL.TOPIC%26ao%3D1%26asc%3D20250416182756%26meid%3Db951be4c438c4d9f849499c2b8baf674%26pid%3D102690%26rk%3D14%26rkt%3D15%26itm%3D336127075725%26pmt%3D0%26noa%3D1%26pg%3D4375194%26algv%3DFeaturedDealsV2%26tu%3D01KJEQ9VSX9P6ZW9ES4GJ22H26
+                    - link [ref=e471] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/336127075725?_trkparms=amclksrc%3DITM%26aid%3D777008%26algo%3DPERSONAL.TOPIC%26ao%3D1%26asc%3D20250416182756%26meid%3Db951be4c438c4d9f849499c2b8baf674%26pid%3D102690%26rk%3D14%26rkt%3D15%26itm%3D336127075725%26pmt%3D0%26noa%3D1%26pg%3D4375194%26algv%3DFeaturedDealsV2%26tu%3D01KJEQ9VSX9P6ZW9ES4GJ22H26
+                      - generic [ref=e472]:
+                        - generic [ref=e473]: Invicta Racing Men's 48.5mm Tonneau Quartz Watch - Choice of Color
+                        - generic [ref=e475]: $44.99
+                      - generic [ref=e476]: "- opens in new window or tab"
+                - listitem [ref=e477]:
+                  - article [ref=e478]:
+                    - generic [ref=e479]:
+                      - button [ref=e481] [cursor=pointer]:
+                        - generic [ref=e482]:
+                          - img
+                      - link [ref=e483] [cursor=pointer]:
+                        - /url: https://www.ebay.com/itm/267286386544?_trkparms=amclksrc%3DITM%26aid%3D777008%26algo%3DPERSONAL.TOPIC%26ao%3D1%26asc%3D20250416182756%26meid%3Db951be4c438c4d9f849499c2b8baf674%26pid%3D102690%26rk%3D15%26rkt%3D15%26itm%3D267286386544%26pmt%3D0%26noa%3D1%26pg%3D4375194%26algv%3DFeaturedDealsV2%26tu%3D01KJEQ9VSXXZFND5C9C77SZDTP
+                    - link [ref=e485] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/267286386544?_trkparms=amclksrc%3DITM%26aid%3D777008%26algo%3DPERSONAL.TOPIC%26ao%3D1%26asc%3D20250416182756%26meid%3Db951be4c438c4d9f849499c2b8baf674%26pid%3D102690%26rk%3D15%26rkt%3D15%26itm%3D267286386544%26pmt%3D0%26noa%3D1%26pg%3D4375194%26algv%3DFeaturedDealsV2%26tu%3D01KJEQ9VSXXZFND5C9C77SZDTP
+                      - generic [ref=e486]:
+                        - generic [ref=e487]: Skullcandy Sesh ANC Active XT (Certified Refurbished)- Black Orange
+                        - generic [ref=e489]:
+                          - insertion [ref=e490]: $33.99
+                          - deletion [ref=e491]: $69.99
+                      - generic [ref=e492]: "- opens in new window or tab"
+              - button [ref=e493]:
+                - img
+      - complementary [ref=e494]:
+        - heading [level=2] [ref=e495]: Trending on eBay
+        - group [ref=e496]:
+          - list [ref=e499]:
+            - listitem [ref=e500]:
+              - link [ref=e501] [cursor=pointer]:
+                - /url: https://www.ebay.com/b/bn_7000259124
+                - generic [ref=e504]: Tech
+            - listitem [ref=e505]:
+              - link [ref=e506] [cursor=pointer]:
+                - /url: https://www.ebay.com/b/bn_569479
+                - generic [ref=e509]: Motors
+            - listitem [ref=e510]:
+              - link [ref=e511] [cursor=pointer]:
+                - /url: https://www.ebay.com/b/bn_7109710914
+                - generic [ref=e514]: Luxury
+            - listitem [ref=e515]:
+              - link [ref=e516] [cursor=pointer]:
+                - /url: https://www.ebay.com/b/bn_7000259855
+                - generic [ref=e519]: Collectibles and art
+            - listitem [ref=e520]:
+              - link [ref=e521] [cursor=pointer]:
+                - /url: https://www.ebay.com/b/bn_1853126
+                - generic [ref=e524]: Home and garden
+            - listitem [ref=e525]:
+              - link [ref=e526] [cursor=pointer]:
+                - /url: https://www.ebay.com/b/bn_1852210
+                - generic [ref=e529]: Trading cards
+            - listitem [ref=e530]:
+              - link [ref=e531] [cursor=pointer]:
+                - /url: https://www.ebay.com/b/bn_1865479
+                - generic [ref=e534]: Health and beauty
+      - complementary [ref=e535]:
+        - generic [ref=e536]:
+          - generic [ref=e537]:
+            - heading [level=2] [ref=e538]: Endless accessories. Epic prices.
+            - paragraph [ref=e539]: Browse millions of upgrades for your ride.
+            - link [ref=e540] [cursor=pointer]:
+              - /url: https://www.ebay.com/b/Car-Truck-Parts-Accessories/6030/bn_562630
+              - text: Shop now
+          - img [ref=e542]
+    - button [ref=e544] [cursor=pointer]:
+      - img [ref=e545]
+  - img [ref=e548]
+  - contentinfo [ref=e553]:
+    - generic [ref=e554]:
+      - generic [ref=e556]:
+        - heading [level=3] [ref=e557]:
+          - link [ref=e558] [cursor=pointer]:
+            - /url: https://www.ebay.com/n/all-categories
+            - text: Buy
+        - list [ref=e559]:
+          - listitem [ref=e560]:
+            - link [ref=e561] [cursor=pointer]:
+              - /url: https://www.ebay.com/help/account/default/ebay-account?id=4188
+              - text: Registration
+          - listitem [ref=e562]:
+            - link [ref=e563] [cursor=pointer]:
+              - /url: https://www.ebay.com/help/buying
+              - text: Bidding & buying help
+          - listitem [ref=e564]:
+            - link [ref=e565] [cursor=pointer]:
+              - /url: https://www.ebay.com/b/Stores-HUB/bn_7004224522
+              - text: Stores
+          - listitem [ref=e566]:
+            - link [ref=e567] [cursor=pointer]:
+              - /url: https://storefronts.ebay.com/
+              - text: Creator Collections
+          - listitem [ref=e568]:
+            - link [ref=e569] [cursor=pointer]:
+              - /url: https://www.charity.ebay.com/
+              - text: eBay for Charity
+          - listitem [ref=e570]:
+            - link [ref=e571] [cursor=pointer]:
+              - /url: https://www.ebay.com/b/Charity/bn_7114598164
+              - text: Charity Shop
+          - listitem [ref=e572]:
+            - link [ref=e573] [cursor=pointer]:
+              - /url: https://www.ebay.com/b/Sales-Events/bn_7115049177
+              - text: Seasonal Sales and events
+          - listitem [ref=e574]:
+            - link [ref=e575] [cursor=pointer]:
+              - /url: https://www.ebay.com/giftcards
+              - text: eBay Gift Cards
+      - generic [ref=e576]:
+        - generic [ref=e577]:
+          - heading [level=3] [ref=e578]:
+            - link [ref=e579] [cursor=pointer]:
+              - /url: https://www.ebay.com/sl/sell
+              - text: Sell
+          - list [ref=e580]:
+            - listitem [ref=e581]:
+              - link [ref=e582] [cursor=pointer]:
+                - /url: https://www.ebay.com/sl/sell
+                - text: Start selling
+            - listitem [ref=e583]:
+              - link [ref=e584] [cursor=pointer]:
+                - /url: https://pages.ebay.com/seller-center/get-started/selling-basics.html?utm_source=gf-learn-to-sell&utm_medium=onsite
+                - text: How to sell
+            - listitem [ref=e585]:
+              - link [ref=e586] [cursor=pointer]:
+                - /url: https://pages.ebay.com/seller-center/listing-and-marketing/seller-hub.html
+                - text: Business sellers
+            - listitem [ref=e587]:
+              - link [ref=e588] [cursor=pointer]:
+                - /url: https://ambassador.ebay.com/
+                - text: Affiliates
+        - generic [ref=e589]:
+          - heading [level=3] [ref=e590]: Tools & apps
+          - list [ref=e591]:
+            - listitem [ref=e592]:
+              - link [ref=e593] [cursor=pointer]:
+                - /url: https://developer.ebay.com/
+                - text: Developers
+            - listitem [ref=e594]:
+              - link [ref=e595] [cursor=pointer]:
+                - /url: https://pages.ebay.com/securitycenter/index.html
+                - text: Security center
+            - listitem [ref=e596]:
+              - link [ref=e597] [cursor=pointer]:
+                - /url: https://pages.ebay.com/sitemap.html
+                - text: Site map
+      - generic [ref=e598]:
+        - generic [ref=e599]:
+          - heading [level=3] [ref=e600]: eBay companies
+          - link [ref=e602] [cursor=pointer]:
+            - /url: https://www.tcgplayer.com/
+            - text: TCGplayer
+        - generic [ref=e603]:
+          - heading [level=3] [ref=e604]: Stay connected
+          - list [ref=e605]:
+            - listitem [ref=e606]:
+              - img
+              - link [ref=e607] [cursor=pointer]:
+                - /url: https://www.facebook.com/ebay/
+                - text: Facebook
+            - listitem [ref=e608]:
+              - img
+              - link [ref=e609] [cursor=pointer]:
+                - /url: https://twitter.com/eBay
+                - text: X (Twitter)
+      - generic [ref=e611]:
+        - heading [level=3] [ref=e612]:
+          - link [ref=e613] [cursor=pointer]:
+            - /url: https://www.ebayinc.com/
+            - text: About eBay
+        - list [ref=e614]:
+          - listitem [ref=e615]:
+            - link [ref=e616] [cursor=pointer]:
+              - /url: https://www.ebayinc.com/company/
+              - text: Company info
+          - listitem [ref=e617]:
+            - link [ref=e618] [cursor=pointer]:
+              - /url: https://www.ebayinc.com/stories/news/
+              - text: News
+          - listitem [ref=e619]:
+            - link [ref=e620] [cursor=pointer]:
+              - /url: https://www.ebayinc.com/stories/press-room/#assets-settlements
+              - text: Deferred Prosecution Agreement with District of Massachusetts
+          - listitem [ref=e621]:
+            - link [ref=e622] [cursor=pointer]:
+              - /url: https://investors.ebayinc.com/overview/default.aspx
+              - text: Investors
+          - listitem [ref=e623]:
+            - link [ref=e624] [cursor=pointer]:
+              - /url: https://careers.ebayinc.com/
+              - text: Careers
+          - listitem [ref=e625]:
+            - link [ref=e626] [cursor=pointer]:
+              - /url: https://www.ebayinc.com/company/diversity-equity-inclusion/
+              - text: Diversity & Inclusion
+          - listitem [ref=e627]:
+            - link [ref=e628] [cursor=pointer]:
+              - /url: https://www.ebayinc.com/impact/
+              - text: Global Impact
+          - listitem [ref=e629]:
+            - link [ref=e630] [cursor=pointer]:
+              - /url: https://www.ebaymainstreet.com/
+              - text: Government relations
+          - listitem [ref=e631]:
+            - link [ref=e632] [cursor=pointer]:
+              - /url: https://www.ebay.com/sellercenter/growth/ebay-advertising
+              - text: Advertise with us
+          - listitem [ref=e633]:
+            - link [ref=e634] [cursor=pointer]:
+              - /url: https://www.ebay.com/help/policies/default/ebays-rules-policies?id=4205
+              - text: Policies
+          - listitem [ref=e635]:
+            - link [ref=e636] [cursor=pointer]:
+              - /url: https://pages.ebay.com/vero/
+              - text: Verified Rights Owner (VeRO) Program
+          - listitem [ref=e637]:
+            - link [ref=e638] [cursor=pointer]:
+              - /url: https://pages.ebay.com/ebayCommerce/mtl.html
+              - text: eCI Licenses
+          - listitem [ref=e639]:
+            - link [ref=e640] [cursor=pointer]:
+              - /url: https://pages.ebay.com/safetytips
+              - text: Product Safety Tips
+      - generic [ref=e641]:
+        - generic [ref=e642]:
+          - heading [level=3] [ref=e643]:
+            - link [ref=e644] [cursor=pointer]:
+              - /url: https://www.ebay.com/help/home
+              - text: Help & Contact
+          - list [ref=e645]:
+            - listitem [ref=e646]:
+              - link [ref=e647] [cursor=pointer]:
+                - /url: https://pages.ebay.com/seller-center/index.html?utm_source=gf&utm_medium=onsite
+                - text: Seller Center
+            - listitem [ref=e648]:
+              - link [ref=e649] [cursor=pointer]:
+                - /url: https://www.ebay.com/help/home
+                - text: Contact Us
+            - listitem [ref=e650]:
+              - link [ref=e651] [cursor=pointer]:
+                - /url: https://pages.ebay.com/returns/
+                - text: eBay Returns
+            - listitem [ref=e652]:
+              - link [ref=e653] [cursor=pointer]:
+                - /url: https://pages.ebay.com/ebay-money-back-guarantee/
+                - text: eBay Money Back Guarantee
+        - generic [ref=e654]:
+          - heading [level=3] [ref=e655]:
+            - link [ref=e656] [cursor=pointer]:
+              - /url: https://community.ebay.com/
+              - text: Community
+          - list [ref=e657]:
+            - listitem [ref=e658]:
+              - link [ref=e659] [cursor=pointer]:
+                - /url: https://community.ebay.com/t5/Announcements/bg-p/Announcements
+                - text: Announcements
+            - listitem [ref=e660]:
+              - link [ref=e661] [cursor=pointer]:
+                - /url: https://community.ebay.com/
+                - text: eBay Community
+            - listitem [ref=e662]:
+              - link [ref=e663] [cursor=pointer]:
+                - /url: https://community.ebay.com/t5/Podcasts/ct-p/Podcasts
+                - text: eBay for Business Podcast
+        - generic [ref=e664]:
+          - heading [level=3] [ref=e665]: eBay Sites
+          - list [ref=e666]:
+            - listitem [ref=e667]:
+              - button [ref=e669] [cursor=pointer]:
+                - generic [ref=e671]: United States
+                - img
+    - generic [ref=e672]:
+      - text: Copyright © 1995-2026 eBay Inc. All Rights Reserved.
+      - link [ref=e673] [cursor=pointer]:
+        - /url: https://www.ebayinc.com/accessibility/
+        - text: Accessibility
+      - text: ","
+      - link [ref=e674] [cursor=pointer]:
+        - /url: https://www.ebay.com/help/policies/member-behaviour-policies/user-agreement?id=4259
+        - text: User Agreement
+      - text: ","
+      - link [ref=e675] [cursor=pointer]:
+        - /url: https://www.ebay.com/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260
+        - text: Privacy
+      - text: ","
+      - link [ref=e676] [cursor=pointer]:
+        - /url: https://www.ebayinc.com/company/privacy-center/privacy-notice/consumer-health-data-privacy-policy/
+        - text: Consumer Health Data
+      - text: ","
+      - link [ref=e677] [cursor=pointer]:
+        - /url: https://pages.ebay.com/payment/2.0/terms.html
+        - text: Payments Terms of Use
+      - text: ","
+      - link [ref=e678] [cursor=pointer]:
+        - /url: https://www.ebay.com/help/policies/member-behaviour-policies/ebay-cookie-notice?id=4267
+        - text: Cookies
+      - text: ","
+      - link [ref=e679] [cursor=pointer]:
+        - /url: https://www.ebayinc.com/company/privacy-center/privacy-notice/state-privacy-disclosures/#california
+        - text: CA Privacy Notice
+      - text: ","
+      - link [ref=e680] [cursor=pointer]:
+        - /url: https://www.ebay.com/adchoice/ccpa
+        - text: Your Privacy Choices
+      - text: and
+      - link [ref=e681] [cursor=pointer]:
+        - /url: https://www.ebay.com/adchoice
+        - text: AdChoice
+        - img
+  - paragraph [ref=e683]
+```
