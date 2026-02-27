@@ -1,0 +1,3443 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - img
+  - img
+  - img
+  - banner [ref=e5]:
+    - link "Skip to main content" [ref=e7] [cursor=pointer]:
+      - /url: "#mainContent"
+    - navigation [ref=e8]:
+      - generic [ref=e9]:
+        - generic [ref=e11]:
+          - text: Hi!
+          - link "Sign in" [ref=e12] [cursor=pointer]:
+            - /url: https://signin.ebay.com/ws/eBayISAPI.dll?SignIn&sgfl=gh&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D0%26_from%3DR40%26_trksid%3Dm570.l1313
+          - generic [ref=e13]:
+            - text: or
+            - link "register" [ref=e14] [cursor=pointer]:
+              - /url: https://signup.ebay.com/pa/crte?ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D0%26_from%3DR40%26_trksid%3Dm570.l1313
+        - link "Deals" [ref=e16] [cursor=pointer]:
+          - /url: https://www.ebay.com/deals
+        - link "Brand Outlet" [ref=e18] [cursor=pointer]:
+          - /url: https://www.ebay.com/b/Brand-Outlet/bn_7115532402
+        - link "Gift Cards" [ref=e20] [cursor=pointer]:
+          - /url: https://www.ebay.com/giftcards
+        - link "Help & Contact" [ref=e22] [cursor=pointer]:
+          - /url: https://www.ebay.com/help/home
+      - generic [ref=e23]:
+        - button "Ship to" [ref=e25] [cursor=pointer]:
+          - generic [ref=e26]: Ship to
+        - link "Sell" [ref=e28] [cursor=pointer]:
+          - /url: https://www.ebay.com/sl/sell
+        - generic [ref=e29]:
+          - link "Watchlist" [ref=e30] [cursor=pointer]:
+            - /url: https://www.ebay.com/mye/myebay/watchlist
+            - generic [ref=e31]: Watchlist
+            - img
+          - button "Expand Watch List" [ref=e32]
+        - generic [ref=e33]:
+          - link "My eBay" [ref=e34] [cursor=pointer]:
+            - /url: https://www.ebay.com/mys/home?source=GBH
+            - generic [ref=e35]: My eBay
+            - img
+          - button "Expand My eBay" [ref=e36]
+        - button "Notifications" [ref=e39] [cursor=pointer]:
+          - img
+          - generic [ref=e40]: Notifications
+        - generic [ref=e42]:
+          - link "Your shopping cart contains 0 items" [ref=e43] [cursor=pointer]:
+            - /url: https://cart.ebay.com
+            - generic "Your shopping cart contains 0 items" [ref=e44]:
+              - img
+          - button "Expand Cart" [ref=e45]
+    - generic [ref=e46]:
+      - generic [ref=e47]:
+        - link "eBay Home" [ref=e48] [cursor=pointer]:
+          - /url: https://www.ebay.com
+          - img "eBay Home" [ref=e49]
+        - button "Shop by category" [ref=e57] [cursor=pointer]:
+          - generic [ref=e58]: Shop by category
+          - img
+      - generic [ref=e59]:
+        - status [ref=e60]
+        - generic [ref=e62]:
+          - generic [ref=e63]:
+            - combobox "Search for anything" [ref=e64]: mens leather wallet
+            - img
+            - button "Camera icon" [ref=e65]:
+              - img
+          - combobox "Select a category for search" [ref=e66]:
+            - option "Wallets" [selected]
+            - option "└ Men's Accessories"
+            - option "└ Men"
+            - option "└ Clothing, Shoes & Accessories"
+            - option "All Categories"
+            - option "Antiques"
+            - option "Art"
+            - option "Baby"
+            - option "Books & Magazines"
+            - option "Business & Industrial"
+            - option "Cameras & Photo"
+            - option "Cell Phones & Accessories"
+            - option "Clothing, Shoes & Accessories"
+            - option "Coins & Paper Money"
+            - option "Collectibles"
+            - option "Computers/Tablets & Networking"
+            - option "Consumer Electronics"
+            - option "Crafts"
+            - option "Dolls & Bears"
+            - option "Entertainment Memorabilia"
+            - option "Everything Else"
+            - option "Gift Cards & Coupons"
+            - option "Health & Beauty"
+            - option "Home & Garden"
+            - option "Jewelry & Watches"
+            - option "Movies & TV"
+            - option "Music"
+            - option "Musical Instruments & Gear"
+            - option "Pet Supplies"
+            - option "Pottery & Glass"
+            - option "Real Estate"
+            - option "Specialty Services"
+            - option "Sporting Goods"
+            - option "Sports Mem, Cards & Fan Shop"
+            - option "Stamps"
+            - option "Tickets & Experiences"
+            - option "Toys & Hobbies"
+            - option "Travel"
+            - option "Video Games & Consoles"
+        - generic [ref=e67]:
+          - button "Search" [ref=e68] [cursor=pointer]:
+            - generic [ref=e69]: Search
+          - link "Advanced" [ref=e70] [cursor=pointer]:
+            - /url: https://www.ebay.com/sch/ebayadvsearch?_nkw=mens+leather+wallet&_sacat=0&_from=R40&_trksid=m570.l1313
+  - generic [ref=e71]:
+    - generic [ref=e72]:
+      - generic [ref=e73]:
+        - text: "Related:"
+        - generic [ref=e74]:
+          - link "mens wallet leather bifold" [ref=e75] [cursor=pointer]:
+            - /url: https://www.ebay.com/sch/i.html?_nkw=mens+wallet+leather+bifold&_sop=12
+          - link "mens leather wallet trifold" [ref=e76] [cursor=pointer]:
+            - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet+trifold&_sop=12
+          - link "mens wallet leather long" [ref=e77] [cursor=pointer]:
+            - /url: https://www.ebay.com/sch/i.html?_nkw=mens+wallet+leather+long&_sop=12
+          - link "mens wallet leather coach" [ref=e78] [cursor=pointer]:
+            - /url: https://www.ebay.com/sch/i.html?_nkw=mens+wallet+leather+coach&_sop=12
+          - link "mens genuine leather wallet" [ref=e79] [cursor=pointer]:
+            - /url: https://www.ebay.com/sch/i.html?_nkw=mens+genuine+leather+wallet&_sop=12
+          - link "mens wallet leather slim" [ref=e80] [cursor=pointer]:
+            - /url: https://www.ebay.com/sch/i.html?_nkw=mens+wallet+leather+slim&_sop=12
+          - link "mens wallet leather designer" [ref=e81] [cursor=pointer]:
+            - /url: https://www.ebay.com/sch/i.html?_nkw=mens+wallet+leather+designer&_sop=12
+          - link "mens vintage wallet leather" [ref=e82] [cursor=pointer]:
+            - /url: https://www.ebay.com/sch/i.html?_nkw=mens+vintage+wallet+leather&_sop=12
+          - link "mens wallet real leather" [ref=e83] [cursor=pointer]:
+            - /url: https://www.ebay.com/sch/i.html?_nkw=mens+wallet+real+leather&_sop=12
+          - link "mens wallet bifold" [ref=e84] [cursor=pointer]:
+            - /url: https://www.ebay.com/sch/i.html?_nkw=mens+wallet+bifold&_sop=12
+          - link "mens genuine leather trifold wallet" [ref=e85] [cursor=pointer]:
+            - /url: https://www.ebay.com/sch/i.html?_nkw=mens+genuine+leather+trifold+wallet&_sop=12
+          - link "mens leather money clip wallet" [ref=e86] [cursor=pointer]:
+            - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+money+clip+wallet&_sop=12
+      - generic [ref=e88]:
+        - generic [ref=e89]:
+          - checkbox "Include description" [ref=e90]
+          - generic [ref=e91]:
+            - img
+        - text: Include description
+    - generic [ref=e93]:
+      - heading "Filter" [level=2] [ref=e94]
+      - list [ref=e95]:
+        - listitem [ref=e96]:
+          - list [ref=e97]:
+            - listitem [ref=e98]:
+              - heading "Category" [level=3] [ref=e99]:
+                - button "Category" [expanded] [ref=e100] [cursor=pointer]:
+                  - text: Category
+                  - generic [ref=e101]:
+                    - img
+              - list [ref=e103]:
+                - listitem [ref=e104]:
+                  - link "All" [ref=e105] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_from=R40&_oac=1
+                  - list [ref=e106]:
+                    - listitem [ref=e107]:
+                      - link "Clothing, Shoes & Accessories" [ref=e108] [cursor=pointer]:
+                        - /url: https://www.ebay.com/sch/11450/i.html?_nkw=mens+leather+wallet&_from=R40
+                    - listitem [ref=e109]:
+                      - link "Men" [ref=e110] [cursor=pointer]:
+                        - /url: https://www.ebay.com/sch/260012/i.html?_nkw=mens+leather+wallet&_from=R40
+                    - listitem [ref=e111]:
+                      - link "Men's Accessories" [ref=e112] [cursor=pointer]:
+                        - /url: https://www.ebay.com/sch/4250/i.html?_nkw=mens+leather+wallet&_from=R40
+                      - list [ref=e113]:
+                        - listitem [ref=e114]:
+                          - link "Wallets" [ref=e115] [cursor=pointer]:
+                            - /url: https://www.ebay.com/sch/2996/i.html?_nkw=mens+leather+wallet&_from=R40
+                        - listitem [ref=e116]:
+                          - link "ID & Document Holders" [ref=e117] [cursor=pointer]:
+                            - /url: https://www.ebay.com/sch/169271/i.html?_nkw=mens+leather+wallet&_from=R40
+                        - listitem [ref=e118]:
+                          - link "Bags" [ref=e119] [cursor=pointer]:
+                            - /url: https://www.ebay.com/sch/52357/i.html?_nkw=mens+leather+wallet&_from=R40
+                        - listitem [ref=e120]:
+                          - link "Key Chains, Rings & Cases" [ref=e121] [cursor=pointer]:
+                            - /url: https://www.ebay.com/sch/52373/i.html?_nkw=mens+leather+wallet&_from=R40
+                        - listitem [ref=e122]:
+                          - button "More of category - Men's Accessories" [ref=e124] [cursor=pointer]:
+                            - generic [ref=e125]: More
+                            - generic [ref=e126]:
+                              - img
+                    - listitem [ref=e127]:
+                      - link "Cell Phones & Accessories" [ref=e128] [cursor=pointer]:
+                        - /url: https://www.ebay.com/sch/15032/i.html?_nkw=mens+leather+wallet&_from=R40
+                    - listitem [ref=e129]:
+                      - link "Sports Mem, Cards & Fan Shop" [ref=e130] [cursor=pointer]:
+                        - /url: https://www.ebay.com/sch/64482/i.html?_nkw=mens+leather+wallet&_from=R40
+                    - listitem [ref=e131]:
+                      - link "Computers/Tablets & Networking" [ref=e132] [cursor=pointer]:
+                        - /url: https://www.ebay.com/sch/58058/i.html?_nkw=mens+leather+wallet&_from=R40
+                    - listitem [ref=e133]:
+                      - button "Show more - All" [ref=e135] [cursor=pointer]:
+                        - generic [ref=e136]: Show More
+                        - generic [ref=e137]:
+                          - img
+            - listitem [ref=e138]:
+              - button "Update your location Shipping to Sri Lanka" [ref=e142] [cursor=pointer]:
+                - generic [ref=e143]: Update your location
+                - img
+                - text: Shipping to
+                - generic [ref=e144]: Sri Lanka
+            - listitem [ref=e145]:
+              - heading "Shipping and pickup" [level=3] [ref=e146]:
+                - button "Shipping and pickup" [expanded] [ref=e147] [cursor=pointer]:
+                  - text: Shipping and pickup
+                  - generic [ref=e148]:
+                    - img
+              - list [ref=e150]:
+                - listitem [ref=e151]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - checkbox
+                        - generic:
+                          - img
+                      - generic:
+                        - generic:
+                          - generic: Arrives in 2-4 days
+                - listitem [ref=e152]:
+                  - link "Free International Shipping" [ref=e154] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&rt=nc&LH_FS=1
+                    - generic [ref=e155]:
+                      - generic [ref=e156]:
+                        - checkbox [ref=e157]
+                        - generic [ref=e158]:
+                          - img
+                      - generic [ref=e161]: Free International Shipping
+                - listitem [ref=e164]:
+                  - generic [ref=e166] [cursor=pointer]:
+                    - generic [ref=e167]:
+                      - checkbox [ref=e168]
+                      - generic [ref=e169]:
+                        - img
+                    - button "Local Pickup" [ref=e170]:
+                      - generic [ref=e172]: Local Pickup
+            - listitem [ref=e173]:
+              - list [ref=e174]:
+                - listitem [ref=e175]:
+                  - heading "Department" [level=3] [ref=e176]:
+                    - button "Department" [expanded] [ref=e177] [cursor=pointer]:
+                      - text: Department
+                      - generic [ref=e178]:
+                        - img
+                  - list [ref=e180]:
+                    - listitem [ref=e181]:
+                      - link "Men (135,995) Items" [ref=e183] [cursor=pointer]:
+                        - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&Department=Men&_dcat=2996
+                        - generic [ref=e184]:
+                          - generic [ref=e185]:
+                            - checkbox [ref=e186]
+                            - generic [ref=e187]:
+                              - img
+                          - generic [ref=e189]:
+                            - generic [ref=e190]:
+                              - text: Men
+                              - generic [ref=e191]: (135,995) Items
+                            - generic [ref=e193]: (135,995)
+                    - listitem [ref=e194]:
+                      - link "Unisex (60,978) Items" [ref=e196] [cursor=pointer]:
+                        - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&Department=Unisex&_dcat=2996
+                        - generic [ref=e197]:
+                          - generic [ref=e198]:
+                            - checkbox [ref=e199]
+                            - generic [ref=e200]:
+                              - img
+                          - generic [ref=e202]:
+                            - generic [ref=e203]:
+                              - text: Unisex
+                              - generic [ref=e204]: (60,978) Items
+                            - generic [ref=e206]: (60,978)
+                    - listitem [ref=e207]:
+                      - link "Not Specified (19,709) Items" [ref=e209] [cursor=pointer]:
+                        - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&Department=%21&_dcat=2996
+                        - generic [ref=e210]:
+                          - generic [ref=e211]:
+                            - checkbox [ref=e212]
+                            - generic [ref=e213]:
+                              - img
+                          - generic [ref=e215]:
+                            - generic [ref=e216]:
+                              - text: Not Specified
+                              - generic [ref=e217]: (19,709) Items
+                            - generic [ref=e219]: (19,709)
+                - listitem [ref=e220]:
+                  - heading "Color" [level=3] [ref=e221]:
+                    - button "Color" [expanded] [ref=e222] [cursor=pointer]:
+                      - text: Color
+                      - generic [ref=e223]:
+                        - img
+                  - generic [ref=e224]:
+                    - list [ref=e226]:
+                      - listitem [ref=e227]:
+                        - link "Beige" [ref=e228] [cursor=pointer]:
+                          - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&Color=Beige&_dcat=2996
+                          - generic [ref=e229]: Beige
+                      - listitem [ref=e230]:
+                        - link "Black" [ref=e231] [cursor=pointer]:
+                          - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&Color=Black&_dcat=2996
+                          - generic [ref=e232]: Black
+                      - listitem [ref=e233]:
+                        - link "Blue" [ref=e234] [cursor=pointer]:
+                          - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&Color=Blue&_dcat=2996
+                          - generic [ref=e235]: Blue
+                      - listitem [ref=e236]:
+                        - link "Brown" [ref=e237] [cursor=pointer]:
+                          - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&Color=Brown&_dcat=2996
+                          - generic [ref=e238]: Brown
+                      - listitem [ref=e239]:
+                        - link "Gray" [ref=e240] [cursor=pointer]:
+                          - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&Color=Gray&_dcat=2996
+                          - generic [ref=e241]: Gray
+                      - listitem [ref=e242]:
+                        - link "Green" [ref=e243] [cursor=pointer]:
+                          - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&Color=Green&_dcat=2996
+                          - generic [ref=e244]: Green
+                      - listitem [ref=e245]:
+                        - link "Multicolor" [ref=e246] [cursor=pointer]:
+                          - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&Color=Multicolor&_dcat=2996
+                          - generic [ref=e247]: Multicolor
+                      - listitem [ref=e248]:
+                        - link "Pink" [ref=e249] [cursor=pointer]:
+                          - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&Color=Pink&_dcat=2996
+                          - generic [ref=e250]: Pink
+                      - listitem [ref=e251]:
+                        - link "Red" [ref=e252] [cursor=pointer]:
+                          - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&Color=Red&_dcat=2996
+                          - generic [ref=e253]: Red
+                      - listitem [ref=e254]:
+                        - link "White" [ref=e255] [cursor=pointer]:
+                          - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&Color=White&_dcat=2996
+                          - generic [ref=e256]: White
+                    - button "see all - Color - opens dialog" [ref=e259] [cursor=pointer]:
+                      - generic [ref=e260]: see all
+                - listitem [ref=e261]:
+                  - heading "Features" [level=3] [ref=e262]:
+                    - button "Features" [expanded] [ref=e263] [cursor=pointer]:
+                      - text: Features
+                      - generic [ref=e264]:
+                        - img
+                  - list [ref=e266]:
+                    - listitem [ref=e267]:
+                      - link "Folding (61,474) Items" [ref=e269] [cursor=pointer]:
+                        - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&Features=Folding&_dcat=2996
+                        - generic [ref=e270]:
+                          - generic [ref=e271]:
+                            - checkbox [ref=e272]
+                            - generic [ref=e273]:
+                              - img
+                          - generic [ref=e275]:
+                            - generic [ref=e276]:
+                              - text: Folding
+                              - generic [ref=e277]: (61,474) Items
+                            - generic [ref=e279]: (61,474)
+                    - listitem [ref=e280]:
+                      - link "Credit Card (91,092) Items" [ref=e282] [cursor=pointer]:
+                        - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&Features=Credit%2520Card&_dcat=2996
+                        - generic [ref=e283]:
+                          - generic [ref=e284]:
+                            - checkbox [ref=e285]
+                            - generic [ref=e286]:
+                              - img
+                          - generic [ref=e288]:
+                            - generic [ref=e289]:
+                              - text: Credit Card
+                              - generic [ref=e290]: (91,092) Items
+                            - generic [ref=e292]: (91,092)
+                    - listitem [ref=e293]:
+                      - link "RFID Blocking (42,382) Items" [ref=e295] [cursor=pointer]:
+                        - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&Features=RFID%2520Blocking&_dcat=2996
+                        - generic [ref=e296]:
+                          - generic [ref=e297]:
+                            - checkbox [ref=e298]
+                            - generic [ref=e299]:
+                              - img
+                          - generic [ref=e301]:
+                            - generic [ref=e302]:
+                              - text: RFID Blocking
+                              - generic [ref=e303]: (42,382) Items
+                            - generic [ref=e305]: (42,382)
+                    - listitem [ref=e306]:
+                      - link "Checkbook (10,376) Items" [ref=e308] [cursor=pointer]:
+                        - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&Features=Checkbook&_dcat=2996
+                        - generic [ref=e309]:
+                          - generic [ref=e310]:
+                            - checkbox [ref=e311]
+                            - generic [ref=e312]:
+                              - img
+                          - generic [ref=e314]:
+                            - generic [ref=e315]:
+                              - text: Checkbook
+                              - generic [ref=e316]: (10,376) Items
+                            - generic [ref=e318]: (10,376)
+                    - listitem [ref=e319]:
+                      - link "Not Specified (102,666) Items" [ref=e321] [cursor=pointer]:
+                        - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&Features=%21&_dcat=2996
+                        - generic [ref=e322]:
+                          - generic [ref=e323]:
+                            - checkbox [ref=e324]
+                            - generic [ref=e325]:
+                              - img
+                          - generic [ref=e327]:
+                            - generic [ref=e328]:
+                              - text: Not Specified
+                              - generic [ref=e329]: (102,666) Items
+                            - generic [ref=e331]: (102,666)
+                - listitem [ref=e332]:
+                  - heading "Material" [level=3] [ref=e333]:
+                    - button "Material" [expanded] [ref=e334] [cursor=pointer]:
+                      - text: Material
+                      - generic [ref=e335]:
+                        - img
+                  - generic [ref=e336]:
+                    - list [ref=e337]:
+                      - listitem [ref=e338]:
+                        - link "Leather (176,372) Items" [ref=e340] [cursor=pointer]:
+                          - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&Material=Leather&_dcat=2996
+                          - generic [ref=e341]:
+                            - generic [ref=e342]:
+                              - checkbox [ref=e343]
+                              - generic [ref=e344]:
+                                - img
+                            - generic [ref=e346]:
+                              - generic [ref=e347]:
+                                - text: Leather
+                                - generic [ref=e348]: (176,372) Items
+                              - generic [ref=e350]: (176,372)
+                      - listitem [ref=e351]:
+                        - link "Faux Leather (29,253) Items" [ref=e353] [cursor=pointer]:
+                          - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&Material=Faux%2520Leather&_dcat=2996
+                          - generic [ref=e354]:
+                            - generic [ref=e355]:
+                              - checkbox [ref=e356]
+                              - generic [ref=e357]:
+                                - img
+                            - generic [ref=e359]:
+                              - generic [ref=e360]:
+                                - text: Faux Leather
+                                - generic [ref=e361]: (29,253) Items
+                              - generic [ref=e363]: (29,253)
+                      - listitem [ref=e364]:
+                        - link "Polyester (2,356) Items" [ref=e366] [cursor=pointer]:
+                          - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&Material=Polyester&_dcat=2996
+                          - generic [ref=e367]:
+                            - generic [ref=e368]:
+                              - checkbox [ref=e369]
+                              - generic [ref=e370]:
+                                - img
+                            - generic [ref=e372]:
+                              - generic [ref=e373]:
+                                - text: Polyester
+                                - generic [ref=e374]: (2,356) Items
+                              - generic [ref=e376]: (2,356)
+                      - listitem [ref=e377]:
+                        - link "Aluminum (1,948) Items" [ref=e379] [cursor=pointer]:
+                          - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&Material=Aluminum&_dcat=2996
+                          - generic [ref=e380]:
+                            - generic [ref=e381]:
+                              - checkbox [ref=e382]
+                              - generic [ref=e383]:
+                                - img
+                            - generic [ref=e385]:
+                              - generic [ref=e386]:
+                                - text: Aluminum
+                                - generic [ref=e387]: (1,948) Items
+                              - generic [ref=e389]: (1,948)
+                      - listitem [ref=e390]:
+                        - link "Nylon (1,672) Items" [ref=e392] [cursor=pointer]:
+                          - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&Material=Nylon&_dcat=2996
+                          - generic [ref=e393]:
+                            - generic [ref=e394]:
+                              - checkbox [ref=e395]
+                              - generic [ref=e396]:
+                                - img
+                            - generic [ref=e398]:
+                              - generic [ref=e399]:
+                                - text: Nylon
+                                - generic [ref=e400]: (1,672) Items
+                              - generic [ref=e402]: (1,672)
+                      - listitem [ref=e403]:
+                        - link "Plastic (1,204) Items" [ref=e405] [cursor=pointer]:
+                          - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&Material=Plastic&_dcat=2996
+                          - generic [ref=e406]:
+                            - generic [ref=e407]:
+                              - checkbox [ref=e408]
+                              - generic [ref=e409]:
+                                - img
+                            - generic [ref=e411]:
+                              - generic [ref=e412]:
+                                - text: Plastic
+                                - generic [ref=e413]: (1,204) Items
+                              - generic [ref=e415]: (1,204)
+                      - listitem [ref=e416]:
+                        - link "Bronze (916) Items" [ref=e418] [cursor=pointer]:
+                          - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&Material=Bronze&_dcat=2996
+                          - generic [ref=e419]:
+                            - generic [ref=e420]:
+                              - checkbox [ref=e421]
+                              - generic [ref=e422]:
+                                - img
+                            - generic [ref=e424]:
+                              - generic [ref=e425]:
+                                - text: Bronze
+                                - generic [ref=e426]: (916) Items
+                              - generic [ref=e428]: (916)
+                      - listitem [ref=e429]:
+                        - link "Stainless Steel (894) Items" [ref=e431] [cursor=pointer]:
+                          - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&Material=Stainless%2520Steel&_dcat=2996
+                          - generic [ref=e432]:
+                            - generic [ref=e433]:
+                              - checkbox [ref=e434]
+                              - generic [ref=e435]:
+                                - img
+                            - generic [ref=e437]:
+                              - generic [ref=e438]:
+                                - text: Stainless Steel
+                                - generic [ref=e439]: (894) Items
+                              - generic [ref=e441]: (894)
+                    - button "see all - Material - opens dialog" [ref=e444] [cursor=pointer]:
+                      - generic [ref=e445]: see all
+                - listitem [ref=e446]:
+                  - heading "Brand" [level=3] [ref=e447]:
+                    - button "Brand" [expanded] [ref=e448] [cursor=pointer]:
+                      - text: Brand
+                      - generic [ref=e449]:
+                        - img
+                  - generic [ref=e450]:
+                    - list [ref=e451]:
+                      - listitem [ref=e452]:
+                        - link "Buckle-Down (9,008) Items" [ref=e454] [cursor=pointer]:
+                          - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&Brand=Buckle%252DDown&_dcat=2996
+                          - generic [ref=e455]:
+                            - generic [ref=e456]:
+                              - checkbox [ref=e457]
+                              - generic [ref=e458]:
+                                - img
+                            - generic [ref=e460]:
+                              - generic [ref=e461]:
+                                - text: Buckle-Down
+                                - generic [ref=e462]: (9,008) Items
+                              - generic [ref=e464]: (9,008)
+                      - listitem [ref=e465]:
+                        - link "Calvin Klein (686) Items" [ref=e467] [cursor=pointer]:
+                          - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&Brand=Calvin%2520Klein&_dcat=2996
+                          - generic [ref=e468]:
+                            - generic [ref=e469]:
+                              - checkbox [ref=e470]
+                              - generic [ref=e471]:
+                                - img
+                            - generic [ref=e473]:
+                              - generic [ref=e474]:
+                                - text: Calvin Klein
+                                - generic [ref=e475]: (686) Items
+                              - generic [ref=e477]: (686)
+                      - listitem [ref=e478]:
+                        - link "Coach (1,554) Items" [ref=e480] [cursor=pointer]:
+                          - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&Brand=Coach&_dcat=2996
+                          - generic [ref=e481]:
+                            - generic [ref=e482]:
+                              - checkbox [ref=e483]
+                              - generic [ref=e484]:
+                                - img
+                            - generic [ref=e486]:
+                              - generic [ref=e487]:
+                                - text: Coach
+                                - generic [ref=e488]: (1,554) Items
+                              - generic [ref=e490]: (1,554)
+                      - listitem [ref=e491]:
+                        - link "Fossil (450) Items" [ref=e493] [cursor=pointer]:
+                          - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&Brand=Fossil&_dcat=2996
+                          - generic [ref=e494]:
+                            - generic [ref=e495]:
+                              - checkbox [ref=e496]
+                              - generic [ref=e497]:
+                                - img
+                            - generic [ref=e499]:
+                              - generic [ref=e500]:
+                                - text: Fossil
+                                - generic [ref=e501]: (450) Items
+                              - generic [ref=e503]: (450)
+                      - listitem [ref=e504]:
+                        - link "Handmade (13,195) Items" [ref=e506] [cursor=pointer]:
+                          - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&Brand=Handmade&_dcat=2996
+                          - generic [ref=e507]:
+                            - generic [ref=e508]:
+                              - checkbox [ref=e509]
+                              - generic [ref=e510]:
+                                - img
+                            - generic [ref=e512]:
+                              - generic [ref=e513]:
+                                - text: Handmade
+                                - generic [ref=e514]: (13,195) Items
+                              - generic [ref=e516]: (13,195)
+                      - listitem [ref=e517]:
+                        - link "Louis Vuitton (5,273) Items" [ref=e519] [cursor=pointer]:
+                          - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&Brand=Louis%2520Vuitton&_dcat=2996
+                          - generic [ref=e520]:
+                            - generic [ref=e521]:
+                              - checkbox [ref=e522]
+                              - generic [ref=e523]:
+                                - img
+                            - generic [ref=e525]:
+                              - generic [ref=e526]:
+                                - text: Louis Vuitton
+                                - generic [ref=e527]: (5,273) Items
+                              - generic [ref=e529]: (5,273)
+                      - listitem [ref=e530]:
+                        - link "Tommy Hilfiger (974) Items" [ref=e532] [cursor=pointer]:
+                          - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&Brand=Tommy%2520Hilfiger&_dcat=2996
+                          - generic [ref=e533]:
+                            - generic [ref=e534]:
+                              - checkbox [ref=e535]
+                              - generic [ref=e536]:
+                                - img
+                            - generic [ref=e538]:
+                              - generic [ref=e539]:
+                                - text: Tommy Hilfiger
+                                - generic [ref=e540]: (974) Items
+                              - generic [ref=e542]: (974)
+                      - listitem [ref=e543]:
+                        - link "Unbranded (68,607) Items" [ref=e545] [cursor=pointer]:
+                          - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&Brand=Unbranded&_dcat=2996
+                          - generic [ref=e546]:
+                            - generic [ref=e547]:
+                              - checkbox [ref=e548]
+                              - generic [ref=e549]:
+                                - img
+                            - generic [ref=e551]:
+                              - generic [ref=e552]:
+                                - text: Unbranded
+                                - generic [ref=e553]: (68,607) Items
+                              - generic [ref=e555]: (68,607)
+                    - button "see all - Brand - opens dialog" [ref=e558] [cursor=pointer]:
+                      - generic [ref=e559]: see all
+                - listitem [ref=e560]:
+                  - heading "Style" [level=3] [ref=e561]:
+                    - button "Style" [ref=e562] [cursor=pointer]:
+                      - text: Style
+                      - generic [ref=e563]:
+                        - img
+                - listitem [ref=e564]:
+                  - heading "Type" [level=3] [ref=e565]:
+                    - button "Type" [ref=e566] [cursor=pointer]:
+                      - text: Type
+                      - generic [ref=e567]:
+                        - img
+                - listitem [ref=e568]:
+                  - heading "Theme" [level=3] [ref=e569]:
+                    - button "Theme" [ref=e570] [cursor=pointer]:
+                      - text: Theme
+                      - generic [ref=e571]:
+                        - img
+                - listitem [ref=e572]:
+                  - heading "Accents" [level=3] [ref=e573]:
+                    - button "Accents" [ref=e574] [cursor=pointer]:
+                      - text: Accents
+                      - generic [ref=e575]:
+                        - img
+            - listitem [ref=e576]:
+              - heading "Price" [level=3] [ref=e577]:
+                - button "Price" [expanded] [ref=e578] [cursor=pointer]:
+                  - text: Price
+                  - generic [ref=e579]:
+                    - img
+              - generic [ref=e581]:
+                - list [ref=e583]:
+                  - listitem [ref=e584]:
+                    - link "Under $15.00" [ref=e585] [cursor=pointer]:
+                      - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&rt=nc&_udhi=15
+                      - generic [ref=e586]:
+                        - generic [ref=e587]:
+                          - checkbox [ref=e588]
+                          - generic [ref=e589]:
+                            - img
+                        - generic [ref=e592]: Under $15.00
+                  - listitem [ref=e595]:
+                    - link "$15.00 to $25.00" [ref=e596] [cursor=pointer]:
+                      - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&rt=nc&_udlo=15&_udhi=25
+                      - generic [ref=e597]:
+                        - generic [ref=e598]:
+                          - checkbox [ref=e599]
+                          - generic [ref=e600]:
+                            - img
+                        - generic [ref=e603]: $15.00 to $25.00
+                  - listitem [ref=e606]:
+                    - link "Over $25.00" [ref=e607] [cursor=pointer]:
+                      - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&rt=nc&_udlo=25
+                      - generic [ref=e608]:
+                        - generic [ref=e609]:
+                          - checkbox [ref=e610]
+                          - generic [ref=e611]:
+                            - img
+                        - generic [ref=e614]: Over $25.00
+                - generic [ref=e617]:
+                  - generic [ref=e619]:
+                    - generic [ref=e620]:
+                      - generic [ref=e622]: $
+                      - generic [ref=e624]:
+                        - generic: Min
+                        - textbox "Minimum Value in $" [ref=e626]
+                    - generic [ref=e627]: to
+                    - generic [ref=e628]:
+                      - generic [ref=e630]: $
+                      - generic [ref=e632]:
+                        - generic: Max
+                        - textbox "Maximum Value in $" [ref=e634]
+                    - generic [ref=e635]:
+                      - button "Submit price range" [disabled]:
+                        - img
+                  - alert
+                - generic "Graph of available inventory between $0 and $1500+" [ref=e637]:
+                  - generic [ref=e638]: Available inventory
+                  - generic [ref=e639]:
+                    - 'img "Price Range ($): 0-50. Available Inventory: 156667." [ref=e640]'
+                    - 'img "Price Range ($): 50-100. Available Inventory: 23437." [ref=e641]'
+                    - 'img "Price Range ($): 100-150. Available Inventory: 6235." [ref=e642]'
+                    - 'img "Price Range ($): 150-200. Available Inventory: 4715." [ref=e643]'
+                    - 'img "Price Range ($): 200-250. Available Inventory: 3048." [ref=e644]'
+                    - 'img "Price Range ($): 250-300. Available Inventory: 2719." [ref=e645]'
+                    - 'img "Price Range ($): 300-400. Available Inventory: 3900." [ref=e646]'
+                    - 'img "Price Range ($): 400-500. Available Inventory: 2994." [ref=e647]'
+                    - 'img "Price Range ($): 500-600. Available Inventory: 2067." [ref=e648]'
+                    - 'img "Price Range ($): 600-700. Available Inventory: 1512." [ref=e649]'
+                    - 'img "Price Range ($): 700-800. Available Inventory: 1055." [ref=e650]'
+                    - 'img "Price Range ($): 800-900. Available Inventory: 712." [ref=e651]'
+                    - 'img "Price Range ($): 900-1000. Available Inventory: 541." [ref=e652]'
+                    - 'img "Price Range ($): 1000-1500. Available Inventory: 1115." [ref=e653]'
+                    - 'img "Price Range ($): 1500-null. Available Inventory: 691." [ref=e654]'
+                  - generic [ref=e657]:
+                    - generic [ref=e658] [cursor=pointer]:
+                      - generic:
+                        - generic: $
+                        - generic: "0"
+                    - generic [ref=e659] [cursor=pointer]:
+                      - generic:
+                        - generic: $
+                        - generic: 1500+
+            - listitem [ref=e660]:
+              - heading "Condition" [level=3] [ref=e661]:
+                - button "Condition" [expanded] [ref=e662] [cursor=pointer]:
+                  - text: Condition
+                  - generic [ref=e663]:
+                    - img
+              - generic [ref=e664]:
+                - list [ref=e665]:
+                  - listitem [ref=e666]:
+                    - link "New with tags (151,042) Items" [ref=e668] [cursor=pointer]:
+                      - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&rt=nc&LH_ItemCondition=1000
+                      - generic [ref=e669]:
+                        - generic [ref=e670]:
+                          - checkbox [ref=e671]
+                          - generic [ref=e672]:
+                            - img
+                        - generic [ref=e674]:
+                          - generic [ref=e675]:
+                            - text: New with tags
+                            - generic [ref=e676]: (151,042) Items
+                          - generic [ref=e678]: (151,042)
+                  - listitem [ref=e679]:
+                    - link "New without tags (27,772) Items" [ref=e681] [cursor=pointer]:
+                      - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&rt=nc&LH_ItemCondition=1500
+                      - generic [ref=e682]:
+                        - generic [ref=e683]:
+                          - checkbox [ref=e684]
+                          - generic [ref=e685]:
+                            - img
+                        - generic [ref=e687]:
+                          - generic [ref=e688]:
+                            - text: New without tags
+                            - generic [ref=e689]: (27,772) Items
+                          - generic [ref=e691]: (27,772)
+                  - listitem [ref=e692]:
+                    - link "New with imperfections (1,734) Items" [ref=e694] [cursor=pointer]:
+                      - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&rt=nc&LH_ItemCondition=1750
+                      - generic [ref=e695]:
+                        - generic [ref=e696]:
+                          - checkbox [ref=e697]
+                          - generic [ref=e698]:
+                            - img
+                        - generic [ref=e700]:
+                          - generic [ref=e701]:
+                            - text: New with imperfections
+                            - generic [ref=e702]: (1,734) Items
+                          - generic [ref=e704]: (1,734)
+                  - listitem [ref=e705]:
+                    - link "Pre-Owned (34,875) Items" [ref=e707] [cursor=pointer]:
+                      - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&rt=nc&LH_ItemCondition=3000
+                      - generic [ref=e708]:
+                        - generic [ref=e709]:
+                          - checkbox [ref=e710]
+                          - generic [ref=e711]:
+                            - img
+                        - generic [ref=e713]:
+                          - generic [ref=e714]:
+                            - text: Pre-Owned
+                            - generic [ref=e715]: (34,875) Items
+                          - generic [ref=e717]: (34,875)
+                  - listitem [ref=e718]:
+                    - link "Not Specified (18) Items" [ref=e720] [cursor=pointer]:
+                      - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&rt=nc&LH_ItemCondition=10
+                      - generic [ref=e721]:
+                        - generic [ref=e722]:
+                          - checkbox [ref=e723]
+                          - generic [ref=e724]:
+                            - img
+                        - generic [ref=e726]:
+                          - generic [ref=e727]:
+                            - text: Not Specified
+                            - generic [ref=e728]: (18) Items
+                          - generic [ref=e730]: (18)
+                - button "see all - Condition - opens dialog" [ref=e733] [cursor=pointer]:
+                  - generic [ref=e734]: see all
+            - listitem [ref=e735]:
+              - heading "Buying Format" [level=3] [ref=e736]:
+                - button "Buying Format" [expanded] [ref=e737] [cursor=pointer]:
+                  - text: Buying Format
+                  - generic [ref=e738]:
+                    - img
+              - list [ref=e740]:
+                - listitem [ref=e741]:
+                  - link "All Listings (215,441) Items" [ref=e743] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&rt=nc
+                    - generic [ref=e745]:
+                      - generic [ref=e746]:
+                        - radio [checked] [ref=e747]
+                        - generic [ref=e748]:
+                          - img
+                      - generic [ref=e749]:
+                        - text: All Listings
+                        - generic "(215,441) Items" [ref=e750]: (215,441)
+                - listitem [ref=e752]:
+                  - link "Auction (1,684) Items" [ref=e754] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&rt=nc&LH_Auction=1
+                    - generic [ref=e756]:
+                      - generic [ref=e757]:
+                        - radio [ref=e758]
+                        - generic [ref=e759]:
+                          - img
+                      - generic [ref=e760]:
+                        - text: Auction
+                        - generic "(1,684) Items" [ref=e761]: (1,684)
+                - listitem [ref=e762]:
+                  - link "Buy It Now (214,141) Items" [ref=e764] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&rt=nc&LH_BIN=1
+                    - generic [ref=e766]:
+                      - generic [ref=e767]:
+                        - radio [ref=e768]
+                        - generic [ref=e769]:
+                          - img
+                      - generic [ref=e770]:
+                        - text: Buy It Now
+                        - generic "(214,141) Items" [ref=e771]: (214,141)
+                - listitem [ref=e772]:
+                  - link "Accepts Offers (57,485) Items" [ref=e774] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&rt=nc&LH_BO=1
+                    - generic [ref=e776]:
+                      - generic [ref=e777]:
+                        - radio [ref=e778]
+                        - generic [ref=e779]:
+                          - img
+                      - generic [ref=e780]:
+                        - text: Accepts Offers
+                        - generic "(57,485) Items" [ref=e781]: (57,485)
+            - listitem [ref=e782]:
+              - heading "Item Location" [level=3] [ref=e783]:
+                - button "Item Location" [expanded] [ref=e784] [cursor=pointer]:
+                  - text: Item Location
+                  - generic [ref=e785]:
+                    - img
+              - list [ref=e787]:
+                - listitem [ref=e788]:
+                  - link "Default" [ref=e790] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&rt=nc&LH_PrefLoc=98
+                    - generic [ref=e792]:
+                      - generic [ref=e793]:
+                        - radio [checked] [ref=e794]
+                        - generic [ref=e795]:
+                          - img
+                      - generic [ref=e796]: Default
+                - listitem [ref=e798]:
+                  - link "US Only" [ref=e800] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&rt=nc&LH_PrefLoc=3
+                    - generic [ref=e802]:
+                      - generic [ref=e803]:
+                        - radio [ref=e804]
+                        - generic [ref=e805]:
+                          - img
+                      - generic [ref=e806]: US Only
+                - listitem [ref=e807]:
+                  - link "North America" [ref=e809] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&rt=nc&LH_PrefLoc=4
+                    - generic [ref=e811]:
+                      - generic [ref=e812]:
+                        - radio [ref=e813]
+                        - generic [ref=e814]:
+                          - img
+                      - generic [ref=e815]: North America
+                - listitem [ref=e816]:
+                  - link "Europe" [ref=e818] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&rt=nc&LH_PrefLoc=5
+                    - generic [ref=e820]:
+                      - generic [ref=e821]:
+                        - radio [ref=e822]
+                        - generic [ref=e823]:
+                          - img
+                      - generic [ref=e824]: Europe
+                - listitem [ref=e825]:
+                  - link "Asia" [ref=e827] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&rt=nc&LH_PrefLoc=6
+                    - generic [ref=e829]:
+                      - generic [ref=e830]:
+                        - radio [ref=e831]
+                        - generic [ref=e832]:
+                          - img
+                      - generic [ref=e833]: Asia
+            - listitem [ref=e834]:
+              - heading "Show only" [level=3] [ref=e835]:
+                - button "Show only" [expanded] [ref=e836] [cursor=pointer]:
+                  - text: Show only
+                  - generic [ref=e837]:
+                    - img
+              - generic [ref=e838]:
+                - list [ref=e839]:
+                  - listitem [ref=e840]:
+                    - link "Free Returns" [ref=e842] [cursor=pointer]:
+                      - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&rt=nc&LH_FR=1
+                      - generic [ref=e843]:
+                        - generic [ref=e844]:
+                          - checkbox [ref=e845]
+                          - generic [ref=e846]:
+                            - img
+                        - generic [ref=e849]: Free Returns
+                  - listitem [ref=e852]:
+                    - link "Returns Accepted" [ref=e854] [cursor=pointer]:
+                      - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&rt=nc&LH_RPA=1
+                      - generic [ref=e855]:
+                        - generic [ref=e856]:
+                          - checkbox [ref=e857]
+                          - generic [ref=e858]:
+                            - img
+                        - generic [ref=e861]: Returns Accepted
+                  - listitem [ref=e864]:
+                    - link "Authorized Seller" [ref=e866] [cursor=pointer]:
+                      - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&rt=nc&LH_AS=1
+                      - generic [ref=e867]:
+                        - generic [ref=e868]:
+                          - checkbox [ref=e869]
+                          - generic [ref=e870]:
+                            - img
+                        - generic [ref=e873]: Authorized Seller
+                  - listitem [ref=e876]:
+                    - link "Completed Items" [ref=e878] [cursor=pointer]:
+                      - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&rt=nc&LH_Complete=1
+                      - generic [ref=e879]:
+                        - generic [ref=e880]:
+                          - checkbox [ref=e881]
+                          - generic [ref=e882]:
+                            - img
+                        - generic [ref=e885]: Completed Items
+                  - listitem [ref=e888]:
+                    - link "Sold Items" [ref=e890] [cursor=pointer]:
+                      - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&rt=nc&LH_Sold=1
+                      - generic [ref=e891]:
+                        - generic [ref=e892]:
+                          - checkbox [ref=e893]
+                          - generic [ref=e894]:
+                            - img
+                        - generic [ref=e897]: Sold Items
+                  - listitem [ref=e900]:
+                    - link "Deals & Savings" [ref=e902] [cursor=pointer]:
+                      - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&rt=nc&LH_Savings=1
+                      - generic [ref=e903]:
+                        - generic [ref=e904]:
+                          - checkbox [ref=e905]
+                          - generic [ref=e906]:
+                            - img
+                        - generic [ref=e909]: Deals & Savings
+                - button "see all - Show only - opens dialog" [ref=e914] [cursor=pointer]:
+                  - generic [ref=e915]: see all
+        - listitem [ref=e916]:
+          - button "More filters..." [ref=e918] [cursor=pointer]:
+            - generic [ref=e919]: More filters...
+    - main [ref=e920]:
+      - generic [ref=e921]:
+        - generic [ref=e927]:
+          - link [ref=e928] [cursor=pointer]:
+            - /url: https://www.ebay.com/str/thetraveloutlet?_sacat=52357&promoted_items=356471628781%2C358093933602%2C357980042243&itmprp=encpd%3AAQALAAADAP06x7d290z65THDxQW%2FflxIiHb%2Bb5pSOkYpt01K1w1p7J8bPDwcn5yMS8Uuh7Ke%2BcHeQJJdEAbE2pu1WUssDggiztuZ03y6GTnka6rfucZoY%2F%2FpD8l6ec2ddblnilyptUAmr8%2BXKPXTAGjCV3QrnKZYJIoXYEb3QBg9xYh6FierdMvukbZs48wmJZsJrPGENA2jzM%2FeqOu4lyYBz2nhYWU%2FxDAGDcpMNErdAUn%2BZHV4%2BUzOrXoNojQMgH4bw%2FKgBT63uF9u1AkVyejdGlAqwyReojOFXIQDBrHvWhZ%2FVMjtJ1V9nJU%2FlcrwZ2EVkHdxyqOYxWD2IwFTbAN69E5aRqkm95dHBw0bdQeG7RJz28q%2FBgHyEGmJvua5xxSGlx7W524Qu4Z10rlGuN%2BIAji7DY2u8Vp0pqsvEO0aOR41r9d244rAwGAujZ53XeiPDgL5ZRBDhgLCVOw5ZSrvWc9mpAUaEg2PHxS8zLODWLisDwkns%2FDK7mJ%2BivCRkuVuGldQCfAzbmLe8ygoVpANKJCUxI8%2Fb0OTj1iIUJ%2Fd5JQ%2BcpD%2FBfVycfBiXyWtyaRpi4385dvn2VP5wpRF2idO18lmSInGhf2YxBRoIcd9XcgWvt8q2j71kjmKWGzF%2BbS%2Bqj6owHBSA%2FJnq4agzz179VQX1AEnjrhlXgGhzb1goXmjiJV5bxFNNCGlq4H%2F9JBOtGDUDA5b2nXH7sF5RbmL9J7d%2BdQBilh%2BfmaETZWUcWbBHTWxZi4AQc4wT0Cqp2r9iwyADezGEExQTMvuH%2Fo4kzkjBlU5CwtWVM1WUT44vPVUljCMHIhyCjozbuB%2F4%2BNmQxuuROqZUOjtjJjzoF%2BcTr8%2B9j7BXLqxbM%2FfuEkKUxKn9IapLCW%2BgY2N6BI2Ujl0pS95PEGfLR4KXA1VlmuSyt3iChYt8mSXFxVTPIywaLXQc%2FysQVz6fVXiNTN7zQ8b7A2SBBvAsOaC4yPMsnvrE3%2BAJtCDVYIZEfoWhAnQW1WwqPXugFlXKwht7OUDxV6ZNQWpQA%3D%3D&itmmeta=wwHmKhYwY%2Fjx0DQwMUtKRVZWWFdKUUJBQlhNTU5DSzZQUTgzQjQwMUtKRVZWWE1CQ1FCMzZWUjdFMFhWTVNINragDA%3D%3D
+          - generic [ref=e929]:
+            - link "Luggage Online Outlet" [ref=e932] [cursor=pointer]:
+              - /url: https://www.ebay.com/str/thetraveloutlet?_sacat=52357&promoted_items=356471628781%2C358093933602%2C357980042243&itmprp=encpd%3AAQALAAADAP06x7d290z65THDxQW%2FflxIiHb%2Bb5pSOkYpt01K1w1p7J8bPDwcn5yMS8Uuh7Ke%2BcHeQJJdEAbE2pu1WUssDggiztuZ03y6GTnka6rfucZoY%2F%2FpD8l6ec2ddblnilyptUAmr8%2BXKPXTAGjCV3QrnKZYJIoXYEb3QBg9xYh6FierdMvukbZs48wmJZsJrPGENA2jzM%2FeqOu4lyYBz2nhYWU%2FxDAGDcpMNErdAUn%2BZHV4%2BUzOrXoNojQMgH4bw%2FKgBT63uF9u1AkVyejdGlAqwyReojOFXIQDBrHvWhZ%2FVMjtJ1V9nJU%2FlcrwZ2EVkHdxyqOYxWD2IwFTbAN69E5aRqkm95dHBw0bdQeG7RJz28q%2FBgHyEGmJvua5xxSGlx7W524Qu4Z10rlGuN%2BIAji7DY2u8Vp0pqsvEO0aOR41r9d244rAwGAujZ53XeiPDgL5ZRBDhgLCVOw5ZSrvWc9mpAUaEg2PHxS8zLODWLisDwkns%2FDK7mJ%2BivCRkuVuGldQCfAzbmLe8ygoVpANKJCUxI8%2Fb0OTj1iIUJ%2Fd5JQ%2BcpD%2FBfVycfBiXyWtyaRpi4385dvn2VP5wpRF2idO18lmSInGhf2YxBRoIcd9XcgWvt8q2j71kjmKWGzF%2BbS%2Bqj6owHBSA%2FJnq4agzz179VQX1AEnjrhlXgGhzb1goXmjiJV5bxFNNCGlq4H%2F9JBOtGDUDA5b2nXH7sF5RbmL9J7d%2BdQBilh%2BfmaETZWUcWbBHTWxZi4AQc4wT0Cqp2r9iwyADezGEExQTMvuH%2Fo4kzkjBlU5CwtWVM1WUT44vPVUljCMHIhyCjozbuB%2F4%2BNmQxuuROqZUOjtjJjzoF%2BcTr8%2B9j7BXLqxbM%2FfuEkKUxKn9IapLCW%2BgY2N6BI2Ujl0pS95PEGfLR4KXA1VlmuSyt3iChYt8mSXFxVTPIywaLXQc%2FysQVz6fVXiNTN7zQ8b7A2SBBvAsOaC4yPMsnvrE3%2BAJtCDVYIZEfoWhAnQW1WwqPXugFlXKwht7OUDxV6ZNQWpQA%3D%3D&itmmeta=wwHmKhYwY%2Fjx0DQwMUtKRVZWWFdKUUJBQlhNTU5DSzZQUTgzQjQwMUtKRVZWWE1CQ1FCMzZWUjdFMFhWTVNINragDA%3D%3D
+              - img "Luggage Online Outlet" [ref=e933]
+            - generic [ref=e934]:
+              - link "Luggage Online Outlet" [ref=e937] [cursor=pointer]:
+                - /url: https://www.ebay.com/str/thetraveloutlet?_sacat=52357&promoted_items=356471628781%2C358093933602%2C357980042243&itmprp=encpd%3AAQALAAADAP06x7d290z65THDxQW%2FflxIiHb%2Bb5pSOkYpt01K1w1p7J8bPDwcn5yMS8Uuh7Ke%2BcHeQJJdEAbE2pu1WUssDggiztuZ03y6GTnka6rfucZoY%2F%2FpD8l6ec2ddblnilyptUAmr8%2BXKPXTAGjCV3QrnKZYJIoXYEb3QBg9xYh6FierdMvukbZs48wmJZsJrPGENA2jzM%2FeqOu4lyYBz2nhYWU%2FxDAGDcpMNErdAUn%2BZHV4%2BUzOrXoNojQMgH4bw%2FKgBT63uF9u1AkVyejdGlAqwyReojOFXIQDBrHvWhZ%2FVMjtJ1V9nJU%2FlcrwZ2EVkHdxyqOYxWD2IwFTbAN69E5aRqkm95dHBw0bdQeG7RJz28q%2FBgHyEGmJvua5xxSGlx7W524Qu4Z10rlGuN%2BIAji7DY2u8Vp0pqsvEO0aOR41r9d244rAwGAujZ53XeiPDgL5ZRBDhgLCVOw5ZSrvWc9mpAUaEg2PHxS8zLODWLisDwkns%2FDK7mJ%2BivCRkuVuGldQCfAzbmLe8ygoVpANKJCUxI8%2Fb0OTj1iIUJ%2Fd5JQ%2BcpD%2FBfVycfBiXyWtyaRpi4385dvn2VP5wpRF2idO18lmSInGhf2YxBRoIcd9XcgWvt8q2j71kjmKWGzF%2BbS%2Bqj6owHBSA%2FJnq4agzz179VQX1AEnjrhlXgGhzb1goXmjiJV5bxFNNCGlq4H%2F9JBOtGDUDA5b2nXH7sF5RbmL9J7d%2BdQBilh%2BfmaETZWUcWbBHTWxZi4AQc4wT0Cqp2r9iwyADezGEExQTMvuH%2Fo4kzkjBlU5CwtWVM1WUT44vPVUljCMHIhyCjozbuB%2F4%2BNmQxuuROqZUOjtjJjzoF%2BcTr8%2B9j7BXLqxbM%2FfuEkKUxKn9IapLCW%2BgY2N6BI2Ujl0pS95PEGfLR4KXA1VlmuSyt3iChYt8mSXFxVTPIywaLXQc%2FysQVz6fVXiNTN7zQ8b7A2SBBvAsOaC4yPMsnvrE3%2BAJtCDVYIZEfoWhAnQW1WwqPXugFlXKwht7OUDxV6ZNQWpQA%3D%3D&itmmeta=wwHmKhYwY%2Fjx0DQwMUtKRVZWWFdKUUJBQlhNTU5DSzZQUTgzQjQwMUtKRVZWWE1CQ1FCMzZWUjdFMFhWTVNINragDA%3D%3D
+              - link "12K items sold" [ref=e940] [cursor=pointer]:
+                - /url: https://www.ebay.com/str/thetraveloutlet?_sacat=52357&promoted_items=356471628781%2C358093933602%2C357980042243&itmprp=encpd%3AAQALAAADAP06x7d290z65THDxQW%2FflxIiHb%2Bb5pSOkYpt01K1w1p7J8bPDwcn5yMS8Uuh7Ke%2BcHeQJJdEAbE2pu1WUssDggiztuZ03y6GTnka6rfucZoY%2F%2FpD8l6ec2ddblnilyptUAmr8%2BXKPXTAGjCV3QrnKZYJIoXYEb3QBg9xYh6FierdMvukbZs48wmJZsJrPGENA2jzM%2FeqOu4lyYBz2nhYWU%2FxDAGDcpMNErdAUn%2BZHV4%2BUzOrXoNojQMgH4bw%2FKgBT63uF9u1AkVyejdGlAqwyReojOFXIQDBrHvWhZ%2FVMjtJ1V9nJU%2FlcrwZ2EVkHdxyqOYxWD2IwFTbAN69E5aRqkm95dHBw0bdQeG7RJz28q%2FBgHyEGmJvua5xxSGlx7W524Qu4Z10rlGuN%2BIAji7DY2u8Vp0pqsvEO0aOR41r9d244rAwGAujZ53XeiPDgL5ZRBDhgLCVOw5ZSrvWc9mpAUaEg2PHxS8zLODWLisDwkns%2FDK7mJ%2BivCRkuVuGldQCfAzbmLe8ygoVpANKJCUxI8%2Fb0OTj1iIUJ%2Fd5JQ%2BcpD%2FBfVycfBiXyWtyaRpi4385dvn2VP5wpRF2idO18lmSInGhf2YxBRoIcd9XcgWvt8q2j71kjmKWGzF%2BbS%2Bqj6owHBSA%2FJnq4agzz179VQX1AEnjrhlXgGhzb1goXmjiJV5bxFNNCGlq4H%2F9JBOtGDUDA5b2nXH7sF5RbmL9J7d%2BdQBilh%2BfmaETZWUcWbBHTWxZi4AQc4wT0Cqp2r9iwyADezGEExQTMvuH%2Fo4kzkjBlU5CwtWVM1WUT44vPVUljCMHIhyCjozbuB%2F4%2BNmQxuuROqZUOjtjJjzoF%2BcTr8%2B9j7BXLqxbM%2FfuEkKUxKn9IapLCW%2BgY2N6BI2Ujl0pS95PEGfLR4KXA1VlmuSyt3iChYt8mSXFxVTPIywaLXQc%2FysQVz6fVXiNTN7zQ8b7A2SBBvAsOaC4yPMsnvrE3%2BAJtCDVYIZEfoWhAnQW1WwqPXugFlXKwht7OUDxV6ZNQWpQA%3D%3D&itmmeta=wwHmKhYwY%2Fjx0DQwMUtKRVZWWFdKUUJBQlhNTU5DSzZQUTgzQjQwMUtKRVZWWE1CQ1FCMzZWUjdFMFhWTVNINragDA%3D%3D
+                - generic [ref=e942]: 12K items sold
+              - link "Shop store on eBay" [ref=e945] [cursor=pointer]:
+                - /url: https://www.ebay.com/str/thetraveloutlet?_sacat=52357&promoted_items=356471628781%2C358093933602%2C357980042243&itmprp=encpd%3AAQALAAADAP06x7d290z65THDxQW%2FflxIiHb%2Bb5pSOkYpt01K1w1p7J8bPDwcn5yMS8Uuh7Ke%2BcHeQJJdEAbE2pu1WUssDggiztuZ03y6GTnka6rfucZoY%2F%2FpD8l6ec2ddblnilyptUAmr8%2BXKPXTAGjCV3QrnKZYJIoXYEb3QBg9xYh6FierdMvukbZs48wmJZsJrPGENA2jzM%2FeqOu4lyYBz2nhYWU%2FxDAGDcpMNErdAUn%2BZHV4%2BUzOrXoNojQMgH4bw%2FKgBT63uF9u1AkVyejdGlAqwyReojOFXIQDBrHvWhZ%2FVMjtJ1V9nJU%2FlcrwZ2EVkHdxyqOYxWD2IwFTbAN69E5aRqkm95dHBw0bdQeG7RJz28q%2FBgHyEGmJvua5xxSGlx7W524Qu4Z10rlGuN%2BIAji7DY2u8Vp0pqsvEO0aOR41r9d244rAwGAujZ53XeiPDgL5ZRBDhgLCVOw5ZSrvWc9mpAUaEg2PHxS8zLODWLisDwkns%2FDK7mJ%2BivCRkuVuGldQCfAzbmLe8ygoVpANKJCUxI8%2Fb0OTj1iIUJ%2Fd5JQ%2BcpD%2FBfVycfBiXyWtyaRpi4385dvn2VP5wpRF2idO18lmSInGhf2YxBRoIcd9XcgWvt8q2j71kjmKWGzF%2BbS%2Bqj6owHBSA%2FJnq4agzz179VQX1AEnjrhlXgGhzb1goXmjiJV5bxFNNCGlq4H%2F9JBOtGDUDA5b2nXH7sF5RbmL9J7d%2BdQBilh%2BfmaETZWUcWbBHTWxZi4AQc4wT0Cqp2r9iwyADezGEExQTMvuH%2Fo4kzkjBlU5CwtWVM1WUT44vPVUljCMHIhyCjozbuB%2F4%2BNmQxuuROqZUOjtjJjzoF%2BcTr8%2B9j7BXLqxbM%2FfuEkKUxKn9IapLCW%2BgY2N6BI2Ujl0pS95PEGfLR4KXA1VlmuSyt3iChYt8mSXFxVTPIywaLXQc%2FysQVz6fVXiNTN7zQ8b7A2SBBvAsOaC4yPMsnvrE3%2BAJtCDVYIZEfoWhAnQW1WwqPXugFlXKwht7OUDxV6ZNQWpQA%3D%3D&itmmeta=wwHmKhYwY%2Fjx0DQwMUtKRVZWWFdKUUJBQlhNTU5DSzZQUTgzQjQwMUtKRVZWWE1CQ1FCMzZWUjdFMFhWTVNINragDA%3D%3D
+                - text: Shop store on eBay
+                - img
+              - generic [ref=e956]: Sponsored
+          - generic [ref=e957]:
+            - link "Osgoode Marley Espresso Men's Wallet U1" [ref=e960] [cursor=pointer]:
+              - /url: https://www.ebay.com/itm/356471628781?itmprp=encpd%3AAQALAAADAP06x7d290z65THDxQW%2FflxIiHb%2Bb5pSOkYpt01K1w1p7J8bPDwcn5yMS8Uuh7Ke%2BcHeQJJdEAbE2pu1WUssDggiztuZ03y6GTnka6rfucZoY%2F%2FpD8l6ec2ddblnilyptUAmr8%2BXKPXTAGjCV3QrnKZYJIoXYEb3QBg9xYh6FierdMvukbZs48wmJZsJrPGENA2jzM%2FeqOu4lyYBz2nhYWU%2FxDAGDcpMNErdAUn%2BZHV4%2BUzOrXoNojQMgH4bw%2FKgBT63uF9u1AkVyejdGlAqwyReojOFXIQDBrHvWhZ%2FVMjtJ1V9nJU%2FlcrwZ2EVkHdxyqOYxWD2IwFTbAN69E5aRqkm95dHBw0bdQeG7RJz28q%2FBgHyEGmJvua5xxSGlx7W524Qu4Z10rlGuN%2BIAji7DY2u8Vp0pqsvEO0aOR41r9d244rAwGAujZ53XeiPDgL5ZRBDhgLCVOw5ZSrvWc9mpAUaEg2PHxS8zLODWLisDwkns%2FDK7mJ%2BivCRkuVuGldQCfAzbmLe8ygoVpANKJCUxI8%2Fb0OTj1iIUJ%2Fd5JQ%2BcpD%2FBfVycfBiXyWtyaRpi4385dvn2VP5wpRF2idO18lmSInGhf2YxBRoIcd9XcgWvt8q2j71kjmKWGzF%2BbS%2Bqj6owHBSA%2FJnq4agzz179VQX1AEnjrhlXgGhzb1goXmjiJV5bxFNNCGlq4H%2F9JBOtGDUDA5b2nXH7sF5RbmL9J7d%2BdQBilh%2BfmaETZWUcWbBHTWxZi4AQc4wT0Cqp2r9iwyADezGEExQTMvuH%2Fo4kzkjBlU5CwtWVM1WUT44vPVUljCMHIhyCjozbuB%2F4%2BNmQxuuROqZUOjtjJjzoF%2BcTr8%2B9j7BXLqxbM%2FfuEkKUxKn9IapLCW%2BgY2N6BI2Ujl0pS95PGA%2F6j%2B5%2B55bG%2Bbz66%2FOlN1TALVjdW7vosUl7bXFFlRnSUALKrh%2B%2F%2B3o57Exr1yMqqe2HfETErvkxxfLsXXCICvJkRzGyhFaq5DOwUkT%2FW7BK3uCTSdqpoRW1Xzmkyy2Og%3D%3D&itmmeta=wwHmKhYwY%2Fjx0DQwMUtKRVZWWFdKUUJBQlhNTU5DSzZQUTgzQjQwMUtKRVZWWE1CQ1FCMzZWUjdFMFhWTVNINragDA%3D%3D
+              - img "Osgoode Marley Espresso Men's Wallet U1" [ref=e961]
+            - link "Bosca Men's Old Leather New Fashioned Collection-Small Bifold Wallet U1" [ref=e964] [cursor=pointer]:
+              - /url: https://www.ebay.com/itm/358093933602?itmprp=encpd%3AAQALAAADAP06x7d290z65THDxQW%2FflxIiHb%2Bb5pSOkYpt01K1w1p7J8bPDwcn5yMS8Uuh7Ke%2BcHeQJJdEAbE2pu1WUssDggiztuZ03y6GTnka6rfucZoY%2F%2FpD8l6ec2ddblnilyptUAmr8%2BXKPXTAGjCV3QrnKZYJIoXYEb3QBg9xYh6FierdMvukbZs48wmJZsJrPGENA2jzM%2FeqOu4lyYBz2nhYWU%2FxDAGDcpMNErdAUn%2BZHV4%2BUzOrXoNojQMgH4bw%2FKgBT63uF9u1AkVyejdGlAqwyReojOFXIQDBrHvWhZ%2FVMjtJ1V9nJU%2FlcrwZ2EVkHdxyqOYxWD2IwFTbAN69E5aRqkm95dHBw0bdQeG7RJz28q%2FBgHyEGmJvua5xxSGlx7W524Qu4Z10rlGuN%2BIAji7DY2u8Vp0pqsvEO0aOR41r9d244rAwGAujZ53XeiPDgL5ZRBDhgLCVOw5ZSrvWc9mpAUaEg2PHxS8zLODWLisDwkns%2FDK7mJ%2BivCRkuVuGldQCfAzbmLe8ygoVpANKJCUxI8%2Fb0OTj1iIUJ%2Fd5JQ%2BcpD%2FBfVycfBiXyWtyaRpi4385dvn2VP5wpRF2idO18lmSInGhf2YxBRoIcd9XcgWvt8q2j71kjmKWGzF%2BbS%2Bqj6owHBSA%2FJnq4agzz179VQX1AEnjrhlXgGhzb1goXmjiJV5bxFNNCGlq4H%2F9JBOtGDUDA5b2nXH7sF5RbmL9J7d%2BdQBilh%2BfmaETZWUcWbBHTWxZi4AQc4wT0Cqp2r9iwyADezGEExQTMvuH%2Fo4kzkjBlU5CwtWVM1WUT44vPVUljCMHIhyCjozbuB%2F4%2BNmQxuuROqZUOjtjJjzoF%2BcTr8%2B9j7BXLqxbM%2FfuEkKUxKn9IapLCW%2BgY2N6BI2Ujl0pS95PGA%2F6j%2B5%2B55bG%2Bbz66%2FOlN1TALVjdW7vosUl7bXFFlRnSUALKrh%2B%2F%2B3o57Exr1yMqqe2HfETErvkxxfLsXXCICvJkRzGyhFaq5DOwUkT%2FW7BK3uCTSdqpoRW1Xzmkyy2Og%3D%3D&itmmeta=wwHmKhYwY%2Fjx0DQwMUtKRVZWWFdKUUJBQlhNTU5DSzZQUTgzQjQwMUtKRVZWWE1CQ1FCMzZWUjdFMFhWTVNINragDA%3D%3D
+              - img "Bosca Men's Old Leather New Fashioned Collection-Small Bifold Wallet U1" [ref=e965]
+            - link "Osgoode Marley Cashmere RFID Blocking Mens Tri-Fold Leather Wallet U1" [ref=e968] [cursor=pointer]:
+              - /url: https://www.ebay.com/itm/357980042243?itmprp=encpd%3AAQALAAADAP06x7d290z65THDxQW%2FflxIiHb%2Bb5pSOkYpt01K1w1p7J8bPDwcn5yMS8Uuh7Ke%2BcHeQJJdEAbE2pu1WUssDggiztuZ03y6GTnka6rfucZoY%2F%2FpD8l6ec2ddblnilyptUAmr8%2BXKPXTAGjCV3QrnKZYJIoXYEb3QBg9xYh6FierdMvukbZs48wmJZsJrPGENA2jzM%2FeqOu4lyYBz2nhYWU%2FxDAGDcpMNErdAUn%2BZHV4%2BUzOrXoNojQMgH4bw%2FKgBT63uF9u1AkVyejdGlAqwyReojOFXIQDBrHvWhZ%2FVMjtJ1V9nJU%2FlcrwZ2EVkHdxyqOYxWD2IwFTbAN69E5aRqkm95dHBw0bdQeG7RJz28q%2FBgHyEGmJvua5xxSGlx7W524Qu4Z10rlGuN%2BIAji7DY2u8Vp0pqsvEO0aOR41r9d244rAwGAujZ53XeiPDgL5ZRBDhgLCVOw5ZSrvWc9mpAUaEg2PHxS8zLODWLisDwkns%2FDK7mJ%2BivCRkuVuGldQCfAzbmLe8ygoVpANKJCUxI8%2Fb0OTj1iIUJ%2Fd5JQ%2BcpD%2FBfVycfBiXyWtyaRpi4385dvn2VP5wpRF2idO18lmSInGhf2YxBRoIcd9XcgWvt8q2j71kjmKWGzF%2BbS%2Bqj6owHBSA%2FJnq4agzz179VQX1AEnjrhlXgGhzb1goXmjiJV5bxFNNCGlq4H%2F9JBOtGDUDA5b2nXH7sF5RbmL9J7d%2BdQBilh%2BfmaETZWUcWbBHTWxZi4AQc4wT0Cqp2r9iwyADezGEExQTMvuH%2Fo4kzkjBlU5CwtWVM1WUT44vPVUljCMHIhyCjozbuB%2F4%2BNmQxuuROqZUOjtjJjzoF%2BcTr8%2B9j7BXLqxbM%2FfuEkKUxKn9IapLCW%2BgY2N6BI2Ujl0pS95PGA%2F6j%2B5%2B55bG%2Bbz66%2FOlN1TALVjdW7vosUl7bXFFlRnSUALKrh%2B%2F%2B3o57Exr1yMqqe2HfETErvkxxfLsXXCICvJkRzGyhFaq5DOwUkT%2FW7BK3uCTSdqpoRW1Xzmkyy2Og%3D%3D&itmmeta=wwHmKhYwY%2Fjx0DQwMUtKRVZWWFdKUUJBQlhNTU5DSzZQUTgzQjQwMUtKRVZWWE1CQ1FCMzZWUjdFMFhWTVNINragDA%3D%3D
+              - img "Osgoode Marley Cashmere RFID Blocking Mens Tri-Fold Leather Wallet U1" [ref=e969]
+        - generic [ref=e970]:
+          - generic [ref=e972]:
+            - heading "160,000+ results for mens leather wallet" [level=1] [ref=e974]
+            - button "Save this search mens leather wallet search" [ref=e978] [cursor=pointer]:
+              - generic [ref=e979]:
+                - img
+              - text: Save this search
+          - generic [ref=e980]:
+            - generic [ref=e981]:
+              - list [ref=e984]:
+                - listitem [ref=e985]:
+                  - link "All selected" [ref=e986] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&rt=nc&LH_All=1
+                    - generic "All selected" [ref=e987]: All
+                - listitem [ref=e988]:
+                  - link "Auction" [ref=e989] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&rt=nc&LH_Auction=1
+                    - generic [ref=e990]: Auction
+                - listitem [ref=e991]:
+                  - link "Buy It Now" [ref=e992] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&rt=nc&LH_BIN=1
+                    - generic [ref=e993]: Buy It Now
+              - generic [ref=e994]:
+                - button "Condition" [ref=e996]:
+                  - generic [ref=e997]:
+                    - generic [ref=e998]: Condition
+                    - img
+                - button "Item Location" [ref=e1000]:
+                  - generic [ref=e1001]:
+                    - generic [ref=e1002]: Item Location
+                    - img
+            - generic [ref=e1003]:
+              - button "Sort" [ref=e1007]:
+                - generic [ref=e1008]:
+                  - generic [ref=e1009]: "Sort: Best Match"
+                  - img
+              - button "Listing options selector. Gallery View selected." [ref=e1013]:
+                - generic [ref=e1014]:
+                  - img
+                  - img
+      - generic [ref=e1016]:
+        - listitem [ref=e1018]:
+          - generic [ref=e1019]:
+            - link [ref=e1025] [cursor=pointer]:
+              - /url: https://ebay.com/itm/123456?itmmeta=012DEW30YG0MEEKND7NH&hash=item123546:g:acwAA9KNiJowH:sc:ShippingMethodStandard!95008!US!-1&itmprp=enc%3AbgepL1tlUHjMGCVfSTGJh%2BzsVKeJ3CQk7NizDI4BZeppuFnmyS6Ijyp8lh%2FnEw%2BWqO7uTV1Q6izE1R0T54aV8j71F4xlWfVcGft4%2FiOQhtqVXA1rW6M1atPARQRmhqUxtEPJKhKtSFgI%2Bvwlzb0GwVCtkp%3ABlBMUObkmabpYw
+            - generic [ref=e1026]:
+              - generic [ref=e1027]:
+                - link [ref=e1028] [cursor=pointer]:
+                  - /url: https://ebay.com/itm/123456?itmmeta=012DEW30YG0MEEKND7NH&hash=item123546:g:acwAA9KNiJowH:sc:ShippingMethodStandard!95008!US!-1&itmprp=enc%3AbgepL1tlUHjMGCVfSTGJh%2BzsVKeJ3CQk7NizDI4BZeppuFnmyS6Ijyp8lh%2FnEw%2BWqO7uTV1Q6izE1R0T54aV8j71F4xlWfVcGft4%2FiOQhtqVXA1rW6M1atPARQRmhqUxtEPJKhKtSFgI%2Bvwlzb0GwVCtkp%3ABlBMUObkmabpYw
+                  - heading [level=3] [ref=e1029]: Shop on eBay
+                - generic [ref=e1031]: Brand New
+              - generic [ref=e1033]:
+                - generic [ref=e1034]: $20.00
+                - generic [ref=e1035]: or Best Offer
+              - generic [ref=e1037]: Sponsored
+        - listitem [ref=e1039]:
+          - generic [ref=e1040]:
+            - link [ref=e1046] [cursor=pointer]:
+              - /url: https://ebay.com/itm/123456?itmmeta=012DEW30YG0MEEKND7NH&hash=item123546:g:acwAA9KNiJowH:sc:ShippingMethodStandard!95008!US!-1&itmprp=enc%3AbgepL1tlUHjMGCVfSTGJh%2BzsVKeJ3CQk7NizDI4BZeppuFnmyS6Ijyp8lh%2FnEw%2BWqO7uTV1Q6izE1R0T54aV8j71F4xlWfVcGft4%2FiOQhtqVXA1rW6M1atPARQRmhqUxtEPJKhKtSFgI%2Bvwlzb0GwVCtkp%3ABlBMUObkmabpYw
+            - generic [ref=e1047]:
+              - generic [ref=e1048]:
+                - link [ref=e1049] [cursor=pointer]:
+                  - /url: https://ebay.com/itm/123456?itmmeta=012DEW30YG0MEEKND7NH&hash=item123546:g:acwAA9KNiJowH:sc:ShippingMethodStandard!95008!US!-1&itmprp=enc%3AbgepL1tlUHjMGCVfSTGJh%2BzsVKeJ3CQk7NizDI4BZeppuFnmyS6Ijyp8lh%2FnEw%2BWqO7uTV1Q6izE1R0T54aV8j71F4xlWfVcGft4%2FiOQhtqVXA1rW6M1atPARQRmhqUxtEPJKhKtSFgI%2Bvwlzb0GwVCtkp%3ABlBMUObkmabpYw
+                  - heading [level=3] [ref=e1050]: Shop on eBay
+                - generic [ref=e1052]: Brand New
+              - generic [ref=e1054]:
+                - generic [ref=e1055]: $20.00
+                - generic [ref=e1056]: or Best Offer
+              - generic [ref=e1058]: Sponsored
+        - generic [ref=e1059]:
+          - group "Multi-Aspect Guidance" [ref=e1064]:
+            - generic [ref=e1065]:
+              - button "Go to previous slide - Multi-Aspect Guidance Carousel" [disabled] [ref=e1066]:
+                - img
+              - list [ref=e1068]:
+                - listitem [ref=e1069]:
+                  - generic [ref=e1070]:
+                    - heading "Popular Filters" [level=2] [ref=e1071]
+                    - link "Brown - apply Popular Filters filter" [ref=e1072] [cursor=pointer]:
+                      - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&Color=Brown
+                      - generic [ref=e1073]:
+                        - text: Brown
+                        - generic [ref=e1074]: "- apply Popular Filters filter"
+                - listitem [ref=e1075]:
+                  - link "Black - apply Popular Filters filter" [ref=e1077] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&Color=Black
+                    - generic [ref=e1078]:
+                      - text: Black
+                      - generic [ref=e1079]: "- apply Popular Filters filter"
+                - listitem [ref=e1080]:
+                  - link "Blue - apply Popular Filters filter" [ref=e1082] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&Color=Blue
+                    - generic [ref=e1083]:
+                      - text: Blue
+                      - generic [ref=e1084]: "- apply Popular Filters filter"
+                - listitem [ref=e1085]:
+                  - link "Men - apply Popular Filters filter" [ref=e1087] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&Department=Men
+                    - generic [ref=e1088]:
+                      - text: Men
+                      - generic [ref=e1089]: "- apply Popular Filters filter"
+                - listitem [ref=e1090]:
+                  - link "Unisex - apply Popular Filters filter" [ref=e1092] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&Department=Unisex
+                    - generic [ref=e1093]:
+                      - text: Unisex
+                      - generic [ref=e1094]: "- apply Popular Filters filter"
+                - listitem [ref=e1095]:
+                  - link "Leather - apply Popular Filters filter" [ref=e1097] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&Material=Leather
+                    - generic [ref=e1098]:
+                      - text: Leather
+                      - generic [ref=e1099]: "- apply Popular Filters filter"
+                - listitem [ref=e1100]:
+                  - link "Faux Leather - apply Popular Filters filter" [ref=e1102] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&Material=Faux%2520Leather
+                    - generic [ref=e1103]:
+                      - text: Faux Leather
+                      - generic [ref=e1104]: "- apply Popular Filters filter"
+                - listitem [ref=e1105]:
+                  - link "Coach - apply Popular Filters filter" [ref=e1107] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&Brand=Coach
+                    - generic [ref=e1108]:
+                      - text: Coach
+                      - generic [ref=e1109]: "- apply Popular Filters filter"
+                - listitem [ref=e1110]:
+                  - link "Louis Vuitton - apply Popular Filters filter" [ref=e1112] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&Brand=Louis%2520Vuitton
+                    - generic [ref=e1113]:
+                      - text: Louis Vuitton
+                      - generic [ref=e1114]: "- apply Popular Filters filter"
+                - listitem [ref=e1115]:
+                  - link "RFID Blocking - apply Popular Filters filter" [ref=e1117] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&Features=RFID%2520Blocking
+                    - generic [ref=e1118]:
+                      - text: RFID Blocking
+                      - generic [ref=e1119]: "- apply Popular Filters filter"
+                - listitem [ref=e1120]:
+                  - link [ref=e1122] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&Features=Folding
+                    - generic [ref=e1123]:
+                      - text: Folding
+                      - generic [ref=e1124]: "- apply Popular Filters filter"
+                - listitem [ref=e1125]:
+                  - link [ref=e1127] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&Upper%2520Material=Leather
+                    - generic [ref=e1128]:
+                      - text: Leather
+                      - generic [ref=e1129]: "- apply Popular Filters filter"
+                - listitem [ref=e1130]:
+                  - link [ref=e1132] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&Brand=Calvin%2520Klein
+                    - generic [ref=e1133]:
+                      - text: Calvin Klein
+                      - generic [ref=e1134]: "- apply Popular Filters filter"
+                - listitem [ref=e1135]:
+                  - link [ref=e1137] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&Brand=Handmade
+                    - generic [ref=e1138]:
+                      - text: Handmade
+                      - generic [ref=e1139]: "- apply Popular Filters filter"
+                - listitem [ref=e1140]:
+                  - link [ref=e1142] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&Brand=Unbranded
+                    - generic [ref=e1143]:
+                      - text: Unbranded
+                      - generic [ref=e1144]: "- apply Popular Filters filter"
+                - listitem [ref=e1145]:
+                  - link [ref=e1147] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&Brand=Fossil
+                    - generic [ref=e1148]:
+                      - text: Fossil
+                      - generic [ref=e1149]: "- apply Popular Filters filter"
+                - listitem [ref=e1150]:
+                  - link [ref=e1152] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&Brand=Tommy%2520Hilfiger
+                    - generic [ref=e1153]:
+                      - text: Tommy Hilfiger
+                      - generic [ref=e1154]: "- apply Popular Filters filter"
+                - listitem [ref=e1155]:
+                  - link [ref=e1157] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&Color=Red
+                    - generic [ref=e1158]:
+                      - text: Red
+                      - generic [ref=e1159]: "- apply Popular Filters filter"
+              - button "Go to next slide - Multi-Aspect Guidance Carousel" [ref=e1160]:
+                - img
+          - list [ref=e1161]:
+            - listitem [ref=e1162]:
+              - generic [ref=e1163]:
+                - generic [ref=e1165]:
+                  - link "Mens RFID Blocking Genuine Leather wallet , Men Wallet with Snap Button" [ref=e1169] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/125640279122?_skw=mens+leather+wallet&itmmeta=01KJEVVY83TK67FF34QF2YGRH8&hash=item1d40be8452:g:77gAAOSw4Uli6RDC&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBjy98HFKTi4vmIZWGMSjIDms%2B3ZWkptd1Sd6eoIfj3aNaL%2FHY%2Furr88Ut4rMV65Abeau%2Fee6anSEGN2AexZ1yibGFGW90MSGv6nouVLqKvb76k9qliF%2FBd%2FgqirjFpAk%2B0%2FcEcWrTX9V7B5VWTJ%2FJOBnGhN7RDd%2FlqFj6II2jmV%2B1FLj6qEVp29wwSZMOnjshwb0aN%2BncaU40EgF6iTMrl3NKOKpjnkMy7bpTUNKowpP7lSbOaHzdlRa%2FuCzHCfGXtB7LXAZUnHQE%2BaczX6tMay7pF0EIaekao7DTxNlBV6g%3D%3D%7Ctkp%3ABk9SR6Dk79uTZw
+                    - img "Mens RFID Blocking Genuine Leather wallet , Men Wallet with Snap Button" [ref=e1170]
+                  - link "watch Mens RFID Blocking Genuine Leather wallet , Men Wallet with Snap Button" [ref=e1172] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=125640279122&pt=null&srt=01000b000000500c1fc0703ffab7bc958425e582fa2eaa4f88f126b9823dc29be280183de1468048439bea6f410998a6fbb253e40cbb97fd4bca17f59d5b6639d0e31c99d6d7daa4659c1aa974ee9e7cb290b277784f02&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D0%26_from%3DR40
+                    - generic [ref=e1173]:
+                      - img
+                  - generic [ref=e1178]:
+                    - link "See visually similar items" [ref=e1180] [cursor=pointer]:
+                      - /url: https://www.ebay.com/sch/i.html?_id=125640279122&_fsrp=1&_vss=1&_vs=1&itmmeta=01KJEVVY83TK67FF34QF2YGRH8&_udlo=4.49&_vssPrice=1&_sacat=2996
+                      - img
+                    - region "Find similar items" [ref=e1181]:
+                      - generic [ref=e1184]:
+                        - generic [ref=e1185]:
+                          - generic [ref=e1186]: Find similar items
+                          - text: See all the items on eBay that match this style
+                        - button "Close Tourtip" [ref=e1187]:
+                          - img
+                - generic [ref=e1188]:
+                  - generic [ref=e1189]:
+                    - link "Mens RFID Blocking Genuine Leather wallet , Men Wallet with Snap Button Opens in a new window or tab" [ref=e1190] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/125640279122?_skw=mens+leather+wallet&itmmeta=01KJEVVY83TK67FF34QF2YGRH8&hash=item1d40be8452:g:77gAAOSw4Uli6RDC&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBjy98HFKTi4vmIZWGMSjIDms%2B3ZWkptd1Sd6eoIfj3aNaL%2FHY%2Furr88Ut4rMV65Abeau%2Fee6anSEGN2AexZ1yibGFGW90MSGv6nouVLqKvb76k9qliF%2FBd%2FgqirjFpAk%2B0%2FcEcWrTX9V7B5VWTJ%2FJOBnGhN7RDd%2FlqFj6II2jmV%2B1FLj6qEVp29wwSZMOnjshwb0aN%2BncaU40EgF6iTMrl3NKOKpjnkMy7bpTUNKowpP7lSbOaHzdlRa%2FuCzHCfGXtB7LXAZUnHQE%2BaczX6tMay7pF0EIaekao7DTxNlBV6g%3D%3D%7Ctkp%3ABk9SR6Dk79uTZw
+                      - heading "Mens RFID Blocking Genuine Leather wallet , Men Wallet with Snap Button Opens in a new window or tab" [level=3] [ref=e1191]:
+                        - text: Mens RFID Blocking Genuine Leather wallet , Men Wallet with Snap Button
+                        - generic [ref=e1192]: Opens in a new window or tab
+                    - generic [ref=e1194]: Brand New
+                  - generic [ref=e1196]:
+                    - generic [ref=e1197]: $8.08
+                    - generic [ref=e1198]: Buy It Now
+                    - generic [ref=e1199]: +$12.12 delivery
+                    - generic [ref=e1200]: Located in United Kingdom
+                    - generic [ref=e1201]: 6,897 sold
+                  - generic [ref=e1202]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading [level=6]:
+                            - generic [ref=e1203]: Sponsored
+            - listitem [ref=e1204]:
+              - generic [ref=e1205]:
+                - generic [ref=e1207]:
+                  - link "Genuine Leather Bifold Wallets For Men RFID Blocking Slim (MENS BROWN WALLET++)" [ref=e1211] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/376154395645?_skw=mens+leather+wallet&itmmeta=01KJEVVY839893X8M6TGTQ0QPG&hash=item57948c93fd:g:DqIAAOSwQ5Fn-PMs&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAEdu9XgX2OmeMZ1Gw8EWAraghIw2FKVZfcsKtbVDZEALhZ0IqwWqjeOYcxQ9%2FXzbysoWtgHKdkS9gztwsO%2FYIBXSx73GuOQWen7HzC0BkK%2Fg7VwZkEhwUh9BW7RQ9DywiOotY7HOS227kworlngb52t0R3lGa3wFfAtXSX3xtP33wD94llBk%2BxNr9k8a3paXQnoVOgyR8klcEJAHdOAr6LwQzZhA24nl%2Blbvfj0DdzmpvnVc0U3qadTMIoNBatWuGykisMor7MYR2zyT8SvS%2FaFTsf6T2tSXse0XMZ06OQzA%3D%3D%7Ctkp%3ABFBMoOTv25Nn
+                    - img "Genuine Leather Bifold Wallets For Men RFID Blocking Slim (MENS BROWN WALLET++)" [ref=e1212]
+                  - link "watch Genuine Leather Bifold Wallets For Men RFID Blocking Slim (MENS BROWN WALLET++)" [ref=e1214] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=376154395645&pt=null&srt=01000b00000050c3cdf30954d7dbaccf8935f3906c06e071cedc3fc0ec5f9e03fe55754286cc55226d4648b6ec74e92e3b09db741a7b1c32f6a63b72942c2985597519721e228713bbdff8eeded4eb32550549b568b971&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D0%26_from%3DR40
+                    - generic [ref=e1215]:
+                      - img
+                  - link "See visually similar items" [ref=e1217] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_id=376154395645&_fsrp=1&_vss=1&_vs=1&itmmeta=01KJEVVY839893X8M6TGTQ0QPG&_udlo=12.74&_vssPrice=1&_sacat=2996
+                    - img
+                - generic [ref=e1218]:
+                  - generic [ref=e1219]:
+                    - link "Genuine Leather Bifold Wallets For Men RFID Blocking Slim (MENS BROWN WALLET++) Opens in a new window or tab" [ref=e1220] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/376154395645?_skw=mens+leather+wallet&itmmeta=01KJEVVY839893X8M6TGTQ0QPG&hash=item57948c93fd:g:DqIAAOSwQ5Fn-PMs&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAEdu9XgX2OmeMZ1Gw8EWAraghIw2FKVZfcsKtbVDZEALhZ0IqwWqjeOYcxQ9%2FXzbysoWtgHKdkS9gztwsO%2FYIBXSx73GuOQWen7HzC0BkK%2Fg7VwZkEhwUh9BW7RQ9DywiOotY7HOS227kworlngb52t0R3lGa3wFfAtXSX3xtP33wD94llBk%2BxNr9k8a3paXQnoVOgyR8klcEJAHdOAr6LwQzZhA24nl%2Blbvfj0DdzmpvnVc0U3qadTMIoNBatWuGykisMor7MYR2zyT8SvS%2FaFTsf6T2tSXse0XMZ06OQzA%3D%3D%7Ctkp%3ABFBMoOTv25Nn
+                      - heading "Genuine Leather Bifold Wallets For Men RFID Blocking Slim (MENS BROWN WALLET++) Opens in a new window or tab" [level=3] [ref=e1221]:
+                        - text: Genuine Leather Bifold Wallets For Men RFID Blocking Slim (MENS BROWN WALLET++)
+                        - generic [ref=e1222]: Opens in a new window or tab
+                    - generic [ref=e1224]: Brand New
+                  - generic [ref=e1226]:
+                    - generic [ref=e1227]: $16.99
+                    - generic [ref=e1228]: or Best Offer
+                    - generic [ref=e1229]: Free International Shipping
+                    - generic [ref=e1230]: Located in India
+                    - generic [ref=e1231]: Free returns
+                    - generic [ref=e1232]: 85 sold
+                  - generic [ref=e1233]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading "Sponsored" [level=6]:
+                            - generic [ref=e1234]: Sponsored
+            - listitem [ref=e1235]:
+              - generic [ref=e1236]:
+                - generic [ref=e1238]:
+                  - link "Wild Green Hunter Leather Men's Wallet Bifold RFID Blocking Premium Quality" [ref=e1242] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/389527758939?_skw=mens+leather+wallet&itmmeta=01KJEVVY83FT50BQM84DGYY2YY&hash=item5ab1a9e85b:g:slIAAeSwzxVpLnIx&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCGJzeKlESoLB8ktCEV3XfgMPdUXYdV3erA%2Ftjza4oq7BxBjgAETggAFffcfnhkhJfZXLNS0v9U14BZwoToQEn2EFft97%2F1lpQv1aSxbyTB85vplYCVcc6o3QkH%2B%2FTQVtaRg5ylXQr9jXuCwgMRaZGx%2FHk8dcqp05PGnhcdsfbYhSIgPSwjwpHC0Ro1xDL4R1mSD8PcP7XKKG13yrVrKbaO3jczqv5gMu5syUwPDmVvwGSb8zQakUbiyYma1E0Z0SygNl15UbdLHADpRYMUOIsmGdrsuj7jNhiHUiG7%2BN2TQg%3D%3D%7Ctkp%3ABFBMoOTv25Nn
+                    - img "Wild Green Hunter Leather Men's Wallet Bifold RFID Blocking Premium Quality" [ref=e1243]
+                  - link "watch Wild Green Hunter Leather Men's Wallet Bifold RFID Blocking Premium Quality" [ref=e1245] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=389527758939&pt=null&srt=01000b00000050d11a572120b7c331567639ffd2eaef5aeecf3d2a119cb6d0d8f871118717a48f3d7e48ed72bf39a64739661ecdf6d54a559c557bb5432389973e9753c75067c75313eedde735ff94d7b64e75e5ce82cb&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D0%26_from%3DR40
+                    - generic [ref=e1246]:
+                      - img
+                  - link "See visually similar items" [ref=e1248] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_id=389527758939&_fsrp=1&_vss=1&_vs=1&itmmeta=01KJEVVY83FT50BQM84DGYY2YY&_udlo=9.33&_vssPrice=1&_sacat=2996
+                    - img
+                - generic [ref=e1249]:
+                  - generic [ref=e1250]:
+                    - generic "NEW LOW PRICE" [ref=e1252]
+                    - link "Wild Green Hunter Leather Men's Wallet Bifold RFID Blocking Premium Quality Opens in a new window or tab" [ref=e1253] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/389527758939?_skw=mens+leather+wallet&itmmeta=01KJEVVY83FT50BQM84DGYY2YY&hash=item5ab1a9e85b:g:slIAAeSwzxVpLnIx&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCGJzeKlESoLB8ktCEV3XfgMPdUXYdV3erA%2Ftjza4oq7BxBjgAETggAFffcfnhkhJfZXLNS0v9U14BZwoToQEn2EFft97%2F1lpQv1aSxbyTB85vplYCVcc6o3QkH%2B%2FTQVtaRg5ylXQr9jXuCwgMRaZGx%2FHk8dcqp05PGnhcdsfbYhSIgPSwjwpHC0Ro1xDL4R1mSD8PcP7XKKG13yrVrKbaO3jczqv5gMu5syUwPDmVvwGSb8zQakUbiyYma1E0Z0SygNl15UbdLHADpRYMUOIsmGdrsuj7jNhiHUiG7%2BN2TQg%3D%3D%7Ctkp%3ABFBMoOTv25Nn
+                      - heading "Wild Green Hunter Leather Men's Wallet Bifold RFID Blocking Premium Quality Opens in a new window or tab" [level=3] [ref=e1254]:
+                        - text: Wild Green Hunter Leather Men's Wallet Bifold RFID Blocking Premium Quality
+                        - generic [ref=e1255]: Opens in a new window or tab
+                    - generic [ref=e1257]: Brand New
+                  - generic [ref=e1259]:
+                    - generic [ref=e1260]:
+                      - text: $12.44
+                      - text: $14.99
+                    - generic [ref=e1261]: Buy It Now
+                    - generic [ref=e1262]: Free International Shipping
+                    - generic [ref=e1263]: Located in India
+                    - generic [ref=e1264]: Free returns
+                    - generic [ref=e1265]: 2 watchers
+                  - generic [ref=e1266]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading [level=6]:
+                            - generic [ref=e1267]: Sponsored
+            - listitem [ref=e1268]:
+              - generic [ref=e1269]:
+                - generic [ref=e1271]:
+                  - link "Real Leather Trifold Slim Wallets For Men Mens Wallet W/ ID Window RFID Blocking" [ref=e1275] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/134736582946?_skw=mens+leather+wallet&itmmeta=01KJEVVY83631BZDS6J4PXGC19&hash=item1f5eed1922:g:Nk8AAOSwH4ZlCzXi&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xC9N1qIn43KbxUofJy%2BwlJt4YJBb1tmniUVgxPZ4EntDzV0fadp4W5l4VorhsGdRsZzDnhmpOC1RqQoWyM31U8CnTRSOtFbSaakdhksrq8F2WkbNqlx%2Fj5qsPwi9wsl6CIKYDa72fdBFd2N1IcoL4%2BStcbEGipCYkRY%2Bcc0K0ieWeJ6PBiQU6Yz6HE006rzQC%2Faz9jaZeKISZJ3c8GCUobYby3iP2NdvIg%2FKdBjKFw3qx3O0ZXtift50yIK%2Fc5HOPUZywmd4ZGhEOImfBABaRMKwV%2Fs1pZimcusNspuDqwBTg%3D%3D%7Ctkp%3ABFBMoOTv25Nn
+                    - img "Real Leather Trifold Slim Wallets For Men Mens Wallet W/ ID Window RFID Blocking" [ref=e1276]
+                  - link "See visually similar items" [ref=e1278] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_id=134736582946&_fsrp=1&_vss=1&_vs=1&itmmeta=01KJEVVY83631BZDS6J4PXGC19&_udlo=22.49&_vssPrice=1&_sacat=2996
+                    - img
+                - generic [ref=e1279]:
+                  - generic [ref=e1280]:
+                    - link "Real Leather Trifold Slim Wallets For Men Mens Wallet W/ ID Window RFID Blocking Opens in a new window or tab" [ref=e1281] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/134736582946?_skw=mens+leather+wallet&itmmeta=01KJEVVY83631BZDS6J4PXGC19&hash=item1f5eed1922:g:Nk8AAOSwH4ZlCzXi&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xC9N1qIn43KbxUofJy%2BwlJt4YJBb1tmniUVgxPZ4EntDzV0fadp4W5l4VorhsGdRsZzDnhmpOC1RqQoWyM31U8CnTRSOtFbSaakdhksrq8F2WkbNqlx%2Fj5qsPwi9wsl6CIKYDa72fdBFd2N1IcoL4%2BStcbEGipCYkRY%2Bcc0K0ieWeJ6PBiQU6Yz6HE006rzQC%2Faz9jaZeKISZJ3c8GCUobYby3iP2NdvIg%2FKdBjKFw3qx3O0ZXtift50yIK%2Fc5HOPUZywmd4ZGhEOImfBABaRMKwV%2Fs1pZimcusNspuDqwBTg%3D%3D%7Ctkp%3ABFBMoOTv25Nn
+                      - heading "Real Leather Trifold Slim Wallets For Men Mens Wallet W/ ID Window RFID Blocking Opens in a new window or tab" [level=3] [ref=e1282]:
+                        - text: Real Leather Trifold Slim Wallets For Men Mens Wallet W/ ID Window RFID Blocking
+                        - generic [ref=e1283]: Opens in a new window or tab
+                    - generic [ref=e1285]: Brand New
+                  - generic [ref=e1287]:
+                    - generic [ref=e1288]: $29.99
+                    - generic [ref=e1289]: Buy It Now
+                    - generic [ref=e1290]: +$17.34 delivery
+                    - generic [ref=e1291]: Located in United States
+                    - generic [ref=e1292]: Save up to 20% when you buy more
+                  - generic [ref=e1293]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading "Sponsored" [level=6]:
+                            - generic [ref=e1294]: Sponsored
+            - listitem [ref=e1295]:
+              - generic [ref=e1296]:
+                - generic [ref=e1298]:
+                  - link "Mens RFID BLOCKING Real Leather Wallet Credit Card Holder Coin Purse 503 Black" [ref=e1302] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/391464446605?_skw=mens+leather+wallet&itmmeta=01KJEVVY83RCGHJR1RZ2TC6DQN&hash=item5b25196a8d:g:JqIAAOSwY0lXQwvB&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xD80zGcNFi3paCEW6fNq6zUO6Nr0CZpN5cn9FDQD62FdpXCBGmkcov3AmzeBR%2FTxbIomhINiHA6tLQDKA60GrK2k9vfdnV9AarDRCG3iMGUUQeTQH6IcSbWSqwEuc3wm0GV3N6GCgYV5l22zty2PH6VnFcX9Q%2FVB4AYI1PCNitFf9RuDqXeVmyveoToe3XvunL8QjFWbT8HbcEVWwH0k6ehBp4egLV3arsClMsJGSRdrhgtK1mgYcHQ%2BFj9rHOI6BEWaClnpbLE170AZQecy4wBOxOoOzJToYYMaWwlz0s3ig%3D%3D%7Ctkp%3ABk9SR6Dk79uTZw
+                    - img "Mens RFID BLOCKING Real Leather Wallet Credit Card Holder Coin Purse 503 Black" [ref=e1303]
+                  - link "watch Mens RFID BLOCKING Real Leather Wallet Credit Card Holder Coin Purse 503 Black" [ref=e1305] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=391464446605&pt=null&srt=01000b000000508f2d565de31fb3eed6e3ce6952d77caa86e964531694609905090ceb258c0f9d240e35e054e27a12cf003f394982caf2fae6cd2e050593956a597dfee806c46421980856536e567106da65e35c052b92&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D0%26_from%3DR40
+                    - generic [ref=e1306]:
+                      - img
+                  - button "Open product gallery Mens RFID BLOCKING Real Leather Wallet Credit Card Holder Coin Purse 503 Black" [ref=e1307]:
+                    - img
+                  - link "See visually similar items" [ref=e1309] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_id=391464446605&_fsrp=1&_vss=1&_vs=1&itmmeta=01KJEVVY83RCGHJR1RZ2TC6DQN&_udlo=7.49&_vssPrice=1&_sacat=2996
+                    - img
+                - generic [ref=e1310]:
+                  - generic [ref=e1311]:
+                    - link "Mens RFID BLOCKING Real Leather Wallet Credit Card Holder Coin Purse 503 Black Opens in a new window or tab" [ref=e1312] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/391464446605?_skw=mens+leather+wallet&itmmeta=01KJEVVY83RCGHJR1RZ2TC6DQN&hash=item5b25196a8d:g:JqIAAOSwY0lXQwvB&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xD80zGcNFi3paCEW6fNq6zUO6Nr0CZpN5cn9FDQD62FdpXCBGmkcov3AmzeBR%2FTxbIomhINiHA6tLQDKA60GrK2k9vfdnV9AarDRCG3iMGUUQeTQH6IcSbWSqwEuc3wm0GV3N6GCgYV5l22zty2PH6VnFcX9Q%2FVB4AYI1PCNitFf9RuDqXeVmyveoToe3XvunL8QjFWbT8HbcEVWwH0k6ehBp4egLV3arsClMsJGSRdrhgtK1mgYcHQ%2BFj9rHOI6BEWaClnpbLE170AZQecy4wBOxOoOzJToYYMaWwlz0s3ig%3D%3D%7Ctkp%3ABk9SR6Dk79uTZw
+                      - heading "Mens RFID BLOCKING Real Leather Wallet Credit Card Holder Coin Purse 503 Black Opens in a new window or tab" [level=3] [ref=e1313]:
+                        - text: Mens RFID BLOCKING Real Leather Wallet Credit Card Holder Coin Purse 503 Black
+                        - generic [ref=e1314]: Opens in a new window or tab
+                    - generic [ref=e1316]: Brand New
+                  - generic [ref=e1318]:
+                    - generic [ref=e1319]: $13.47
+                    - generic [ref=e1320]: Buy It Now
+                    - generic [ref=e1321]: +$13.47 delivery
+                    - generic [ref=e1322]: Located in United Kingdom
+                    - generic [ref=e1323]: 3,778 sold
+                  - generic [ref=e1324]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading [level=6]:
+                            - generic [ref=e1325]: Sponsored
+            - listitem [ref=e1326]:
+              - generic [ref=e1327]:
+                - generic [ref=e1329]:
+                  - link "Genuine Leather Minimalist Bifold Wallets For Men RFID Blocking Slim Mens Wallet" [ref=e1333] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/183393702861?_skw=mens+leather+wallet&itmmeta=01KJEVVY837GJ5CXGJHMRS6ZQC&hash=item2ab31dd3cd:g:Kk8AAOSweEJgfhLv&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xD9mwL637qrPnxdD3%2FbvL1%2FNGgkZYluF%2FEUv4k4XBojXmbYRQHaaEg%2Fjg3th%2BeQcl0SDCv7zWuwgfXVkkZNzYa1UhHAX7Ta5%2B5SX0HKd3753CibfN0gfhYlTq4IEZBwqYWwV5vrgkL8qMqk7h45uP3H2oCNG8%2FE%2B%2FBYtybZ5Aqh5FadrZCAR9fdppcx8XdaAcSCumMcnS2tCwEeSJLm6zojGQzFpJbGt44xx5TKkIZMoaDU1RDNIGOIdKExELGUPmd1i9IrEo3mqjElNQWSEFT9P6jLqIt6U4EJxM9SVXV0ew%3D%3D%7Ctkp%3ABk9SR6Dk79uTZw
+                    - img "Genuine Leather Minimalist Bifold Wallets For Men RFID Blocking Slim Mens Wallet" [ref=e1334]
+                  - link "See visually similar items" [ref=e1336] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_id=183393702861&_fsrp=1&_vss=1&_vs=1&itmmeta=01KJEVVY837GJ5CXGJHMRS6ZQC&_udlo=11.24&_vssPrice=1&_sacat=2996
+                    - img
+                - generic [ref=e1337]:
+                  - generic [ref=e1338]:
+                    - link "Genuine Leather Minimalist Bifold Wallets For Men RFID Blocking Slim Mens Wallet Opens in a new window or tab" [ref=e1339] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/183393702861?_skw=mens+leather+wallet&itmmeta=01KJEVVY837GJ5CXGJHMRS6ZQC&hash=item2ab31dd3cd:g:Kk8AAOSweEJgfhLv&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xD9mwL637qrPnxdD3%2FbvL1%2FNGgkZYluF%2FEUv4k4XBojXmbYRQHaaEg%2Fjg3th%2BeQcl0SDCv7zWuwgfXVkkZNzYa1UhHAX7Ta5%2B5SX0HKd3753CibfN0gfhYlTq4IEZBwqYWwV5vrgkL8qMqk7h45uP3H2oCNG8%2FE%2B%2FBYtybZ5Aqh5FadrZCAR9fdppcx8XdaAcSCumMcnS2tCwEeSJLm6zojGQzFpJbGt44xx5TKkIZMoaDU1RDNIGOIdKExELGUPmd1i9IrEo3mqjElNQWSEFT9P6jLqIt6U4EJxM9SVXV0ew%3D%3D%7Ctkp%3ABk9SR6Dk79uTZw
+                      - heading "Genuine Leather Minimalist Bifold Wallets For Men RFID Blocking Slim Mens Wallet Opens in a new window or tab" [level=3] [ref=e1340]:
+                        - text: Genuine Leather Minimalist Bifold Wallets For Men RFID Blocking Slim Mens Wallet
+                        - generic [ref=e1341]: Opens in a new window or tab
+                    - generic [ref=e1343]: Brand New
+                  - generic [ref=e1345]:
+                    - generic [ref=e1346]:
+                      - text: $14.99
+                      - text: $29.99
+                    - generic [ref=e1347]: Buy It Now
+                    - generic [ref=e1348]: +$24.41 delivery
+                    - generic [ref=e1349]: Located in United States
+                    - generic [ref=e1350]: Free returns
+                    - generic [ref=e1351]: 2,464+ sold
+                  - generic [ref=e1352]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading [level=6]:
+                            - generic [ref=e1353]: Sponsored
+            - listitem [ref=e1354]:
+              - generic [ref=e1355]:
+                - generic [ref=e1357]:
+                  - link "Minifold Leather Card Holder Wallet for Men, RFID Blocking Card Protector" [ref=e1361] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/185255038142?_skw=mens+leather+wallet&itmmeta=01KJEVVY84TX6AADW5WBVAKNX6&hash=item2b220f8cbe:g:jDoAAOSwUhth4DQh&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xAMFJl2uFQ4ThSjYbgB1BnR7tZDZV90tjDIzs1kGDBgIiYEDcMzGZgOIlnJkzd9N7Qh8ib7J3ayOqasqbPPM0nYGexk1l8wJ8TTvg2qNPtqjiyWr5aQRDjQqrzlCS%2FwEoMDyMe%2F28A8sP9hpGeyeyvNWPdPlWde%2FDSoal%2F2NyFhFqXZJnrb5GdAppDTfCWDOk7e2rFsAkxtUCmK2YL9CTDzAfrXTkgrOPJxP92woNmsXCN4sXNwGo7V%2BNCnxJJX39o%3D%7Ctkp%3ABk9SR6Dk79uTZw
+                    - img "Minifold Leather Card Holder Wallet for Men, RFID Blocking Card Protector" [ref=e1362]
+                  - link "watch Minifold Leather Card Holder Wallet for Men, RFID Blocking Card Protector" [ref=e1364] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=185255038142&pt=null&srt=01000b000000509471f933ca07138065c38ca756210a8d357813a11067fd16ff15891126aab161fa5b2b6b5279ca48b1ff5ba9e9499f502abc1249663ed234b4a8992cac3a96866b6f0bef618a35a9b4b60f4879e7f540&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D0%26_from%3DR40
+                    - generic [ref=e1365]:
+                      - img
+                  - link "See visually similar items" [ref=e1367] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_id=185255038142&_fsrp=1&_vss=1&_vs=1&itmmeta=01KJEVVY84TX6AADW5WBVAKNX6&_udlo=3.74&_vssPrice=1&_sacat=2996
+                    - img
+                - generic [ref=e1368]:
+                  - generic [ref=e1369]:
+                    - link "Minifold Leather Card Holder Wallet for Men, RFID Blocking Card Protector Opens in a new window or tab" [ref=e1370] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/185255038142?_skw=mens+leather+wallet&itmmeta=01KJEVVY84TX6AADW5WBVAKNX6&hash=item2b220f8cbe:g:jDoAAOSwUhth4DQh&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xAMFJl2uFQ4ThSjYbgB1BnR7tZDZV90tjDIzs1kGDBgIiYEDcMzGZgOIlnJkzd9N7Qh8ib7J3ayOqasqbPPM0nYGexk1l8wJ8TTvg2qNPtqjiyWr5aQRDjQqrzlCS%2FwEoMDyMe%2F28A8sP9hpGeyeyvNWPdPlWde%2FDSoal%2F2NyFhFqXZJnrb5GdAppDTfCWDOk7e2rFsAkxtUCmK2YL9CTDzAfrXTkgrOPJxP92woNmsXCN4sXNwGo7V%2BNCnxJJX39o%3D%7Ctkp%3ABk9SR6Dk79uTZw
+                      - heading "Minifold Leather Card Holder Wallet for Men, RFID Blocking Card Protector Opens in a new window or tab" [level=3] [ref=e1371]:
+                        - text: Minifold Leather Card Holder Wallet for Men, RFID Blocking Card Protector
+                        - generic [ref=e1372]: Opens in a new window or tab
+                    - generic [ref=e1374]: Brand New
+                  - generic [ref=e1376]:
+                    - generic [ref=e1377]: $6.73
+                    - generic [ref=e1378]: or Best Offer
+                    - generic [ref=e1379]: +$13.47 delivery
+                    - generic [ref=e1380]: Located in United Kingdom
+                    - generic [ref=e1381]: 796 sold
+                  - generic [ref=e1382]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading [level=6]:
+                            - generic [ref=e1383]: Sponsored
+            - listitem [ref=e1384]:
+              - generic [ref=e1385]:
+                - generic [ref=e1387]:
+                  - link "Timberland Leather Wallet – Premium Genuine Leather Bifold Wallet for Men" [ref=e1391] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/127098771934?_skw=mens+leather+wallet&itmmeta=01KJEVVY84TKGRTXZZ2GRE2JA6&hash=item1d97ad59de:g:M~wAAeSwM81oG~x7&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xB9vjtgkTTRiQlH%2F6jB9tUldSWR0xLa7LRxY9ZDYVuonIBo7I1uU4ELmX4aum3uy9CdxfEzMnP4ui%2FxzlX1oMDda3wG%2Bx1DWFGCpyREh6%2FZbUapSv5eV4E3MZHfM9j6VyDURU5jy9tsd%2FTPzSFiQeDcTPqU6NuqJ0USR%2F1BP058UxctiRMg%2Bk33RcFOtSetVvMn7Iqfq8TjwoPpnNoUgcpHlndLgKdmLI6Mhhp9GphRag2Wu2hdCPVI71qbhFlJZx4%3D%7Ctkp%3ABk9SR6Dk79uTZw
+                    - img "Timberland Leather Wallet – Premium Genuine Leather Bifold Wallet for Men" [ref=e1392]
+                  - link "See visually similar items" [ref=e1394] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_id=428220100694&_fsrp=1&_vss=1&_vs=1&itmmeta=01KJEVVY84TKGRTXZZ2GRE2JA6&_udlo=14.99&_vssPrice=1&_sacat=2996
+                    - img
+                - generic [ref=e1395]:
+                  - generic [ref=e1396]:
+                    - link "Timberland Leather Wallet – Premium Genuine Leather Bifold Wallet for Men Opens in a new window or tab" [ref=e1397] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/127098771934?_skw=mens+leather+wallet&itmmeta=01KJEVVY84TKGRTXZZ2GRE2JA6&hash=item1d97ad59de:g:M~wAAeSwM81oG~x7&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xB9vjtgkTTRiQlH%2F6jB9tUldSWR0xLa7LRxY9ZDYVuonIBo7I1uU4ELmX4aum3uy9CdxfEzMnP4ui%2FxzlX1oMDda3wG%2Bx1DWFGCpyREh6%2FZbUapSv5eV4E3MZHfM9j6VyDURU5jy9tsd%2FTPzSFiQeDcTPqU6NuqJ0USR%2F1BP058UxctiRMg%2Bk33RcFOtSetVvMn7Iqfq8TjwoPpnNoUgcpHlndLgKdmLI6Mhhp9GphRag2Wu2hdCPVI71qbhFlJZx4%3D%7Ctkp%3ABk9SR6Dk79uTZw
+                      - heading "Timberland Leather Wallet – Premium Genuine Leather Bifold Wallet for Men Opens in a new window or tab" [level=3] [ref=e1398]:
+                        - text: Timberland Leather Wallet – Premium Genuine Leather Bifold Wallet for Men
+                        - generic [ref=e1399]: Opens in a new window or tab
+                    - generic [ref=e1401]: Brand New
+                  - generic [ref=e1403]:
+                    - generic [ref=e1404]: $19.99
+                    - generic [ref=e1405]: Buy It Now
+                    - generic [ref=e1406]: +$17.12 delivery
+                    - generic [ref=e1407]: Located in United States
+                    - generic [ref=e1408]: Save up to 7% when you buy more
+                  - generic [ref=e1409]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading [level=6]:
+                            - generic [ref=e1410]: Sponsored
+            - listitem [ref=e1411]:
+              - generic [ref=e1412]:
+                - generic [ref=e1414]:
+                  - link "Waterproof Mens RFID Blocking Leather Wallet Credit Card ID Holder Zipper Purse" [ref=e1418] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/235954621101?_skw=mens+leather+wallet&itmmeta=01KJEVVY84STPS89CT6SWATQFA&hash=item36effdcaad:g:iHcAAOSwpzNiIVBg&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAeIUc%2FcL8dI3xeEB%2B4e5UQU2WUk4WNi8w3NTWtvDbzLVDWJFPez0l%2BufEmgwPUJpSL5mRFBeD2i8gw9NZ0QaVPyT7xWYgH%2BgnGsOb%2BXo%2Bpm4h6OS%2BNIQwTSOhfy7zV%2FRzccB02w9O2ZgZZGfL53NPsczbpA2N7971n74u8koe4IMctq8XlLSJEazbQ5TbhsAiicrbIxkLwoyH3g%2BIGF0IerlDF2AJPWotGno6cbn46ROo2kyRu2aArCO5diCaMnpJIjx8Hs2JCzBDnVYHIlVcM4gWBHCD3eqoUVnfXPTJ81g%3D%3D%7Ctkp%3ABk9SR6Dk79uTZw
+                    - img "Waterproof Mens RFID Blocking Leather Wallet Credit Card ID Holder Zipper Purse" [ref=e1419]
+                  - link "See visually similar items" [ref=e1421] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_id=235954621101&_fsrp=1&_vss=1&_vs=1&itmmeta=01KJEVVY84STPS89CT6SWATQFA&_udlo=6.74&_vssPrice=1&_sacat=2996
+                    - img
+                - generic [ref=e1422]:
+                  - generic [ref=e1423]:
+                    - link "Waterproof Mens RFID Blocking Leather Wallet Credit Card ID Holder Zipper Purse Opens in a new window or tab" [ref=e1424] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/235954621101?_skw=mens+leather+wallet&itmmeta=01KJEVVY84STPS89CT6SWATQFA&hash=item36effdcaad:g:iHcAAOSwpzNiIVBg&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAeIUc%2FcL8dI3xeEB%2B4e5UQU2WUk4WNi8w3NTWtvDbzLVDWJFPez0l%2BufEmgwPUJpSL5mRFBeD2i8gw9NZ0QaVPyT7xWYgH%2BgnGsOb%2BXo%2Bpm4h6OS%2BNIQwTSOhfy7zV%2FRzccB02w9O2ZgZZGfL53NPsczbpA2N7971n74u8koe4IMctq8XlLSJEazbQ5TbhsAiicrbIxkLwoyH3g%2BIGF0IerlDF2AJPWotGno6cbn46ROo2kyRu2aArCO5diCaMnpJIjx8Hs2JCzBDnVYHIlVcM4gWBHCD3eqoUVnfXPTJ81g%3D%3D%7Ctkp%3ABk9SR6Dk79uTZw
+                      - heading "Waterproof Mens RFID Blocking Leather Wallet Credit Card ID Holder Zipper Purse Opens in a new window or tab" [level=3] [ref=e1425]:
+                        - text: Waterproof Mens RFID Blocking Leather Wallet Credit Card ID Holder Zipper Purse
+                        - generic [ref=e1426]: Opens in a new window or tab
+                    - generic [ref=e1428]: Brand New
+                  - generic [ref=e1430]:
+                    - generic [ref=e1431]: $8.99 to $9.59
+                    - generic [ref=e1432]: Buy It Now
+                    - generic [ref=e1433]: +$16.89 delivery
+                    - generic [ref=e1434]: Located in United States
+                    - generic [ref=e1435]: Save up to 10% when you buy more
+                  - generic [ref=e1436]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading [level=6]:
+                            - generic [ref=e1437]: Sponsored
+            - listitem [ref=e1438]:
+              - generic [ref=e1439]:
+                - generic [ref=e1441]:
+                  - link "Handy Mens Gents Leather Coin Tray Change Holder Wallet Purse in 3 Colours" [ref=e1445] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/291102119347?_skw=mens+leather+wallet&itmmeta=01KJEVVY84NAW5FH5GDWD8YS2X&hash=item43c709d5b3:g:qxMAAOSwwapnDjmr&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xA30xbsiTLjX7YEzcG3VqJK6RwsMU9A--2Qbx7qxTCtLIS4vElHWpYuPwfYSp09WPEntK9k%2Fhqly1V5f50lMEDgaf%2BAHdV%2FivtJ2HPlgPnNPCx1cr1IqJEG3Rf%2BJlKfHa%2FJc8tDeLP5w6BqJz32HkAr%2FjKn8oaNykATzkKyntIEjm5NLPz44C31QEuSxbKBvis%2B0D5CExIcoOvQTms7Dn4doi%2BashdDrP0MthJ%2FX1li9xnbdASGFe9dRe1NcguasTY%3D%7Ctkp%3ABk9SR6Dk79uTZw
+                    - img "Handy Mens Gents Leather Coin Tray Change Holder Wallet Purse in 3 Colours" [ref=e1446]
+                  - button "Open product gallery Handy Mens Gents Leather Coin Tray Change Holder Wallet Purse in 3 Colours" [ref=e1447]:
+                    - img
+                  - link "See visually similar items" [ref=e1449] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_id=291102119347&_fsrp=1&_vss=1&_vs=1&itmmeta=01KJEVVY84NAW5FH5GDWD8YS2X&_udlo=5.24&_vssPrice=1&_sacat=2996
+                    - img
+                - generic [ref=e1450]:
+                  - generic [ref=e1451]:
+                    - link "Handy Mens Gents Leather Coin Tray Change Holder Wallet Purse in 3 Colours Opens in a new window or tab" [ref=e1452] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/291102119347?_skw=mens+leather+wallet&itmmeta=01KJEVVY84NAW5FH5GDWD8YS2X&hash=item43c709d5b3:g:qxMAAOSwwapnDjmr&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xA30xbsiTLjX7YEzcG3VqJK6RwsMU9A--2Qbx7qxTCtLIS4vElHWpYuPwfYSp09WPEntK9k%2Fhqly1V5f50lMEDgaf%2BAHdV%2FivtJ2HPlgPnNPCx1cr1IqJEG3Rf%2BJlKfHa%2FJc8tDeLP5w6BqJz32HkAr%2FjKn8oaNykATzkKyntIEjm5NLPz44C31QEuSxbKBvis%2B0D5CExIcoOvQTms7Dn4doi%2BashdDrP0MthJ%2FX1li9xnbdASGFe9dRe1NcguasTY%3D%7Ctkp%3ABk9SR6Dk79uTZw
+                      - heading "Handy Mens Gents Leather Coin Tray Change Holder Wallet Purse in 3 Colours Opens in a new window or tab" [level=3] [ref=e1453]:
+                        - text: Handy Mens Gents Leather Coin Tray Change Holder Wallet Purse in 3 Colours
+                        - generic [ref=e1454]: Opens in a new window or tab
+                    - generic [ref=e1456]: Brand New
+                  - generic [ref=e1458]:
+                    - generic [ref=e1459]: $9.42
+                    - generic [ref=e1460]: Buy It Now
+                    - generic [ref=e1461]: +$5.33 delivery
+                    - generic [ref=e1462]: Located in United Kingdom
+                    - generic [ref=e1463]: 257+ sold
+                  - generic [ref=e1464]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading [level=6]:
+                            - generic [ref=e1465]: Sponsored
+            - listitem [ref=e1466]:
+              - generic [ref=e1467]:
+                - generic [ref=e1469]:
+                  - link "Genuine Leather Mens Wallet Slim Trifold Wallets For Men With ID Window RFID" [ref=e1473] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/175713287584?_skw=mens+leather+wallet&itmmeta=01KJEVVY84752G0KR599R70VXE&hash=item28e953fda0:g:VvIAAOSwkMJkh2l2&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBzG4W23jhgqAtpsjHD%2FPHyfqHT9f6kovCsRwSJUrbhb%2FD8xhL6OT4VIkiN2pM7Kdr4fvtiiQhpWqrwEsskyFOEwmthqVfDYJsccar10RYowiKRniFBXb2Q%2FlAiyL%2FYpNa4ZZEhyv7nwhLt%2BhjfS9F89lXhsO%2BPq364CbQkpX8uZzxfBqPG%2FWFIScHaZj%2FhJTee%2B%2BEIqbI0xGmT57sMAjUyD5vWDWeLbYF5s1yU07pdzXPfPx14q8xHgnylgWoK7Z5SAT2ZaHBS6in6dNhVhHdHMvC4Uj7dwewlpanqvPDMSQ%3D%3D%7Ctkp%3ABk9SR6Dk79uTZw
+                    - img "Genuine Leather Mens Wallet Slim Trifold Wallets For Men With ID Window RFID" [ref=e1474]
+                  - link "See visually similar items" [ref=e1476] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_id=175713287584&_fsrp=1&_vss=1&_vs=1&itmmeta=01KJEVVY84752G0KR599R70VXE&_udlo=11.24&_vssPrice=1&_sacat=2996
+                    - img
+                - generic [ref=e1477]:
+                  - generic [ref=e1478]:
+                    - link "Genuine Leather Mens Wallet Slim Trifold Wallets For Men With ID Window RFID Opens in a new window or tab" [ref=e1479] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/175713287584?_skw=mens+leather+wallet&itmmeta=01KJEVVY84752G0KR599R70VXE&hash=item28e953fda0:g:VvIAAOSwkMJkh2l2&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBzG4W23jhgqAtpsjHD%2FPHyfqHT9f6kovCsRwSJUrbhb%2FD8xhL6OT4VIkiN2pM7Kdr4fvtiiQhpWqrwEsskyFOEwmthqVfDYJsccar10RYowiKRniFBXb2Q%2FlAiyL%2FYpNa4ZZEhyv7nwhLt%2BhjfS9F89lXhsO%2BPq364CbQkpX8uZzxfBqPG%2FWFIScHaZj%2FhJTee%2B%2BEIqbI0xGmT57sMAjUyD5vWDWeLbYF5s1yU07pdzXPfPx14q8xHgnylgWoK7Z5SAT2ZaHBS6in6dNhVhHdHMvC4Uj7dwewlpanqvPDMSQ%3D%3D%7Ctkp%3ABk9SR6Dk79uTZw
+                      - heading "Genuine Leather Mens Wallet Slim Trifold Wallets For Men With ID Window RFID Opens in a new window or tab" [level=3] [ref=e1480]:
+                        - text: Genuine Leather Mens Wallet Slim Trifold Wallets For Men With ID Window RFID
+                        - generic [ref=e1481]: Opens in a new window or tab
+                    - generic [ref=e1483]: Brand New
+                  - generic [ref=e1485]:
+                    - generic [ref=e1486]:
+                      - text: $14.99
+                      - text: $24.99
+                    - generic [ref=e1487]: Buy It Now
+                    - generic [ref=e1488]: +$24.41 delivery
+                    - generic [ref=e1489]: Located in United States
+                    - generic [ref=e1490]: Free returns
+                    - generic [ref=e1491]: Save up to 10% when you buy more
+                  - generic [ref=e1492]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading [level=6]:
+                            - generic [ref=e1493]: Sponsored
+            - listitem [ref=e1494]:
+              - generic [ref=e1495]:
+                - generic [ref=e1497]:
+                  - link "Real Leather Slim Wallets For Men Trifold Mens Wallet W/ ID Window RFID Blocking" [ref=e1501] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/174037855553?_skw=mens+leather+wallet&itmmeta=01KJEVVY84VKV1FRT6EAMJEAP9&hash=item288576ed41:g:PD4AAOSwIPFhRUHL&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xAUHJdjOmI1CsplNMaRDcD9ui396yj7GOLylSlW6c7DJQox9SJErTT41NQGl4kgtg38X96%2FfFDaF7VdAAZCd7Wk8jVY6YLjk3lcxdkWA39CmUIrtBQ2LaWgwVujURtBKmw7xE27NnAkJAwE6L20AlVXbqlYe%2FgcHsqPNB0PgKlPEnrwucr%2Fw6JnXihVSIt0%2BNt8ZmA51ez4w6FP1qCAQvieKR03pvQ5VXEQJAifqxIMfwKhy6PBEFJbIHN5Nra6jvs%3D%7Ctkp%3ABk9SR6Dk79uTZw
+                    - img "Real Leather Slim Wallets For Men Trifold Mens Wallet W/ ID Window RFID Blocking" [ref=e1502]
+                  - link "See visually similar items" [ref=e1504] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_id=174037855553&_fsrp=1&_vss=1&_vs=1&itmmeta=01KJEVVY84VKV1FRT6EAMJEAP9&_udlo=11.24&_vssPrice=1&_sacat=2996
+                    - img
+                - generic [ref=e1505]:
+                  - generic [ref=e1506]:
+                    - link "Real Leather Slim Wallets For Men Trifold Mens Wallet W/ ID Window RFID Blocking Opens in a new window or tab" [ref=e1507] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/174037855553?_skw=mens+leather+wallet&itmmeta=01KJEVVY84VKV1FRT6EAMJEAP9&hash=item288576ed41:g:PD4AAOSwIPFhRUHL&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xAUHJdjOmI1CsplNMaRDcD9ui396yj7GOLylSlW6c7DJQox9SJErTT41NQGl4kgtg38X96%2FfFDaF7VdAAZCd7Wk8jVY6YLjk3lcxdkWA39CmUIrtBQ2LaWgwVujURtBKmw7xE27NnAkJAwE6L20AlVXbqlYe%2FgcHsqPNB0PgKlPEnrwucr%2Fw6JnXihVSIt0%2BNt8ZmA51ez4w6FP1qCAQvieKR03pvQ5VXEQJAifqxIMfwKhy6PBEFJbIHN5Nra6jvs%3D%7Ctkp%3ABk9SR6Dk79uTZw
+                      - heading "Real Leather Slim Wallets For Men Trifold Mens Wallet W/ ID Window RFID Blocking Opens in a new window or tab" [level=3] [ref=e1508]:
+                        - text: Real Leather Slim Wallets For Men Trifold Mens Wallet W/ ID Window RFID Blocking
+                        - generic [ref=e1509]: Opens in a new window or tab
+                    - generic [ref=e1511]: Brand New
+                  - generic [ref=e1513]:
+                    - generic [ref=e1514]:
+                      - text: $14.99
+                      - text: $29.99
+                    - generic [ref=e1515]: Buy It Now
+                    - generic [ref=e1516]: +$24.41 delivery
+                    - generic [ref=e1517]: Located in United States
+                    - generic [ref=e1518]: Free returns
+                    - generic [ref=e1519]: 1,791+ sold
+                  - generic [ref=e1520]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading [level=6]:
+                            - generic [ref=e1521]: Sponsored
+            - listitem [ref=e1522]:
+              - generic [ref=e1523]:
+                - generic [ref=e1525]:
+                  - link "STARHIDE Mens Leather Wallet RFID Blocking Bifold Card Protection 1065-Brown" [ref=e1529] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/395174478774?_skw=mens+leather+wallet&itmmeta=01KJEVVY84ZMKC31R01EWGF8RP&hash=item5c023c03b6:g:WZsAAOSw7~hlu51J&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xAl9Ai60nwqTLxkFLym5ddiq0zANCAYDM2%2FbN%2FUASE5BA7dZsTDFvehom35rxQsYCyZct4kY9gNFg4EtxGetZC4lM6geBm2cz11keW8fU0EaZYzd6kYwRjILAWUpGMmYzW5%2F5vFhn6Zllk4mynreTb8FA5TjokBJ316nxYOcdpg608NWMWuTkOjk%2B4VWcGMk3%2BtXPJDqj0keifbHOJ%2FXAZ2BC7oNexr%2BvMfFHf6pogbCaoD1ulnaYJ83NhvpX85k7E%3D%7Ctkp%3ABk9SR6Dk79uTZw
+                    - img "STARHIDE Mens Leather Wallet RFID Blocking Bifold Card Protection 1065-Brown" [ref=e1530]
+                  - link "watch STARHIDE Mens Leather Wallet RFID Blocking Bifold Card Protection 1065-Brown" [ref=e1532] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=395174478774&pt=null&srt=01000b00000050e011367e7161983f0abf9c18ce68530c252c5fbddcc777ffbf23994382b50b10bb296e8930df60e926e8c692c407e9784aa3ec44886f182a49ae27a2f320dab5e72641ea337fa907f54028b94a0875a7&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D0%26_from%3DR40
+                    - generic [ref=e1533]:
+                      - img
+                  - link "See visually similar items" [ref=e1535] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_id=395174478774&_fsrp=1&_vss=1&_vs=1&itmmeta=01KJEVVY84ZMKC31R01EWGF8RP&_udlo=15.0&_vssPrice=1&_sacat=2996
+                    - img
+                - generic [ref=e1536]:
+                  - generic [ref=e1537]:
+                    - link "STARHIDE Mens Leather Wallet RFID Blocking Bifold Card Protection 1065-Brown Opens in a new window or tab" [ref=e1538] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/395174478774?_skw=mens+leather+wallet&itmmeta=01KJEVVY84ZMKC31R01EWGF8RP&hash=item5c023c03b6:g:WZsAAOSw7~hlu51J&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xAl9Ai60nwqTLxkFLym5ddiq0zANCAYDM2%2FbN%2FUASE5BA7dZsTDFvehom35rxQsYCyZct4kY9gNFg4EtxGetZC4lM6geBm2cz11keW8fU0EaZYzd6kYwRjILAWUpGMmYzW5%2F5vFhn6Zllk4mynreTb8FA5TjokBJ316nxYOcdpg608NWMWuTkOjk%2B4VWcGMk3%2BtXPJDqj0keifbHOJ%2FXAZ2BC7oNexr%2BvMfFHf6pogbCaoD1ulnaYJ83NhvpX85k7E%3D%7Ctkp%3ABk9SR6Dk79uTZw
+                      - heading "STARHIDE Mens Leather Wallet RFID Blocking Bifold Card Protection 1065-Brown Opens in a new window or tab" [level=3] [ref=e1539]:
+                        - text: STARHIDE Mens Leather Wallet RFID Blocking Bifold Card Protection 1065-Brown
+                        - generic [ref=e1540]: Opens in a new window or tab
+                    - generic [ref=e1542]: Brand New
+                  - generic [ref=e1544]:
+                    - generic [ref=e1545]: $26.96
+                    - generic [ref=e1546]: Buy It Now
+                    - generic [ref=e1547]: +$13.47 delivery
+                    - generic [ref=e1548]: Located in United Kingdom
+                  - generic [ref=e1549]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading [level=6]:
+                            - generic [ref=e1550]: Sponsored
+            - listitem [ref=e1551]:
+              - generic [ref=e1552]:
+                - generic [ref=e1554]:
+                  - link "NAPA HIDE Genuine Leather Bifold Wallets For Men RFID Blocking Men's Wallet BEST" [ref=e1558] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/365799570662?_skw=mens+leather+wallet&itmmeta=01KJEVVY8421N54EHE91FZV31F&hash=item552b5a7ce6:g:ix4AAeSwYmNonrP6&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xD6gLWqb2c1O7Sh3K5wpCOmyApQfg3j4snf3mu%2BbcQ%2Bph4LBnZCX9ajKvc7OMBkanQ5EeFtrvyJaER8e%2BAQNVr9S%2Bu0VFaltM5cY1lal39UIKHVbomgB30N33ZG6s1ipH2XFXsEP83lmStV29cvQg%2BzCnV7WaDgnnV8cdPdBFZ4DrxYYl0ZzO9rUS6XCeN36zH7BsmuWxsDnKDQBmyhsl7WI%2FAuptttHNqCkREs2biKNPJEHNfY5jP3sSdBU8zT3HlrfMdp7i66YMfeuWEz9WeCkEAIi9BxoxPqOlaElqKvxg%3D%3D%7Ctkp%3ABFBMoOTv25Nn
+                    - img "NAPA HIDE Genuine Leather Bifold Wallets For Men RFID Blocking Men's Wallet BEST" [ref=e1559]
+                  - link "watch NAPA HIDE Genuine Leather Bifold Wallets For Men RFID Blocking Men's Wallet BEST" [ref=e1561] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=365799570662&pt=null&srt=01000b00000050254c98c28926e0186c430cd0a9e695c9f33c530a94ff3949329f7120f146264b98a3e4eeafb4d15d9da8ec0077d4c6c8c5f87659dec7500c2bc271cde1a651f420b058f56f550f4880cc550fcb7793a3&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D0%26_from%3DR40
+                    - generic [ref=e1562]:
+                      - img
+                  - link "See visually similar items" [ref=e1564] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_id=365799570662&_fsrp=1&_vss=1&_vs=1&itmmeta=01KJEVVY8421N54EHE91FZV31F&_udlo=11.24&_vssPrice=1&_sacat=2996
+                    - img
+                - generic [ref=e1565]:
+                  - generic [ref=e1566]:
+                    - link "NAPA HIDE Genuine Leather Bifold Wallets For Men RFID Blocking Men's Wallet BEST Opens in a new window or tab" [ref=e1567] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/365799570662?_skw=mens+leather+wallet&itmmeta=01KJEVVY8421N54EHE91FZV31F&hash=item552b5a7ce6:g:ix4AAeSwYmNonrP6&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xD6gLWqb2c1O7Sh3K5wpCOmyApQfg3j4snf3mu%2BbcQ%2Bph4LBnZCX9ajKvc7OMBkanQ5EeFtrvyJaER8e%2BAQNVr9S%2Bu0VFaltM5cY1lal39UIKHVbomgB30N33ZG6s1ipH2XFXsEP83lmStV29cvQg%2BzCnV7WaDgnnV8cdPdBFZ4DrxYYl0ZzO9rUS6XCeN36zH7BsmuWxsDnKDQBmyhsl7WI%2FAuptttHNqCkREs2biKNPJEHNfY5jP3sSdBU8zT3HlrfMdp7i66YMfeuWEz9WeCkEAIi9BxoxPqOlaElqKvxg%3D%3D%7Ctkp%3ABFBMoOTv25Nn
+                      - heading "NAPA HIDE Genuine Leather Bifold Wallets For Men RFID Blocking Men's Wallet BEST Opens in a new window or tab" [level=3] [ref=e1568]:
+                        - text: NAPA HIDE Genuine Leather Bifold Wallets For Men RFID Blocking Men's Wallet BEST
+                        - generic [ref=e1569]: Opens in a new window or tab
+                    - generic [ref=e1571]: Brand New
+                  - generic [ref=e1573]:
+                    - generic [ref=e1574]: $14.99
+                    - generic [ref=e1575]: or Best Offer
+                    - generic [ref=e1576]: Free International Shipping
+                    - generic [ref=e1577]: Located in India
+                    - generic [ref=e1578]: Free returns
+                    - generic [ref=e1579]: 14 watchers
+                  - generic [ref=e1580]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading [level=6]:
+                            - generic [ref=e1581]: Sponsored
+            - listitem [ref=e1582]:
+              - generic [ref=e1583]:
+                - generic [ref=e1585]:
+                  - link "SERMAN BRANDS 2 ID Window Wallet for Men RFID Blocking Leather, Bifold Top Flip" [ref=e1589] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/143463035720?_skw=mens+leather+wallet&itmmeta=01KJEVVY84QDEJ027RYBY5DSJF&hash=item2167103348:g:yyoAAOSwd5VgAeX4&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBnwEo9rssSOP%2FFoTXpZ6DQE3ERgD5RImv34QvmcTA1Rk0I5fMgBkR%2FQtFNBAXZuy3U9ycyjCo%2F2PKwXSHjpqGFQzsOSsjSz0IfyN2W1tQoG9o6UlzTyztNleQHiIpnwaTIDdWswMDwU35eaVAwaWETAY9fMBiJzvtjq9p6c7eyjUV8boVnItIOyVONOHsbCvhf4V6kcxIG3flj6FxX%2Fap4wIJ1isVKp1Zxqg16X%2BkAhQKpsrr56bJPTIwBLVFXLXGMKaYA7jvi22ybFZzXVglILMDB3viXE%2F4D0MGC3P7ANw%3D%3D%7Ctkp%3ABFBMoOTv25Nn
+                    - img "SERMAN BRANDS 2 ID Window Wallet for Men RFID Blocking Leather, Bifold Top Flip" [ref=e1590]
+                  - link "See visually similar items" [ref=e1592] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_id=143463035720&_fsrp=1&_vss=1&_vs=1&itmmeta=01KJEVVY84QDEJ027RYBY5DSJF&_udlo=22.46&_vssPrice=1&_sacat=2996
+                    - img
+                - generic [ref=e1593]:
+                  - generic [ref=e1594]:
+                    - link "SERMAN BRANDS 2 ID Window Wallet for Men RFID Blocking Leather, Bifold Top Flip Opens in a new window or tab" [ref=e1595] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/143463035720?_skw=mens+leather+wallet&itmmeta=01KJEVVY84QDEJ027RYBY5DSJF&hash=item2167103348:g:yyoAAOSwd5VgAeX4&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBnwEo9rssSOP%2FFoTXpZ6DQE3ERgD5RImv34QvmcTA1Rk0I5fMgBkR%2FQtFNBAXZuy3U9ycyjCo%2F2PKwXSHjpqGFQzsOSsjSz0IfyN2W1tQoG9o6UlzTyztNleQHiIpnwaTIDdWswMDwU35eaVAwaWETAY9fMBiJzvtjq9p6c7eyjUV8boVnItIOyVONOHsbCvhf4V6kcxIG3flj6FxX%2Fap4wIJ1isVKp1Zxqg16X%2BkAhQKpsrr56bJPTIwBLVFXLXGMKaYA7jvi22ybFZzXVglILMDB3viXE%2F4D0MGC3P7ANw%3D%3D%7Ctkp%3ABFBMoOTv25Nn
+                      - heading "SERMAN BRANDS 2 ID Window Wallet for Men RFID Blocking Leather, Bifold Top Flip Opens in a new window or tab" [level=3] [ref=e1596]:
+                        - text: SERMAN BRANDS 2 ID Window Wallet for Men RFID Blocking Leather, Bifold Top Flip
+                        - generic [ref=e1597]: Opens in a new window or tab
+                    - generic [ref=e1599]: Brand New
+                  - generic [ref=e1601]:
+                    - generic [ref=e1602]: $29.95
+                    - generic [ref=e1603]: Buy It Now
+                    - generic [ref=e1604]: +$24.73 delivery
+                    - generic [ref=e1605]: Located in United States
+                    - generic [ref=e1606]: 50+ sold
+                  - generic [ref=e1607]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading "Sponsored" [level=6]:
+                            - generic [ref=e1608]: Sponsored
+            - listitem [ref=e1609]:
+              - generic [ref=e1610]:
+                - generic [ref=e1612]:
+                  - link "SERMAN BRANDS- RFID Blocking Genuine Leather Thin Minimalist Front Pocket Wallet" [ref=e1616] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/142009450924?_skw=mens+leather+wallet&itmmeta=01KJEVVY84YC6QP4W9HNSQHY26&hash=item21106c41ac:g:-VcAAOSwrEthlqdE&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xANWSIFgoQlkAylOMrGCOArSTzSeBPp6VRzkGJtEKrrn10CeC7fSgW3UtKe20is8MfSoc0RxjIC3Au6hXB6f9aM6O%2BaRg--jvUYEqysxrFRdVU3zKm6HCUCHzNWVya%2F7DVNrb%2BB74guFiW3hV%2BPxBKZhQ2V3QKPjZeXJQHT69L5i3%2FSnjI4RXVXRZ%2Fla9Q4AUgVyM5ckfSMQShmLXYsF7dNP21BZvIxdLh3QSJUKXyG8AucxzltUpGeXA3K7ota3fCy5%2FWtyJYNNoT7JDs4cKg8csBLxxXxTrOGCLaxXHkB9Q%3D%3D%7Ctkp%3ABFBMoOTv25Nn
+                    - img "SERMAN BRANDS- RFID Blocking Genuine Leather Thin Minimalist Front Pocket Wallet"
+                  - link "See visually similar items" [ref=e1618] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_id=142009450924&_fsrp=1&_vss=1&_vs=1&itmmeta=01KJEVVY84YC6QP4W9HNSQHY26&_udlo=22.49&_vssPrice=1&_sacat=2996
+                    - img
+                - generic [ref=e1619]:
+                  - generic [ref=e1620]:
+                    - link "SERMAN BRANDS- RFID Blocking Genuine Leather Thin Minimalist Front Pocket Wallet Opens in a new window or tab" [ref=e1621] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/142009450924?_skw=mens+leather+wallet&itmmeta=01KJEVVY84YC6QP4W9HNSQHY26&hash=item21106c41ac:g:-VcAAOSwrEthlqdE&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xANWSIFgoQlkAylOMrGCOArSTzSeBPp6VRzkGJtEKrrn10CeC7fSgW3UtKe20is8MfSoc0RxjIC3Au6hXB6f9aM6O%2BaRg--jvUYEqysxrFRdVU3zKm6HCUCHzNWVya%2F7DVNrb%2BB74guFiW3hV%2BPxBKZhQ2V3QKPjZeXJQHT69L5i3%2FSnjI4RXVXRZ%2Fla9Q4AUgVyM5ckfSMQShmLXYsF7dNP21BZvIxdLh3QSJUKXyG8AucxzltUpGeXA3K7ota3fCy5%2FWtyJYNNoT7JDs4cKg8csBLxxXxTrOGCLaxXHkB9Q%3D%3D%7Ctkp%3ABFBMoOTv25Nn
+                      - heading "SERMAN BRANDS- RFID Blocking Genuine Leather Thin Minimalist Front Pocket Wallet Opens in a new window or tab" [level=3] [ref=e1622]:
+                        - text: SERMAN BRANDS- RFID Blocking Genuine Leather Thin Minimalist Front Pocket Wallet
+                        - generic [ref=e1623]: Opens in a new window or tab
+                    - generic [ref=e1625]: Brand New
+                  - generic [ref=e1627]:
+                    - generic [ref=e1628]: $29.99
+                    - generic [ref=e1629]: Buy It Now
+                    - generic [ref=e1630]: +$17.34 delivery
+                    - generic [ref=e1631]: Located in United States
+                    - generic [ref=e1632]: 472+ sold
+                  - generic [ref=e1633]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading "Sponsored" [level=6]:
+                            - generic [ref=e1634]: Sponsored
+            - listitem [ref=e1635]:
+              - generic [ref=e1636]:
+                - generic [ref=e1638]:
+                  - link "Black Small Real Leather Trifold Wallet Purse RFID BLOCKER Slim Wallets For Men" [ref=e1642] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/185271989565?_skw=mens+leather+wallet&itmmeta=01KJEVVY84DTAHXXVC05C74RWS&hash=item2b2312353d:g:-0UAAOSwTTNh8oWR&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xD7OBWQqLgzw3Y1YutLRY7PVuim%2F8tISLD7zrSJAS1iC6MkGW2PXHJbmH0KLTUqAHxf2YRNQ%2F8ahLpqF7Out%2F6%2B%2BpPIy2DkNj8pLZjyrsCdnzGRSMK5TB9ZQ1JaZnOQdY%2Bp8noeVoXzCVWHqYPShHJz2gU%2BgZ5wezI3VTGGprJtOaoYtzNWhiBGPJMp1wIAWl%2BFr5GP57nAAIjTd3rCEPIR%2BHbnXHy6Eyj0fg7O6icjUxeWTVfDLhUhUvQAP65siTw%3D%7Ctkp%3ABk9SR6Dk79uTZw
+                    - img "Black Small Real Leather Trifold Wallet Purse RFID BLOCKER Slim Wallets For Men"
+                  - link "watch Black Small Real Leather Trifold Wallet Purse RFID BLOCKER Slim Wallets For Men" [ref=e1644] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=185271989565&pt=null&srt=01000b00000050ca99677d57443ad1387056e9d6f2eb10414feeb3e01b9143e470ba74b15b0fc153e669229944c791ac9e50202d4f52cb12ec680451c92416041a63d1171a22afca1a558837a2d764cf9a235cd3c98149&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D0%26_from%3DR40
+                    - generic [ref=e1645]:
+                      - img
+                  - button "Open product gallery Black Small Real Leather Trifold Wallet Purse RFID BLOCKER Slim Wallets For Men" [ref=e1646]:
+                    - img
+                  - link "See visually similar items" [ref=e1648] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_id=185271989565&_fsrp=1&_vss=1&_vs=1&itmmeta=01KJEVVY84DTAHXXVC05C74RWS&_udlo=7.49&_vssPrice=1&_sacat=2996
+                    - img
+                - generic [ref=e1649]:
+                  - generic [ref=e1650]:
+                    - link "Black Small Real Leather Trifold Wallet Purse RFID BLOCKER Slim Wallets For Men Opens in a new window or tab" [ref=e1651] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/185271989565?_skw=mens+leather+wallet&itmmeta=01KJEVVY84DTAHXXVC05C74RWS&hash=item2b2312353d:g:-0UAAOSwTTNh8oWR&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xD7OBWQqLgzw3Y1YutLRY7PVuim%2F8tISLD7zrSJAS1iC6MkGW2PXHJbmH0KLTUqAHxf2YRNQ%2F8ahLpqF7Out%2F6%2B%2BpPIy2DkNj8pLZjyrsCdnzGRSMK5TB9ZQ1JaZnOQdY%2Bp8noeVoXzCVWHqYPShHJz2gU%2BgZ5wezI3VTGGprJtOaoYtzNWhiBGPJMp1wIAWl%2BFr5GP57nAAIjTd3rCEPIR%2BHbnXHy6Eyj0fg7O6icjUxeWTVfDLhUhUvQAP65siTw%3D%7Ctkp%3ABk9SR6Dk79uTZw
+                      - heading "Black Small Real Leather Trifold Wallet Purse RFID BLOCKER Slim Wallets For Men Opens in a new window or tab" [level=3] [ref=e1652]:
+                        - text: Black Small Real Leather Trifold Wallet Purse RFID BLOCKER Slim Wallets For Men
+                        - generic [ref=e1653]: Opens in a new window or tab
+                    - generic [ref=e1655]: Brand New
+                  - generic [ref=e1657]:
+                    - generic [ref=e1658]: $13.47
+                    - generic [ref=e1659]: Buy It Now
+                    - generic [ref=e1660]: +$16.16 delivery
+                    - generic [ref=e1661]: Located in United Kingdom
+                    - generic [ref=e1662]: 1,344 sold
+                  - generic [ref=e1663]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading [level=6]:
+                            - generic [ref=e1664]: Sponsored
+            - listitem [ref=e1665]:
+              - generic [ref=e1666]:
+                - generic [ref=e1668]:
+                  - link "Genuine Leather RFID Blocking Bifold Wallet For Men Slim Mens Wallet Minimalist" [ref=e1672] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/173370732979?_skw=mens+leather+wallet&itmmeta=01KJEVVY84XX7JV6D9PGK061P3&hash=item285db371b3:g:IDsAAOSw2XZf28Sa&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDRdJMUW70Gok2xa%2Bgq0wNUOmY5aU0KN%2F1whmNCKBj4BE%2BH09DprBBKhBQoljXr2zfB8mVwtoZiJ32T1b51zkYHyRLwn7LY0uWqoGjG3WpHBoPKpd62gieaT%2FkD%2F4tNRljz2OuMsSFXJW0d2jMoWkT%2B%2BniY87ux575%2FRvNv9Vx9jzrBB81NeA8NPhls%2FKNUFySZIohDAciFNhzZ4RETqzArxiJVYVUUrOBQUlCaCFSfOboJM1NhSLJFInffrVPeBuROj2jv9xgR7%2BjNmQGNmj8NPTb7kht5DSRypHpv6794Pw%3D%3D%7Ctkp%3ABk9SR6Lk79uTZw
+                    - img "Genuine Leather RFID Blocking Bifold Wallet For Men Slim Mens Wallet Minimalist"
+                  - link "See visually similar items" [ref=e1674] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_id=173370732979&_fsrp=1&_vss=1&_vs=1&itmmeta=01KJEVVY84XX7JV6D9PGK061P3&_udlo=11.24&_vssPrice=1&_sacat=2996
+                    - img
+                - generic [ref=e1675]:
+                  - generic [ref=e1676]:
+                    - link "Genuine Leather RFID Blocking Bifold Wallet For Men Slim Mens Wallet Minimalist Opens in a new window or tab" [ref=e1677] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/173370732979?_skw=mens+leather+wallet&itmmeta=01KJEVVY84XX7JV6D9PGK061P3&hash=item285db371b3:g:IDsAAOSw2XZf28Sa&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDRdJMUW70Gok2xa%2Bgq0wNUOmY5aU0KN%2F1whmNCKBj4BE%2BH09DprBBKhBQoljXr2zfB8mVwtoZiJ32T1b51zkYHyRLwn7LY0uWqoGjG3WpHBoPKpd62gieaT%2FkD%2F4tNRljz2OuMsSFXJW0d2jMoWkT%2B%2BniY87ux575%2FRvNv9Vx9jzrBB81NeA8NPhls%2FKNUFySZIohDAciFNhzZ4RETqzArxiJVYVUUrOBQUlCaCFSfOboJM1NhSLJFInffrVPeBuROj2jv9xgR7%2BjNmQGNmj8NPTb7kht5DSRypHpv6794Pw%3D%3D%7Ctkp%3ABk9SR6Lk79uTZw
+                      - heading "Genuine Leather RFID Blocking Bifold Wallet For Men Slim Mens Wallet Minimalist Opens in a new window or tab" [level=3] [ref=e1678]:
+                        - text: Genuine Leather RFID Blocking Bifold Wallet For Men Slim Mens Wallet Minimalist
+                        - generic [ref=e1679]: Opens in a new window or tab
+                    - generic [ref=e1681]: Brand New
+                  - generic [ref=e1683]:
+                    - generic [ref=e1684]: $14.99
+                    - generic [ref=e1685]: Buy It Now
+                    - generic [ref=e1686]: +$17.02 delivery
+                    - generic [ref=e1687]: Located in United States
+                    - generic [ref=e1688]: Free returns
+                  - generic [ref=e1689]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading [level=6]:
+                            - generic [ref=e1690]: Sponsored
+            - listitem [ref=e1691]:
+              - generic [ref=e1692]:
+                - generic [ref=e1694]:
+                  - link "Timberland Leather Wallet – Premium Genuine Leather Bifold Wallet for Men" [ref=e1698] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/197295361029?_skw=mens+leather+wallet&epid=2255940583&itmmeta=01KJEVVY84HJ21CSKEQX6HKX32&hash=item2defb84c05:g:ez0AAeSw9N1oG~vl&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBF9ZyaOOp%2FjNGLm02hMtpMU54hP7gTIrN2xVnnl9897towa3pIh4cixzWvcvuIzb9o88tddE0WtP%2F52pJmSZo1JGX6nQ1NJkLV0anU7goIDfB1xYPjhIebAGcv5v24Bq6K3rSs5z%2Fvw4%2BQ2SYjtbBFIpMTMQ1GwL%2FoVlmkDR47nJGyd7hP%2BclRnRN7CyhkXqdeH8odW0lZmjUsnBILhIqXIn2V6TXkMuceKFatjQlXyb4lvq6uyYbrzCGx82RdDvceXKioN6LCje5svT9hQYsu1eVQHwE8E%2FivADRlOdRsog%3D%3D%7Ctkp%3ABk9SR6Lk79uTZw
+                    - img "Timberland Leather Wallet – Premium Genuine Leather Bifold Wallet for Men"
+                  - link "See visually similar items" [ref=e1700] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_id=197295361029&_fsrp=1&_vss=1&_vs=1&itmmeta=01KJEVVY84HJ21CSKEQX6HKX32&_udlo=14.99&_vssPrice=1&_sacat=2996
+                    - img
+                - generic [ref=e1701]:
+                  - generic [ref=e1702]:
+                    - link "Timberland Leather Wallet – Premium Genuine Leather Bifold Wallet for Men Opens in a new window or tab" [ref=e1703] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/197295361029?_skw=mens+leather+wallet&epid=2255940583&itmmeta=01KJEVVY84HJ21CSKEQX6HKX32&hash=item2defb84c05:g:ez0AAeSw9N1oG~vl&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBF9ZyaOOp%2FjNGLm02hMtpMU54hP7gTIrN2xVnnl9897towa3pIh4cixzWvcvuIzb9o88tddE0WtP%2F52pJmSZo1JGX6nQ1NJkLV0anU7goIDfB1xYPjhIebAGcv5v24Bq6K3rSs5z%2Fvw4%2BQ2SYjtbBFIpMTMQ1GwL%2FoVlmkDR47nJGyd7hP%2BclRnRN7CyhkXqdeH8odW0lZmjUsnBILhIqXIn2V6TXkMuceKFatjQlXyb4lvq6uyYbrzCGx82RdDvceXKioN6LCje5svT9hQYsu1eVQHwE8E%2FivADRlOdRsog%3D%3D%7Ctkp%3ABk9SR6Lk79uTZw
+                      - heading "Timberland Leather Wallet – Premium Genuine Leather Bifold Wallet for Men Opens in a new window or tab" [level=3] [ref=e1704]:
+                        - text: Timberland Leather Wallet – Premium Genuine Leather Bifold Wallet for Men
+                        - generic [ref=e1705]: Opens in a new window or tab
+                    - generic [ref=e1707]: Brand New
+                    - link "4.5 out of 5 stars. 11 product ratings - Timberland Leather Wallet – Premium Genuine Leather Bifold Wallet for Men" [ref=e1710] [cursor=pointer]:
+                      - /url: https://www.ebay.com/p/2255940583?iid=197295361029&var=496738664194#UserReviews
+                      - generic [ref=e1711]:
+                        - img
+                        - img
+                        - img
+                        - img
+                        - img
+                        - generic [ref=e1712]: 4.5 out of 5 stars.
+                      - generic [ref=e1713]:
+                        - generic [ref=e1714]: (11)
+                        - generic [ref=e1715]: 11 product ratings - Timberland Leather Wallet – Premium Genuine Leather Bifold Wallet for Men
+                  - generic [ref=e1717]:
+                    - generic [ref=e1718]:
+                      - text: $19.99
+                      - text: $55.00
+                    - generic [ref=e1719]: Buy It Now
+                    - generic [ref=e1720]: +$17.12 delivery
+                    - generic [ref=e1721]: Located in United States
+                    - generic [ref=e1722]: Save up to 7% when you buy more
+                  - generic [ref=e1723]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading [level=6]:
+                            - generic [ref=e1724]: Sponsored
+            - listitem [ref=e1725]:
+              - generic [ref=e1726]:
+                - generic [ref=e1728]:
+                  - link "Mens RFID Blocking PU Leather Slim Wallet Money Credit Card Slots Coin Holder" [ref=e1732] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/264399686051?_skw=mens+leather+wallet&itmmeta=01KJEVVY84MJJM20QBV0Q5N3W8&hash=item3d8f7309a3:g:MhgAAOSwNxxfVwFa&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAIxvJXjS9gQCE0YJ9gAqCHOf5SxBb59qdXbSlygT744RHotpXQmjX7WDYKw305GqEHdFCaq9niPqNLMw6l7MYhqxrH0qJ7bSscmR1NbXw32JNTVkF%2BDrgnFJOzhAjlQH6UW6cLZtPB%2FfqMTMr2ZIjO6I2oZt0M%2BXARbFs4QmSSmrIJhDMgWcGqZP5NFUfOh7OHxVZHtnEezi1cktLig3rW2p0xXghApZRDZcybDdN9RILaPzeQux%2BezVESBhtPGYcIyCtOsM1YEKN5v2rMfQn6MWZSuZVduWFH7qb9%2FafFKQ%3D%3D%7Ctkp%3ABk9SR6Lk79uTZw
+                    - img "Mens RFID Blocking PU Leather Slim Wallet Money Credit Card Slots Coin Holder"
+                  - link "See visually similar items" [ref=e1734] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_id=264399686051&_fsrp=1&_vss=1&_vs=1&itmmeta=01KJEVVY84MJJM20QBV0Q5N3W8&_udlo=5.62&_vssPrice=1&_sacat=2996
+                    - img
+                - generic [ref=e1735]:
+                  - generic [ref=e1736]:
+                    - link "Mens RFID Blocking PU Leather Slim Wallet Money Credit Card Slots Coin Holder Opens in a new window or tab" [ref=e1737] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/264399686051?_skw=mens+leather+wallet&itmmeta=01KJEVVY84MJJM20QBV0Q5N3W8&hash=item3d8f7309a3:g:MhgAAOSwNxxfVwFa&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAIxvJXjS9gQCE0YJ9gAqCHOf5SxBb59qdXbSlygT744RHotpXQmjX7WDYKw305GqEHdFCaq9niPqNLMw6l7MYhqxrH0qJ7bSscmR1NbXw32JNTVkF%2BDrgnFJOzhAjlQH6UW6cLZtPB%2FfqMTMr2ZIjO6I2oZt0M%2BXARbFs4QmSSmrIJhDMgWcGqZP5NFUfOh7OHxVZHtnEezi1cktLig3rW2p0xXghApZRDZcybDdN9RILaPzeQux%2BezVESBhtPGYcIyCtOsM1YEKN5v2rMfQn6MWZSuZVduWFH7qb9%2FafFKQ%3D%3D%7Ctkp%3ABk9SR6Lk79uTZw
+                      - heading "Mens RFID Blocking PU Leather Slim Wallet Money Credit Card Slots Coin Holder Opens in a new window or tab" [level=3] [ref=e1738]:
+                        - text: Mens RFID Blocking PU Leather Slim Wallet Money Credit Card Slots Coin Holder
+                        - generic [ref=e1739]: Opens in a new window or tab
+                    - generic [ref=e1741]: Brand New
+                  - generic [ref=e1743]:
+                    - generic [ref=e1744]: $7.49 to $7.99
+                    - generic [ref=e1745]: Buy It Now
+                    - generic [ref=e1746]: +$24.25 delivery
+                    - generic [ref=e1747]: Located in United States
+                    - generic [ref=e1748]: Save up to 10% when you buy more
+                  - generic [ref=e1749]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading [level=6]:
+                            - generic [ref=e1750]: Sponsored
+            - listitem [ref=e1751]:
+              - generic [ref=e1752]:
+                - generic [ref=e1754]:
+                  - link "Mens Luxury Leather Zip Coin Pocket Billfold Wallet RFID BLOCKING Slim Bifold" [ref=e1758] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/304146285233?_skw=mens+leather+wallet&itmmeta=01KJEVVY84MWDFRPFJJ4ABKDJV&hash=item46d08802b1:g:mGcAAOSwb2FhgSeV&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDnuHu1vbcNdNa4UUVzqAVC%2BIi00M8AfgDBHxNzKC5mi%2B7FPD6TTy4LEaCwIeeldYstcrS3SlNJJuv1laz5oKZolWzS6gkxDrC0E9tBcgunFpNslx7CpmKuwi%2FS8Mqorg%2FPIe2y1mxZIVG%2BMypL6JAlod%2FU64oGmlTDkdbSae18Usho3SdteJPzwOJw4EvfAd3pxtqNhO48oEnX9tXl%2FpVTJKvpkIJfG2JYVxAbuGCdi2HrJ1iaID2ZUwxN6Ly6b4%2BTuIj9anaREn%2BpI8%2BB4o5zvsWyHaS%2BL7OmhBOi5xSOQg%3D%3D%7Ctkp%3ABk9SR6Lk79uTZw
+                    - img "Mens Luxury Leather Zip Coin Pocket Billfold Wallet RFID BLOCKING Slim Bifold"
+                  - link "See visually similar items" [ref=e1760] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_id=304146285233&_fsrp=1&_vss=1&_vs=1&itmmeta=01KJEVVY84MWDFRPFJJ4ABKDJV&_udlo=14.99&_vssPrice=1&_sacat=2996
+                    - img
+                - generic [ref=e1761]:
+                  - generic [ref=e1762]:
+                    - link "Mens Luxury Leather Zip Coin Pocket Billfold Wallet RFID BLOCKING Slim Bifold Opens in a new window or tab" [ref=e1763] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/304146285233?_skw=mens+leather+wallet&itmmeta=01KJEVVY84MWDFRPFJJ4ABKDJV&hash=item46d08802b1:g:mGcAAOSwb2FhgSeV&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDnuHu1vbcNdNa4UUVzqAVC%2BIi00M8AfgDBHxNzKC5mi%2B7FPD6TTy4LEaCwIeeldYstcrS3SlNJJuv1laz5oKZolWzS6gkxDrC0E9tBcgunFpNslx7CpmKuwi%2FS8Mqorg%2FPIe2y1mxZIVG%2BMypL6JAlod%2FU64oGmlTDkdbSae18Usho3SdteJPzwOJw4EvfAd3pxtqNhO48oEnX9tXl%2FpVTJKvpkIJfG2JYVxAbuGCdi2HrJ1iaID2ZUwxN6Ly6b4%2BTuIj9anaREn%2BpI8%2BB4o5zvsWyHaS%2BL7OmhBOi5xSOQg%3D%3D%7Ctkp%3ABk9SR6Lk79uTZw
+                      - heading "Mens Luxury Leather Zip Coin Pocket Billfold Wallet RFID BLOCKING Slim Bifold Opens in a new window or tab" [level=3] [ref=e1764]:
+                        - text: Mens Luxury Leather Zip Coin Pocket Billfold Wallet RFID BLOCKING Slim Bifold
+                        - generic [ref=e1765]: Opens in a new window or tab
+                    - generic [ref=e1767]: Brand New
+                  - generic [ref=e1769]:
+                    - generic [ref=e1770]: $26.95
+                    - generic [ref=e1771]: Buy It Now
+                    - generic [ref=e1772]: +$13.47 delivery
+                    - generic [ref=e1773]: Located in United Kingdom
+                  - generic [ref=e1774]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading [level=6]:
+                            - generic [ref=e1775]: Sponsored
+            - listitem [ref=e1776]:
+              - generic [ref=e1777]:
+                - generic [ref=e1779]:
+                  - link "Mens Genuine Leather Wallet Antitheft RFID Blocking Zip Around Coin Pouch Purse" [ref=e1783] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/304209497060?_skw=mens+leather+wallet&itmmeta=01KJEVVY846MH7Q9XE2VFQ5MRK&hash=item46d44c8be4:g:f5cAAOSw~1FhgRhP&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDVgPZEugzgD4jR1%2FtFFS7fk5e5BwcbbAIrn5dPs00K8Addaf2BUw4fOtDDJqJVCJ5sX1eVxR%2B6IihFTg3DhlysNkRw8tATC7v2YD2NTzFbq0eX%2FOo%2F%2BxbkdTNX8I5aHgAdecbvPApbpq4U97fmgwr0vBhn28sa%2BBvhFe%2FiOA%2FyiaXoSUw3p7HpIe6TpJfJD6NLY2BDjSo2UmK6RuCwCT2OAHgnoHe9iLLYtr9k4jvy0RQwT5D7ky1RkKN%2BiWP1fowhNpQmX32EIUUfm%2FiPV1L52vHxdVYk%2BRRAGzz7BMBOtw%3D%3D%7Ctkp%3ABk9SR6Lk79uTZw
+                    - img "Mens Genuine Leather Wallet Antitheft RFID Blocking Zip Around Coin Pouch Purse"
+                  - link "watch Mens Genuine Leather Wallet Antitheft RFID Blocking Zip Around Coin Pouch Purse" [ref=e1785] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=304209497060&pt=null&srt=01000b00000050d54241d0dc04b053431595537b95c01fa55550215ff0582de53aca98f7aa075bca23f1b8011a09948def831d4482582dafeab3f37a2570cfa3e724cb9f2e668b79ca80b6540e04d2d4d6d5075ad5b909&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D0%26_from%3DR40
+                    - generic [ref=e1786]:
+                      - img
+                  - link "See visually similar items" [ref=e1788] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_id=304209497060&_fsrp=1&_vss=1&_vs=1&itmmeta=01KJEVVY846MH7Q9XE2VFQ5MRK&_udlo=7.49&_vssPrice=1&_sacat=2996
+                    - img
+                - generic [ref=e1789]:
+                  - generic [ref=e1790]:
+                    - link "Mens Genuine Leather Wallet Antitheft RFID Blocking Zip Around Coin Pouch Purse Opens in a new window or tab" [ref=e1791] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/304209497060?_skw=mens+leather+wallet&itmmeta=01KJEVVY846MH7Q9XE2VFQ5MRK&hash=item46d44c8be4:g:f5cAAOSw~1FhgRhP&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDVgPZEugzgD4jR1%2FtFFS7fk5e5BwcbbAIrn5dPs00K8Addaf2BUw4fOtDDJqJVCJ5sX1eVxR%2B6IihFTg3DhlysNkRw8tATC7v2YD2NTzFbq0eX%2FOo%2F%2BxbkdTNX8I5aHgAdecbvPApbpq4U97fmgwr0vBhn28sa%2BBvhFe%2FiOA%2FyiaXoSUw3p7HpIe6TpJfJD6NLY2BDjSo2UmK6RuCwCT2OAHgnoHe9iLLYtr9k4jvy0RQwT5D7ky1RkKN%2BiWP1fowhNpQmX32EIUUfm%2FiPV1L52vHxdVYk%2BRRAGzz7BMBOtw%3D%3D%7Ctkp%3ABk9SR6Lk79uTZw
+                      - heading "Mens Genuine Leather Wallet Antitheft RFID Blocking Zip Around Coin Pouch Purse Opens in a new window or tab" [level=3] [ref=e1792]:
+                        - text: Mens Genuine Leather Wallet Antitheft RFID Blocking Zip Around Coin Pouch Purse
+                        - generic [ref=e1793]: Opens in a new window or tab
+                    - generic [ref=e1795]: Brand New
+                  - generic [ref=e1797]:
+                    - generic [ref=e1798]: $13.47
+                    - generic [ref=e1799]: Buy It Now
+                    - generic [ref=e1800]: +$13.47 delivery
+                    - generic [ref=e1801]: Located in United Kingdom
+                    - generic [ref=e1802]: 142 sold
+                  - generic [ref=e1803]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading [level=6]:
+                            - generic [ref=e1804]: Sponsored
+            - listitem [ref=e1805]:
+              - generic [ref=e1806]:
+                - generic [ref=e1808]:
+                  - link "Genuine Leather Wallets For Men Trifold Mens Wallet With ID Window RFID Blocking" [ref=e1812] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/183180636290?_skw=mens+leather+wallet&itmmeta=01KJEVVY84979KYW32Q3WY3KRN&hash=item2aa66ab082:g:FkIAAOSwh99cwglA&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCTD1o8klpDbchbFqW7LLnaU6%2F5t0x1FX7GzhAvMnZDJ8TsGkNaa0BUfRPBRUtg1Ii7H4coXievTJebOjHvafLVvCBaoi5MD2og5C5pCJmbHXqBtev178pJSKdY%2BmJEsMYfe%2BceVlPU0nyH3%2FmIFQIHIoiHkwq21gn4M7dyIiGA%2FdLtNZJRVPeA6XF7kN2%2ByrpIEZWqN3xrtGnkPtODgHra5lpDeAtYH3jXpUFe4%2FVnpNXUctLMjZY7340pU5C5C%2FwVFSwAT8jD2toq%2FBDVqzloAB%2BxxvXjvkpfvCp%2F8WnInw%3D%3D%7Ctkp%3ABk9SR6Lk79uTZw
+                    - img "Genuine Leather Wallets For Men Trifold Mens Wallet With ID Window RFID Blocking"
+                  - link "See visually similar items" [ref=e1814] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_id=183180636290&_fsrp=1&_vss=1&_vs=1&itmmeta=01KJEVVY84979KYW32Q3WY3KRN&_udlo=22.46&_vssPrice=1&_sacat=2996
+                    - img
+                - generic [ref=e1815]:
+                  - generic [ref=e1816]:
+                    - link "Genuine Leather Wallets For Men Trifold Mens Wallet With ID Window RFID Blocking Opens in a new window or tab" [ref=e1817] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/183180636290?_skw=mens+leather+wallet&itmmeta=01KJEVVY84979KYW32Q3WY3KRN&hash=item2aa66ab082:g:FkIAAOSwh99cwglA&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCTD1o8klpDbchbFqW7LLnaU6%2F5t0x1FX7GzhAvMnZDJ8TsGkNaa0BUfRPBRUtg1Ii7H4coXievTJebOjHvafLVvCBaoi5MD2og5C5pCJmbHXqBtev178pJSKdY%2BmJEsMYfe%2BceVlPU0nyH3%2FmIFQIHIoiHkwq21gn4M7dyIiGA%2FdLtNZJRVPeA6XF7kN2%2ByrpIEZWqN3xrtGnkPtODgHra5lpDeAtYH3jXpUFe4%2FVnpNXUctLMjZY7340pU5C5C%2FwVFSwAT8jD2toq%2FBDVqzloAB%2BxxvXjvkpfvCp%2F8WnInw%3D%3D%7Ctkp%3ABk9SR6Lk79uTZw
+                      - heading "Genuine Leather Wallets For Men Trifold Mens Wallet With ID Window RFID Blocking Opens in a new window or tab" [level=3] [ref=e1818]:
+                        - text: Genuine Leather Wallets For Men Trifold Mens Wallet With ID Window RFID Blocking
+                        - generic [ref=e1819]: Opens in a new window or tab
+                    - generic [ref=e1821]: Brand New
+                  - generic [ref=e1823]:
+                    - generic [ref=e1824]:
+                      - text: $29.95
+                      - text: $59.99
+                    - generic [ref=e1825]: Buy It Now
+                    - generic [ref=e1826]: +$17.34 delivery
+                    - generic [ref=e1827]: Located in United States
+                    - generic [ref=e1828]: Free returns
+                    - generic [ref=e1829]: 302+ sold
+                  - generic [ref=e1830]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading [level=6]:
+                            - generic [ref=e1831]: Sponsored
+            - listitem [ref=e1832]:
+              - generic [ref=e1833]:
+                - generic [ref=e1835]:
+                  - link "Genuine Handmade Full Grain Pure Leather Bifold Vertical Wallet for Men, Slim" [ref=e1839] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/365220992342?_skw=mens+leather+wallet&itmmeta=01KJEVVY841JRD2R50FVBE4Z9W&hash=item5508de1556:g:QUgAAOSwpSJnLnjL&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xDeIR7%2FUYO2VVOrj2skIpayBZILlt86qtqI3XnElM1qyCKvvsDrPAFHfVIOhMj0bVz7OC7wNcsaM0e7q4mGlQeb6qF5QQPqwedFhQtVNishZS9%2FBr3juYWg8Ee%2FNrPoBHma6lD3OUAClPGMkpNkcHSPitbqivYZj6M%2FnWDedqVvhh0Jsm5GB5MEKF4%2FVRMVr%2F1gsRbwJaRfbfyPJadDsc6lRxnyYmk7JtI111yJ7Qpu8iMrqVskFKUXWu6xPETwSyY%3D%7Ctkp%3ABk9SR6Lk79uTZw
+                    - img "Genuine Handmade Full Grain Pure Leather Bifold Vertical Wallet for Men, Slim"
+                  - link "watch Genuine Handmade Full Grain Pure Leather Bifold Vertical Wallet for Men, Slim" [ref=e1841] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=365220992342&pt=null&srt=01000b0000005071d343a44c96edab363a95ba85aa93dda1e1e775bf3cb8d3fcf7c684b602d069d0297bb3187db84b1a2758cc15b55f2451388037c8a0696f3b66165b835ffa616632d41e4b72a11a5372722919969cd1&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D0%26_from%3DR40
+                    - generic [ref=e1842]:
+                      - img
+                  - link "See visually similar items" [ref=e1844] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_id=365220992342&_fsrp=1&_vss=1&_vs=1&itmmeta=01KJEVVY841JRD2R50FVBE4Z9W&_udlo=17.81&_vssPrice=1&_sacat=2996
+                    - img
+                - generic [ref=e1845]:
+                  - generic [ref=e1846]:
+                    - link "Genuine Handmade Full Grain Pure Leather Bifold Vertical Wallet for Men, Slim Opens in a new window or tab" [ref=e1847] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/365220992342?_skw=mens+leather+wallet&itmmeta=01KJEVVY841JRD2R50FVBE4Z9W&hash=item5508de1556:g:QUgAAOSwpSJnLnjL&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xDeIR7%2FUYO2VVOrj2skIpayBZILlt86qtqI3XnElM1qyCKvvsDrPAFHfVIOhMj0bVz7OC7wNcsaM0e7q4mGlQeb6qF5QQPqwedFhQtVNishZS9%2FBr3juYWg8Ee%2FNrPoBHma6lD3OUAClPGMkpNkcHSPitbqivYZj6M%2FnWDedqVvhh0Jsm5GB5MEKF4%2FVRMVr%2F1gsRbwJaRfbfyPJadDsc6lRxnyYmk7JtI111yJ7Qpu8iMrqVskFKUXWu6xPETwSyY%3D%7Ctkp%3ABk9SR6Lk79uTZw
+                      - heading "Genuine Handmade Full Grain Pure Leather Bifold Vertical Wallet for Men, Slim Opens in a new window or tab" [level=3] [ref=e1848]:
+                        - text: Genuine Handmade Full Grain Pure Leather Bifold Vertical Wallet for Men, Slim
+                        - generic [ref=e1849]: Opens in a new window or tab
+                    - generic [ref=e1851]: Brand New
+                  - generic [ref=e1853]:
+                    - generic [ref=e1854]:
+                      - text: $23.75
+                      - text: $25.00
+                    - generic [ref=e1855]: Buy It Now
+                    - generic [ref=e1856]: +$17.20 delivery
+                    - generic [ref=e1857]: Located in United States
+                    - generic [ref=e1858]: Save up to 15% when you buy more
+                  - generic [ref=e1859]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading [level=6]:
+                            - generic [ref=e1860]: Sponsored
+            - listitem [ref=e1861]:
+              - generic [ref=e1862]:
+                - generic [ref=e1864]:
+                  - link "Mens Small Handy Leather Coin Tray/Purse Wallet in 3 Colours Change Holder" [ref=e1868] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/271079639638?_skw=mens+leather+wallet&itmmeta=01KJEVVY84DRPJFKR1HT1B75W7&hash=item3f1d9b0a56:g:OM4AAOSwRwdmXvZJ&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDmL2zYrOrYLEVtp%2FQvGK%2BZ1m0DcKupCeUgX85obUBYW%2BHy6%2F2yFPdsdg%2FV93KjbDJ3CYxMU8hfPa5B5AFvZao3%2FdJapfJAtnRPKZ9jJvJzv%2FdYgWSk3jg0dzg46X7zyQimGmnunyd6tw%2FXtp1sjZ%2BrmsyYGI2aRh5S4QpGOJAz%2B7ZfBM%2FRRQH1y5qAr5WpJEASi6JzABH8O0JwOYNTyOwlOQrAZBBSfW0sMP17a657CtYH51BHppMjWH7FIvdIQ5cU%2FXuCCc5qibgS2hD0Gh8A8%2FcvgLF6OxwEtjctE3lziA%3D%3D%7Ctkp%3ABk9SR6Lk79uTZw
+                    - img "Mens Small Handy Leather Coin Tray/Purse Wallet in 3 Colours Change Holder"
+                  - button "Open product gallery Mens Small Handy Leather Coin Tray/Purse Wallet in 3 Colours Change Holder" [ref=e1869]:
+                    - img
+                  - link "See visually similar items" [ref=e1871] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_id=271079639638&_fsrp=1&_vss=1&_vs=1&itmmeta=01KJEVVY84DRPJFKR1HT1B75W7&_udlo=4.69&_vssPrice=1&_sacat=2996
+                    - img
+                - generic [ref=e1872]:
+                  - generic [ref=e1873]:
+                    - link "Mens Small Handy Leather Coin Tray/Purse Wallet in 3 Colours Change Holder Opens in a new window or tab" [ref=e1874] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/271079639638?_skw=mens+leather+wallet&itmmeta=01KJEVVY84DRPJFKR1HT1B75W7&hash=item3f1d9b0a56:g:OM4AAOSwRwdmXvZJ&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDmL2zYrOrYLEVtp%2FQvGK%2BZ1m0DcKupCeUgX85obUBYW%2BHy6%2F2yFPdsdg%2FV93KjbDJ3CYxMU8hfPa5B5AFvZao3%2FdJapfJAtnRPKZ9jJvJzv%2FdYgWSk3jg0dzg46X7zyQimGmnunyd6tw%2FXtp1sjZ%2BrmsyYGI2aRh5S4QpGOJAz%2B7ZfBM%2FRRQH1y5qAr5WpJEASi6JzABH8O0JwOYNTyOwlOQrAZBBSfW0sMP17a657CtYH51BHppMjWH7FIvdIQ5cU%2FXuCCc5qibgS2hD0Gh8A8%2FcvgLF6OxwEtjctE3lziA%3D%3D%7Ctkp%3ABk9SR6Lk79uTZw
+                      - heading "Mens Small Handy Leather Coin Tray/Purse Wallet in 3 Colours Change Holder Opens in a new window or tab" [level=3] [ref=e1875]:
+                        - text: Mens Small Handy Leather Coin Tray/Purse Wallet in 3 Colours Change Holder
+                        - generic [ref=e1876]: Opens in a new window or tab
+                    - generic [ref=e1878]: Brand New
+                  - generic [ref=e1880]:
+                    - generic [ref=e1881]: $8.43
+                    - generic [ref=e1882]: Buy It Now
+                    - generic [ref=e1883]: +$5.33 delivery
+                    - generic [ref=e1884]: Located in United Kingdom
+                    - generic [ref=e1885]: 695+ sold
+                  - generic [ref=e1886]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading [level=6]:
+                            - generic [ref=e1887]: Sponsored
+            - listitem [ref=e1888]:
+              - generic [ref=e1889]:
+                - generic [ref=e1891]:
+                  - link "Mens RFID BLOCKING Real Leather Wallet Zip Coin Pocket Purse ID Window 42 Black" [ref=e1895] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/311672063364?_skw=mens+leather+wallet&itmmeta=01KJEVVY847QYAEN0PWPFTMXJM&hash=item48911a4584:g:lhYAAOSwlJBjRuvh&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAeRbHq0k4ye%2B%2FWB9mmdo%2F26ednCt4j6whGxIaosuvibgcojgJ3hZ8QbsF65LQtORWjAZFWi1WGOLSob4dQ8QUC6t0%2BZzZ00hMqz%2BTLoLB740yPO3%2BZvPYHTRWDhGQaR%2BhkFRz2cPDNDkkgpVAZItTAbHZaKJlE8xAqU6SCbPF1PgHQA%2FAzvuxkCVi%2Ba3OgsTtUd46Iglc9CMWs7I85NQyNeLI3KRPnSBO9XAIiZ8ZWZyXIX1M0AKgR1oDJi9ZHU%2BpCw7EsNGZsGtFPoqxtiCQCyjbqA2iJ60aTvryRAb79gA%3D%3D%7Ctkp%3ABk9SR6Lk79uTZw
+                    - img "Mens RFID BLOCKING Real Leather Wallet Zip Coin Pocket Purse ID Window 42 Black"
+                  - link "watch Mens RFID BLOCKING Real Leather Wallet Zip Coin Pocket Purse ID Window 42 Black" [ref=e1897] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=311672063364&pt=null&srt=01000b00000050212444f59cbd09f63d02a58be1503b45b88fea5d4eb0ebc5f8dc13468d1250ecfef9714f8934187ebd280e9f541e5ec7970b5e0b6281430dc70371d2bb2dbebdf609231e6626653b9e09a2c9d82c7db9&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D0%26_from%3DR40
+                    - generic [ref=e1898]:
+                      - img
+                  - button "Open product gallery Mens RFID BLOCKING Real Leather Wallet Zip Coin Pocket Purse ID Window 42 Black" [ref=e1899]:
+                    - img
+                  - link "See visually similar items" [ref=e1901] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_id=311672063364&_fsrp=1&_vss=1&_vs=1&itmmeta=01KJEVVY847QYAEN0PWPFTMXJM&_udlo=7.49&_vssPrice=1&_sacat=2996
+                    - img
+                - generic [ref=e1902]:
+                  - generic [ref=e1903]:
+                    - link "Mens RFID BLOCKING Real Leather Wallet Zip Coin Pocket Purse ID Window 42 Black Opens in a new window or tab" [ref=e1904] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/311672063364?_skw=mens+leather+wallet&itmmeta=01KJEVVY847QYAEN0PWPFTMXJM&hash=item48911a4584:g:lhYAAOSwlJBjRuvh&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAeRbHq0k4ye%2B%2FWB9mmdo%2F26ednCt4j6whGxIaosuvibgcojgJ3hZ8QbsF65LQtORWjAZFWi1WGOLSob4dQ8QUC6t0%2BZzZ00hMqz%2BTLoLB740yPO3%2BZvPYHTRWDhGQaR%2BhkFRz2cPDNDkkgpVAZItTAbHZaKJlE8xAqU6SCbPF1PgHQA%2FAzvuxkCVi%2Ba3OgsTtUd46Iglc9CMWs7I85NQyNeLI3KRPnSBO9XAIiZ8ZWZyXIX1M0AKgR1oDJi9ZHU%2BpCw7EsNGZsGtFPoqxtiCQCyjbqA2iJ60aTvryRAb79gA%3D%3D%7Ctkp%3ABk9SR6Lk79uTZw
+                      - heading "Mens RFID BLOCKING Real Leather Wallet Zip Coin Pocket Purse ID Window 42 Black Opens in a new window or tab" [level=3] [ref=e1905]:
+                        - text: Mens RFID BLOCKING Real Leather Wallet Zip Coin Pocket Purse ID Window 42 Black
+                        - generic [ref=e1906]: Opens in a new window or tab
+                    - generic [ref=e1908]: Brand New
+                  - generic [ref=e1910]:
+                    - generic [ref=e1911]: $13.47
+                    - generic [ref=e1912]: Buy It Now
+                    - generic [ref=e1913]: +$16.16 delivery
+                    - generic [ref=e1914]: Located in United Kingdom
+                    - generic [ref=e1915]: 4,690 sold
+                  - generic [ref=e1916]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading [level=6]:
+                            - generic [ref=e1917]: Sponsored
+            - listitem [ref=e1918]:
+              - generic [ref=e1919]:
+                - generic [ref=e1921]:
+                  - link "STARHIDE Genuine Leather RFID Shielded Blocking Extra Card Capacity Wallet 1085" [ref=e1925] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/145359620836?_skw=mens+leather+wallet&itmmeta=01KJEVVY8458JFK62ZTBFCKYA9&hash=item21d81bcae4:g:I0gAAOSwDjxlJsaX&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xBADSmGI1cYz5xIX%2BLy5q8keIS3VP6vEi9njKNBf3NVBesCKanQ3oUOPfnRa1IZC5rwOcHmTGvSQGcTAG6fycEYmR5fYdhv4pWm4gV%2FI2394yeK3ml8mAIs9HlQHu2KvMVSNbaEZFBQPerHRhXYXyCeT%2FEcew74TTR5L9Vmu92gHhwjjlq2Wo8GguOB2%2FCNCi12F7Lj%2BW3Zdtn8stx5zisj--UX1thHwpiZG2t5w1mPzv3uU4O02Xi5aIcnKklL77U%3D%7Ctkp%3ABk9SR6Lk79uTZw
+                    - img "STARHIDE Genuine Leather RFID Shielded Blocking Extra Card Capacity Wallet 1085"
+                  - link "watch STARHIDE Genuine Leather RFID Shielded Blocking Extra Card Capacity Wallet 1085" [ref=e1927] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=145359620836&pt=null&srt=01000b000000502cdcf9f2ab2d2f8707cfdde72e5d419c2ba7a978c54d6c20a037c9a7a9c2b15995fc3c18bc5470593dae46c8c76f855440ec5b61d74cc702f3b90c2bc9521cd2076cd1c97526b75c8d7cf4bf7101b16c&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D0%26_from%3DR40
+                    - generic [ref=e1928]:
+                      - img
+                  - link "See visually similar items" [ref=e1930] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_id=145359620836&_fsrp=1&_vss=1&_vs=1&itmmeta=01KJEVVY8458JFK62ZTBFCKYA9&_udlo=11.21&_vssPrice=1&_sacat=2996
+                    - img
+                - generic [ref=e1931]:
+                  - generic [ref=e1932]:
+                    - link "STARHIDE Genuine Leather RFID Shielded Blocking Extra Card Capacity Wallet 1085 Opens in a new window or tab" [ref=e1933] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/145359620836?_skw=mens+leather+wallet&itmmeta=01KJEVVY8458JFK62ZTBFCKYA9&hash=item21d81bcae4:g:I0gAAOSwDjxlJsaX&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xBADSmGI1cYz5xIX%2BLy5q8keIS3VP6vEi9njKNBf3NVBesCKanQ3oUOPfnRa1IZC5rwOcHmTGvSQGcTAG6fycEYmR5fYdhv4pWm4gV%2FI2394yeK3ml8mAIs9HlQHu2KvMVSNbaEZFBQPerHRhXYXyCeT%2FEcew74TTR5L9Vmu92gHhwjjlq2Wo8GguOB2%2FCNCi12F7Lj%2BW3Zdtn8stx5zisj--UX1thHwpiZG2t5w1mPzv3uU4O02Xi5aIcnKklL77U%3D%7Ctkp%3ABk9SR6Lk79uTZw
+                      - heading "STARHIDE Genuine Leather RFID Shielded Blocking Extra Card Capacity Wallet 1085 Opens in a new window or tab" [level=3] [ref=e1934]:
+                        - text: STARHIDE Genuine Leather RFID Shielded Blocking Extra Card Capacity Wallet 1085
+                        - generic [ref=e1935]: Opens in a new window or tab
+                    - generic [ref=e1937]: Brand New
+                  - generic [ref=e1939]:
+                    - generic [ref=e1940]: $20.16
+                    - generic [ref=e1941]: Buy It Now
+                    - generic [ref=e1942]: +$13.47 delivery
+                    - generic [ref=e1943]: Located in United Kingdom
+                  - generic [ref=e1944]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading [level=6]:
+                            - generic [ref=e1945]: Sponsored
+            - listitem [ref=e1946]:
+              - generic [ref=e1947]:
+                - generic [ref=e1949]:
+                  - link "Small Black Genuine Soft Leather Card Holder Wallet Slimline Cards & Cash Pocket" [ref=e1953] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/303940777714?_skw=mens+leather+wallet&itmmeta=01KJEVVY843EZJFGGJGGGEPMK9&hash=item46c44836f2:g:7-AAAOSwNRhgZDsQ&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xDQCvyyydTZ51mZqo9ea4KeLJKK5kojT35qF0o9pAbTnnqscScRt7bS9sJROzEzp%2FFhJirWgWe%2Bo6G64oW2z%2B4GV%2BtDgms25dgmNXhbR0eRLCl1OfZ05ES11dwabiURlIENFyawLsTGOUI59KceveH%2F60P5ia0aTOPTZz01RIYVIHcrxWJ8XncSwQdqVkDo4Py0c%2Bz7DzPNt494B7Bf%2BoyG6wcLGimwgOyZlEOzDUbrh8wuwe%2F8o5lPynFGks7%2FTws%3D%7Ctkp%3ABk9SR6Lk79uTZw
+                    - img "Small Black Genuine Soft Leather Card Holder Wallet Slimline Cards & Cash Pocket"
+                  - link "watch Small Black Genuine Soft Leather Card Holder Wallet Slimline Cards & Cash Pocket" [ref=e1955] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=303940777714&pt=null&srt=01000b0000005079152132060cb01212abf46be064e59897a012716829bf54e83c542a4878818658dbcde62fc489e7964407b20724e8fbd58927abdfdaf762759a2730a01444e5275d0d6378ce0f09338e8adaeca24879&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D0%26_from%3DR40
+                    - generic [ref=e1956]:
+                      - img
+                  - link "See visually similar items" [ref=e1958] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_id=303940777714&_fsrp=1&_vss=1&_vs=1&itmmeta=01KJEVVY843EZJFGGJGGGEPMK9&_udlo=9.71&_vssPrice=1&_sacat=2996
+                    - img
+                - generic [ref=e1959]:
+                  - generic [ref=e1960]:
+                    - link "Small Black Genuine Soft Leather Card Holder Wallet Slimline Cards & Cash Pocket Opens in a new window or tab" [ref=e1961] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/303940777714?_skw=mens+leather+wallet&itmmeta=01KJEVVY843EZJFGGJGGGEPMK9&hash=item46c44836f2:g:7-AAAOSwNRhgZDsQ&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xDQCvyyydTZ51mZqo9ea4KeLJKK5kojT35qF0o9pAbTnnqscScRt7bS9sJROzEzp%2FFhJirWgWe%2Bo6G64oW2z%2B4GV%2BtDgms25dgmNXhbR0eRLCl1OfZ05ES11dwabiURlIENFyawLsTGOUI59KceveH%2F60P5ia0aTOPTZz01RIYVIHcrxWJ8XncSwQdqVkDo4Py0c%2Bz7DzPNt494B7Bf%2BoyG6wcLGimwgOyZlEOzDUbrh8wuwe%2F8o5lPynFGks7%2FTws%3D%7Ctkp%3ABk9SR6Lk79uTZw
+                      - heading "Small Black Genuine Soft Leather Card Holder Wallet Slimline Cards & Cash Pocket Opens in a new window or tab" [level=3] [ref=e1962]:
+                        - text: Small Black Genuine Soft Leather Card Holder Wallet Slimline Cards & Cash Pocket
+                        - generic [ref=e1963]: Opens in a new window or tab
+                    - generic [ref=e1965]: Brand New
+                  - generic [ref=e1967]:
+                    - generic [ref=e1968]: $17.46
+                    - generic [ref=e1969]: Buy It Now
+                    - generic [ref=e1970]: +$13.47 delivery
+                    - generic [ref=e1971]: Located in United Kingdom
+                    - generic [ref=e1972]: 1,874 sold
+                  - generic [ref=e1973]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading [level=6]:
+                            - generic [ref=e1974]: Sponsored
+            - listitem [ref=e1975]:
+              - generic [ref=e1976]:
+                - generic [ref=e1978]:
+                  - 'link "RFID Genuine Leather Wallet. Colour: Black. Style No: 11004" [ref=e1982] [cursor=pointer]':
+                    - /url: https://www.ebay.com/itm/281945333278?_skw=mens+leather+wallet&itmmeta=01KJEVVY8409J6P9A056EKVSHF&hash=item41a5405e1e:g:N40AAOSwD2pXFXsk&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBg6b6VL%2F%2BKq0jlT21uOuYaqqCqVEbfr%2BHgpzosKwX2aUPZ2Ct8%2FN2HcrHxBpAEeNuab2Xgt2D5JIZVoepLkwrzvZ6X3R0ylzjLyqzWXmmiKKZRG7OYn1Egp%2B38i5GW0Ioh7OID9zsSHhtOk1lmm8qDTsraMm6whGP8Qd3n9MBzzsHxuhKWrFuPEjW%2BupNgG4%2BR4JahFexfV3pIGqxS2xUHpoUzXfX4Lx4A%2BCjEqGefOXd%2FEDmNMbi3Ma67OnRbANmK%2B%2FL3OguQBuCRrix6VGMWDlNMcQe9ztxeDCn6qo%2B4Tg%3D%3D%7Ctkp%3ABFBMouTv25Nn
+                    - 'img "RFID Genuine Leather Wallet. Colour: Black. Style No: 11004"'
+                  - 'link "watch RFID Genuine Leather Wallet. Colour: Black. Style No: 11004" [ref=e1984] [cursor=pointer]':
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=281945333278&pt=null&srt=01000b00000050621ec6c41402aa97c0f60cc42f8290421500821f52de8dcd57f84989284a866fd294edf1fdd5e8bf2e8089fc3ad49145f63d42b7c56615a5084dde30dfabdb4a175e88ec9fbb066b128463e6becbe76a&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D0%26_from%3DR40
+                    - generic [ref=e1985]:
+                      - img
+                  - 'button "Open product gallery RFID Genuine Leather Wallet. Colour: Black. Style No: 11004" [ref=e1986]':
+                    - img
+                  - link "See visually similar items" [ref=e1988] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_id=281945333278&_fsrp=1&_vss=1&_vs=1&itmmeta=01KJEVVY8409J6P9A056EKVSHF&_udlo=22.49&_vssPrice=1&_sacat=2996
+                    - img
+                - generic [ref=e1989]:
+                  - generic [ref=e1990]:
+                    - 'link "RFID Genuine Leather Wallet. Colour: Black. Style No: 11004 Opens in a new window or tab" [ref=e1991] [cursor=pointer]':
+                      - /url: https://www.ebay.com/itm/281945333278?_skw=mens+leather+wallet&itmmeta=01KJEVVY8409J6P9A056EKVSHF&hash=item41a5405e1e:g:N40AAOSwD2pXFXsk&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBg6b6VL%2F%2BKq0jlT21uOuYaqqCqVEbfr%2BHgpzosKwX2aUPZ2Ct8%2FN2HcrHxBpAEeNuab2Xgt2D5JIZVoepLkwrzvZ6X3R0ylzjLyqzWXmmiKKZRG7OYn1Egp%2B38i5GW0Ioh7OID9zsSHhtOk1lmm8qDTsraMm6whGP8Qd3n9MBzzsHxuhKWrFuPEjW%2BupNgG4%2BR4JahFexfV3pIGqxS2xUHpoUzXfX4Lx4A%2BCjEqGefOXd%2FEDmNMbi3Ma67OnRbANmK%2B%2FL3OguQBuCRrix6VGMWDlNMcQe9ztxeDCn6qo%2B4Tg%3D%3D%7Ctkp%3ABFBMouTv25Nn
+                      - 'heading "RFID Genuine Leather Wallet. Colour: Black. Style No: 11004 Opens in a new window or tab" [level=3] [ref=e1992]':
+                        - text: "RFID Genuine Leather Wallet. Colour: Black. Style No: 11004"
+                        - generic [ref=e1993]: Opens in a new window or tab
+                    - generic [ref=e1995]: Brand New
+                  - generic [ref=e1997]:
+                    - generic [ref=e1998]:
+                      - text: $21.31
+                      - text: $28.41
+                    - generic [ref=e1999]: Buy It Now
+                    - generic [ref=e2000]: +$14.21 delivery
+                    - generic [ref=e2001]: Located in Australia
+                    - generic [ref=e2002]: 5,296 sold
+                  - generic [ref=e2003]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading "Sponsored" [level=6]:
+                            - generic [ref=e2004]: Sponsored
+            - listitem [ref=e2005]:
+              - generic [ref=e2006]:
+                - generic [ref=e2008]:
+                  - link "Genuine Leather RFID Blocking Credit Card Holders for Men With Window ID" [ref=e2012] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/125510999865?_skw=mens+leather+wallet&itmmeta=01KJEVVY84D9KZJD49GEY8EC7A&hash=item1d3909df39:g:B74AAOSwN39i-3FT&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xC25GbmpgLZYW2HVonCLJXH4MYevIxZckcvWLKBR9JVxf43RUkOeoszoUptlhOGVmpjCagr2j7A45G55RJ7dEsqMmAtFnLFa%2FSZ5oqHodDQEAbdxZyhDRQ6Pybo2rHQLai7C2kvQWhnrc8vQfo0lH1LZXuwTctZBldfJ93M4ETmY7OIlVCOj%2BxabdFttAdj4v7JLyrmeIu9jxBZpVbmAqrwYE9D9h%2FqgDwVchvH8IOxhMhqgcADexp7EpDtdSMcUPUeRXhzjB2ZlgbeM437ym4NVrwsVlp3u8zwuY%2BUe40x3A%3D%3D%7Ctkp%3ABFBMouTv25Nn
+                    - img "Genuine Leather RFID Blocking Credit Card Holders for Men With Window ID"
+                  - link "watch Genuine Leather RFID Blocking Credit Card Holders for Men With Window ID" [ref=e2014] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=125510999865&pt=null&srt=01000b000000503cff8156033bccf8258e921c6136c1f567ff97731b56ed30228c2a8a46202e21f99e8a711b39258c398358eaa4c347f6202ce87542685c79df14f6c746a6b83f7994d81445b9f84ce87dbae2342ad168&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D0%26_from%3DR40
+                    - generic [ref=e2015]:
+                      - img
+                  - link "See visually similar items" [ref=e2017] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_id=125510999865&_fsrp=1&_vss=1&_vs=1&itmmeta=01KJEVVY84D9KZJD49GEY8EC7A&_udlo=3.74&_vssPrice=1&_sacat=2996
+                    - img
+                - generic [ref=e2018]:
+                  - generic [ref=e2019]:
+                    - link "Genuine Leather RFID Blocking Credit Card Holders for Men With Window ID Opens in a new window or tab" [ref=e2020] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/125510999865?_skw=mens+leather+wallet&itmmeta=01KJEVVY84D9KZJD49GEY8EC7A&hash=item1d3909df39:g:B74AAOSwN39i-3FT&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xC25GbmpgLZYW2HVonCLJXH4MYevIxZckcvWLKBR9JVxf43RUkOeoszoUptlhOGVmpjCagr2j7A45G55RJ7dEsqMmAtFnLFa%2FSZ5oqHodDQEAbdxZyhDRQ6Pybo2rHQLai7C2kvQWhnrc8vQfo0lH1LZXuwTctZBldfJ93M4ETmY7OIlVCOj%2BxabdFttAdj4v7JLyrmeIu9jxBZpVbmAqrwYE9D9h%2FqgDwVchvH8IOxhMhqgcADexp7EpDtdSMcUPUeRXhzjB2ZlgbeM437ym4NVrwsVlp3u8zwuY%2BUe40x3A%3D%3D%7Ctkp%3ABFBMouTv25Nn
+                      - heading "Genuine Leather RFID Blocking Credit Card Holders for Men With Window ID Opens in a new window or tab" [level=3] [ref=e2021]:
+                        - text: Genuine Leather RFID Blocking Credit Card Holders for Men With Window ID
+                        - generic [ref=e2022]: Opens in a new window or tab
+                    - generic [ref=e2024]: Brand New
+                  - generic [ref=e2026]:
+                    - generic [ref=e2027]: $6.73
+                    - generic [ref=e2028]: Buy It Now
+                    - generic [ref=e2029]: +$12.12 delivery
+                    - generic [ref=e2030]: Located in United Kingdom
+                    - generic [ref=e2031]: 517 sold
+                  - generic [ref=e2032]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading "Sponsored" [level=6]:
+                            - generic [ref=e2033]: Sponsored
+            - listitem [ref=e2034]:
+              - generic [ref=e2035]:
+                - generic [ref=e2037]:
+                  - link "Mens Genuine Leather Wallet | RFID Protected Push Button Foldable wallet" [ref=e2041] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/125510999871?_skw=mens+leather+wallet&itmmeta=01KJEVVY85PK3WFEAZ06KH2R18&hash=item1d3909df3f:g:5M4AAOSw7Fpi6RI6&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBQuMt%2FlOCLHv477ng6KyxPg17HikCgfF199vnfNNPn1R5BOYCkb1PMb%2BxZPuunJZnYc1XHREAY7AiqZ5yncjfM6nJfWG2ajvNhFT8yZXK3AaSkxO3xIgIc1T2vQ%2F8TL%2By1pK%2BgmFpMkbEbSRnAiac%2BL5hrUZlz0VU4aCABUkNcMBgwyvj9iCt%2FIbMnJVG8A0QkQ0KThuOQOjpXS5gTLqWsZtpOhO%2F9uHeU%2FmxepAhTt%2BBmHx%2FufbqugF3S5kWWVIzu9G4zGRbuxd6i6JIDzSEcw3eqqkvme44yiGU%2FgxEYRg%3D%3D%7Ctkp%3ABFBMouTv25Nn
+                    - img "Mens Genuine Leather Wallet | RFID Protected Push Button Foldable wallet"
+                  - link "watch Mens Genuine Leather Wallet | RFID Protected Push Button Foldable wallet" [ref=e2043] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=125510999871&pt=null&srt=01000b000000501fecb359f56f1fdebf97d10b2753b4e44726ccb8bb69e04b55521b4e3bd49e7327f40f8c6bacb31167b758527649cf0cfaf717ec70fd0e01750e871874f6de9be7590e2129306565c5858d881def2ebf&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D0%26_from%3DR40
+                    - generic [ref=e2044]:
+                      - img
+                  - link "See visually similar items" [ref=e2046] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_id=125510999871&_fsrp=1&_vss=1&_vs=1&itmmeta=01KJEVVY85PK3WFEAZ06KH2R18&_udlo=4.49&_vssPrice=1&_sacat=2996
+                    - img
+                - generic [ref=e2047]:
+                  - generic [ref=e2048]:
+                    - link "Mens Genuine Leather Wallet | RFID Protected Push Button Foldable wallet Opens in a new window or tab" [ref=e2049] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/125510999871?_skw=mens+leather+wallet&itmmeta=01KJEVVY85PK3WFEAZ06KH2R18&hash=item1d3909df3f:g:5M4AAOSw7Fpi6RI6&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBQuMt%2FlOCLHv477ng6KyxPg17HikCgfF199vnfNNPn1R5BOYCkb1PMb%2BxZPuunJZnYc1XHREAY7AiqZ5yncjfM6nJfWG2ajvNhFT8yZXK3AaSkxO3xIgIc1T2vQ%2F8TL%2By1pK%2BgmFpMkbEbSRnAiac%2BL5hrUZlz0VU4aCABUkNcMBgwyvj9iCt%2FIbMnJVG8A0QkQ0KThuOQOjpXS5gTLqWsZtpOhO%2F9uHeU%2FmxepAhTt%2BBmHx%2FufbqugF3S5kWWVIzu9G4zGRbuxd6i6JIDzSEcw3eqqkvme44yiGU%2FgxEYRg%3D%3D%7Ctkp%3ABFBMouTv25Nn
+                      - heading "Mens Genuine Leather Wallet | RFID Protected Push Button Foldable wallet Opens in a new window or tab" [level=3] [ref=e2050]:
+                        - text: Mens Genuine Leather Wallet | RFID Protected Push Button Foldable wallet
+                        - generic [ref=e2051]: Opens in a new window or tab
+                    - generic [ref=e2053]: Brand New
+                  - generic [ref=e2055]:
+                    - generic [ref=e2056]: $8.08
+                    - generic [ref=e2057]: Buy It Now
+                    - generic [ref=e2058]: +$12.12 delivery
+                    - generic [ref=e2059]: Located in United Kingdom
+                    - generic [ref=e2060]: 375 sold
+                  - generic [ref=e2061]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading "Sponsored" [level=6]:
+                            - generic [ref=e2062]: Sponsored
+            - listitem [ref=e2063]:
+              - generic [ref=e2064]:
+                - generic [ref=e2066]:
+                  - link "NAPA HIDE Leather Bifold Wallets For Men RFID Blocking Men's Stylist Wallet GIFT" [ref=e2070] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/406623691595?_skw=mens+leather+wallet&itmmeta=01KJEVVY85D36ADNXFW9DSSP7M&hash=item5eaca9234b:g:R0YAAeSw-iRpcK6K&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDpjwm6D0jyydlz8QmjEnVpfXuMn1tJ%2Bs8QQ41d99MR4biWzxL4L22B2dL7bS8Lm8mzUH8IxRVCzlkQEPv--GolxaOIv3KedTrUQq%2BevaZ6R2l4RK0HbO1MSlZf5%2FjDrVzncn5H0hO%2BFDsgPMta3nGvBF2PQQ7x2bR5VPqs7qSrNPnqoNLe0MWbtNyW6O7F8DqfDkiT3BdPrgxfla5RQ75Zr%2BE9gzRBOdc5f9d1360jHudKLTiHtH2198E4Qrie9Y9bCEHA4nm4BLKx3%2Bi5mnufw4blV2WTOso%2BCrpZaySNoA%3D%3D%7Ctkp%3ABFBMouTv25Nn
+                    - img "NAPA HIDE Leather Bifold Wallets For Men RFID Blocking Men's Stylist Wallet GIFT"
+                  - link "watch NAPA HIDE Leather Bifold Wallets For Men RFID Blocking Men's Stylist Wallet GIFT" [ref=e2072] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=406623691595&pt=null&srt=01000b0000005082ac7ed549f13987e7c5903e5fb6e2c4b3b428f4afdb1259446aa7ab33581141f05aec6fba4c8d86b2c794c53873c3a36a739fe3c5b5cf37d1c983efbe23f2e8f59352bb38a19fbaaa03a59e5c0adfc8&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D0%26_from%3DR40
+                    - generic [ref=e2073]:
+                      - img
+                  - link "See visually similar items" [ref=e2075] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_id=406623691595&_fsrp=1&_vss=1&_vs=1&itmmeta=01KJEVVY85D36ADNXFW9DSSP7M&_udlo=10.12&_vssPrice=1&_sacat=2996
+                    - img
+                - generic [ref=e2076]:
+                  - generic [ref=e2077]:
+                    - link "NAPA HIDE Leather Bifold Wallets For Men RFID Blocking Men's Stylist Wallet GIFT Opens in a new window or tab" [ref=e2078] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/406623691595?_skw=mens+leather+wallet&itmmeta=01KJEVVY85D36ADNXFW9DSSP7M&hash=item5eaca9234b:g:R0YAAeSw-iRpcK6K&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDpjwm6D0jyydlz8QmjEnVpfXuMn1tJ%2Bs8QQ41d99MR4biWzxL4L22B2dL7bS8Lm8mzUH8IxRVCzlkQEPv--GolxaOIv3KedTrUQq%2BevaZ6R2l4RK0HbO1MSlZf5%2FjDrVzncn5H0hO%2BFDsgPMta3nGvBF2PQQ7x2bR5VPqs7qSrNPnqoNLe0MWbtNyW6O7F8DqfDkiT3BdPrgxfla5RQ75Zr%2BE9gzRBOdc5f9d1360jHudKLTiHtH2198E4Qrie9Y9bCEHA4nm4BLKx3%2Bi5mnufw4blV2WTOso%2BCrpZaySNoA%3D%3D%7Ctkp%3ABFBMouTv25Nn
+                      - heading "NAPA HIDE Leather Bifold Wallets For Men RFID Blocking Men's Stylist Wallet GIFT Opens in a new window or tab" [level=3] [ref=e2079]:
+                        - text: NAPA HIDE Leather Bifold Wallets For Men RFID Blocking Men's Stylist Wallet GIFT
+                        - generic [ref=e2080]: Opens in a new window or tab
+                    - generic [ref=e2082]: Brand New
+                  - generic [ref=e2084]:
+                    - generic [ref=e2085]:
+                      - text: $13.49
+                      - text: $14.99
+                    - generic [ref=e2086]: or Best Offer
+                    - generic [ref=e2087]: Free International Shipping
+                    - generic [ref=e2088]: Located in India
+                    - generic [ref=e2089]: Free returns
+                  - generic [ref=e2090]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading [level=6]:
+                            - generic [ref=e2091]: Sponsored
+            - listitem [ref=e2092]:
+              - generic [ref=e2093]:
+                - generic [ref=e2095]:
+                  - link "Mens RFID Real Leather Wallet With Zip Pocket Coin Pouch & ID Window 340 Brown" [ref=e2099] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/392123337602?_skw=mens+leather+wallet&itmmeta=01KJEVVY858C7PHEV6FXAS9FF6&hash=item5b4c5f4b82:g:BNkAAOSw4Qdbmj~W&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xD7URR006aoFcFDUmMJiItPazdqrLtOa%2BDzIO0uP6fvfLm0f0OLUNmptLcGSGdc%2Fd8eCQm%2FbPbtcGAqzuy5vBrQmpnetMeWRIV%2FDSZZATykuhEXLW%2F7T3b136oN11ppoZyeF1cP%2FQjA0m6hKwJE3tE%2Fv2bKdg0uUGIFgDFVnEDNLaYlR53hNTdeUczr2ZqNW1VNQfoEqyjzz2F1189PmERsTZ7PT7sKpLf%2Bwqml3uKNfKLt9SAj7SQU%2BJxEOMFhj6c%3D%7Ctkp%3ABk9SR6Lk79uTZw
+                    - img "Mens RFID Real Leather Wallet With Zip Pocket Coin Pouch & ID Window 340 Brown"
+                  - link "watch Mens RFID Real Leather Wallet With Zip Pocket Coin Pouch & ID Window 340 Brown" [ref=e2101] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=392123337602&pt=null&srt=01000b0000005096ca969437b3b9ceed2116c2a1f36347646b3ab146c8d64adda9098e0075918cee0da7dbf94d2851adaa18dae9edb3b0269382322ff6e99dd93735cc7d97c793763c1ffe7105e596fc610bd376060287&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D0%26_from%3DR40
+                    - generic [ref=e2102]:
+                      - img
+                  - button "Open product gallery Mens RFID Real Leather Wallet With Zip Pocket Coin Pouch & ID Window 340 Brown" [ref=e2103]:
+                    - img
+                  - link "See visually similar items" [ref=e2105] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_id=392123337602&_fsrp=1&_vss=1&_vs=1&itmmeta=01KJEVVY858C7PHEV6FXAS9FF6&_udlo=7.49&_vssPrice=1&_sacat=2996
+                    - img
+                - generic [ref=e2106]:
+                  - generic [ref=e2107]:
+                    - link "Mens RFID Real Leather Wallet With Zip Pocket Coin Pouch & ID Window 340 Brown Opens in a new window or tab" [ref=e2108] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/392123337602?_skw=mens+leather+wallet&itmmeta=01KJEVVY858C7PHEV6FXAS9FF6&hash=item5b4c5f4b82:g:BNkAAOSw4Qdbmj~W&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xD7URR006aoFcFDUmMJiItPazdqrLtOa%2BDzIO0uP6fvfLm0f0OLUNmptLcGSGdc%2Fd8eCQm%2FbPbtcGAqzuy5vBrQmpnetMeWRIV%2FDSZZATykuhEXLW%2F7T3b136oN11ppoZyeF1cP%2FQjA0m6hKwJE3tE%2Fv2bKdg0uUGIFgDFVnEDNLaYlR53hNTdeUczr2ZqNW1VNQfoEqyjzz2F1189PmERsTZ7PT7sKpLf%2Bwqml3uKNfKLt9SAj7SQU%2BJxEOMFhj6c%3D%7Ctkp%3ABk9SR6Lk79uTZw
+                      - heading "Mens RFID Real Leather Wallet With Zip Pocket Coin Pouch & ID Window 340 Brown Opens in a new window or tab" [level=3] [ref=e2109]:
+                        - text: Mens RFID Real Leather Wallet With Zip Pocket Coin Pouch & ID Window 340 Brown
+                        - generic [ref=e2110]: Opens in a new window or tab
+                    - generic [ref=e2112]: Brand New
+                  - generic [ref=e2114]:
+                    - generic [ref=e2115]: $13.47
+                    - generic [ref=e2116]: Buy It Now
+                    - generic [ref=e2117]: +$13.47 delivery
+                    - generic [ref=e2118]: Located in United Kingdom
+                    - generic [ref=e2119]: 4,540 sold
+                  - generic [ref=e2120]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading [level=6]:
+                            - generic [ref=e2121]: Sponsored
+            - listitem [ref=e2122]:
+              - generic [ref=e2123]:
+                - generic [ref=e2125]:
+                  - link "SERMAN BRANDS Money Clip Wallet - Mens Wallets Slim Front Pocket RFID Blocking" [ref=e2129] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/133480755424?_skw=mens+leather+wallet&itmmeta=01KJEVVY859GPCEDA6BMHA0ENT&hash=item1f1412b0e0:g:zjIAAOSwdAVfJHHY&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xDSLT2bEuosVGRgQ3eFNnezr8VgT0XIpTZOFMgNuCKxhtsPa7FsCwkz1wBOtQ8mrKH3OPe9T1YtIk5qQBr8E768HftWMRrTVfSRWFgJGVnZKK04tTpYkLGgZjHO8NCl1JLlvSlCHHHbuwx0tTba3efp6%2FSMOKk1vG1GXARQDZ0tyRD9JEuuLGQlnvi5AWjAXTsP49tmMVjQHRBpvAZHZfdtSZTh%2FNXP8J5IBMDhoLFiqm7fAZpUW6mB2Xp8OSD%2FJZw%3D%7Ctkp%3ABk9SR6Lk79uTZw
+                    - img "SERMAN BRANDS Money Clip Wallet - Mens Wallets Slim Front Pocket RFID Blocking"
+                  - link "See visually similar items" [ref=e2131] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_id=133480755424&_fsrp=1&_vss=1&_vs=1&itmmeta=01KJEVVY859GPCEDA6BMHA0ENT&_udlo=22.46&_vssPrice=1&_sacat=2996
+                    - img
+                - generic [ref=e2132]:
+                  - generic [ref=e2133]:
+                    - link "SERMAN BRANDS Money Clip Wallet - Mens Wallets Slim Front Pocket RFID Blocking Opens in a new window or tab" [ref=e2134] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/133480755424?_skw=mens+leather+wallet&itmmeta=01KJEVVY859GPCEDA6BMHA0ENT&hash=item1f1412b0e0:g:zjIAAOSwdAVfJHHY&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xDSLT2bEuosVGRgQ3eFNnezr8VgT0XIpTZOFMgNuCKxhtsPa7FsCwkz1wBOtQ8mrKH3OPe9T1YtIk5qQBr8E768HftWMRrTVfSRWFgJGVnZKK04tTpYkLGgZjHO8NCl1JLlvSlCHHHbuwx0tTba3efp6%2FSMOKk1vG1GXARQDZ0tyRD9JEuuLGQlnvi5AWjAXTsP49tmMVjQHRBpvAZHZfdtSZTh%2FNXP8J5IBMDhoLFiqm7fAZpUW6mB2Xp8OSD%2FJZw%3D%7Ctkp%3ABk9SR6Lk79uTZw
+                      - heading "SERMAN BRANDS Money Clip Wallet - Mens Wallets Slim Front Pocket RFID Blocking Opens in a new window or tab" [level=3] [ref=e2135]:
+                        - text: SERMAN BRANDS Money Clip Wallet - Mens Wallets Slim Front Pocket RFID Blocking
+                        - generic [ref=e2136]: Opens in a new window or tab
+                    - generic [ref=e2138]: Brand New
+                  - generic [ref=e2140]:
+                    - generic [ref=e2141]: $27.95 to $29.95
+                    - generic [ref=e2142]: Buy It Now
+                    - generic [ref=e2143]: +$24.73 delivery
+                    - generic [ref=e2144]: Located in United States
+                    - generic [ref=e2145]: 324+ sold
+                  - generic [ref=e2146]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading [level=6]:
+                            - generic [ref=e2147]: Sponsored
+            - listitem [ref=e2148]:
+              - generic [ref=e2149]:
+                - generic [ref=e2151]:
+                  - link "MEN'S RFID LUXURY SOFT BLACK REAL LEATHER WALLET CREDIT CARD HOLDER PURSE 64" [ref=e2155] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/391527387731?_skw=mens+leather+wallet&itmmeta=01KJEVVY851V3R7S41096TEDGC&hash=item5b28d9d253:g:htEAAOSwcSpnvHXX&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xC8Yhy%2FAgQcsh0Jd4fCAXgi3PROC5EFXAtJ0OYZEjnEBgrl3jQY%2Fd1sGz5Xd12y7tccAzFcqRPRa7mKTLH9z5vUIXjKITkE%2Fn%2FCzBCcL7agivDDTopllxuVHvDG5uXEFehSA1kcQpNrymp%2FnpgNYEniTVmabExUBywTXOomi0%2BoEmrn4d3UqbAavm5DQIV4kRsAaa%2FRFyyEw1bTihYJU2p1R9lHEiQEO1pqCxU3zJ9nceOVI9%2F78hS81ZEXLQjyPmc%3D%7Ctkp%3ABk9SR6Lk79uTZw
+                    - img "MEN'S RFID LUXURY SOFT BLACK REAL LEATHER WALLET CREDIT CARD HOLDER PURSE 64"
+                  - link "watch MEN'S RFID LUXURY SOFT BLACK REAL LEATHER WALLET CREDIT CARD HOLDER PURSE 64" [ref=e2157] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=391527387731&pt=null&srt=01000b00000050a5f4dd807f984879fdeed5db89579b22ade1cff3163b89681547764abfb344555e084d9ff35a45e08747813cfaebfe77782bbcbb87bb5c6be268339a784a9dbd559a73c607958e16852fc8579241de61&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D0%26_from%3DR40
+                    - generic [ref=e2158]:
+                      - img
+                  - button "Open product gallery MEN'S RFID LUXURY SOFT BLACK REAL LEATHER WALLET CREDIT CARD HOLDER PURSE 64" [ref=e2159]:
+                    - img
+                  - link "See visually similar items" [ref=e2161] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_id=391527387731&_fsrp=1&_vss=1&_vs=1&itmmeta=01KJEVVY851V3R7S41096TEDGC&_udlo=7.49&_vssPrice=1&_sacat=2996
+                    - img
+                - generic [ref=e2162]:
+                  - generic [ref=e2163]:
+                    - link "MEN'S RFID LUXURY SOFT BLACK REAL LEATHER WALLET CREDIT CARD HOLDER PURSE 64 Opens in a new window or tab" [ref=e2164] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/391527387731?_skw=mens+leather+wallet&itmmeta=01KJEVVY851V3R7S41096TEDGC&hash=item5b28d9d253:g:htEAAOSwcSpnvHXX&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xC8Yhy%2FAgQcsh0Jd4fCAXgi3PROC5EFXAtJ0OYZEjnEBgrl3jQY%2Fd1sGz5Xd12y7tccAzFcqRPRa7mKTLH9z5vUIXjKITkE%2Fn%2FCzBCcL7agivDDTopllxuVHvDG5uXEFehSA1kcQpNrymp%2FnpgNYEniTVmabExUBywTXOomi0%2BoEmrn4d3UqbAavm5DQIV4kRsAaa%2FRFyyEw1bTihYJU2p1R9lHEiQEO1pqCxU3zJ9nceOVI9%2F78hS81ZEXLQjyPmc%3D%7Ctkp%3ABk9SR6Lk79uTZw
+                      - heading "MEN'S RFID LUXURY SOFT BLACK REAL LEATHER WALLET CREDIT CARD HOLDER PURSE 64 Opens in a new window or tab" [level=3] [ref=e2165]:
+                        - text: MEN'S RFID LUXURY SOFT BLACK REAL LEATHER WALLET CREDIT CARD HOLDER PURSE 64
+                        - generic [ref=e2166]: Opens in a new window or tab
+                    - generic [ref=e2168]: Brand New
+                  - generic [ref=e2170]:
+                    - generic [ref=e2171]: $13.47
+                    - generic [ref=e2172]: Buy It Now
+                    - generic [ref=e2173]: +$13.47 delivery
+                    - generic [ref=e2174]: Located in United Kingdom
+                    - generic [ref=e2175]: 514 sold
+                  - generic [ref=e2176]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading [level=6]:
+                            - generic [ref=e2177]: Sponsored
+            - listitem [ref=e2178]:
+              - generic [ref=e2179]:
+                - generic [ref=e2181]:
+                  - link "Affliction Men's Embossed Distressed Leather Bifold Wallet Brown" [ref=e2185] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/127098771907?_skw=mens+leather+wallet&itmmeta=01KJEVVY85HR2E2NBCT79D536Z&hash=item1d97ad59c3:g:TJsAAeSwoHdoG~wz&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDhepgUIqsaGX1VhP5gCIgAyNlv0G5n72a4ixUqWZzzeJqXZw2HeeU9fjywR7FNF81SOWmRygtkooH05xBh9DLt2nr3uL4E5qHI81pkG7pXrY3tq5q9oPo55A%2FeNPYlMDstCEtv5BJQbaIsg1POTH6u%2F3usZAiJ3UygpKEM7HCpsJydGyHVLAJ2jekh3E9Pc9IhyVMRS7OBn7%2B3094fpwN%2BH6WxmbAwWj2UiMinGup4UmGYXv4vIhK%2FZGukCF95rIQNVyZRgnKeKXDXNtpmy3Ua%2FQBQM9sb8E2e416Y3L4MLA%3D%3D%7Ctkp%3ABk9SR6Lk79uTZw
+                    - img "Affliction Men's Embossed Distressed Leather Bifold Wallet Brown"
+                  - link "watch Affliction Men's Embossed Distressed Leather Bifold Wallet Brown" [ref=e2187] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=127098771907&pt=null&srt=01000b00000050f264cad143c640d32536ea73d9220ee97afa5a9ca1cd0e7cb07bd9c0169b511459151b98e54ae56882382363dea1b2b6d5b25021346dd32df156d79dfeb48187dc6127121f270527b06e01805a9194fe&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D0%26_from%3DR40
+                    - generic [ref=e2188]:
+                      - img
+                  - link "See visually similar items" [ref=e2190] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_id=127098771907&_fsrp=1&_vss=1&_vs=1&itmmeta=01KJEVVY85HR2E2NBCT79D536Z&_udlo=22.49&_vssPrice=1&_sacat=2996
+                    - img
+                - generic [ref=e2191]:
+                  - generic [ref=e2192]:
+                    - link "Affliction Men's Embossed Distressed Leather Bifold Wallet Brown Opens in a new window or tab" [ref=e2193] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/127098771907?_skw=mens+leather+wallet&itmmeta=01KJEVVY85HR2E2NBCT79D536Z&hash=item1d97ad59c3:g:TJsAAeSwoHdoG~wz&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDhepgUIqsaGX1VhP5gCIgAyNlv0G5n72a4ixUqWZzzeJqXZw2HeeU9fjywR7FNF81SOWmRygtkooH05xBh9DLt2nr3uL4E5qHI81pkG7pXrY3tq5q9oPo55A%2FeNPYlMDstCEtv5BJQbaIsg1POTH6u%2F3usZAiJ3UygpKEM7HCpsJydGyHVLAJ2jekh3E9Pc9IhyVMRS7OBn7%2B3094fpwN%2BH6WxmbAwWj2UiMinGup4UmGYXv4vIhK%2FZGukCF95rIQNVyZRgnKeKXDXNtpmy3Ua%2FQBQM9sb8E2e416Y3L4MLA%3D%3D%7Ctkp%3ABk9SR6Lk79uTZw
+                      - heading "Affliction Men's Embossed Distressed Leather Bifold Wallet Brown Opens in a new window or tab" [level=3] [ref=e2194]:
+                        - text: Affliction Men's Embossed Distressed Leather Bifold Wallet Brown
+                        - generic [ref=e2195]: Opens in a new window or tab
+                    - generic [ref=e2197]: Brand New
+                  - generic [ref=e2199]:
+                    - generic [ref=e2200]:
+                      - text: $29.99
+                      - text: $34.00
+                    - generic [ref=e2201]: Buy It Now
+                    - generic [ref=e2202]: +$24.73 delivery
+                    - generic [ref=e2203]: Located in United States
+                    - generic [ref=e2204]: Save up to 7% when you buy more
+                  - generic [ref=e2205]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading [level=6]:
+                            - generic [ref=e2206]: Sponsored
+            - listitem [ref=e2207]:
+              - generic [ref=e2208]:
+                - generic [ref=e2210]:
+                  - link "Genuine Leather Wallets For Men Bifold Mens Wallet Slim Minimalist RFID Blocking" [ref=e2214] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/173250445068?_skw=mens+leather+wallet&epid=2334619030&itmmeta=01KJEVVY85D1JCQT1GZTY89ENR&hash=item285687ff0c:g:p10AAOSwl5Bf28Qk&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xDq--%2FXfNEN5BlOx7F772qEVre8pY1xXYkdTI33AcXJvKHehJY%2BeSmata%2Ffd8tjp6QpxLw9mt8dkgNNMRJ4r5Jck6TKE%2FwPLjaFONQkau4sVJMZxf0XKe4%2FRBI73%2BUTKZUMkJKzZCGGBQFN2B3OHXCOxPVfqGEimzSel%2FbrwxnpHzs8Pgqrt8XquC5uhQK%2FlxSIOETvoWf%2BTvNJM%2BeUwoFqCJDfJ8bEJro5wX4DrpZ0TElSQtXet6XdhN0%2Bw66a%2B7s%3D%7Ctkp%3ABk9SR6Lk79uTZw
+                    - img "Genuine Leather Wallets For Men Bifold Mens Wallet Slim Minimalist RFID Blocking"
+                  - link "See visually similar items" [ref=e2216] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_id=173250445068&_fsrp=1&_vss=1&_vs=1&itmmeta=01KJEVVY85D1JCQT1GZTY89ENR&_udlo=11.24&_vssPrice=1&_sacat=2996
+                    - img
+                - generic [ref=e2217]:
+                  - generic [ref=e2218]:
+                    - link "Genuine Leather Wallets For Men Bifold Mens Wallet Slim Minimalist RFID Blocking Opens in a new window or tab" [ref=e2219] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/173250445068?_skw=mens+leather+wallet&epid=2334619030&itmmeta=01KJEVVY85D1JCQT1GZTY89ENR&hash=item285687ff0c:g:p10AAOSwl5Bf28Qk&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xDq--%2FXfNEN5BlOx7F772qEVre8pY1xXYkdTI33AcXJvKHehJY%2BeSmata%2Ffd8tjp6QpxLw9mt8dkgNNMRJ4r5Jck6TKE%2FwPLjaFONQkau4sVJMZxf0XKe4%2FRBI73%2BUTKZUMkJKzZCGGBQFN2B3OHXCOxPVfqGEimzSel%2FbrwxnpHzs8Pgqrt8XquC5uhQK%2FlxSIOETvoWf%2BTvNJM%2BeUwoFqCJDfJ8bEJro5wX4DrpZ0TElSQtXet6XdhN0%2Bw66a%2B7s%3D%7Ctkp%3ABk9SR6Lk79uTZw
+                      - heading "Genuine Leather Wallets For Men Bifold Mens Wallet Slim Minimalist RFID Blocking Opens in a new window or tab" [level=3] [ref=e2220]:
+                        - text: Genuine Leather Wallets For Men Bifold Mens Wallet Slim Minimalist RFID Blocking
+                        - generic [ref=e2221]: Opens in a new window or tab
+                    - generic [ref=e2223]: Brand New
+                    - link "4.5 out of 5 stars. 37 product ratings - Genuine Leather Wallets For Men Bifold Mens Wallet Slim Minimalist RFID Blocking" [ref=e2226] [cursor=pointer]:
+                      - /url: https://www.ebay.com/p/2334619030?iid=173250445068&var=473770480419#UserReviews
+                      - generic [ref=e2227]:
+                        - img
+                        - img
+                        - img
+                        - img
+                        - img
+                        - generic [ref=e2228]: 4.5 out of 5 stars.
+                      - generic [ref=e2229]:
+                        - generic [ref=e2230]: (37)
+                        - generic [ref=e2231]: 37 product ratings - Genuine Leather Wallets For Men Bifold Mens Wallet Slim Minimalist RFID Blocking
+                  - generic [ref=e2233]:
+                    - generic [ref=e2234]:
+                      - text: $14.99
+                      - text: $29.99
+                    - generic [ref=e2235]: Buy It Now
+                    - generic [ref=e2236]: +$17.02 delivery
+                    - generic [ref=e2237]: Located in United States
+                    - generic [ref=e2238]: Free returns
+                    - generic [ref=e2239]: 343+ sold
+                  - generic [ref=e2240]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading [level=6]:
+                            - generic [ref=e2241]: Sponsored
+            - listitem [ref=e2242]:
+              - generic [ref=e2243]:
+                - link "RFID Blocking Genuine Leather Travel Passport Wallet Holder" [ref=e2249] [cursor=pointer]:
+                  - /url: https://www.ebay.com/itm/223524545772?_skw=mens+leather+wallet&itmmeta=01KJEVVY85GZ7E0ET65R9GY4PD&hash=item340b19e4ec:g:~~IAAOSwZGBc4yBp&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xBhpWptHUE97oIcINBQkpsfLq%2FM1x%2FSAj8wOJQPaAXsjEzKQ%2B1lc6rQSHc%2FzFFX2h9J%2FThZ5F9OqDtAZKG8UYgF9fItohUT%2FhqiNVPeBxQEKVO26olBhZZ89QxDFqapR4fShaiQjnLv2ehPkdMI%2BP7oHDWPrqyLiWdc3mvv%2F9uVpJxnAkWNsY8pypuUpTSMWVFAwyN7svfaaBc7L9S%2B1OQShmIkdv7jrBBx%2FqGe24QGvLjzrkRirEvwI4NzfqAVbmM%3D%7Ctkp%3ABk9SR6Lk79uTZw
+                  - img "RFID Blocking Genuine Leather Travel Passport Wallet Holder"
+                - generic [ref=e2250]:
+                  - generic [ref=e2251]:
+                    - link "RFID Blocking Genuine Leather Travel Passport Wallet Holder Opens in a new window or tab" [ref=e2252] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/223524545772?_skw=mens+leather+wallet&itmmeta=01KJEVVY85GZ7E0ET65R9GY4PD&hash=item340b19e4ec:g:~~IAAOSwZGBc4yBp&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xBhpWptHUE97oIcINBQkpsfLq%2FM1x%2FSAj8wOJQPaAXsjEzKQ%2B1lc6rQSHc%2FzFFX2h9J%2FThZ5F9OqDtAZKG8UYgF9fItohUT%2FhqiNVPeBxQEKVO26olBhZZ89QxDFqapR4fShaiQjnLv2ehPkdMI%2BP7oHDWPrqyLiWdc3mvv%2F9uVpJxnAkWNsY8pypuUpTSMWVFAwyN7svfaaBc7L9S%2B1OQShmIkdv7jrBBx%2FqGe24QGvLjzrkRirEvwI4NzfqAVbmM%3D%7Ctkp%3ABk9SR6Lk79uTZw
+                      - heading "RFID Blocking Genuine Leather Travel Passport Wallet Holder Opens in a new window or tab" [level=3] [ref=e2253]:
+                        - text: RFID Blocking Genuine Leather Travel Passport Wallet Holder
+                        - generic [ref=e2254]: Opens in a new window or tab
+                    - generic [ref=e2256]: Brand New
+                  - generic [ref=e2258]:
+                    - generic [ref=e2259]: $20.99
+                    - generic [ref=e2260]: Buy It Now
+                    - generic [ref=e2261]: +$17.15 delivery
+                    - generic [ref=e2262]: Located in United States
+                    - generic [ref=e2263]: 64+ sold
+                  - generic [ref=e2264]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading [level=6]:
+                            - generic [ref=e2265]: Sponsored
+            - listitem [ref=e2266]:
+              - generic [ref=e2267]:
+                - generic [ref=e2269]:
+                  - link "Mens Minimalist Card Wallet, Slim Bifold Credit Card Holder | - [RFID Blocking]" [ref=e2273] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/125510999864?_skw=mens+leather+wallet&itmmeta=01KJEVVY85CM0RFRT1EW418DDX&hash=item1d3909df38:g:vBEAAOSw3tpi2DWW&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xATve4SCuhdDQqKeMZCsS2fARmSONvKAJJ4fNeMVWPKJdofjhYAxtWczeDHEon9EBDA1i44KluvqTFofmOM%2BArytptmGYSUjFvYyRQYEAsHfDjPl9%2BO4wjXwb6mlGh6kpPSUECexUVkjWhP%2FFp49NNJ8788tzkEYjTb2P7xeCItpergXEQdTfsouK6qE58wW1%2BBvq1mxvF7Q9Ul5Yqvs84Tec6XNpOw%2FvIlstz6ZCdQdmbzIqRg%2B54iQHFW3G5zHlVZfpXOivdfTI2wwotdUN5cY5hTkb%2Ba3UP0BDuilUU3sQ%3D%3D%7Ctkp%3ABFBMouTv25Nn
+                    - img "Mens Minimalist Card Wallet, Slim Bifold Credit Card Holder | - [RFID Blocking]"
+                  - link "watch Mens Minimalist Card Wallet, Slim Bifold Credit Card Holder | - [RFID Blocking]" [ref=e2275] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=125510999864&pt=null&srt=01000b000000502761ae0280d05ece207efea3e38307fc11330088a79731aefabf9e6feeda06b8d8f11234a4b84c71f0a5a37fd97809b522ca0fcf71d2b6d1898170398e778fcaefecf03b62079bf71cd0386651477ded&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D0%26_from%3DR40
+                    - generic [ref=e2276]:
+                      - img
+                  - link "See visually similar items" [ref=e2278] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_id=125510999864&_fsrp=1&_vss=1&_vs=1&itmmeta=01KJEVVY85CM0RFRT1EW418DDX&_udlo=3.74&_vssPrice=1&_sacat=2996
+                    - img
+                - generic [ref=e2279]:
+                  - generic [ref=e2280]:
+                    - link "Mens Minimalist Card Wallet, Slim Bifold Credit Card Holder | - [RFID Blocking] Opens in a new window or tab" [ref=e2281] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/125510999864?_skw=mens+leather+wallet&itmmeta=01KJEVVY85CM0RFRT1EW418DDX&hash=item1d3909df38:g:vBEAAOSw3tpi2DWW&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xATve4SCuhdDQqKeMZCsS2fARmSONvKAJJ4fNeMVWPKJdofjhYAxtWczeDHEon9EBDA1i44KluvqTFofmOM%2BArytptmGYSUjFvYyRQYEAsHfDjPl9%2BO4wjXwb6mlGh6kpPSUECexUVkjWhP%2FFp49NNJ8788tzkEYjTb2P7xeCItpergXEQdTfsouK6qE58wW1%2BBvq1mxvF7Q9Ul5Yqvs84Tec6XNpOw%2FvIlstz6ZCdQdmbzIqRg%2B54iQHFW3G5zHlVZfpXOivdfTI2wwotdUN5cY5hTkb%2Ba3UP0BDuilUU3sQ%3D%3D%7Ctkp%3ABFBMouTv25Nn
+                      - heading "Mens Minimalist Card Wallet, Slim Bifold Credit Card Holder | - [RFID Blocking] Opens in a new window or tab" [level=3] [ref=e2282]:
+                        - text: Mens Minimalist Card Wallet, Slim Bifold Credit Card Holder | - [RFID Blocking]
+                        - generic [ref=e2283]: Opens in a new window or tab
+                    - generic [ref=e2285]: Brand New
+                  - generic [ref=e2287]:
+                    - generic [ref=e2288]: $6.73
+                    - generic [ref=e2289]: Buy It Now
+                    - generic [ref=e2290]: +$12.12 delivery
+                    - generic [ref=e2291]: Located in United Kingdom
+                    - generic [ref=e2292]: 485 sold
+                  - generic [ref=e2293]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading "Sponsored" [level=6]:
+                            - generic [ref=e2294]: Sponsored
+            - listitem [ref=e2295]:
+              - generic [ref=e2296]:
+                - generic [ref=e2298]:
+                  - link "Western Buffalo Leather Rodeo Wallet RFID Blocking Bi-Fold Long Wallet" [ref=e2302] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/177869422254?_skw=mens+leather+wallet&epid=6051705395&itmmeta=01KJEVVY851BFWBSB9P2J6ZXX0&hash=item2969d7feae:g:c94AAeSwLixpk7Ne&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBYuOsk41xQIQzKPK73ZtLE%2FDm3i27ebtqNp%2FgegyFlo9a2Kzookk80QwxojqTtg5tPPRwHwlNKnzt6ZhAazNiZw0RUdo%2F4Lk0sZQ79KWXG5J9mDNylz7RWpbDoPPAagWgoY1Awn6Q4WTpNuU62T%2FAQf56qilJ68AG2TdzhRXSD7XW3gZlswFs4Q4DqwLGmtWrFc109JDgPILsPOzclGHjUQZQgQPPQoc9bFUZt49sEhjiI5JKZyS88gR35SzWZoA9hz6iLuApWxmRZJTeI4Sa06gIHX%2F2DsWyXHL0KhsCLrw%3D%3D%7Ctkp%3ABFBMpOTv25Nn
+                    - img "Western Buffalo Leather Rodeo Wallet RFID Blocking Bi-Fold Long Wallet"
+                  - link "watch Western Buffalo Leather Rodeo Wallet RFID Blocking Bi-Fold Long Wallet" [ref=e2304] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=177869422254&pt=null&srt=01000b00000050f8ab2c12f1dc6d82859b89aac30ef391e5315c73ea78342313d9ac9bf31eb1d17d30e0e27c2e10bcc2138cf04c2e1946d5b81e043a16321d47dde0a87b2dd954310cc21176e4850b913288401ff3c37f&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D0%26_from%3DR40
+                    - generic [ref=e2305]:
+                      - img
+                  - link "See visually similar items" [ref=e2307] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_id=177869422254&_fsrp=1&_vss=1&_vs=1&itmmeta=01KJEVVY851BFWBSB9P2J6ZXX0&_udlo=22.49&_vssPrice=1&_sacat=2996
+                    - img
+                - generic [ref=e2308]:
+                  - generic [ref=e2309]:
+                    - link "Western Buffalo Leather Rodeo Wallet RFID Blocking Bi-Fold Long Wallet Opens in a new window or tab" [ref=e2310] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/177869422254?_skw=mens+leather+wallet&epid=6051705395&itmmeta=01KJEVVY851BFWBSB9P2J6ZXX0&hash=item2969d7feae:g:c94AAeSwLixpk7Ne&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBYuOsk41xQIQzKPK73ZtLE%2FDm3i27ebtqNp%2FgegyFlo9a2Kzookk80QwxojqTtg5tPPRwHwlNKnzt6ZhAazNiZw0RUdo%2F4Lk0sZQ79KWXG5J9mDNylz7RWpbDoPPAagWgoY1Awn6Q4WTpNuU62T%2FAQf56qilJ68AG2TdzhRXSD7XW3gZlswFs4Q4DqwLGmtWrFc109JDgPILsPOzclGHjUQZQgQPPQoc9bFUZt49sEhjiI5JKZyS88gR35SzWZoA9hz6iLuApWxmRZJTeI4Sa06gIHX%2F2DsWyXHL0KhsCLrw%3D%3D%7Ctkp%3ABFBMpOTv25Nn
+                      - heading "Western Buffalo Leather Rodeo Wallet RFID Blocking Bi-Fold Long Wallet Opens in a new window or tab" [level=3] [ref=e2311]:
+                        - text: Western Buffalo Leather Rodeo Wallet RFID Blocking Bi-Fold Long Wallet
+                        - generic [ref=e2312]: Opens in a new window or tab
+                    - generic [ref=e2314]: Brand New
+                    - link "5.0 out of 5 stars. 7 product ratings - Western Buffalo Leather Rodeo Wallet RFID Blocking Bi-Fold Long Wallet" [ref=e2317] [cursor=pointer]:
+                      - /url: https://www.ebay.com/p/6051705395?iid=177869422254#UserReviews
+                      - generic [ref=e2318]:
+                        - img
+                        - img
+                        - img
+                        - img
+                        - img
+                        - generic [ref=e2319]: 5.0 out of 5 stars.
+                      - generic [ref=e2320]:
+                        - generic [ref=e2321]: (7)
+                        - generic [ref=e2322]: 7 product ratings - Western Buffalo Leather Rodeo Wallet RFID Blocking Bi-Fold Long Wallet
+                  - generic [ref=e2324]:
+                    - generic [ref=e2325]: $29.99
+                    - generic [ref=e2326]: Buy It Now
+                    - generic [ref=e2327]: +$17.34 delivery
+                    - generic [ref=e2328]: Located in United States
+                    - generic [ref=e2329]: Save up to 20% when you buy more
+                  - generic [ref=e2330]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading "Sponsored" [level=6]:
+                            - generic [ref=e2331]: Sponsored
+            - listitem [ref=e2332]:
+              - generic [ref=e2333]:
+                - generic [ref=e2335]:
+                  - link "RFID Security Lined Leather Wallet Quality Full Grain Cow Hide Leather. 11049" [ref=e2339] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/282696029798?_skw=mens+leather+wallet&itmmeta=01KJEVVY85W8ZWCNEAKBAY09W7&hash=item41d1ff1666:g:ZGAAAOSwDC1Z5BfL&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDIJvh7ujbm908lwHeDjOuGZeP8pqJd9uZSH5UnHaxl1Q1chcIUNteLuU6p4khFXqXMsWHwNXFqp%2BqaecKBH2MNs02%2BjA1MFxh5E2Wu0be5SnbaNRmKj3rtlbe%2Bv%2FB7Il2GrNx%2F2zRDt9zqeNjefq9e%2BYi56CUEK0GoJpO%2F3n%2F68vDl1vWx16uaKXBkuwec38xoMY1ydCryVqXkzDzYRfQSwe8yYBPsrcVlqRzxhExsxIqVKbB%2B2%2B9WRxbsg55uctcf6IVhGb7QiDezM0wv%2Bn8A1%2BTWzPKNR4BAxkUF9nfpxg%3D%3D%7Ctkp%3ABk9SR6Tk79uTZw
+                    - img "RFID Security Lined Leather Wallet Quality Full Grain Cow Hide Leather. 11049"
+                  - button "Open product gallery RFID Security Lined Leather Wallet Quality Full Grain Cow Hide Leather. 11049" [ref=e2340]:
+                    - img
+                  - link "See visually similar items" [ref=e2342] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_id=282696029798&_fsrp=1&_vss=1&_vs=1&itmmeta=01KJEVVY85W8ZWCNEAKBAY09W7&_udlo=22.49&_vssPrice=1&_sacat=2996
+                    - img
+                - generic [ref=e2343]:
+                  - generic [ref=e2344]:
+                    - link "RFID Security Lined Leather Wallet Quality Full Grain Cow Hide Leather. 11049 Opens in a new window or tab" [ref=e2345] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/282696029798?_skw=mens+leather+wallet&itmmeta=01KJEVVY85W8ZWCNEAKBAY09W7&hash=item41d1ff1666:g:ZGAAAOSwDC1Z5BfL&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDIJvh7ujbm908lwHeDjOuGZeP8pqJd9uZSH5UnHaxl1Q1chcIUNteLuU6p4khFXqXMsWHwNXFqp%2BqaecKBH2MNs02%2BjA1MFxh5E2Wu0be5SnbaNRmKj3rtlbe%2Bv%2FB7Il2GrNx%2F2zRDt9zqeNjefq9e%2BYi56CUEK0GoJpO%2F3n%2F68vDl1vWx16uaKXBkuwec38xoMY1ydCryVqXkzDzYRfQSwe8yYBPsrcVlqRzxhExsxIqVKbB%2B2%2B9WRxbsg55uctcf6IVhGb7QiDezM0wv%2Bn8A1%2BTWzPKNR4BAxkUF9nfpxg%3D%3D%7Ctkp%3ABk9SR6Tk79uTZw
+                      - heading "RFID Security Lined Leather Wallet Quality Full Grain Cow Hide Leather. 11049 Opens in a new window or tab" [level=3] [ref=e2346]:
+                        - text: RFID Security Lined Leather Wallet Quality Full Grain Cow Hide Leather. 11049
+                        - generic [ref=e2347]: Opens in a new window or tab
+                    - generic [ref=e2349]: Brand New
+                  - generic [ref=e2351]:
+                    - generic [ref=e2352]: $21.31
+                    - generic [ref=e2353]: Buy It Now
+                    - generic [ref=e2354]: +$14.21 delivery
+                    - generic [ref=e2355]: Located in Australia
+                    - generic [ref=e2356]: 277+ sold
+                  - generic [ref=e2357]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading [level=6]:
+                            - generic [ref=e2358]: Sponsored
+            - listitem [ref=e2359]:
+              - generic [ref=e2360]:
+                - generic [ref=e2362]:
+                  - link "StarHide Leather RFID Blocking Wallets For Men Genuine Distressed Hunter Leather" [ref=e2366] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/304148695973?_skw=mens+leather+wallet&itmmeta=01KJEVVY85Y1T6WF3KSYKFTRAE&hash=item46d0accba5:g:yr4AAOSwKYRhgTbQ&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCm0hQICRt9oVmrwhGt4gox9wFSp1ntdPBSHNC8onkXUOAB3CzdMw9DWSCvsQx7iobQtMOB2Q8UQ8QP7Z4h%2BIz%2B2GZZJG5O%2B93PnX2J%2FHqZuvteC%2FAm69WM7xzMxKi99J91DL2UKU%2BGvIGVt5u7cxbzk1GgixW%2BCGrs5kI%2FDo2CK2JN2U9DJuGz3yjwrrIMc0DmPktUzSoxRDSki04bELOXcWxTYtZ5mUClt3FlJpd0lxn09ErHGa14N86Jm2JNitEbv5wscsiOUGkcS511T5SjG%2BabSFVIeceIEZ3qa%2B838A%3D%3D%7Ctkp%3ABk9SR6Tk79uTZw
+                    - img "StarHide Leather RFID Blocking Wallets For Men Genuine Distressed Hunter Leather"
+                  - link "See visually similar items" [ref=e2368] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_id=304148695973&_fsrp=1&_vss=1&_vs=1&itmmeta=01KJEVVY85Y1T6WF3KSYKFTRAE&_udlo=13.5&_vssPrice=1&_sacat=2996
+                    - img
+                - generic [ref=e2369]:
+                  - generic [ref=e2370]:
+                    - link "StarHide Leather RFID Blocking Wallets For Men Genuine Distressed Hunter Leather Opens in a new window or tab" [ref=e2371] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/304148695973?_skw=mens+leather+wallet&itmmeta=01KJEVVY85Y1T6WF3KSYKFTRAE&hash=item46d0accba5:g:yr4AAOSwKYRhgTbQ&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCm0hQICRt9oVmrwhGt4gox9wFSp1ntdPBSHNC8onkXUOAB3CzdMw9DWSCvsQx7iobQtMOB2Q8UQ8QP7Z4h%2BIz%2B2GZZJG5O%2B93PnX2J%2FHqZuvteC%2FAm69WM7xzMxKi99J91DL2UKU%2BGvIGVt5u7cxbzk1GgixW%2BCGrs5kI%2FDo2CK2JN2U9DJuGz3yjwrrIMc0DmPktUzSoxRDSki04bELOXcWxTYtZ5mUClt3FlJpd0lxn09ErHGa14N86Jm2JNitEbv5wscsiOUGkcS511T5SjG%2BabSFVIeceIEZ3qa%2B838A%3D%3D%7Ctkp%3ABk9SR6Tk79uTZw
+                      - heading "StarHide Leather RFID Blocking Wallets For Men Genuine Distressed Hunter Leather Opens in a new window or tab" [level=3] [ref=e2372]:
+                        - text: StarHide Leather RFID Blocking Wallets For Men Genuine Distressed Hunter Leather
+                        - generic [ref=e2373]: Opens in a new window or tab
+                    - generic [ref=e2375]: Brand New
+                  - generic [ref=e2377]:
+                    - generic [ref=e2378]: $24.27
+                    - generic [ref=e2379]: Buy It Now
+                    - generic [ref=e2380]: +$13.47 delivery
+                    - generic [ref=e2381]: Located in United Kingdom
+                  - generic [ref=e2382]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading [level=6]:
+                            - generic [ref=e2383]: Sponsored
+            - listitem [ref=e2384]:
+              - generic [ref=e2385]:
+                - generic [ref=e2387]:
+                  - link "Genuine Leather RFID Blocking Trifold Wallet For Men Slim Minimalist Wallet" [ref=e2391] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/405242108547?_skw=mens+leather+wallet&itmmeta=01KJEVVY85Y45VQ98YKE8CB8VH&hash=item5e5a4fda83:g:C-cAAOSwO~dm7T8q&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xCDX8m0IcPbEMeHbS05Bt0pD2jyR9YbVX5e4dXEBuVeu0Id6WZ%2Fe2y9ST8zykzZeckiRHOvVN79XH11Oju99w1TvBZnzY8Eye0t7eQLjuowni5q3L886HQEMhkyr0VXMP%2FdnLm%2F9%2BbVUjI5YEhuvwNf1fqQ9SU2ZMTOEkG72%2FtXlhpp5a9xEQ%2BMrtAotzoxXjsPPPlwNx7g6zbeWd3UE%2FOvgLWs544vom%2FtX3beKXXLjtKXfdnxA3mQJaMMoWw7XGQ%3D%7Ctkp%3ABk9SR6Tk79uTZw
+                    - img "Genuine Leather RFID Blocking Trifold Wallet For Men Slim Minimalist Wallet"
+                  - link "See visually similar items" [ref=e2393] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_id=405242108547&_fsrp=1&_vss=1&_vs=1&itmmeta=01KJEVVY85Y45VQ98YKE8CB8VH&_udlo=10.49&_vssPrice=1&_sacat=2996
+                    - img
+                - generic [ref=e2394]:
+                  - generic [ref=e2395]:
+                    - link "Genuine Leather RFID Blocking Trifold Wallet For Men Slim Minimalist Wallet Opens in a new window or tab" [ref=e2396] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/405242108547?_skw=mens+leather+wallet&itmmeta=01KJEVVY85Y45VQ98YKE8CB8VH&hash=item5e5a4fda83:g:C-cAAOSwO~dm7T8q&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xCDX8m0IcPbEMeHbS05Bt0pD2jyR9YbVX5e4dXEBuVeu0Id6WZ%2Fe2y9ST8zykzZeckiRHOvVN79XH11Oju99w1TvBZnzY8Eye0t7eQLjuowni5q3L886HQEMhkyr0VXMP%2FdnLm%2F9%2BbVUjI5YEhuvwNf1fqQ9SU2ZMTOEkG72%2FtXlhpp5a9xEQ%2BMrtAotzoxXjsPPPlwNx7g6zbeWd3UE%2FOvgLWs544vom%2FtX3beKXXLjtKXfdnxA3mQJaMMoWw7XGQ%3D%7Ctkp%3ABk9SR6Tk79uTZw
+                      - heading "Genuine Leather RFID Blocking Trifold Wallet For Men Slim Minimalist Wallet Opens in a new window or tab" [level=3] [ref=e2397]:
+                        - text: Genuine Leather RFID Blocking Trifold Wallet For Men Slim Minimalist Wallet
+                        - generic [ref=e2398]: Opens in a new window or tab
+                    - generic [ref=e2400]: Brand New
+                  - generic [ref=e2402]:
+                    - generic [ref=e2403]: $13.99
+                    - generic [ref=e2404]: Buy It Now
+                    - generic [ref=e2405]: +$24.39 delivery
+                    - generic [ref=e2406]: Located in United States
+                    - generic [ref=e2407]: Free returns
+                    - generic [ref=e2408]: Save up to 15% when you buy more
+                  - generic [ref=e2409]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading [level=6]:
+                            - generic [ref=e2410]: Sponsored
+            - listitem [ref=e2411]:
+              - generic [ref=e2412]:
+                - generic [ref=e2414]:
+                  - link "Mens Designer Leather Wallet RFID SAFE ID Protection Contactless Card Blocking" [ref=e2418] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/404305583346?_skw=mens+leather+wallet&epid=19046753201&itmmeta=01KJEVVY85SB3XTWCH91YEJXWP&hash=item5e227d9cf2:g:vJgAAOSw0Elkeh3Y&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xC0KdZ8W7MRpWs8zLfOlgZSvhwL85TDnNwAJo5sb7ivqDD6Cw49beXZMt6Z%2FgYiRwkBt%2BWakDHLwW2ejh%2FRcL12RB5xVjiLEP24cI8Ag%2Bs2WAdlE32GKqk20pewBSIuT8gm3wY%2Fcc9Aepa3iX0QV6eRqappe%2FuMFmyO89xFIMuQZueC08PF9A8noSrLX%2BeGJ6Xwy2a2vLfoo9M6NB8ByyOzuEJPB6RMbkOpXCTekNcM6Z1d9xc2sZ8c00Biu8d%2FqDI%3D%7Ctkp%3ABk9SR6Tk79uTZw
+                    - img "Mens Designer Leather Wallet RFID SAFE ID Protection Contactless Card Blocking"
+                  - link "watch Mens Designer Leather Wallet RFID SAFE ID Protection Contactless Card Blocking" [ref=e2420] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=404305583346&pt=null&srt=01000b00000050cf29e2939d1f3a024ebffda4398d39da5f7af1060a5a1cbb65a1731c4205a29a76b0cbdd7f233dd06160e08fcca62e5cb7b2d8a9f27185667878859d0136ab161726a79bea31ce54471787ee9f5d98c6&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D0%26_from%3DR40
+                    - generic [ref=e2421]:
+                      - img
+                  - link "See visually similar items" [ref=e2423] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_id=404305583346&_fsrp=1&_vss=1&_vs=1&itmmeta=01KJEVVY85SB3XTWCH91YEJXWP&_udlo=7.46&_vssPrice=1&_sacat=2996
+                    - img
+                - generic [ref=e2424]:
+                  - generic [ref=e2425]:
+                    - link "Mens Designer Leather Wallet RFID SAFE ID Protection Contactless Card Blocking Opens in a new window or tab" [ref=e2426] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/404305583346?_skw=mens+leather+wallet&epid=19046753201&itmmeta=01KJEVVY85SB3XTWCH91YEJXWP&hash=item5e227d9cf2:g:vJgAAOSw0Elkeh3Y&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xC0KdZ8W7MRpWs8zLfOlgZSvhwL85TDnNwAJo5sb7ivqDD6Cw49beXZMt6Z%2FgYiRwkBt%2BWakDHLwW2ejh%2FRcL12RB5xVjiLEP24cI8Ag%2Bs2WAdlE32GKqk20pewBSIuT8gm3wY%2Fcc9Aepa3iX0QV6eRqappe%2FuMFmyO89xFIMuQZueC08PF9A8noSrLX%2BeGJ6Xwy2a2vLfoo9M6NB8ByyOzuEJPB6RMbkOpXCTekNcM6Z1d9xc2sZ8c00Biu8d%2FqDI%3D%7Ctkp%3ABk9SR6Tk79uTZw
+                      - heading "Mens Designer Leather Wallet RFID SAFE ID Protection Contactless Card Blocking Opens in a new window or tab" [level=3] [ref=e2427]:
+                        - text: Mens Designer Leather Wallet RFID SAFE ID Protection Contactless Card Blocking
+                        - generic [ref=e2428]: Opens in a new window or tab
+                    - generic [ref=e2430]: Brand New
+                    - link "5.0 out of 5 stars. 89 product ratings - Mens Designer Leather Wallet RFID SAFE ID Protection Contactless Card Blocking" [ref=e2433] [cursor=pointer]:
+                      - /url: https://www.ebay.com/p/19046753201?iid=404305583346#UserReviews
+                      - generic [ref=e2434]:
+                        - img
+                        - img
+                        - img
+                        - img
+                        - img
+                        - generic [ref=e2435]: 5.0 out of 5 stars.
+                      - generic [ref=e2436]:
+                        - generic [ref=e2437]: (89)
+                        - generic [ref=e2438]: 89 product ratings - Mens Designer Leather Wallet RFID SAFE ID Protection Contactless Card Blocking
+                  - generic [ref=e2440]:
+                    - generic [ref=e2441]: $13.41
+                    - generic [ref=e2442]: Buy It Now
+                    - generic [ref=e2443]: +$45.91 shipping estimate
+                    - generic [ref=e2444]: Located in United Kingdom
+                    - generic [ref=e2445]: Almost gone
+                  - generic [ref=e2446]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading [level=6]:
+                            - generic [ref=e2447]: Sponsored
+            - listitem [ref=e2448]:
+              - generic [ref=e2449]:
+                - generic [ref=e2451]:
+                  - link "Timberland Wallet -Men's Baseline Canvas-Genuine Leather Bifold Wallet" [ref=e2455] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/127098771824?_skw=mens+leather+wallet&epid=1438899513&itmmeta=01KJEVVY8585XWY94H4ZERRT8Z&hash=item1d97ad5970:g:VWEAAeSwET5oG~xr&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xD0uL7WtUsi6x%2BhjL8ZCgxBNQLDIqyk1pOoYl%2F4Fb1%2FcTNcfEE43BoQ5mtq0crrnGKYa6OBJ1g8Sfb%2FmOD28ywgAEtkDc0yeN2e7GXmGmqa8RCnHGpHjltchy9dT4jiMQhvSE8rUpLFFgryMfLHuMIrUDPNZgjf0EqsT%2BADaqrxy9kBXwCY4CB6420TWxVHiZm3iOOQOnIwH3oSH0k2Ak9KgR5RzjGOkRGkMx3FonHdOIQapC%2B3IRLDx4lo6ZwcE2rWNg1E8LHQFSVbaqesyVO33aZatSTHw4FAkcB3QH6HPQ%3D%3D%7Ctkp%3ABk9SR6Tk79uTZw
+                    - img "Timberland Wallet -Men's Baseline Canvas-Genuine Leather Bifold Wallet"
+                  - link "See visually similar items" [ref=e2457] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_id=127098771824&_fsrp=1&_vss=1&_vs=1&itmmeta=01KJEVVY8585XWY94H4ZERRT8Z&_udlo=14.99&_vssPrice=1&_sacat=2996
+                    - img
+                - generic [ref=e2458]:
+                  - generic [ref=e2459]:
+                    - link "Timberland Wallet -Men's Baseline Canvas-Genuine Leather Bifold Wallet Opens in a new window or tab" [ref=e2460] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/127098771824?_skw=mens+leather+wallet&epid=1438899513&itmmeta=01KJEVVY8585XWY94H4ZERRT8Z&hash=item1d97ad5970:g:VWEAAeSwET5oG~xr&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xD0uL7WtUsi6x%2BhjL8ZCgxBNQLDIqyk1pOoYl%2F4Fb1%2FcTNcfEE43BoQ5mtq0crrnGKYa6OBJ1g8Sfb%2FmOD28ywgAEtkDc0yeN2e7GXmGmqa8RCnHGpHjltchy9dT4jiMQhvSE8rUpLFFgryMfLHuMIrUDPNZgjf0EqsT%2BADaqrxy9kBXwCY4CB6420TWxVHiZm3iOOQOnIwH3oSH0k2Ak9KgR5RzjGOkRGkMx3FonHdOIQapC%2B3IRLDx4lo6ZwcE2rWNg1E8LHQFSVbaqesyVO33aZatSTHw4FAkcB3QH6HPQ%3D%3D%7Ctkp%3ABk9SR6Tk79uTZw
+                      - heading "Timberland Wallet -Men's Baseline Canvas-Genuine Leather Bifold Wallet Opens in a new window or tab" [level=3] [ref=e2461]:
+                        - text: Timberland Wallet -Men's Baseline Canvas-Genuine Leather Bifold Wallet
+                        - generic [ref=e2462]: Opens in a new window or tab
+                    - generic [ref=e2464]: Brand New
+                    - link "5.0 out of 5 stars. 1 product rating - Timberland Wallet -Men's Baseline Canvas-Genuine Leather Bifold Wallet" [ref=e2467] [cursor=pointer]:
+                      - /url: https://www.ebay.com/p/1438899513?iid=127098771824&var=428220080946#UserReviews
+                      - generic [ref=e2468]:
+                        - img
+                        - img
+                        - img
+                        - img
+                        - img
+                        - generic [ref=e2469]: 5.0 out of 5 stars.
+                      - generic [ref=e2470]:
+                        - generic [ref=e2471]: (1)
+                        - generic [ref=e2472]: 1 product rating - Timberland Wallet -Men's Baseline Canvas-Genuine Leather Bifold Wallet
+                  - generic [ref=e2474]:
+                    - generic [ref=e2475]:
+                      - text: $19.99
+                      - text: $55.00
+                    - generic [ref=e2476]: Buy It Now
+                    - generic [ref=e2477]: +$17.12 delivery
+                    - generic [ref=e2478]: Located in United States
+                    - generic [ref=e2479]: Save up to 7% when you buy more
+                  - generic [ref=e2480]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading [level=6]:
+                            - generic [ref=e2481]: Sponsored
+            - listitem [ref=e2482]:
+              - generic [ref=e2483]:
+                - generic [ref=e2485]:
+                  - link "MORUCHA Mens RFID Blocking Real Soft Leather Passcase Wallet M75 Black Brown" [ref=e2489] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/184479184226?_skw=mens+leather+wallet&itmmeta=01KJEVVY85GVZ60PHTXSV13W9P&hash=item2af3d0f562:g:dvQAAOSwjjplNliw&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xAcHaoe%2BLH%2BlxbbjpHJf6GWTC2WyTfvz0q2jpd4thnZIx9hcYoWxAJgpOCrjkDamRY30alHQiG7M79yyImf5Snz9nKEkqTcjcnZlUcEWPx2j%2F%2BgwAgLNh%2FYfhFfu5y20%2FpfTkS1mD%2FQQU89eBV5g8fTK1MadGt3Nunkqoac80SKbUXcoj7Frw5lMm76GW8%2FAy%2FZf4tYwBMG2MwD40WDPyun7r2ZvVNuXGVMdvhdmoJPTVWzlhgDT5ui2PuF6a7vO9I%3D%7Ctkp%3ABk9SR6Tk79uTZw
+                    - img "MORUCHA Mens RFID Blocking Real Soft Leather Passcase Wallet M75 Black Brown"
+                  - link "watch MORUCHA Mens RFID Blocking Real Soft Leather Passcase Wallet M75 Black Brown" [ref=e2491] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=184479184226&pt=null&srt=01000b0000005013f9e80df33f43ea8eb5c0ddfbfb3c5ade4cb5932df51be563e7b21a1b195a47bdafba540e7469fca3947613cb3e53ec5f027822cc8c6693be181d78cacd66e7160075b8d9f3825f4211a4b59bbbf0ba&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D0%26_from%3DR40
+                    - generic [ref=e2492]:
+                      - img
+                  - link "See visually similar items" [ref=e2494] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_id=184479184226&_fsrp=1&_vss=1&_vs=1&itmmeta=01KJEVVY85GVZ60PHTXSV13W9P&_udlo=22.49&_vssPrice=1&_sacat=2996
+                    - img
+                - generic [ref=e2495]:
+                  - generic [ref=e2496]:
+                    - link "MORUCHA Mens RFID Blocking Real Soft Leather Passcase Wallet M75 Black Brown Opens in a new window or tab" [ref=e2497] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/184479184226?_skw=mens+leather+wallet&itmmeta=01KJEVVY85GVZ60PHTXSV13W9P&hash=item2af3d0f562:g:dvQAAOSwjjplNliw&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xAcHaoe%2BLH%2BlxbbjpHJf6GWTC2WyTfvz0q2jpd4thnZIx9hcYoWxAJgpOCrjkDamRY30alHQiG7M79yyImf5Snz9nKEkqTcjcnZlUcEWPx2j%2F%2BgwAgLNh%2FYfhFfu5y20%2FpfTkS1mD%2FQQU89eBV5g8fTK1MadGt3Nunkqoac80SKbUXcoj7Frw5lMm76GW8%2FAy%2FZf4tYwBMG2MwD40WDPyun7r2ZvVNuXGVMdvhdmoJPTVWzlhgDT5ui2PuF6a7vO9I%3D%7Ctkp%3ABk9SR6Tk79uTZw
+                      - heading "MORUCHA Mens RFID Blocking Real Soft Leather Passcase Wallet M75 Black Brown Opens in a new window or tab" [level=3] [ref=e2498]:
+                        - text: MORUCHA Mens RFID Blocking Real Soft Leather Passcase Wallet M75 Black Brown
+                        - generic [ref=e2499]: Opens in a new window or tab
+                    - generic [ref=e2501]: Brand New
+                  - generic [ref=e2503]:
+                    - generic [ref=e2504]: $40.43
+                    - generic [ref=e2505]: Buy It Now
+                    - generic [ref=e2506]: +$16.16 delivery
+                    - generic [ref=e2507]: Located in United Kingdom
+                    - generic [ref=e2508]: 620 sold
+                  - generic [ref=e2509]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading [level=6]:
+                            - generic [ref=e2510]: Sponsored
+            - listitem [ref=e2511]:
+              - generic [ref=e2512]:
+                - generic [ref=e2514]:
+                  - link "Men's RFID Leather Bifold Wallet Slim Hipster Cowhide Credit Card-ID Black" [ref=e2518] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/142046710802?_skw=mens+leather+wallet&itmmeta=01KJEVVY85K7CM1W8H2JDRNN2C&hash=item2112a4cc12:g:EaYAAOSwy1lnQMNA&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xAb91Nk4CQJLDMMG%2FiwBZIFUrlilwt6jFA%2BN6nNx5BicPF5BDilcgc0SdISrQL%2F64HImL8c8XMY0u06pneTACacMuFUnlIlM%2FmQxdHzeINdLgulMYHGVBi4417FCcV0eD98%2ByWJmqEt0WOKAF1o6TqBu6Abye4gYl6%2FXQew6aCgRw4yxWfjtdLACAc3nzpDkNCi%2B4s%2BWx33QypeXnchzUoYNpUr56OaPxFLzLYnpP87Jd1IMEDckLg8kOBs92Zz%2BcA%3D%7Ctkp%3ABk9SR6Tk79uTZw
+                    - img "Men's RFID Leather Bifold Wallet Slim Hipster Cowhide Credit Card-ID Black"
+                  - link "watch Men's RFID Leather Bifold Wallet Slim Hipster Cowhide Credit Card-ID Black" [ref=e2520] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=142046710802&pt=null&srt=01000b00000050481cf06ff8ff4e7d2556e14875281271f3115812433660b40af12b6d3c0a3d3d7e7f6eecb0a7bd58b5ff5d67c8a1a7f9be3658426033e2e7edcc2503999051fdd46da1cbe92854d009429670de0955a3&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D0%26_from%3DR40
+                    - generic [ref=e2521]:
+                      - img
+                  - link "See visually similar items" [ref=e2523] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_id=142046710802&_fsrp=1&_vss=1&_vs=1&itmmeta=01KJEVVY85K7CM1W8H2JDRNN2C&_udlo=10.87&_vssPrice=1&_sacat=2996
+                    - img
+                - generic [ref=e2524]:
+                  - generic [ref=e2525]:
+                    - link "Men's RFID Leather Bifold Wallet Slim Hipster Cowhide Credit Card-ID Black Opens in a new window or tab" [ref=e2526] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/142046710802?_skw=mens+leather+wallet&itmmeta=01KJEVVY85K7CM1W8H2JDRNN2C&hash=item2112a4cc12:g:EaYAAOSwy1lnQMNA&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xAb91Nk4CQJLDMMG%2FiwBZIFUrlilwt6jFA%2BN6nNx5BicPF5BDilcgc0SdISrQL%2F64HImL8c8XMY0u06pneTACacMuFUnlIlM%2FmQxdHzeINdLgulMYHGVBi4417FCcV0eD98%2ByWJmqEt0WOKAF1o6TqBu6Abye4gYl6%2FXQew6aCgRw4yxWfjtdLACAc3nzpDkNCi%2B4s%2BWx33QypeXnchzUoYNpUr56OaPxFLzLYnpP87Jd1IMEDckLg8kOBs92Zz%2BcA%3D%7Ctkp%3ABk9SR6Tk79uTZw
+                      - heading "Men's RFID Leather Bifold Wallet Slim Hipster Cowhide Credit Card-ID Black Opens in a new window or tab" [level=3] [ref=e2527]:
+                        - text: Men's RFID Leather Bifold Wallet Slim Hipster Cowhide Credit Card-ID Black
+                        - generic [ref=e2528]: Opens in a new window or tab
+                    - generic [ref=e2530]: Brand New
+                  - generic [ref=e2532]:
+                    - generic [ref=e2533]: $14.49
+                    - generic [ref=e2534]: Buy It Now
+                    - generic [ref=e2535]: +$17.01 delivery
+                    - generic [ref=e2536]: Located in United States
+                    - generic [ref=e2537]: Save up to 20% when you buy more
+                  - generic [ref=e2538]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading [level=6]:
+                            - generic [ref=e2539]: Sponsored
+            - listitem [ref=e2540]:
+              - generic [ref=e2541]:
+                - generic [ref=e2543]:
+                  - link "Genuine Leather Slim Bifold Wallets For Men With Flip-Up ID Window RFID Blocking" [ref=e2547] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/183123988019?_skw=mens+leather+wallet&itmmeta=01KJEVVY85BMBNH4TR0F2K37ZZ&hash=item2aa30a4e33:g:mL8AAOSwEn5luAFJ&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xBH5S1T%2BAhnG6yQB7YxItK2Ppm4S8TUd%2Bj925MVaWxfD%2F4qfy6K3VIFn1YP9ImolQsBand5SKqAju4gCu7WsbZTkvQQ9qXoY9xf%2FxLuNCfDGbAXg%2BLoI28GUrE7UyrAWzqGOeZxSzCQS7POPPZadS5Re9VkQq4DgRBCEOb8Lir%2BClzc%2Bf%2BBaPkX9Bd%2BhEDCXsrcVEEw7%2FdNQCmvooXG%2BfwsOiOSU7lMKdoboZP87nQGb1%2FvfNLyhW0T7VTyLDTrXjM%3D%7Ctkp%3ABk9SR6Tk79uTZw
+                    - img "Genuine Leather Slim Bifold Wallets For Men With Flip-Up ID Window RFID Blocking"
+                  - link "See visually similar items" [ref=e2549] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_id=183123988019&_fsrp=1&_vss=1&_vs=1&itmmeta=01KJEVVY85BMBNH4TR0F2K37ZZ&_udlo=22.46&_vssPrice=1&_sacat=2996
+                    - img
+                - generic [ref=e2550]:
+                  - generic [ref=e2551]:
+                    - link "Genuine Leather Slim Bifold Wallets For Men With Flip-Up ID Window RFID Blocking Opens in a new window or tab" [ref=e2552] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/183123988019?_skw=mens+leather+wallet&itmmeta=01KJEVVY85BMBNH4TR0F2K37ZZ&hash=item2aa30a4e33:g:mL8AAOSwEn5luAFJ&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xBH5S1T%2BAhnG6yQB7YxItK2Ppm4S8TUd%2Bj925MVaWxfD%2F4qfy6K3VIFn1YP9ImolQsBand5SKqAju4gCu7WsbZTkvQQ9qXoY9xf%2FxLuNCfDGbAXg%2BLoI28GUrE7UyrAWzqGOeZxSzCQS7POPPZadS5Re9VkQq4DgRBCEOb8Lir%2BClzc%2Bf%2BBaPkX9Bd%2BhEDCXsrcVEEw7%2FdNQCmvooXG%2BfwsOiOSU7lMKdoboZP87nQGb1%2FvfNLyhW0T7VTyLDTrXjM%3D%7Ctkp%3ABk9SR6Tk79uTZw
+                      - heading "Genuine Leather Slim Bifold Wallets For Men With Flip-Up ID Window RFID Blocking Opens in a new window or tab" [level=3] [ref=e2553]:
+                        - text: Genuine Leather Slim Bifold Wallets For Men With Flip-Up ID Window RFID Blocking
+                        - generic [ref=e2554]: Opens in a new window or tab
+                    - generic [ref=e2556]: Brand New
+                  - generic [ref=e2558]:
+                    - generic [ref=e2559]:
+                      - text: $29.95
+                      - text: $59.99
+                    - generic [ref=e2560]: Buy It Now
+                    - generic [ref=e2561]: +$17.34 delivery
+                    - generic [ref=e2562]: Located in United States
+                    - generic [ref=e2563]: Free returns
+                  - generic [ref=e2564]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading [level=6]:
+                            - generic [ref=e2565]: Sponsored
+            - listitem [ref=e2566]:
+              - generic [ref=e2567]:
+                - generic [ref=e2569]:
+                  - link "Leatherboss Genuine Leather Men Long Wallet Pockets ID Card Clutch Bifold Purse" [ref=e2573] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/371946726086?_skw=mens+leather+wallet&itmmeta=01KJEVVY85AK65T8V88F050B78&hash=item5699c0a2c6:g:THkAAOSwcDBj2YPk&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xBaTSkFl6O5aTGjTgWbUIZ%2FDCkrqZfQtbV6oXIdSs4VRmt5okSKdVUk2PqRou8qaC4I8zK1k5Pb2Gvsy4dORc537uRSghm2M31fECy6IlAmU8DrxooxGad6i0BEzZVtwchJ3S9nW%2BuDB8ytALxe7saup2vWz2DasnKD06Oc46IX5iaoFfJ4TMn8eE5i5TjQf2CUDPRDscPhFrIGo6tLtA%2Fxny3QfetV%2BccPo5AVUTFh%2F86i9vOkEuQW5GnRe8ofPKo%3D%7Ctkp%3ABk9SR6Tk79uTZw
+                    - img "Leatherboss Genuine Leather Men Long Wallet Pockets ID Card Clutch Bifold Purse"
+                  - link "See visually similar items" [ref=e2575] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_id=371946726086&_fsrp=1&_vss=1&_vs=1&itmmeta=01KJEVVY85AK65T8V88F050B78&_udlo=12.74&_vssPrice=1&_sacat=2996
+                    - img
+                - generic [ref=e2576]:
+                  - generic [ref=e2577]:
+                    - link "Leatherboss Genuine Leather Men Long Wallet Pockets ID Card Clutch Bifold Purse Opens in a new window or tab" [ref=e2578] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/371946726086?_skw=mens+leather+wallet&itmmeta=01KJEVVY85AK65T8V88F050B78&hash=item5699c0a2c6:g:THkAAOSwcDBj2YPk&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xBaTSkFl6O5aTGjTgWbUIZ%2FDCkrqZfQtbV6oXIdSs4VRmt5okSKdVUk2PqRou8qaC4I8zK1k5Pb2Gvsy4dORc537uRSghm2M31fECy6IlAmU8DrxooxGad6i0BEzZVtwchJ3S9nW%2BuDB8ytALxe7saup2vWz2DasnKD06Oc46IX5iaoFfJ4TMn8eE5i5TjQf2CUDPRDscPhFrIGo6tLtA%2Fxny3QfetV%2BccPo5AVUTFh%2F86i9vOkEuQW5GnRe8ofPKo%3D%7Ctkp%3ABk9SR6Tk79uTZw
+                      - heading "Leatherboss Genuine Leather Men Long Wallet Pockets ID Card Clutch Bifold Purse Opens in a new window or tab" [level=3] [ref=e2579]:
+                        - text: Leatherboss Genuine Leather Men Long Wallet Pockets ID Card Clutch Bifold Purse
+                        - generic [ref=e2580]: Opens in a new window or tab
+                    - generic [ref=e2582]: Brand New
+                  - generic [ref=e2584]:
+                    - generic [ref=e2585]: $16.99
+                    - generic [ref=e2586]: Buy It Now
+                    - generic [ref=e2587]: +$24.45 delivery
+                    - generic [ref=e2588]: Located in United States
+                    - generic [ref=e2589]: Save up to 10% when you buy more
+                  - generic [ref=e2590]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading [level=6]:
+                            - generic [ref=e2591]: Sponsored
+            - listitem [ref=e2592]:
+              - generic [ref=e2593]:
+                - generic [ref=e2595]:
+                  - link "Men's Slim PopUp Bifold Carbon Fiber Wallet, RFID Blocking, Money Clip, Men Gift" [ref=e2599] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/405142116639?_skw=mens+leather+wallet&itmmeta=01KJEVVY85Q7XN9PYDYH20NDGP&hash=item5e545a191f:g:7~kAAeSwNINpGB5X&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xCycUO6Sf2x7g9q196kd5BtuX2y1jHzTbQyrJey9sVy3CvosDKDfhsS3bAkNhkouhGbgD%2FM7MeRCtc0d8SRMH5i32%2B58fUnl0AYSv%2F0JSVLeAXlmpTTOyO5Mz8%2Bb5wpuZBw1z9yQDpJFHhj4tYd0ckx79tx%2FqToKdzjDpdMGtn%2FFxq8RZ4bqSIKHFOFyRK3eDhIUmcDq8NJYjjK55d4mjgZOLjNefFbuwmdN5DQ643KkQIIurLnhMfAjcKv1tOz7xg%3D%7Ctkp%3ABk9SR6Tk79uTZw
+                    - img "Men's Slim PopUp Bifold Carbon Fiber Wallet, RFID Blocking, Money Clip, Men Gift"
+                  - link "watch Men's Slim PopUp Bifold Carbon Fiber Wallet, RFID Blocking, Money Clip, Men Gift" [ref=e2601] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=405142116639&pt=null&srt=01000b000000502b92b20a5948179f604bdf2f8045539db67edbd2c8c1eeceb6ed501578a6406306b79e8f695927904f82f5eaec90310241d50467f7200a6e8e08effc8065e7ab8db9b0cdc45e647986f04339da3f8f08&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D0%26_from%3DR40
+                    - generic [ref=e2602]:
+                      - img
+                  - button "Open product gallery Men's Slim PopUp Bifold Carbon Fiber Wallet, RFID Blocking, Money Clip, Men Gift" [ref=e2603]:
+                    - img
+                  - link "See visually similar items" [ref=e2605] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_id=405142116639&_fsrp=1&_vss=1&_vs=1&itmmeta=01KJEVVY85Q7XN9PYDYH20NDGP&_udlo=14.99&_vssPrice=1&_sacat=2996
+                    - img
+                - generic [ref=e2606]:
+                  - generic [ref=e2607]:
+                    - generic "NEW LOW PRICE" [ref=e2609]
+                    - link "Men's Slim PopUp Bifold Carbon Fiber Wallet, RFID Blocking, Money Clip, Men Gift Opens in a new window or tab" [ref=e2610] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/405142116639?_skw=mens+leather+wallet&itmmeta=01KJEVVY85Q7XN9PYDYH20NDGP&hash=item5e545a191f:g:7~kAAeSwNINpGB5X&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xCycUO6Sf2x7g9q196kd5BtuX2y1jHzTbQyrJey9sVy3CvosDKDfhsS3bAkNhkouhGbgD%2FM7MeRCtc0d8SRMH5i32%2B58fUnl0AYSv%2F0JSVLeAXlmpTTOyO5Mz8%2Bb5wpuZBw1z9yQDpJFHhj4tYd0ckx79tx%2FqToKdzjDpdMGtn%2FFxq8RZ4bqSIKHFOFyRK3eDhIUmcDq8NJYjjK55d4mjgZOLjNefFbuwmdN5DQ643KkQIIurLnhMfAjcKv1tOz7xg%3D%7Ctkp%3ABk9SR6Tk79uTZw
+                      - heading "Men's Slim PopUp Bifold Carbon Fiber Wallet, RFID Blocking, Money Clip, Men Gift Opens in a new window or tab" [level=3] [ref=e2611]:
+                        - text: Men's Slim PopUp Bifold Carbon Fiber Wallet, RFID Blocking, Money Clip, Men Gift
+                        - generic [ref=e2612]: Opens in a new window or tab
+                    - generic [ref=e2614]: Brand New
+                  - generic [ref=e2616]:
+                    - generic [ref=e2617]:
+                      - text: $19.99
+                      - text: $39.97
+                    - generic [ref=e2618]: Buy It Now
+                    - generic [ref=e2619]: +$17.12 delivery
+                    - generic [ref=e2620]: Located in United States
+                    - generic [ref=e2621]: Save up to 25% when you buy more
+                  - generic [ref=e2622]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading [level=6]:
+                            - generic [ref=e2623]: Sponsored
+            - listitem [ref=e2624]:
+              - generic [ref=e2625]:
+                - generic [ref=e2627]:
+                  - link "RFID Blocking Women Men Genuine Leather Wallet Credit Card Holder Zipper Pocket" [ref=e2631] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/167038785675?_skw=mens+leather+wallet&itmmeta=01KJEVVY858D4QGW7Z2XKZSJFX&hash=item26e449988b:g:T60AAOSw7lFnF2YG&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xANWHdik0qRinSI%2Fww4rK5ljg680JQl9I%2FZJ9l5vMHPBJyLxtMA8AoHVtGv46kAd%2Bh51Zg5LXJ7VRFtzGXPghcSv%2FE%2FdCEle%2Fak5NeaxNWfmxVk0kGW5vFyXmgOGKg1aqoPA9KBT5rb2C21yh3TGfW95NORx2sDuzliY5q%2FMLMhXD0abVnMBbwlLj0whaPcF8LjOLvpTt4kT13v1btuKHTiBylGn%2FrUxe9Q%2FVXKolEMysCePmGwripymbJ9Gc1qc7g%3D%7Ctkp%3ABk9SR6Tk79uTZw
+                    - img "RFID Blocking Women Men Genuine Leather Wallet Credit Card Holder Zipper Pocket"
+                  - link "See visually similar items" [ref=e2633] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_id=167038785675&_fsrp=1&_vss=1&_vs=1&itmmeta=01KJEVVY858D4QGW7Z2XKZSJFX&_udlo=8.99&_vssPrice=1&_sacat=45258
+                    - img
+                - generic [ref=e2634]:
+                  - generic [ref=e2635]:
+                    - link "RFID Blocking Women Men Genuine Leather Wallet Credit Card Holder Zipper Pocket Opens in a new window or tab" [ref=e2636] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/167038785675?_skw=mens+leather+wallet&itmmeta=01KJEVVY858D4QGW7Z2XKZSJFX&hash=item26e449988b:g:T60AAOSw7lFnF2YG&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xANWHdik0qRinSI%2Fww4rK5ljg680JQl9I%2FZJ9l5vMHPBJyLxtMA8AoHVtGv46kAd%2Bh51Zg5LXJ7VRFtzGXPghcSv%2FE%2FdCEle%2Fak5NeaxNWfmxVk0kGW5vFyXmgOGKg1aqoPA9KBT5rb2C21yh3TGfW95NORx2sDuzliY5q%2FMLMhXD0abVnMBbwlLj0whaPcF8LjOLvpTt4kT13v1btuKHTiBylGn%2FrUxe9Q%2FVXKolEMysCePmGwripymbJ9Gc1qc7g%3D%7Ctkp%3ABk9SR6Tk79uTZw
+                      - heading "RFID Blocking Women Men Genuine Leather Wallet Credit Card Holder Zipper Pocket Opens in a new window or tab" [level=3] [ref=e2637]:
+                        - text: RFID Blocking Women Men Genuine Leather Wallet Credit Card Holder Zipper Pocket
+                        - generic [ref=e2638]: Opens in a new window or tab
+                    - generic [ref=e2640]: Brand New
+                  - generic [ref=e2642]:
+                    - generic [ref=e2643]:
+                      - text: $7.99 to $11.99
+                      - text: $59.95
+                    - generic [ref=e2644]: Buy It Now
+                    - generic [ref=e2645]: +$24.35 delivery
+                    - generic [ref=e2646]: Located in United States
+                  - generic [ref=e2647]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading [level=6]:
+                            - generic [ref=e2648]: Sponsored
+            - listitem [ref=e2649]:
+              - generic [ref=e2650]:
+                - generic [ref=e2652]:
+                  - link "Mens Genuine Leather Wallet Antitheft RFID Blocking Zip Around Coin Purse Tan" [ref=e2656] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/304209510459?_skw=mens+leather+wallet&itmmeta=01KJEVVY852FSHCE6ET0YTFMSS&hash=item46d44cc03b:g:qkEAAOSwkalhgRqS&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xD0WQ1%2Bb%2FkLK8XbXRLz%2F6t5IvvDcwj26xmvap%2BetZZ5Kk3cK6B6gWgfL8wPOHdsRaXmnWbKXFkjnMtZRHt2Cxtje0DiLVOtM8%2F0swUCa%2FJTVFypZKlqUAZG%2FeOokB0CyUA3xhft1rmNP8oZWCGqCWWKS%2BoTe0VLwBK9XDQSrEIcp1WRK9qQuRGB%2FroaDSk3hmp2hXEcV4nyQmwRlPN8ZXd%2FNmFXHG4vUgTGZoqKcwX5sfiXXob7wgJY6%2BLkmTOaY8Q%3D%7Ctkp%3ABk9SR6Tk79uTZw
+                    - img "Mens Genuine Leather Wallet Antitheft RFID Blocking Zip Around Coin Purse Tan"
+                  - link "watch Mens Genuine Leather Wallet Antitheft RFID Blocking Zip Around Coin Purse Tan" [ref=e2658] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=304209510459&pt=null&srt=01000b000000506d465049d2ebfcfc21529ef78027c6759c6022f35c52c1b4cf7469d16101695205c508d2a8a31fef6e2b2c3d9d2209ba884d5d6fe7df51e95f4161c573bc56500c5aa6f8827799566339391723f21fcf&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D0%26_from%3DR40
+                    - generic [ref=e2659]:
+                      - img
+                  - link "See visually similar items" [ref=e2661] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_id=304209510459&_fsrp=1&_vss=1&_vs=1&itmmeta=01KJEVVY852FSHCE6ET0YTFMSS&_udlo=7.49&_vssPrice=1&_sacat=2996
+                    - img
+                - generic [ref=e2662]:
+                  - generic [ref=e2663]:
+                    - link "Mens Genuine Leather Wallet Antitheft RFID Blocking Zip Around Coin Purse Tan Opens in a new window or tab" [ref=e2664] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/304209510459?_skw=mens+leather+wallet&itmmeta=01KJEVVY852FSHCE6ET0YTFMSS&hash=item46d44cc03b:g:qkEAAOSwkalhgRqS&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xD0WQ1%2Bb%2FkLK8XbXRLz%2F6t5IvvDcwj26xmvap%2BetZZ5Kk3cK6B6gWgfL8wPOHdsRaXmnWbKXFkjnMtZRHt2Cxtje0DiLVOtM8%2F0swUCa%2FJTVFypZKlqUAZG%2FeOokB0CyUA3xhft1rmNP8oZWCGqCWWKS%2BoTe0VLwBK9XDQSrEIcp1WRK9qQuRGB%2FroaDSk3hmp2hXEcV4nyQmwRlPN8ZXd%2FNmFXHG4vUgTGZoqKcwX5sfiXXob7wgJY6%2BLkmTOaY8Q%3D%7Ctkp%3ABk9SR6Tk79uTZw
+                      - heading "Mens Genuine Leather Wallet Antitheft RFID Blocking Zip Around Coin Purse Tan Opens in a new window or tab" [level=3] [ref=e2665]:
+                        - text: Mens Genuine Leather Wallet Antitheft RFID Blocking Zip Around Coin Purse Tan
+                        - generic [ref=e2666]: Opens in a new window or tab
+                    - generic [ref=e2668]: Brand New
+                  - generic [ref=e2670]:
+                    - generic [ref=e2671]: $13.47
+                    - generic [ref=e2672]: Buy It Now
+                    - generic [ref=e2673]: +$13.47 delivery
+                    - generic [ref=e2674]: Located in United Kingdom
+                    - generic [ref=e2675]: 194 sold
+                  - generic [ref=e2676]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading [level=6]:
+                            - generic [ref=e2677]: Sponsored
+            - listitem [ref=e2678]:
+              - generic [ref=e2679]:
+                - generic [ref=e2681]:
+                  - link "Men’s Slim Leather Bifold Wallet – RFID Blocking, Cards & Cash Slots, Gift Box" [ref=e2685] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/405886706544?_skw=mens+leather+wallet&itmmeta=01KJEVVY85QCNK106EQRJ96B3G&hash=item5e80bba370:g:CCMAAeSwFWxo2Kzp&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBAaQlkNxZrwEVjr3v8VOnoi5wQ5i%2BZlLPSlYwkSWZbe%2FBWih51sYhmeFmiTDndKN4ruKj1HsV2YqKoFk7yof1jBmoq4gRrdIso3de2v4lOS%2FG8roRjbJKOBbj9y8SEtlZVUMC3ZeGqJepihh9l8RTmytjVxkNWgY%2FQo4j1I6BbENfHkzzprfGljPE1MMZ4VjNBqHnjH7iv540N0XETn%2B0kDBb%2BW770mmsgfhHM6JwFdXyfUB2lgJ8fOCfbGqLLWFa2LzLfqHiypHIRxuYMUPs5V4kBpIGo%2FMtkC1rcn%2BDSxA%3D%3D%7Ctkp%3ABk9SR6Tk79uTZw
+                    - img "Men’s Slim Leather Bifold Wallet – RFID Blocking, Cards & Cash Slots, Gift Box"
+                  - link "watch Men’s Slim Leather Bifold Wallet – RFID Blocking, Cards & Cash Slots, Gift Box" [ref=e2687] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=405886706544&pt=null&srt=01000b00000050c4d6ae3ed6f50958c5e41008a528bf14b247a68ab5be01b6f5d861b7925eac92ffb19a616883be8dc5f4edc76bc1d9484838209ff14ff451c4fb83e0ab19768b62a1cd41cf02504ab16176eb7627ae3f&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D0%26_from%3DR40
+                    - generic [ref=e2688]:
+                      - img
+                  - button "Open product gallery Men’s Slim Leather Bifold Wallet – RFID Blocking, Cards & Cash Slots, Gift Box" [ref=e2689]:
+                    - img
+                  - link "See visually similar items" [ref=e2691] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_id=405886706544&_fsrp=1&_vss=1&_vs=1&itmmeta=01KJEVVY85QCNK106EQRJ96B3G&_udlo=14.57&_vssPrice=1&_sacat=2996
+                    - img
+                - generic [ref=e2692]:
+                  - generic [ref=e2693]:
+                    - generic "NEW LOW PRICE" [ref=e2695]
+                    - link "Men’s Slim Leather Bifold Wallet – RFID Blocking, Cards & Cash Slots, Gift Box Opens in a new window or tab" [ref=e2696] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/405886706544?_skw=mens+leather+wallet&itmmeta=01KJEVVY85QCNK106EQRJ96B3G&hash=item5e80bba370:g:CCMAAeSwFWxo2Kzp&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBAaQlkNxZrwEVjr3v8VOnoi5wQ5i%2BZlLPSlYwkSWZbe%2FBWih51sYhmeFmiTDndKN4ruKj1HsV2YqKoFk7yof1jBmoq4gRrdIso3de2v4lOS%2FG8roRjbJKOBbj9y8SEtlZVUMC3ZeGqJepihh9l8RTmytjVxkNWgY%2FQo4j1I6BbENfHkzzprfGljPE1MMZ4VjNBqHnjH7iv540N0XETn%2B0kDBb%2BW770mmsgfhHM6JwFdXyfUB2lgJ8fOCfbGqLLWFa2LzLfqHiypHIRxuYMUPs5V4kBpIGo%2FMtkC1rcn%2BDSxA%3D%3D%7Ctkp%3ABk9SR6Tk79uTZw
+                      - heading "Men’s Slim Leather Bifold Wallet – RFID Blocking, Cards & Cash Slots, Gift Box Opens in a new window or tab" [level=3] [ref=e2697]:
+                        - text: Men’s Slim Leather Bifold Wallet – RFID Blocking, Cards & Cash Slots, Gift Box
+                        - generic [ref=e2698]: Opens in a new window or tab
+                    - generic [ref=e2700]: Brand New
+                  - generic [ref=e2702]:
+                    - generic [ref=e2703]:
+                      - text: $19.42
+                      - text: $29.88
+                    - generic [ref=e2704]: Buy It Now
+                    - generic [ref=e2705]: +$17.11 delivery
+                    - generic [ref=e2706]: Located in United States
+                    - generic [ref=e2707]: Save up to 17% when you buy more
+                  - generic [ref=e2708]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading [level=6]:
+                            - generic [ref=e2709]: Sponsored
+            - listitem [ref=e2710]:
+              - generic [ref=e2711]:
+                - generic [ref=e2713]:
+                  - link "Starhide Men RFID BLOCKING Real Distressed Leather Zipper Wallet Purse 720 Brown" [ref=e2717] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/144537874175?_skw=mens+leather+wallet&itmmeta=01KJEVVY86P4H0JMVNWBH95WBR&hash=item21a720eeff:g:Z58AAOSwiCNicmoi&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xDNtSd0z5do%2FFQw8l4Io3WLRAdlwmLl9%2FU7DKMaWjHHp5FFtWF8ymrjgmYD0e3LD6Thj2CBcQogMHe2AbwGDApKtQsVZJeIXTv8sdZUuNF9L%2FLTeqfEZpaHOAdp2ZHNUdMJcYcTSd3e05apmACUI5p9%2BWwdmgLLfa8fsVnsNlHKF306kG6lyRZ1Pg4kbd09%2F5ag3EKcDfJOstZHTA2amYnCow1JV%2FE76UGvf4%2FP1eXXUBuPhrPvVwelmUP0aYUiLWg%3D%7Ctkp%3ABk9SR6Tk79uTZw
+                    - img "Starhide Men RFID BLOCKING Real Distressed Leather Zipper Wallet Purse 720 Brown"
+                  - link "watch Starhide Men RFID BLOCKING Real Distressed Leather Zipper Wallet Purse 720 Brown" [ref=e2719] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=144537874175&pt=null&srt=01000b00000050f66de1384841fdf25add2d8fa655f0e60477ca66c87a856a0e09ba70d72af49c7ae8a82ba3b537e37b5ab7576708795b136f379ef9613a4df05e5f24082c099b8e154b0d286fe10a44aecfa5244d67a2&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D0%26_from%3DR40
+                    - generic [ref=e2720]:
+                      - img
+                  - button "Open product gallery Starhide Men RFID BLOCKING Real Distressed Leather Zipper Wallet Purse 720 Brown" [ref=e2721]:
+                    - img
+                  - link "See visually similar items" [ref=e2723] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_id=144537874175&_fsrp=1&_vss=1&_vs=1&itmmeta=01KJEVVY86P4H0JMVNWBH95WBR&_udlo=14.24&_vssPrice=1&_sacat=2996
+                    - img
+                - generic [ref=e2724]:
+                  - generic [ref=e2725]:
+                    - link "Starhide Men RFID BLOCKING Real Distressed Leather Zipper Wallet Purse 720 Brown Opens in a new window or tab" [ref=e2726] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/144537874175?_skw=mens+leather+wallet&itmmeta=01KJEVVY86P4H0JMVNWBH95WBR&hash=item21a720eeff:g:Z58AAOSwiCNicmoi&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xDNtSd0z5do%2FFQw8l4Io3WLRAdlwmLl9%2FU7DKMaWjHHp5FFtWF8ymrjgmYD0e3LD6Thj2CBcQogMHe2AbwGDApKtQsVZJeIXTv8sdZUuNF9L%2FLTeqfEZpaHOAdp2ZHNUdMJcYcTSd3e05apmACUI5p9%2BWwdmgLLfa8fsVnsNlHKF306kG6lyRZ1Pg4kbd09%2F5ag3EKcDfJOstZHTA2amYnCow1JV%2FE76UGvf4%2FP1eXXUBuPhrPvVwelmUP0aYUiLWg%3D%7Ctkp%3ABk9SR6Tk79uTZw
+                      - heading "Starhide Men RFID BLOCKING Real Distressed Leather Zipper Wallet Purse 720 Brown Opens in a new window or tab" [level=3] [ref=e2727]:
+                        - text: Starhide Men RFID BLOCKING Real Distressed Leather Zipper Wallet Purse 720 Brown
+                        - generic [ref=e2728]: Opens in a new window or tab
+                    - generic [ref=e2730]: Brand New
+                  - generic [ref=e2732]:
+                    - generic [ref=e2733]: $25.60
+                    - generic [ref=e2734]: Buy It Now
+                    - generic [ref=e2735]: +$13.47 delivery
+                    - generic [ref=e2736]: Located in United Kingdom
+                    - generic [ref=e2737]: 50 sold
+                  - generic [ref=e2738]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading [level=6]:
+                            - generic [ref=e2739]: Sponsored
+            - listitem [ref=e2740]:
+              - generic [ref=e2741]:
+                - generic [ref=e2743]:
+                  - link "Timberland Leather Wallet – Premium Genuine Leather Bifold Wallet for Men" [ref=e2747] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/127098771922?_skw=mens+leather+wallet&epid=1025115773&itmmeta=01KJEVVY86J7T0009AAY3JVNMZ&hash=item1d97ad59d2:g:lQwAAeSwziBoG~yl&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDHOAlzT3OR2mCrOxQ8ZyQGZWRERzwohifEuZTc5pK2eKwLfCmxnCMtdGK33HtcFebqMCWpY61Kq9VarL0MHY2Sh1WjMWfmNha0Z5SKeEvfHEKY4bxRuWZ41Tfs%2Bh0HDGTGVfoyRsA938u1UQ9f4gKVCQaIVpAy6u1D%2BUc3%2BF9rmzZ%2BcH6aXRnX3Q1PQWr8FniFtTbVVuK%2FucuNvlVi18mbxiIWGb6vhcHmqthbpPW6fpJN501BmCG3o6PLByjs9su0Iu8CLd%2FiJv981keEcN%2F0L6HC%2FXiaBnoj%2FsXyeXq7%2Fg%3D%3D%7Ctkp%3ABk9SR6Tk79uTZw
+                    - img "Timberland Leather Wallet – Premium Genuine Leather Bifold Wallet for Men"
+                  - link "See visually similar items" [ref=e2749] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_id=127098771922&_fsrp=1&_vss=1&_vs=1&itmmeta=01KJEVVY86J7T0009AAY3JVNMZ&_udlo=18.74&_vssPrice=1&_sacat=2996
+                    - img
+                - generic [ref=e2750]:
+                  - generic [ref=e2751]:
+                    - link "Timberland Leather Wallet – Premium Genuine Leather Bifold Wallet for Men Opens in a new window or tab" [ref=e2752] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/127098771922?_skw=mens+leather+wallet&epid=1025115773&itmmeta=01KJEVVY86J7T0009AAY3JVNMZ&hash=item1d97ad59d2:g:lQwAAeSwziBoG~yl&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDHOAlzT3OR2mCrOxQ8ZyQGZWRERzwohifEuZTc5pK2eKwLfCmxnCMtdGK33HtcFebqMCWpY61Kq9VarL0MHY2Sh1WjMWfmNha0Z5SKeEvfHEKY4bxRuWZ41Tfs%2Bh0HDGTGVfoyRsA938u1UQ9f4gKVCQaIVpAy6u1D%2BUc3%2BF9rmzZ%2BcH6aXRnX3Q1PQWr8FniFtTbVVuK%2FucuNvlVi18mbxiIWGb6vhcHmqthbpPW6fpJN501BmCG3o6PLByjs9su0Iu8CLd%2FiJv981keEcN%2F0L6HC%2FXiaBnoj%2FsXyeXq7%2Fg%3D%3D%7Ctkp%3ABk9SR6Tk79uTZw
+                      - heading "Timberland Leather Wallet – Premium Genuine Leather Bifold Wallet for Men Opens in a new window or tab" [level=3] [ref=e2753]:
+                        - text: Timberland Leather Wallet – Premium Genuine Leather Bifold Wallet for Men
+                        - generic [ref=e2754]: Opens in a new window or tab
+                    - generic [ref=e2756]: Brand New
+                    - link "4.5 out of 5 stars. 33 product ratings - Timberland Leather Wallet – Premium Genuine Leather Bifold Wallet for Men" [ref=e2759] [cursor=pointer]:
+                      - /url: https://www.ebay.com/p/1025115773?iid=127098771922&var=428220070945#UserReviews
+                      - generic [ref=e2760]:
+                        - img
+                        - img
+                        - img
+                        - img
+                        - img
+                        - generic [ref=e2761]: 4.5 out of 5 stars.
+                      - generic [ref=e2762]:
+                        - generic [ref=e2763]: (33)
+                        - generic [ref=e2764]: 33 product ratings - Timberland Leather Wallet – Premium Genuine Leather Bifold Wallet for Men
+                  - generic [ref=e2766]:
+                    - generic [ref=e2767]:
+                      - text: $24.99
+                      - text: $55.00
+                    - generic [ref=e2768]: Buy It Now
+                    - generic [ref=e2769]: +$17.23 delivery
+                    - generic [ref=e2770]: Located in United States
+                    - generic [ref=e2771]: Save up to 7% when you buy more
+                  - generic [ref=e2772]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading [level=6]:
+                            - generic [ref=e2773]: Sponsored
+            - listitem [ref=e2774]:
+              - generic [ref=e2775]:
+                - generic [ref=e2777]:
+                  - link "NAPA HIDE Leather Bifold Wallets For Men RFID Blocking Men's Daily USE Wallet" [ref=e2781] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/136797094591?_skw=mens+leather+wallet&itmmeta=01KJEVVY863488CMEK3J7AZNWJ&hash=item1fd9be02bf:g:nrMAAeSwWuBpKnhE&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xDAuE2bq5ID2Hq5POz29EE22muOs183291LZ6%2BHHbQr1gbuLU%2BTz6fUogtOdbJ%2F2gmwy%2FWwpRRfxBJrpvcORgqjUEK1CSEA8Zg41Hx8WwkXw2z%2B8L52v8m%2F3i7cFR2%2FbGc%2B0AN3NX5y28xKg8ROvOfBHJWIOXHG2MZUoz98F8BK6bzq12QsUgiLP8lrhd8G2c%2BcEUCJI4VgH0cUTEV0Z2Rc3gSQytKj6YlV7qr%2F5DJNWRqfsiD0C0jQh5LyJIjhh6c%3D%7Ctkp%3ABk9SR6Tk79uTZw
+                    - img "NAPA HIDE Leather Bifold Wallets For Men RFID Blocking Men's Daily USE Wallet"
+                  - link "watch NAPA HIDE Leather Bifold Wallets For Men RFID Blocking Men's Daily USE Wallet" [ref=e2783] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=136797094591&pt=null&srt=01000b0000005041ab5b8774c0e1e706b0583f2dcdd212118b58fb21266a5564137eb4c6eb471ba3fbcb302e84461585d67d53311cf40afe4aded7e588ac6a3215af7c8dcbe583d93281783a5a99134ea777c158796a17&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D0%26_from%3DR40
+                    - generic [ref=e2784]:
+                      - img
+                  - link "See visually similar items" [ref=e2786] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_id=136797094591&_fsrp=1&_vss=1&_vs=1&itmmeta=01KJEVVY863488CMEK3J7AZNWJ&_udlo=5.69&_vssPrice=1&_sacat=2996
+                    - img
+                - generic [ref=e2787]:
+                  - generic [ref=e2788]:
+                    - link "NAPA HIDE Leather Bifold Wallets For Men RFID Blocking Men's Daily USE Wallet Opens in a new window or tab" [ref=e2789] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/136797094591?_skw=mens+leather+wallet&itmmeta=01KJEVVY863488CMEK3J7AZNWJ&hash=item1fd9be02bf:g:nrMAAeSwWuBpKnhE&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xDAuE2bq5ID2Hq5POz29EE22muOs183291LZ6%2BHHbQr1gbuLU%2BTz6fUogtOdbJ%2F2gmwy%2FWwpRRfxBJrpvcORgqjUEK1CSEA8Zg41Hx8WwkXw2z%2B8L52v8m%2F3i7cFR2%2FbGc%2B0AN3NX5y28xKg8ROvOfBHJWIOXHG2MZUoz98F8BK6bzq12QsUgiLP8lrhd8G2c%2BcEUCJI4VgH0cUTEV0Z2Rc3gSQytKj6YlV7qr%2F5DJNWRqfsiD0C0jQh5LyJIjhh6c%3D%7Ctkp%3ABk9SR6Tk79uTZw
+                      - heading "NAPA HIDE Leather Bifold Wallets For Men RFID Blocking Men's Daily USE Wallet Opens in a new window or tab" [level=3] [ref=e2790]:
+                        - text: NAPA HIDE Leather Bifold Wallets For Men RFID Blocking Men's Daily USE Wallet
+                        - generic [ref=e2791]: Opens in a new window or tab
+                    - generic [ref=e2793]: Brand New
+                  - generic [ref=e2795]:
+                    - generic [ref=e2796]:
+                      - text: $7.59
+                      - text: $7.99
+                    - generic [ref=e2797]: or Best Offer
+                    - generic [ref=e2798]: Free International Shipping
+                    - generic [ref=e2799]: Located in India
+                    - generic [ref=e2800]: Free returns
+                  - generic [ref=e2801]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading [level=6]:
+                            - generic [ref=e2802]: Sponsored
+            - listitem [ref=e2803]:
+              - generic [ref=e2804]:
+                - generic [ref=e2806]:
+                  - link "Men RFID Blocking Leather Bifold Wallet Credit Card ID Holder Zip Around Purse" [ref=e2810] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/284917577248?_skw=mens+leather+wallet&itmmeta=01KJEVVY860AVMK35MTNRTRNJ3&hash=item4256693620:g:g2kAAOSw8vhmyWWm&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xC01ZuWX3oAWx9zQmi%2Bs8CrQNR0Y%2FIQkfzgrPiTRvNQNQs3vSZsvqIgrypQWeQPGBHhtQxMubnjrRoHjWGyoD0psgrFh759ABI107sdj%2FbmU%2BWw%2FgbG76VeSMXLoJHcdpA5yHYCYxS6ZSkJI4%2Bbfw032MPKoMCFqD8UTezpGj6Qu1WkEJ0sz0BwaA1lORYG%2BtciIYNyFC00tZ3fVBwvVNWH6ZPuiBYCtGEYI21xbropmPA37iWtb%2F%2BJhMPwiSBt8SUk3GZ1vVrO1uNTDt%2F1t5nRd%2BdNYcu8Mbc1RdMz3R4Zeg%3D%3D%7Ctkp%3ABk9SR6Tk79uTZw
+                    - img "Men RFID Blocking Leather Bifold Wallet Credit Card ID Holder Zip Around Purse"
+                  - link "See visually similar items" [ref=e2812] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_id=284917577248&_fsrp=1&_vss=1&_vs=1&itmmeta=01KJEVVY860AVMK35MTNRTRNJ3&_udlo=8.99&_vssPrice=1&_sacat=2996
+                    - img
+                - generic [ref=e2813]:
+                  - generic [ref=e2814]:
+                    - link "Men RFID Blocking Leather Bifold Wallet Credit Card ID Holder Zip Around Purse Opens in a new window or tab" [ref=e2815] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/284917577248?_skw=mens+leather+wallet&itmmeta=01KJEVVY860AVMK35MTNRTRNJ3&hash=item4256693620:g:g2kAAOSw8vhmyWWm&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xC01ZuWX3oAWx9zQmi%2Bs8CrQNR0Y%2FIQkfzgrPiTRvNQNQs3vSZsvqIgrypQWeQPGBHhtQxMubnjrRoHjWGyoD0psgrFh759ABI107sdj%2FbmU%2BWw%2FgbG76VeSMXLoJHcdpA5yHYCYxS6ZSkJI4%2Bbfw032MPKoMCFqD8UTezpGj6Qu1WkEJ0sz0BwaA1lORYG%2BtciIYNyFC00tZ3fVBwvVNWH6ZPuiBYCtGEYI21xbropmPA37iWtb%2F%2BJhMPwiSBt8SUk3GZ1vVrO1uNTDt%2F1t5nRd%2BdNYcu8Mbc1RdMz3R4Zeg%3D%3D%7Ctkp%3ABk9SR6Tk79uTZw
+                      - heading "Men RFID Blocking Leather Bifold Wallet Credit Card ID Holder Zip Around Purse Opens in a new window or tab" [level=3] [ref=e2816]:
+                        - text: Men RFID Blocking Leather Bifold Wallet Credit Card ID Holder Zip Around Purse
+                        - generic [ref=e2817]: Opens in a new window or tab
+                    - generic [ref=e2819]: Brand New
+                  - generic [ref=e2821]:
+                    - generic [ref=e2822]: $11.99
+                    - generic [ref=e2823]: Buy It Now
+                    - generic [ref=e2824]: +$16.95 delivery
+                    - generic [ref=e2825]: Located in United States
+                    - generic [ref=e2826]: Save up to 20% when you buy more
+                  - generic [ref=e2827]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading [level=6]:
+                            - generic [ref=e2828]: Sponsored
+            - listitem [ref=e2829]:
+              - generic [ref=e2830]:
+                - generic [ref=e2832]:
+                  - link "Man RFID Blocking Wallet Soft Real Leather Bifold Credit Card Holder Purse 503" [ref=e2836] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/184479185331?_skw=mens+leather+wallet&itmmeta=01KJEVVY860SKKZ19NB5YVESN9&hash=item2af3d0f9b3:g:YLgAAOSwkzVfg6wV&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCnYewgEXFXNJOXPeddUEwGHEmmkVBeaJ80AKIBsnoIShOzwLPXcqpth7T7xrcCKGQgSadAPenwx2jGgFsVGt624SDDkYNJORH1BAm8UA7VIE2Qo1zBdhj89JY3ctUozSNz6PSRa5fHQXrdq3Y1bYr61TXTTLdDiy2gnk%2B8MMiLSltagxYGSevh6fT5ay9p8mT9AuaSMryKGkeiDydM66EjR1dU8hDnR1%2BZ9ctK8cyqtrOuQ3iGyalBAW7Bq6KQ1j9B2RJABSE2mdGcrvr5MFfcRk%2F3zKyOnF6Nju6cRZEOpA%3D%3D%7Ctkp%3ABk9SR6Tk79uTZw
+                    - img "Man RFID Blocking Wallet Soft Real Leather Bifold Credit Card Holder Purse 503"
+                  - link "See visually similar items" [ref=e2838] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_id=184479185331&_fsrp=1&_vss=1&_vs=1&itmmeta=01KJEVVY860SKKZ19NB5YVESN9&_udlo=7.49&_vssPrice=1&_sacat=2996
+                    - img
+                - generic [ref=e2839]:
+                  - generic [ref=e2840]:
+                    - link "Man RFID Blocking Wallet Soft Real Leather Bifold Credit Card Holder Purse 503 Opens in a new window or tab" [ref=e2841] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/184479185331?_skw=mens+leather+wallet&itmmeta=01KJEVVY860SKKZ19NB5YVESN9&hash=item2af3d0f9b3:g:YLgAAOSwkzVfg6wV&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCnYewgEXFXNJOXPeddUEwGHEmmkVBeaJ80AKIBsnoIShOzwLPXcqpth7T7xrcCKGQgSadAPenwx2jGgFsVGt624SDDkYNJORH1BAm8UA7VIE2Qo1zBdhj89JY3ctUozSNz6PSRa5fHQXrdq3Y1bYr61TXTTLdDiy2gnk%2B8MMiLSltagxYGSevh6fT5ay9p8mT9AuaSMryKGkeiDydM66EjR1dU8hDnR1%2BZ9ctK8cyqtrOuQ3iGyalBAW7Bq6KQ1j9B2RJABSE2mdGcrvr5MFfcRk%2F3zKyOnF6Nju6cRZEOpA%3D%3D%7Ctkp%3ABk9SR6Tk79uTZw
+                      - heading "Man RFID Blocking Wallet Soft Real Leather Bifold Credit Card Holder Purse 503 Opens in a new window or tab" [level=3] [ref=e2842]:
+                        - text: Man RFID Blocking Wallet Soft Real Leather Bifold Credit Card Holder Purse 503
+                        - generic [ref=e2843]: Opens in a new window or tab
+                    - generic [ref=e2845]: Brand New
+                  - generic [ref=e2847]:
+                    - generic [ref=e2848]: $13.47
+                    - generic [ref=e2849]: Buy It Now
+                    - generic [ref=e2850]: +$16.16 delivery
+                    - generic [ref=e2851]: Located in United Kingdom
+                    - generic [ref=e2852]: 1,446+ sold
+                  - generic [ref=e2853]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading [level=6]:
+                            - generic [ref=e2854]: Sponsored
+            - listitem [ref=e2855]:
+              - generic [ref=e2856]:
+                - generic [ref=e2858]:
+                  - link "Genuine Leather Bifold Wallet RFID Blocking Men Xmas Holiday Sale Gift" [ref=e2862] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/296067716726?_skw=mens+leather+wallet&itmmeta=01KJEVVY8672HXN7GM88BXDZ1W&hash=item44ef02d676:g:0KAAAeSwYFFo8Ldy&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCZf9aN4RqE9IEUcU3XK27zO8EoKYjV0LCLfi0Q3wxBMk1jIXyY37y62NoEKv%2Bg4RuIZU%2FREUFjX7ZuI3cMYr7in5OoYwuomZezVTbEq8ce2UNgvoaVTFTikFfVSZJF35MVvUVH57xjSPTVUZgshFMKmjVAFGmGGeUas3veWa6vp%2F0Tb33Yp01jWoFfZHcsFgRBvLQX9laWGaGFme61BdN4zvP631GxZ0Tjtmll4QgAvWqB2MIeJEnDYnwBmnWgUXf0lVetATNIS5xGnVSJUoJP7R991BA0TCgpRY1a79eqpg%3D%3D%7Ctkp%3ABFBMpOTv25Nn
+                    - img "Genuine Leather Bifold Wallet RFID Blocking Men Xmas Holiday Sale Gift"
+                  - link "watch Genuine Leather Bifold Wallet RFID Blocking Men Xmas Holiday Sale Gift" [ref=e2864] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=296067716726&pt=null&srt=01000b000000502d08055c0d26535d81bedac7ec01ef6e594dbb8bb779864e02a8bdcfc1f50fd7940a9c4e685658ccf3205886f0b715be3f07eb0356cf6987da809f399714b14fde75eef9426a3272aec3e20156592c3a&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D0%26_from%3DR40
+                    - generic [ref=e2865]:
+                      - img
+                  - link "See visually similar items" [ref=e2867] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_id=296067716726&_fsrp=1&_vss=1&_vs=1&itmmeta=01KJEVVY8672HXN7GM88BXDZ1W&_udlo=18.4&_vssPrice=1&_sacat=2996
+                    - img
+                - generic [ref=e2868]:
+                  - generic [ref=e2869]:
+                    - link "Genuine Leather Bifold Wallet RFID Blocking Men Xmas Holiday Sale Gift Opens in a new window or tab" [ref=e2870] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/296067716726?_skw=mens+leather+wallet&itmmeta=01KJEVVY8672HXN7GM88BXDZ1W&hash=item44ef02d676:g:0KAAAeSwYFFo8Ldy&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCZf9aN4RqE9IEUcU3XK27zO8EoKYjV0LCLfi0Q3wxBMk1jIXyY37y62NoEKv%2Bg4RuIZU%2FREUFjX7ZuI3cMYr7in5OoYwuomZezVTbEq8ce2UNgvoaVTFTikFfVSZJF35MVvUVH57xjSPTVUZgshFMKmjVAFGmGGeUas3veWa6vp%2F0Tb33Yp01jWoFfZHcsFgRBvLQX9laWGaGFme61BdN4zvP631GxZ0Tjtmll4QgAvWqB2MIeJEnDYnwBmnWgUXf0lVetATNIS5xGnVSJUoJP7R991BA0TCgpRY1a79eqpg%3D%3D%7Ctkp%3ABFBMpOTv25Nn
+                      - heading "Genuine Leather Bifold Wallet RFID Blocking Men Xmas Holiday Sale Gift Opens in a new window or tab" [level=3] [ref=e2871]:
+                        - text: Genuine Leather Bifold Wallet RFID Blocking Men Xmas Holiday Sale Gift
+                        - generic [ref=e2872]: Opens in a new window or tab
+                    - generic [ref=e2874]: Brand New
+                  - generic [ref=e2876]:
+                    - generic [ref=e2877]: $24.53
+                    - generic [ref=e2878]: or Best Offer
+                    - generic [ref=e2879]: +$17.22 delivery
+                    - generic [ref=e2880]: Located in United States
+                    - generic [ref=e2881]: 164 sold
+                  - generic [ref=e2882]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading [level=6]:
+                            - generic [ref=e2883]: Sponsored
+            - listitem [ref=e2884]:
+              - generic [ref=e2885]:
+                - generic [ref=e2887]:
+                  - link "NAPA HIDE Leather Bifold Wallets For Men RFID Blocking Stylist Wallet GIFT" [ref=e2891] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/406623699705?_skw=mens+leather+wallet&itmmeta=01KJEVVY86MNN1E0NFH7GRDTKS&hash=item5eaca942f9:g:R0YAAeSw-iRpcK6K&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAOHAEgpIML%2F0jZtk7ewAUTvDcMHcEgNHnnIRwPbp1NHb%2BsOW4tvo4bw7FSxfFldCu9V2GNWYu5vfvG%2BfBHfFovwSu4PY9rqG6AYlKmm9NedXugf0k0Qlpn3bN5hHZufv7%2BrDhwOj4WhI6DkVSMTDWmDPhBL9IMcUYlGlEm%2BZGxu0RglITsmoFS1Bf3ICZG7V2VW2pGM48C5Gizevhw%2FgPpv5xwKov5KmFNo%2BPvJH%2FnYBeBAiicuoyQdS6wNMSNVphZyGMxL352BGQYyXTxDYcVcMo9YSsjSK9oxY%2FQW3Ra8Q%3D%3D%7Ctkp%3ABFBMpOTv25Nn
+                    - img "NAPA HIDE Leather Bifold Wallets For Men RFID Blocking Stylist Wallet GIFT"
+                  - link "watch NAPA HIDE Leather Bifold Wallets For Men RFID Blocking Stylist Wallet GIFT" [ref=e2893] [cursor=pointer]:
+                    - /url: https://www.ebay.com/myb/WatchListAdd?item=406623699705&pt=null&srt=01000b0000005053b66e533c8e299a08b3132625d544697df8ca80fffb6d47b3a9864eeb01fdac96f0e6c9593d82f463704541b90059ed2d9028370d1d405015aacb2c7f0f52502e290781d31077f999569b6816a9e04b&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D0%26_from%3DR40
+                    - generic [ref=e2894]:
+                      - img
+                  - link "See visually similar items" [ref=e2896] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_id=406623699705&_fsrp=1&_vss=1&_vs=1&itmmeta=01KJEVVY86MNN1E0NFH7GRDTKS&_udlo=10.12&_vssPrice=1&_sacat=2996
+                    - img
+                - generic [ref=e2897]:
+                  - generic [ref=e2898]:
+                    - link "NAPA HIDE Leather Bifold Wallets For Men RFID Blocking Stylist Wallet GIFT Opens in a new window or tab" [ref=e2899] [cursor=pointer]:
+                      - /url: https://www.ebay.com/itm/406623699705?_skw=mens+leather+wallet&itmmeta=01KJEVVY86MNN1E0NFH7GRDTKS&hash=item5eaca942f9:g:R0YAAeSw-iRpcK6K&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAOHAEgpIML%2F0jZtk7ewAUTvDcMHcEgNHnnIRwPbp1NHb%2BsOW4tvo4bw7FSxfFldCu9V2GNWYu5vfvG%2BfBHfFovwSu4PY9rqG6AYlKmm9NedXugf0k0Qlpn3bN5hHZufv7%2BrDhwOj4WhI6DkVSMTDWmDPhBL9IMcUYlGlEm%2BZGxu0RglITsmoFS1Bf3ICZG7V2VW2pGM48C5Gizevhw%2FgPpv5xwKov5KmFNo%2BPvJH%2FnYBeBAiicuoyQdS6wNMSNVphZyGMxL352BGQYyXTxDYcVcMo9YSsjSK9oxY%2FQW3Ra8Q%3D%3D%7Ctkp%3ABFBMpOTv25Nn
+                      - heading "NAPA HIDE Leather Bifold Wallets For Men RFID Blocking Stylist Wallet GIFT Opens in a new window or tab" [level=3] [ref=e2900]:
+                        - text: NAPA HIDE Leather Bifold Wallets For Men RFID Blocking Stylist Wallet GIFT
+                        - generic [ref=e2901]: Opens in a new window or tab
+                    - generic [ref=e2903]: Brand New
+                  - generic [ref=e2905]:
+                    - generic [ref=e2906]:
+                      - text: $13.49
+                      - text: $14.99
+                    - generic [ref=e2907]: or Best Offer
+                    - generic [ref=e2908]: Free International Shipping
+                    - generic [ref=e2909]: Located in India
+                    - generic [ref=e2910]: Free returns
+                    - generic [ref=e2911]: Almost gone
+                  - generic [ref=e2912]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading "Sponsored" [level=6]:
+                            - generic [ref=e2913]: Sponsored
+            - listitem [ref=e2914]:
+              - group "Multi-Aspect Guidance" [ref=e2918]:
+                - list [ref=e2921]:
+                  - listitem [ref=e2922]:
+                    - generic [ref=e2923]:
+                      - heading "Popular Filters" [level=2] [ref=e2924]
+                      - link "Black - apply Popular Filters filter" [ref=e2925] [cursor=pointer]:
+                        - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&Color=Black&_dcat=2996
+                        - generic [ref=e2926]:
+                          - text: Black
+                          - generic [ref=e2927]: "- apply Popular Filters filter"
+                  - listitem [ref=e2928]:
+                    - link "Brown - apply Popular Filters filter" [ref=e2930] [cursor=pointer]:
+                      - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&Color=Brown&_dcat=2996
+                      - generic [ref=e2931]:
+                        - text: Brown
+                        - generic [ref=e2932]: "- apply Popular Filters filter"
+                  - listitem [ref=e2933]:
+                    - link "Folding - apply filter" [ref=e2935] [cursor=pointer]:
+                      - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&Features=Folding&_dcat=2996
+                      - generic [ref=e2936]:
+                        - text: Folding
+                        - generic [ref=e2937]: "- apply filter"
+                  - listitem [ref=e2938]:
+                    - link "RFID Blocking - apply filter" [ref=e2940] [cursor=pointer]:
+                      - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&Features=RFID%2520Blocking&_dcat=2996
+                      - generic [ref=e2941]:
+                        - text: RFID Blocking
+                        - generic [ref=e2942]: "- apply filter"
+                  - listitem [ref=e2943]:
+                    - link "Credit Card - apply filter" [ref=e2945] [cursor=pointer]:
+                      - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&Features=Credit%2520Card&_dcat=2996
+                      - generic [ref=e2946]:
+                        - text: Credit Card
+                        - generic [ref=e2947]: "- apply filter"
+                  - listitem [ref=e2948]:
+                    - link "Checkbook - apply filter" [ref=e2950] [cursor=pointer]:
+                      - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&Features=Checkbook&_dcat=2996
+                      - generic [ref=e2951]:
+                        - text: Checkbook
+                        - generic [ref=e2952]: "- apply filter"
+            - listitem [ref=e2953]:
+              - generic [ref=e2954]:
+                - navigation "Results Pagination - Page 1" [ref=e2956]:
+                  - status:
+                    - heading "Results Pagination - Page 1" [level=2] [ref=e2957]
+                  - button "Go to previous search page" [disabled]:
+                    - img
+                  - list [ref=e2958]:
+                    - listitem [ref=e2959]:
+                      - link "1" [ref=e2960] [cursor=pointer]:
+                        - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&_pgn=1
+                    - listitem [ref=e2961]:
+                      - link "2" [ref=e2962] [cursor=pointer]:
+                        - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&_pgn=2
+                    - listitem [ref=e2963]:
+                      - link "3" [ref=e2964] [cursor=pointer]:
+                        - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&_pgn=3
+                    - listitem [ref=e2965]:
+                      - link "4" [ref=e2966] [cursor=pointer]:
+                        - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&_pgn=4
+                    - listitem [ref=e2967]:
+                      - link "5" [ref=e2968] [cursor=pointer]:
+                        - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&_pgn=5&rt=nc
+                    - listitem [ref=e2969]:
+                      - link "6" [ref=e2970] [cursor=pointer]:
+                        - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&_pgn=6&rt=nc
+                    - listitem [ref=e2971]:
+                      - link "7" [ref=e2972] [cursor=pointer]:
+                        - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&_pgn=7&rt=nc
+                    - listitem [ref=e2973]:
+                      - link "8" [ref=e2974] [cursor=pointer]:
+                        - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&_pgn=8&rt=nc
+                    - listitem [ref=e2975]:
+                      - link "9" [ref=e2976] [cursor=pointer]:
+                        - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&_pgn=9&rt=nc
+                  - link "Go to next search page" [ref=e2977] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=0&_from=R40&_pgn=2
+                    - img
+                - generic [ref=e2978]:
+                  - generic [ref=e2979]: Items Per Page
+                  - group "Items Per Page" [ref=e2980]:
+                    - button "60" [ref=e2981]:
+                      - generic [ref=e2982]:
+                        - generic [ref=e2983]: "60"
+                        - img
+      - generic [ref=e2985]:
+        - generic [ref=e2986]:
+          - heading "Related Searches" [level=2] [ref=e2987]
+          - group "Related Searches" [ref=e2990]:
+            - generic [ref=e2991]:
+              - button "Go to previous slide - Related Searches" [disabled] [ref=e2992]:
+                - img
+              - list [ref=e2994]:
+                - listitem [ref=e2995]:
+                  - link "mens wallet leather bifold" [ref=e2997] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_sacat=0&_from=R40&_nkw=mens+wallet+leather+bifold
+                    - generic [ref=e2998]: mens wallet leather bifold
+                - listitem [ref=e2999]:
+                  - link "mens leather wallet trifold" [ref=e3001] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_sacat=0&_from=R40&_nkw=mens+leather+wallet+trifold
+                    - generic [ref=e3002]: mens leather wallet trifold
+                - listitem [ref=e3003]:
+                  - link "mens wallet leather long" [ref=e3005] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_sacat=0&_from=R40&_nkw=mens+wallet+leather+long
+                    - generic [ref=e3006]: mens wallet leather long
+                - listitem [ref=e3007]:
+                  - link "mens wallet leather coach" [ref=e3009] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_sacat=0&_from=R40&_nkw=mens+wallet+leather+coach
+                    - generic [ref=e3010]: mens wallet leather coach
+                - listitem [ref=e3011]:
+                  - link [ref=e3013] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_sacat=0&_from=R40&_nkw=mens+genuine+leather+wallet
+                    - generic [ref=e3014]: mens genuine leather wallet
+                - listitem [ref=e3015]:
+                  - link [ref=e3017] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_sacat=0&_from=R40&_nkw=mens+wallet+leather+slim
+                    - generic [ref=e3018]: mens wallet leather slim
+                - listitem [ref=e3019]:
+                  - link [ref=e3021] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_sacat=0&_from=R40&_nkw=mens+wallet+leather+designer
+                    - generic [ref=e3022]: mens wallet leather designer
+                - listitem [ref=e3023]:
+                  - link [ref=e3025] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_sacat=0&_from=R40&_nkw=mens+vintage+wallet+leather
+                    - generic [ref=e3026]: mens vintage wallet leather
+                - listitem [ref=e3027]:
+                  - link [ref=e3029] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_sacat=0&_from=R40&_nkw=mens+wallet+real+leather
+                    - generic [ref=e3030]: mens wallet real leather
+                - listitem [ref=e3031]:
+                  - link [ref=e3033] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_sacat=0&_from=R40&_nkw=mens+wallet+bifold
+                    - generic [ref=e3034]: mens wallet bifold
+                - listitem [ref=e3035]:
+                  - link [ref=e3037] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_sacat=0&_from=R40&_nkw=mens+genuine+leather+trifold+wallet
+                    - generic [ref=e3038]: mens genuine leather trifold wallet
+                - listitem [ref=e3039]:
+                  - link [ref=e3041] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_sacat=0&_from=R40&_nkw=mens+leather+money+clip+wallet
+                    - generic [ref=e3042]: mens leather money clip wallet
+              - button "Go to next slide - Related Searches" [ref=e3043]:
+                - img
+        - img "Busy" [ref=e3046]:
+          - img
+      - img [ref=e3049]
+  - generic [ref=e3050]:
+    - contentinfo [ref=e3053]:
+      - list [ref=e3054]:
+        - listitem [ref=e3055]:
+          - link "About eBay" [ref=e3056] [cursor=pointer]:
+            - /url: https://www.ebayinc.com
+        - listitem [ref=e3057]:
+          - link "Announcements" [ref=e3058] [cursor=pointer]:
+            - /url: https://community.ebay.com/t5/Announcements/bg-p/Announcements
+        - listitem [ref=e3059]:
+          - link "Community" [ref=e3060] [cursor=pointer]:
+            - /url: https://community.ebay.com
+        - listitem [ref=e3061]:
+          - link "Security Center" [ref=e3062] [cursor=pointer]:
+            - /url: https://pages.ebay.com/securitycenter/index.html
+        - listitem [ref=e3063]:
+          - link "Seller Center" [ref=e3064] [cursor=pointer]:
+            - /url: https://www.ebay.com/sellercenter
+        - listitem [ref=e3065]:
+          - link "Policies" [ref=e3066] [cursor=pointer]:
+            - /url: https://www.ebay.com/help/policies/default/ebays-rules-policies?id=4205
+        - listitem [ref=e3067]:
+          - link "Affiliates" [ref=e3068] [cursor=pointer]:
+            - /url: https://partnernetwork.ebay.com/
+        - listitem [ref=e3069]:
+          - link "Product Safety Tips" [ref=e3070] [cursor=pointer]:
+            - /url: https://pages.ebay.com/safetytips
+        - listitem [ref=e3071]:
+          - link "Help & Contact" [ref=e3072] [cursor=pointer]:
+            - /url: https://www.ebay.com/help/home
+        - listitem [ref=e3073]:
+          - link "Site Map" [ref=e3074] [cursor=pointer]:
+            - /url: https://pages.ebay.com/sitemap.html
+      - generic [ref=e3075]:
+        - text: Copyright © 1995-2026 eBay Inc. All Rights Reserved.
+        - link "Accessibility" [ref=e3076] [cursor=pointer]:
+          - /url: https://www.ebayinc.com/accessibility/
+        - text: ","
+        - link "User Agreement" [ref=e3077] [cursor=pointer]:
+          - /url: https://www.ebay.com/help/policies/member-behaviour-policies/user-agreement?id=4259
+        - text: ","
+        - link "Privacy" [ref=e3078] [cursor=pointer]:
+          - /url: https://www.ebay.com/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260
+        - text: ","
+        - link "Consumer Health Data" [ref=e3079] [cursor=pointer]:
+          - /url: https://www.ebayinc.com/company/privacy-center/privacy-notice/consumer-health-data-privacy-policy/
+        - text: ","
+        - link "Payments Terms of Use" [ref=e3080] [cursor=pointer]:
+          - /url: https://pages.ebay.com/payment/2.0/terms.html
+        - text: ","
+        - link "Cookies" [ref=e3081] [cursor=pointer]:
+          - /url: https://www.ebay.com/help/policies/member-behaviour-policies/ebay-cookie-notice?id=4267
+        - text: ","
+        - link "CA Privacy Notice" [ref=e3082] [cursor=pointer]:
+          - /url: https://www.ebayinc.com/company/privacy-center/privacy-notice/state-privacy-disclosures/#california
+        - text: ","
+        - link "Your Privacy Choices" [ref=e3083] [cursor=pointer]:
+          - /url: https://www.ebay.com/adchoice/ccpa
+        - text: and
+        - link "AdChoice" [ref=e3084] [cursor=pointer]:
+          - /url: https://www.ebay.com/adchoice
+          - text: AdChoice
+          - img
+    - generic [ref=e3086]:
+      - link "*Learn about pricing" [ref=e3088] [cursor=pointer]:
+        - /url: https://pages.ebay.com/buy/popup/pricing.html
+      - generic [ref=e3089]: "This page was last updated: Feb-26 23:16. Number of bids and bid amounts may be slightly out of date. See each listing for international shipping options and costs."
+  - img [ref=e3090]
+  - img
+  - img [ref=e3091]
+```

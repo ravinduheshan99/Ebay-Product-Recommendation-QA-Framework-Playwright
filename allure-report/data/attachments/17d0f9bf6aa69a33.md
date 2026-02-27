@@ -1,0 +1,2728 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - img
+  - img
+  - img
+  - banner [ref=e4]:
+    - link "Skip to main content" [ref=e6] [cursor=pointer]:
+      - /url: "#mainContent"
+    - navigation [ref=e7]:
+      - generic [ref=e8]:
+        - generic [ref=e10]:
+          - text: Hi!
+          - link "Sign in" [ref=e11] [cursor=pointer]:
+            - /url: https://signin.ebay.com/ws/eBayISAPI.dll?SignIn&sgfl=gh&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D267%26_from%3DR40%26_trksid%3Dm570.l1313
+          - generic [ref=e12]:
+            - text: or
+            - link "register" [ref=e13] [cursor=pointer]:
+              - /url: https://signup.ebay.com/pa/crte?ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D267%26_from%3DR40%26_trksid%3Dm570.l1313
+        - link "Deals" [ref=e15] [cursor=pointer]:
+          - /url: https://www.ebay.com/deals
+        - link "Brand Outlet" [ref=e17] [cursor=pointer]:
+          - /url: https://www.ebay.com/b/Brand-Outlet/bn_7115532402
+        - link "Gift Cards" [ref=e19] [cursor=pointer]:
+          - /url: https://www.ebay.com/giftcards
+        - link "Help & Contact" [ref=e21] [cursor=pointer]:
+          - /url: https://www.ebay.com/help/home
+      - generic [ref=e22]:
+        - button "Ship to" [ref=e24] [cursor=pointer]:
+          - generic [ref=e25]: Ship to
+        - link "Sell" [ref=e27] [cursor=pointer]:
+          - /url: https://www.ebay.com/sl/sell
+        - generic [ref=e28]:
+          - link "Watchlist" [ref=e29] [cursor=pointer]:
+            - /url: https://www.ebay.com/mye/myebay/watchlist
+            - generic [ref=e30]: Watchlist
+            - img
+          - button "Expand Watch List" [ref=e31]
+        - generic [ref=e32]:
+          - link "My eBay" [ref=e33] [cursor=pointer]:
+            - /url: https://www.ebay.com/mys/home?source=GBH
+            - generic [ref=e34]: My eBay
+            - img
+          - button "Expand My eBay" [ref=e35]
+        - button "Notifications" [ref=e38] [cursor=pointer]:
+          - img
+          - generic [ref=e39]: Notifications
+        - generic [ref=e41]:
+          - link "Your shopping cart contains 0 items" [ref=e42] [cursor=pointer]:
+            - /url: https://cart.ebay.com
+            - generic "Your shopping cart contains 0 items" [ref=e43]:
+              - img
+          - button "Expand Cart" [ref=e44]
+    - generic [ref=e45]:
+      - generic [ref=e46]:
+        - link "eBay Home" [ref=e47] [cursor=pointer]:
+          - /url: https://www.ebay.com
+          - img "eBay Home" [ref=e48]
+        - button "Shop by category" [ref=e56] [cursor=pointer]:
+          - generic [ref=e57]: Shop by category
+          - img
+      - generic [ref=e58]:
+        - status [ref=e59]
+        - generic [ref=e61]:
+          - generic [ref=e62]:
+            - combobox "Search for anything" [ref=e63]: mens leather wallet
+            - img
+            - button "Camera icon" [ref=e64]:
+              - img
+          - combobox "Select a category for search" [ref=e65]:
+            - option "Books & Magazines" [selected]
+            - option "All Categories"
+            - option "Antiques"
+            - option "Art"
+            - option "Baby"
+            - option "Books & Magazines"
+            - option "Business & Industrial"
+            - option "Cameras & Photo"
+            - option "Cell Phones & Accessories"
+            - option "Clothing, Shoes & Accessories"
+            - option "Coins & Paper Money"
+            - option "Collectibles"
+            - option "Computers/Tablets & Networking"
+            - option "Consumer Electronics"
+            - option "Crafts"
+            - option "Dolls & Bears"
+            - option "Entertainment Memorabilia"
+            - option "Everything Else"
+            - option "Gift Cards & Coupons"
+            - option "Health & Beauty"
+            - option "Home & Garden"
+            - option "Jewelry & Watches"
+            - option "Movies & TV"
+            - option "Music"
+            - option "Musical Instruments & Gear"
+            - option "Pet Supplies"
+            - option "Pottery & Glass"
+            - option "Real Estate"
+            - option "Specialty Services"
+            - option "Sporting Goods"
+            - option "Sports Mem, Cards & Fan Shop"
+            - option "Stamps"
+            - option "Tickets & Experiences"
+            - option "Toys & Hobbies"
+            - option "Travel"
+            - option "Video Games & Consoles"
+        - generic [ref=e66]:
+          - button "Search" [ref=e67] [cursor=pointer]:
+            - generic [ref=e68]: Search
+          - link "Advanced" [ref=e69] [cursor=pointer]:
+            - /url: https://www.ebay.com/sch/ebayadvsearch?_nkw=mens+leather+wallet&_sacat=267&_from=R40&_trksid=m570.l1313
+  - generic [ref=e70]:
+    - generic [ref=e71]:
+      - generic [ref=e72]:
+        - text: "Related:"
+        - generic [ref=e73]:
+          - link "wallet men leather bifold" [ref=e74] [cursor=pointer]:
+            - /url: https://www.ebay.com/sch/i.html?_nkw=wallet+men+leather+bifold&_sacat=267&_sop=12
+          - link "wallet men leather genuine" [ref=e75] [cursor=pointer]:
+            - /url: https://www.ebay.com/sch/i.html?_nkw=wallet+men+leather+genuine&_sacat=267&_sop=12
+          - link "wallet men leather long" [ref=e76] [cursor=pointer]:
+            - /url: https://www.ebay.com/sch/i.html?_nkw=wallet+men+leather+long&_sacat=267&_sop=12
+          - link "wallet men leather used" [ref=e77] [cursor=pointer]:
+            - /url: https://www.ebay.com/sch/i.html?_nkw=wallet+men+leather+used&_sacat=267&_sop=12
+          - link "men leather wallet with zipper" [ref=e78] [cursor=pointer]:
+            - /url: https://www.ebay.com/sch/i.html?_nkw=men+leather+wallet+with+zipper&_sacat=267&_sop=12
+          - link "wallet men leather with chain" [ref=e79] [cursor=pointer]:
+            - /url: https://www.ebay.com/sch/i.html?_nkw=wallet+men+leather+with+chain&_sacat=267&_sop=12
+          - link "leather wallet men vintage" [ref=e80] [cursor=pointer]:
+            - /url: https://www.ebay.com/sch/i.html?_nkw=leather+wallet+men+vintage&_sacat=267&_sop=12
+          - link "slim leather wallet men" [ref=e81] [cursor=pointer]:
+            - /url: https://www.ebay.com/sch/i.html?_nkw=slim+leather+wallet+men&_sacat=267&_sop=12
+          - link "leather wallet men italy" [ref=e82] [cursor=pointer]:
+            - /url: https://www.ebay.com/sch/i.html?_nkw=leather+wallet+men+italy&_sacat=267&_sop=12
+          - link "leather wallet men trifold" [ref=e83] [cursor=pointer]:
+            - /url: https://www.ebay.com/sch/i.html?_nkw=leather+wallet+men+trifold&_sacat=267&_sop=12
+          - link "leather wallet men coach" [ref=e84] [cursor=pointer]:
+            - /url: https://www.ebay.com/sch/i.html?_nkw=leather+wallet+men+coach&_sacat=267&_sop=12
+          - link "carhartt leather wallet men" [ref=e85] [cursor=pointer]:
+            - /url: https://www.ebay.com/sch/i.html?_nkw=carhartt+leather+wallet+men&_sacat=267&_sop=12
+      - generic [ref=e87]:
+        - generic [ref=e88]:
+          - checkbox "Include description" [ref=e89]
+          - generic [ref=e90]:
+            - img
+        - text: Include description
+    - generic [ref=e92]:
+      - heading "Filter" [level=2] [ref=e93]
+      - list [ref=e94]:
+        - listitem [ref=e95]:
+          - list [ref=e96]:
+            - listitem [ref=e97]:
+              - heading "Category" [level=3] [ref=e98]:
+                - button "Category" [expanded] [ref=e99] [cursor=pointer]:
+                  - text: Category
+                  - generic [ref=e100]:
+                    - img
+              - list [ref=e102]:
+                - listitem [ref=e103]:
+                  - link "All" [ref=e104] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_from=R40&_oac=1
+                  - list [ref=e105]:
+                    - listitem [ref=e106]:
+                      - generic [ref=e107]:
+                        - generic [ref=e108]: Selected category
+                        - text: Books & Magazines
+                      - list [ref=e109]:
+                        - listitem [ref=e110]:
+                          - link "Accessories" [ref=e111] [cursor=pointer]:
+                            - /url: https://www.ebay.com/sch/45110/i.html?_nkw=mens+leather+wallet&_from=R40
+                        - listitem [ref=e112]:
+                          - link "Books" [ref=e113] [cursor=pointer]:
+                            - /url: https://www.ebay.com/sch/261186/i.html?_nkw=mens+leather+wallet&_from=R40
+                        - listitem [ref=e114]:
+                          - link "Magazines" [ref=e115] [cursor=pointer]:
+                            - /url: https://www.ebay.com/sch/280/i.html?_nkw=mens+leather+wallet&_from=R40
+                        - listitem [ref=e116]:
+                          - link "Textbooks, Education & Reference" [ref=e117] [cursor=pointer]:
+                            - /url: https://www.ebay.com/sch/184644/i.html?_nkw=mens+leather+wallet&_from=R40
+                    - listitem [ref=e118]:
+                      - link "Clothing, Shoes & Accessories" [ref=e119] [cursor=pointer]:
+                        - /url: https://www.ebay.com/sch/11450/i.html?_nkw=mens+leather+wallet&_from=R40
+                    - listitem [ref=e120]:
+                      - link "Cell Phones & Accessories" [ref=e121] [cursor=pointer]:
+                        - /url: https://www.ebay.com/sch/15032/i.html?_nkw=mens+leather+wallet&_from=R40
+                    - listitem [ref=e122]:
+                      - link "Sports Mem, Cards & Fan Shop" [ref=e123] [cursor=pointer]:
+                        - /url: https://www.ebay.com/sch/64482/i.html?_nkw=mens+leather+wallet&_from=R40
+                    - listitem [ref=e124]:
+                      - link "Computers/Tablets & Networking" [ref=e125] [cursor=pointer]:
+                        - /url: https://www.ebay.com/sch/58058/i.html?_nkw=mens+leather+wallet&_from=R40
+                    - listitem [ref=e126]:
+                      - link "Travel" [ref=e127] [cursor=pointer]:
+                        - /url: https://www.ebay.com/sch/3252/i.html?_nkw=mens+leather+wallet&_from=R40
+                    - listitem [ref=e128]:
+                      - button "Show more - All" [ref=e130] [cursor=pointer]:
+                        - generic [ref=e131]: Show More
+                        - generic [ref=e132]:
+                          - img
+            - listitem [ref=e133]:
+              - button "Update your location Shipping to Sri Lanka" [ref=e137] [cursor=pointer]:
+                - generic [ref=e138]: Update your location
+                - img
+                - text: Shipping to
+                - generic [ref=e139]: Sri Lanka
+            - listitem [ref=e140]:
+              - heading "Shipping and pickup" [level=3] [ref=e141]:
+                - button "Shipping and pickup" [expanded] [ref=e142] [cursor=pointer]:
+                  - text: Shipping and pickup
+                  - generic [ref=e143]:
+                    - img
+              - list [ref=e145]:
+                - listitem [ref=e146]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - checkbox
+                        - generic:
+                          - img
+                      - generic:
+                        - generic:
+                          - generic: Arrives in 2-4 days
+                - listitem [ref=e147]:
+                  - link "Free International Shipping" [ref=e149] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=267&_from=R40&rt=nc&LH_FS=1
+                    - generic [ref=e150]:
+                      - generic [ref=e151]:
+                        - checkbox [ref=e152]
+                        - generic [ref=e153]:
+                          - img
+                      - generic [ref=e156]: Free International Shipping
+                - listitem [ref=e159]:
+                  - generic [ref=e161] [cursor=pointer]:
+                    - generic [ref=e162]:
+                      - checkbox [ref=e163]
+                      - generic [ref=e164]:
+                        - img
+                    - button "Local Pickup" [ref=e165]:
+                      - generic [ref=e167]: Local Pickup
+            - listitem [ref=e168]:
+              - list [ref=e169]:
+                - listitem [ref=e170]:
+                  - heading "Format" [level=3] [ref=e171]:
+                    - button "Format" [ref=e172] [cursor=pointer]:
+                      - text: Format
+                      - generic [ref=e173]:
+                        - img
+            - listitem [ref=e174]:
+              - heading "Price" [level=3] [ref=e175]:
+                - button "Price" [expanded] [ref=e176] [cursor=pointer]:
+                  - text: Price
+                  - generic [ref=e177]:
+                    - img
+              - generic [ref=e179]:
+                - generic [ref=e180]:
+                  - generic [ref=e182]:
+                    - generic [ref=e183]:
+                      - generic [ref=e185]: $
+                      - generic [ref=e187]:
+                        - generic: Min
+                        - textbox "Minimum Value in $" [ref=e189]
+                    - generic [ref=e190]: to
+                    - generic [ref=e191]:
+                      - generic [ref=e193]: $
+                      - generic [ref=e195]:
+                        - generic: Max
+                        - textbox "Maximum Value in $" [ref=e197]
+                    - generic [ref=e198]:
+                      - button "Submit price range" [disabled]:
+                        - img
+                  - alert
+                - generic "Graph of available inventory between $0 and $1500+" [ref=e200]:
+                  - generic [ref=e201]: Available inventory
+                  - generic [ref=e202]:
+                    - 'img "Price Range ($): 0-50. Available Inventory: 15." [ref=e203]'
+                    - 'img "Price Range ($): 50-100. Available Inventory: 3." [ref=e204]'
+                    - 'img "Price Range ($): 100-150. Available Inventory: 0."'
+                    - 'img "Price Range ($): 150-200. Available Inventory: 0."'
+                    - 'img "Price Range ($): 200-250. Available Inventory: 0."'
+                    - 'img "Price Range ($): 250-300. Available Inventory: 0."'
+                    - 'img "Price Range ($): 300-400. Available Inventory: 0."'
+                    - 'img "Price Range ($): 400-500. Available Inventory: 0."'
+                    - 'img "Price Range ($): 500-600. Available Inventory: 0."'
+                    - 'img "Price Range ($): 600-700. Available Inventory: 0."'
+                    - 'img "Price Range ($): 700-800. Available Inventory: 0."'
+                    - 'img "Price Range ($): 800-900. Available Inventory: 0."'
+                    - 'img "Price Range ($): 900-1000. Available Inventory: 0."'
+                    - 'img "Price Range ($): 1000-1500. Available Inventory: 0."'
+                    - 'img "Price Range ($): 1500-null. Available Inventory: 0."'
+                  - generic [ref=e207]:
+                    - generic [ref=e208] [cursor=pointer]:
+                      - generic:
+                        - generic: $
+                        - generic: "0"
+                    - generic [ref=e209] [cursor=pointer]:
+                      - generic:
+                        - generic: $
+                        - generic: 1500+
+            - listitem [ref=e210]:
+              - heading "Condition" [level=3] [ref=e211]:
+                - button "Condition" [expanded] [ref=e212] [cursor=pointer]:
+                  - text: Condition
+                  - generic [ref=e213]:
+                    - img
+              - generic [ref=e214]:
+                - list [ref=e215]:
+                  - listitem [ref=e216]:
+                    - link "Brand New (16) Items" [ref=e218] [cursor=pointer]:
+                      - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=267&_from=R40&rt=nc&LH_ItemCondition=1000
+                      - generic [ref=e219]:
+                        - generic [ref=e220]:
+                          - checkbox [ref=e221]
+                          - generic [ref=e222]:
+                            - img
+                        - generic [ref=e224]:
+                          - generic [ref=e225]:
+                            - text: Brand New
+                            - generic [ref=e226]: (16) Items
+                          - generic [ref=e228]: (16)
+                  - listitem [ref=e229]:
+                    - link "Good (2) Items" [ref=e231] [cursor=pointer]:
+                      - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=267&_from=R40&rt=nc&LH_ItemCondition=5000
+                      - generic [ref=e232]:
+                        - generic [ref=e233]:
+                          - checkbox [ref=e234]
+                          - generic [ref=e235]:
+                            - img
+                        - generic [ref=e237]:
+                          - generic [ref=e238]:
+                            - text: Good
+                            - generic [ref=e239]: (2) Items
+                          - generic [ref=e241]: (2)
+                - button "see all - Condition - opens dialog" [ref=e244] [cursor=pointer]:
+                  - generic [ref=e245]: see all
+            - listitem [ref=e246]:
+              - heading "Buying Format" [level=3] [ref=e247]:
+                - button "Buying Format" [expanded] [ref=e248] [cursor=pointer]:
+                  - text: Buying Format
+                  - generic [ref=e249]:
+                    - img
+              - list [ref=e251]:
+                - listitem [ref=e252]:
+                  - link "All Listings (18) Items Filter Applied" [ref=e254] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=267&_from=R40&rt=nc
+                    - generic [ref=e255]:
+                      - generic [ref=e256]:
+                        - generic [ref=e257]:
+                          - radio [checked] [ref=e258]
+                          - generic [ref=e259]:
+                            - img
+                        - generic [ref=e260]:
+                          - text: All Listings
+                          - generic "(18) Items" [ref=e261]: (18)
+                      - generic [ref=e262]: Filter Applied
+                - listitem [ref=e263]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - radio [disabled]
+                          - generic:
+                            - img
+                        - generic: Auction
+                - listitem [ref=e264]:
+                  - link "Buy It Now (18) Items" [ref=e266] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=267&_from=R40&rt=nc&LH_BIN=1
+                    - generic [ref=e268]:
+                      - generic [ref=e269]:
+                        - radio [ref=e270]
+                        - generic [ref=e271]:
+                          - img
+                      - generic [ref=e272]:
+                        - text: Buy It Now
+                        - generic "(18) Items" [ref=e273]: (18)
+                - listitem [ref=e274]:
+                  - link "Accepts Offers (2) Items" [ref=e276] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=267&_from=R40&rt=nc&LH_BO=1
+                    - generic [ref=e278]:
+                      - generic [ref=e279]:
+                        - radio [ref=e280]
+                        - generic [ref=e281]:
+                          - img
+                      - generic [ref=e282]:
+                        - text: Accepts Offers
+                        - generic "(2) Items" [ref=e283]: (2)
+            - listitem [ref=e284]:
+              - heading "Item Location" [level=3] [ref=e285]:
+                - button "Item Location" [expanded] [ref=e286] [cursor=pointer]:
+                  - text: Item Location
+                  - generic [ref=e287]:
+                    - img
+              - list [ref=e289]:
+                - listitem [ref=e290]:
+                  - link "Default Filter Applied" [ref=e292] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=267&_from=R40&rt=nc&LH_PrefLoc=98
+                    - generic [ref=e293]:
+                      - generic [ref=e294]:
+                        - generic [ref=e295]:
+                          - radio [checked] [ref=e296]
+                          - generic [ref=e297]:
+                            - img
+                        - generic [ref=e298]: Default
+                      - generic [ref=e299]: Filter Applied
+                - listitem [ref=e300]:
+                  - link "US Only" [ref=e302] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=267&_from=R40&rt=nc&LH_PrefLoc=3
+                    - generic [ref=e304]:
+                      - generic [ref=e305]:
+                        - radio [ref=e306]
+                        - generic [ref=e307]:
+                          - img
+                      - generic [ref=e308]: US Only
+                - listitem [ref=e309]:
+                  - link "North America" [ref=e311] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=267&_from=R40&rt=nc&LH_PrefLoc=4
+                    - generic [ref=e313]:
+                      - generic [ref=e314]:
+                        - radio [ref=e315]
+                        - generic [ref=e316]:
+                          - img
+                      - generic [ref=e317]: North America
+                - listitem [ref=e318]:
+                  - link "Europe" [ref=e320] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=267&_from=R40&rt=nc&LH_PrefLoc=5
+                    - generic [ref=e322]:
+                      - generic [ref=e323]:
+                        - radio [ref=e324]
+                        - generic [ref=e325]:
+                          - img
+                      - generic [ref=e326]: Europe
+                - listitem [ref=e327]:
+                  - link "Asia" [ref=e329] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=267&_from=R40&rt=nc&LH_PrefLoc=6
+                    - generic [ref=e331]:
+                      - generic [ref=e332]:
+                        - radio [ref=e333]
+                        - generic [ref=e334]:
+                          - img
+                      - generic [ref=e335]: Asia
+            - listitem [ref=e336]:
+              - heading "Show only" [level=3] [ref=e337]:
+                - button "Show only" [expanded] [ref=e338] [cursor=pointer]:
+                  - text: Show only
+                  - generic [ref=e339]:
+                    - img
+              - generic [ref=e340]:
+                - list [ref=e341]:
+                  - listitem [ref=e342]:
+                    - link "Free Returns" [ref=e344] [cursor=pointer]:
+                      - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=267&_from=R40&rt=nc&LH_FR=1
+                      - generic [ref=e345]:
+                        - generic [ref=e346]:
+                          - checkbox [ref=e347]
+                          - generic [ref=e348]:
+                            - img
+                        - generic [ref=e351]: Free Returns
+                  - listitem [ref=e354]:
+                    - link "Returns Accepted" [ref=e356] [cursor=pointer]:
+                      - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=267&_from=R40&rt=nc&LH_RPA=1
+                      - generic [ref=e357]:
+                        - generic [ref=e358]:
+                          - checkbox [ref=e359]
+                          - generic [ref=e360]:
+                            - img
+                        - generic [ref=e363]: Returns Accepted
+                  - listitem [ref=e366]:
+                    - link "Authorized Seller" [ref=e368] [cursor=pointer]:
+                      - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=267&_from=R40&rt=nc&LH_AS=1
+                      - generic [ref=e369]:
+                        - generic [ref=e370]:
+                          - checkbox [ref=e371]
+                          - generic [ref=e372]:
+                            - img
+                        - generic [ref=e375]: Authorized Seller
+                  - listitem [ref=e378]:
+                    - link "Completed Items" [ref=e380] [cursor=pointer]:
+                      - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=267&_from=R40&rt=nc&LH_Complete=1
+                      - generic [ref=e381]:
+                        - generic [ref=e382]:
+                          - checkbox [ref=e383]
+                          - generic [ref=e384]:
+                            - img
+                        - generic [ref=e387]: Completed Items
+                  - listitem [ref=e390]:
+                    - link "Sold Items" [ref=e392] [cursor=pointer]:
+                      - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=267&_from=R40&rt=nc&LH_Sold=1
+                      - generic [ref=e393]:
+                        - generic [ref=e394]:
+                          - checkbox [ref=e395]
+                          - generic [ref=e396]:
+                            - img
+                        - generic [ref=e399]: Sold Items
+                  - listitem [ref=e402]:
+                    - link "Deals & Savings" [ref=e404] [cursor=pointer]:
+                      - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=267&_from=R40&rt=nc&LH_Savings=1
+                      - generic [ref=e405]:
+                        - generic [ref=e406]:
+                          - checkbox [ref=e407]
+                          - generic [ref=e408]:
+                            - img
+                        - generic [ref=e411]: Deals & Savings
+                - button "see all - Show only - opens dialog" [ref=e416] [cursor=pointer]:
+                  - generic [ref=e417]: see all
+        - listitem [ref=e418]:
+          - button "More filters..." [ref=e420] [cursor=pointer]:
+            - generic [ref=e421]: More filters...
+    - main [ref=e422]:
+      - generic [ref=e423]:
+        - generic [ref=e429]:
+          - link [ref=e430] [cursor=pointer]:
+            - /url: https://www.ebay.com/str/thetraveloutlet?_sacat=52357&promoted_items=356471628781%2C358093933602%2C358004719978&itmprp=encpd%3AAQALAAADACocP1LwhS3z6yOnLN6tY4mg1Tu7Aw%2BX%2BW%2BNK8xD4RB4kYt%2Bq%2Bw%2FZDQIGQjk3mIdZqeoswZlR1tR8XZBFF0zVYuIMYRkN0rtB1xkpzKbTGS%2FJ2fMVj%2F5nWdFerb8lDePS%2BdFgdDjqwSyEQuDgrXDMyUCAkjYdHYMwU4MsidGj3y6HcK%2Boaem9%2Fdn6Br652bJVdqvqw%2B7%2FcWNDpgYrguBp8g%2FA7lkNrEu4svzmXpba10PL05SNifVngNJBNOHP7fXupJ6veNPl%2Br08%2BBGbEkX0jYkZaaheU1ePPpNZR6H%2BCr5uy1ZgoIxLtgFq%2BKkKRj6kG6jhz7chX1vl8KhSxr7N4c%2FPSrpPIiq%2FFS5zh9zWwEk6F4soElloINBtZUs8sfrwkFnOC4ysdl6JOCn749LeluQ0LXIV%2Fi6qJgyjXvwIfWZQYj5LvvlgFCAH8B776uEPuU%2BM51E1W0bK3RsO7a52tDV1STumW%2FCI49UIFNQzM%2BSeNS96ZBG272U00kPR0E5gKmQCfbnSPwPqp9JlLxcEsusMT73bSXN2Ss2A4qOwZmr8ZGK3WIEt9suq%2BUcqe%2FdBvT7NxLc46oogiJy8i56IIq3wYyhkDOE4fs4cWZzXk5NbRpFLfe3Y%2F4kWdemOTnIbAfIbfBnBQrJiJcmmU4awCm3ECg7ac72NRPBtUmzm7thPzYhDORJqjhTZKFCfF9YpZPFoYs9v4uxGE8iyua4WiAbnKtAFYAaMmjUL1aBfmi2D63NXxhCYVbUFMsgCpUxe3eJR%2ByWccaqLuWled6vp5N%2BndC5ti0CruR22tJyDsESLlZkIZ1Edx2NMGZBPSkqgG%2Fe5kv0uNxrhVWVHjzHeBH9w765%2BLIbu4S%2Fp5yaJ6QcUSpbX9hQTFbjU7h47ufSqirehqQuE5k7KXfP7o%2Fpnh87qou4iYaz%2F9g7Xcnvp%2F4fQX3KMjbXeONTpZ%2BOMgXrufxT7KyQSkDcQm%2FsnJf9Z1eMMjMv4MmR086l7WX8qvW9s7im%2FJIWnf1I%2Fugth01NwQ%3D%3D&itmmeta=wwHmKhYwY%2Fjx0DQwMUtKRVZSVkZRMUJIM1lBRTJUMkc0UzNIRDQwMUtKRVZSVjdEU1ZWOVNLUjY3VlJaSkIzRbagDA%3D%3D
+          - generic [ref=e431]:
+            - link "Luggage Online Outlet" [ref=e434] [cursor=pointer]:
+              - /url: https://www.ebay.com/str/thetraveloutlet?_sacat=52357&promoted_items=356471628781%2C358093933602%2C358004719978&itmprp=encpd%3AAQALAAADACocP1LwhS3z6yOnLN6tY4mg1Tu7Aw%2BX%2BW%2BNK8xD4RB4kYt%2Bq%2Bw%2FZDQIGQjk3mIdZqeoswZlR1tR8XZBFF0zVYuIMYRkN0rtB1xkpzKbTGS%2FJ2fMVj%2F5nWdFerb8lDePS%2BdFgdDjqwSyEQuDgrXDMyUCAkjYdHYMwU4MsidGj3y6HcK%2Boaem9%2Fdn6Br652bJVdqvqw%2B7%2FcWNDpgYrguBp8g%2FA7lkNrEu4svzmXpba10PL05SNifVngNJBNOHP7fXupJ6veNPl%2Br08%2BBGbEkX0jYkZaaheU1ePPpNZR6H%2BCr5uy1ZgoIxLtgFq%2BKkKRj6kG6jhz7chX1vl8KhSxr7N4c%2FPSrpPIiq%2FFS5zh9zWwEk6F4soElloINBtZUs8sfrwkFnOC4ysdl6JOCn749LeluQ0LXIV%2Fi6qJgyjXvwIfWZQYj5LvvlgFCAH8B776uEPuU%2BM51E1W0bK3RsO7a52tDV1STumW%2FCI49UIFNQzM%2BSeNS96ZBG272U00kPR0E5gKmQCfbnSPwPqp9JlLxcEsusMT73bSXN2Ss2A4qOwZmr8ZGK3WIEt9suq%2BUcqe%2FdBvT7NxLc46oogiJy8i56IIq3wYyhkDOE4fs4cWZzXk5NbRpFLfe3Y%2F4kWdemOTnIbAfIbfBnBQrJiJcmmU4awCm3ECg7ac72NRPBtUmzm7thPzYhDORJqjhTZKFCfF9YpZPFoYs9v4uxGE8iyua4WiAbnKtAFYAaMmjUL1aBfmi2D63NXxhCYVbUFMsgCpUxe3eJR%2ByWccaqLuWled6vp5N%2BndC5ti0CruR22tJyDsESLlZkIZ1Edx2NMGZBPSkqgG%2Fe5kv0uNxrhVWVHjzHeBH9w765%2BLIbu4S%2Fp5yaJ6QcUSpbX9hQTFbjU7h47ufSqirehqQuE5k7KXfP7o%2Fpnh87qou4iYaz%2F9g7Xcnvp%2F4fQX3KMjbXeONTpZ%2BOMgXrufxT7KyQSkDcQm%2FsnJf9Z1eMMjMv4MmR086l7WX8qvW9s7im%2FJIWnf1I%2Fugth01NwQ%3D%3D&itmmeta=wwHmKhYwY%2Fjx0DQwMUtKRVZSVkZRMUJIM1lBRTJUMkc0UzNIRDQwMUtKRVZSVjdEU1ZWOVNLUjY3VlJaSkIzRbagDA%3D%3D
+              - img "Luggage Online Outlet" [ref=e435]
+            - generic [ref=e436]:
+              - link "Luggage Online Outlet" [ref=e439] [cursor=pointer]:
+                - /url: https://www.ebay.com/str/thetraveloutlet?_sacat=52357&promoted_items=356471628781%2C358093933602%2C358004719978&itmprp=encpd%3AAQALAAADACocP1LwhS3z6yOnLN6tY4mg1Tu7Aw%2BX%2BW%2BNK8xD4RB4kYt%2Bq%2Bw%2FZDQIGQjk3mIdZqeoswZlR1tR8XZBFF0zVYuIMYRkN0rtB1xkpzKbTGS%2FJ2fMVj%2F5nWdFerb8lDePS%2BdFgdDjqwSyEQuDgrXDMyUCAkjYdHYMwU4MsidGj3y6HcK%2Boaem9%2Fdn6Br652bJVdqvqw%2B7%2FcWNDpgYrguBp8g%2FA7lkNrEu4svzmXpba10PL05SNifVngNJBNOHP7fXupJ6veNPl%2Br08%2BBGbEkX0jYkZaaheU1ePPpNZR6H%2BCr5uy1ZgoIxLtgFq%2BKkKRj6kG6jhz7chX1vl8KhSxr7N4c%2FPSrpPIiq%2FFS5zh9zWwEk6F4soElloINBtZUs8sfrwkFnOC4ysdl6JOCn749LeluQ0LXIV%2Fi6qJgyjXvwIfWZQYj5LvvlgFCAH8B776uEPuU%2BM51E1W0bK3RsO7a52tDV1STumW%2FCI49UIFNQzM%2BSeNS96ZBG272U00kPR0E5gKmQCfbnSPwPqp9JlLxcEsusMT73bSXN2Ss2A4qOwZmr8ZGK3WIEt9suq%2BUcqe%2FdBvT7NxLc46oogiJy8i56IIq3wYyhkDOE4fs4cWZzXk5NbRpFLfe3Y%2F4kWdemOTnIbAfIbfBnBQrJiJcmmU4awCm3ECg7ac72NRPBtUmzm7thPzYhDORJqjhTZKFCfF9YpZPFoYs9v4uxGE8iyua4WiAbnKtAFYAaMmjUL1aBfmi2D63NXxhCYVbUFMsgCpUxe3eJR%2ByWccaqLuWled6vp5N%2BndC5ti0CruR22tJyDsESLlZkIZ1Edx2NMGZBPSkqgG%2Fe5kv0uNxrhVWVHjzHeBH9w765%2BLIbu4S%2Fp5yaJ6QcUSpbX9hQTFbjU7h47ufSqirehqQuE5k7KXfP7o%2Fpnh87qou4iYaz%2F9g7Xcnvp%2F4fQX3KMjbXeONTpZ%2BOMgXrufxT7KyQSkDcQm%2FsnJf9Z1eMMjMv4MmR086l7WX8qvW9s7im%2FJIWnf1I%2Fugth01NwQ%3D%3D&itmmeta=wwHmKhYwY%2Fjx0DQwMUtKRVZSVkZRMUJIM1lBRTJUMkc0UzNIRDQwMUtKRVZSVjdEU1ZWOVNLUjY3VlJaSkIzRbagDA%3D%3D
+              - link "12K items sold" [ref=e442] [cursor=pointer]:
+                - /url: https://www.ebay.com/str/thetraveloutlet?_sacat=52357&promoted_items=356471628781%2C358093933602%2C358004719978&itmprp=encpd%3AAQALAAADACocP1LwhS3z6yOnLN6tY4mg1Tu7Aw%2BX%2BW%2BNK8xD4RB4kYt%2Bq%2Bw%2FZDQIGQjk3mIdZqeoswZlR1tR8XZBFF0zVYuIMYRkN0rtB1xkpzKbTGS%2FJ2fMVj%2F5nWdFerb8lDePS%2BdFgdDjqwSyEQuDgrXDMyUCAkjYdHYMwU4MsidGj3y6HcK%2Boaem9%2Fdn6Br652bJVdqvqw%2B7%2FcWNDpgYrguBp8g%2FA7lkNrEu4svzmXpba10PL05SNifVngNJBNOHP7fXupJ6veNPl%2Br08%2BBGbEkX0jYkZaaheU1ePPpNZR6H%2BCr5uy1ZgoIxLtgFq%2BKkKRj6kG6jhz7chX1vl8KhSxr7N4c%2FPSrpPIiq%2FFS5zh9zWwEk6F4soElloINBtZUs8sfrwkFnOC4ysdl6JOCn749LeluQ0LXIV%2Fi6qJgyjXvwIfWZQYj5LvvlgFCAH8B776uEPuU%2BM51E1W0bK3RsO7a52tDV1STumW%2FCI49UIFNQzM%2BSeNS96ZBG272U00kPR0E5gKmQCfbnSPwPqp9JlLxcEsusMT73bSXN2Ss2A4qOwZmr8ZGK3WIEt9suq%2BUcqe%2FdBvT7NxLc46oogiJy8i56IIq3wYyhkDOE4fs4cWZzXk5NbRpFLfe3Y%2F4kWdemOTnIbAfIbfBnBQrJiJcmmU4awCm3ECg7ac72NRPBtUmzm7thPzYhDORJqjhTZKFCfF9YpZPFoYs9v4uxGE8iyua4WiAbnKtAFYAaMmjUL1aBfmi2D63NXxhCYVbUFMsgCpUxe3eJR%2ByWccaqLuWled6vp5N%2BndC5ti0CruR22tJyDsESLlZkIZ1Edx2NMGZBPSkqgG%2Fe5kv0uNxrhVWVHjzHeBH9w765%2BLIbu4S%2Fp5yaJ6QcUSpbX9hQTFbjU7h47ufSqirehqQuE5k7KXfP7o%2Fpnh87qou4iYaz%2F9g7Xcnvp%2F4fQX3KMjbXeONTpZ%2BOMgXrufxT7KyQSkDcQm%2FsnJf9Z1eMMjMv4MmR086l7WX8qvW9s7im%2FJIWnf1I%2Fugth01NwQ%3D%3D&itmmeta=wwHmKhYwY%2Fjx0DQwMUtKRVZSVkZRMUJIM1lBRTJUMkc0UzNIRDQwMUtKRVZSVjdEU1ZWOVNLUjY3VlJaSkIzRbagDA%3D%3D
+                - generic [ref=e444]: 12K items sold
+              - link "Shop store on eBay" [ref=e447] [cursor=pointer]:
+                - /url: https://www.ebay.com/str/thetraveloutlet?_sacat=52357&promoted_items=356471628781%2C358093933602%2C358004719978&itmprp=encpd%3AAQALAAADACocP1LwhS3z6yOnLN6tY4mg1Tu7Aw%2BX%2BW%2BNK8xD4RB4kYt%2Bq%2Bw%2FZDQIGQjk3mIdZqeoswZlR1tR8XZBFF0zVYuIMYRkN0rtB1xkpzKbTGS%2FJ2fMVj%2F5nWdFerb8lDePS%2BdFgdDjqwSyEQuDgrXDMyUCAkjYdHYMwU4MsidGj3y6HcK%2Boaem9%2Fdn6Br652bJVdqvqw%2B7%2FcWNDpgYrguBp8g%2FA7lkNrEu4svzmXpba10PL05SNifVngNJBNOHP7fXupJ6veNPl%2Br08%2BBGbEkX0jYkZaaheU1ePPpNZR6H%2BCr5uy1ZgoIxLtgFq%2BKkKRj6kG6jhz7chX1vl8KhSxr7N4c%2FPSrpPIiq%2FFS5zh9zWwEk6F4soElloINBtZUs8sfrwkFnOC4ysdl6JOCn749LeluQ0LXIV%2Fi6qJgyjXvwIfWZQYj5LvvlgFCAH8B776uEPuU%2BM51E1W0bK3RsO7a52tDV1STumW%2FCI49UIFNQzM%2BSeNS96ZBG272U00kPR0E5gKmQCfbnSPwPqp9JlLxcEsusMT73bSXN2Ss2A4qOwZmr8ZGK3WIEt9suq%2BUcqe%2FdBvT7NxLc46oogiJy8i56IIq3wYyhkDOE4fs4cWZzXk5NbRpFLfe3Y%2F4kWdemOTnIbAfIbfBnBQrJiJcmmU4awCm3ECg7ac72NRPBtUmzm7thPzYhDORJqjhTZKFCfF9YpZPFoYs9v4uxGE8iyua4WiAbnKtAFYAaMmjUL1aBfmi2D63NXxhCYVbUFMsgCpUxe3eJR%2ByWccaqLuWled6vp5N%2BndC5ti0CruR22tJyDsESLlZkIZ1Edx2NMGZBPSkqgG%2Fe5kv0uNxrhVWVHjzHeBH9w765%2BLIbu4S%2Fp5yaJ6QcUSpbX9hQTFbjU7h47ufSqirehqQuE5k7KXfP7o%2Fpnh87qou4iYaz%2F9g7Xcnvp%2F4fQX3KMjbXeONTpZ%2BOMgXrufxT7KyQSkDcQm%2FsnJf9Z1eMMjMv4MmR086l7WX8qvW9s7im%2FJIWnf1I%2Fugth01NwQ%3D%3D&itmmeta=wwHmKhYwY%2Fjx0DQwMUtKRVZSVkZRMUJIM1lBRTJUMkc0UzNIRDQwMUtKRVZSVjdEU1ZWOVNLUjY3VlJaSkIzRbagDA%3D%3D
+                - text: Shop store on eBay
+                - img
+              - generic [ref=e457]: Sponsored
+          - generic [ref=e458]:
+            - link "Osgoode Marley Espresso Men's Wallet U1" [ref=e461] [cursor=pointer]:
+              - /url: https://www.ebay.com/itm/356471628781?itmprp=encpd%3AAQALAAADACocP1LwhS3z6yOnLN6tY4mg1Tu7Aw%2BX%2BW%2BNK8xD4RB4kYt%2Bq%2Bw%2FZDQIGQjk3mIdZqeoswZlR1tR8XZBFF0zVYuIMYRkN0rtB1xkpzKbTGS%2FJ2fMVj%2F5nWdFerb8lDePS%2BdFgdDjqwSyEQuDgrXDMyUCAkjYdHYMwU4MsidGj3y6HcK%2Boaem9%2Fdn6Br652bJVdqvqw%2B7%2FcWNDpgYrguBp8g%2FA7lkNrEu4svzmXpba10PL05SNifVngNJBNOHP7fXupJ6veNPl%2Br08%2BBGbEkX0jYkZaaheU1ePPpNZR6H%2BCr5uy1ZgoIxLtgFq%2BKkKRj6kG6jhz7chX1vl8KhSxr7N4c%2FPSrpPIiq%2FFS5zh9zWwEk6F4soElloINBtZUs8sfrwkFnOC4ysdl6JOCn749LeluQ0LXIV%2Fi6qJgyjXvwIfWZQYj5LvvlgFCAH8B776uEPuU%2BM51E1W0bK3RsO7a52tDV1STumW%2FCI49UIFNQzM%2BSeNS96ZBG272U00kPR0E5gKmQCfbnSPwPqp9JlLxcEsusMT73bSXN2Ss2A4qOwZmr8ZGK3WIEt9suq%2BUcqe%2FdBvT7NxLc46oogiJy8i56IIq3wYyhkDOE4fs4cWZzXk5NbRpFLfe3Y%2F4kWdemOTnIbAfIbfBnBQrJiJcmmU4awCm3ECg7ac72NRPBtUmzm7thPzYhDORJqjhTZKFCfF9YpZPFoYs9v4uxGE8iyua4WiAbnKtAFYAaMmjUL1aBfmi2D63NXxhCYVbUFMsgCpUxe3eJR%2ByWccaqLuWled6vp5N%2BndC5ti0CruR22tJyDsESLlZkIZ1Edx2NMGZBPSkqgG%2Fe5kv0uNxrhVWVHjzHeBH9w765%2BLIbu4S%2Fp5yaJ6QcUSpbX9hQTFbjU7h47ufSqk%2FDZ26WbavrablBUgjsVBtRAkjRfVrJFSjXqiyUhvQ1adQgcNAzNPnt1vliWn20%2BV%2FxksSRVhBc7OLOQIBBCxYPg%2FgtcU7hSbEpIWLannAg5dsbTukihjEYbWTk9DR5LQ%3D%3D&itmmeta=wwHmKhYwY%2Fjx0DQwMUtKRVZSVkZRMUJIM1lBRTJUMkc0UzNIRDQwMUtKRVZSVjdEU1ZWOVNLUjY3VlJaSkIzRbagDA%3D%3D
+              - img "Osgoode Marley Espresso Men's Wallet U1" [ref=e462]
+            - link "Bosca Men's Old Leather New Fashioned Collection-Small Bifold Wallet U1" [ref=e465] [cursor=pointer]:
+              - /url: https://www.ebay.com/itm/358093933602?itmprp=encpd%3AAQALAAADACocP1LwhS3z6yOnLN6tY4mg1Tu7Aw%2BX%2BW%2BNK8xD4RB4kYt%2Bq%2Bw%2FZDQIGQjk3mIdZqeoswZlR1tR8XZBFF0zVYuIMYRkN0rtB1xkpzKbTGS%2FJ2fMVj%2F5nWdFerb8lDePS%2BdFgdDjqwSyEQuDgrXDMyUCAkjYdHYMwU4MsidGj3y6HcK%2Boaem9%2Fdn6Br652bJVdqvqw%2B7%2FcWNDpgYrguBp8g%2FA7lkNrEu4svzmXpba10PL05SNifVngNJBNOHP7fXupJ6veNPl%2Br08%2BBGbEkX0jYkZaaheU1ePPpNZR6H%2BCr5uy1ZgoIxLtgFq%2BKkKRj6kG6jhz7chX1vl8KhSxr7N4c%2FPSrpPIiq%2FFS5zh9zWwEk6F4soElloINBtZUs8sfrwkFnOC4ysdl6JOCn749LeluQ0LXIV%2Fi6qJgyjXvwIfWZQYj5LvvlgFCAH8B776uEPuU%2BM51E1W0bK3RsO7a52tDV1STumW%2FCI49UIFNQzM%2BSeNS96ZBG272U00kPR0E5gKmQCfbnSPwPqp9JlLxcEsusMT73bSXN2Ss2A4qOwZmr8ZGK3WIEt9suq%2BUcqe%2FdBvT7NxLc46oogiJy8i56IIq3wYyhkDOE4fs4cWZzXk5NbRpFLfe3Y%2F4kWdemOTnIbAfIbfBnBQrJiJcmmU4awCm3ECg7ac72NRPBtUmzm7thPzYhDORJqjhTZKFCfF9YpZPFoYs9v4uxGE8iyua4WiAbnKtAFYAaMmjUL1aBfmi2D63NXxhCYVbUFMsgCpUxe3eJR%2ByWccaqLuWled6vp5N%2BndC5ti0CruR22tJyDsESLlZkIZ1Edx2NMGZBPSkqgG%2Fe5kv0uNxrhVWVHjzHeBH9w765%2BLIbu4S%2Fp5yaJ6QcUSpbX9hQTFbjU7h47ufSqk%2FDZ26WbavrablBUgjsVBtRAkjRfVrJFSjXqiyUhvQ1adQgcNAzNPnt1vliWn20%2BV%2FxksSRVhBc7OLOQIBBCxYPg%2FgtcU7hSbEpIWLannAg5dsbTukihjEYbWTk9DR5LQ%3D%3D&itmmeta=wwHmKhYwY%2Fjx0DQwMUtKRVZSVkZRMUJIM1lBRTJUMkc0UzNIRDQwMUtKRVZSVjdEU1ZWOVNLUjY3VlJaSkIzRbagDA%3D%3D
+              - img "Bosca Men's Old Leather New Fashioned Collection-Small Bifold Wallet U1" [ref=e466]
+            - link "Bosca Men's Wallet, Old Leather Full Gusset 2-Pocket Card Case I.D. Window U3" [ref=e469] [cursor=pointer]:
+              - /url: https://www.ebay.com/itm/358004719978?itmprp=encpd%3AAQALAAADACocP1LwhS3z6yOnLN6tY4mg1Tu7Aw%2BX%2BW%2BNK8xD4RB4kYt%2Bq%2Bw%2FZDQIGQjk3mIdZqeoswZlR1tR8XZBFF0zVYuIMYRkN0rtB1xkpzKbTGS%2FJ2fMVj%2F5nWdFerb8lDePS%2BdFgdDjqwSyEQuDgrXDMyUCAkjYdHYMwU4MsidGj3y6HcK%2Boaem9%2Fdn6Br652bJVdqvqw%2B7%2FcWNDpgYrguBp8g%2FA7lkNrEu4svzmXpba10PL05SNifVngNJBNOHP7fXupJ6veNPl%2Br08%2BBGbEkX0jYkZaaheU1ePPpNZR6H%2BCr5uy1ZgoIxLtgFq%2BKkKRj6kG6jhz7chX1vl8KhSxr7N4c%2FPSrpPIiq%2FFS5zh9zWwEk6F4soElloINBtZUs8sfrwkFnOC4ysdl6JOCn749LeluQ0LXIV%2Fi6qJgyjXvwIfWZQYj5LvvlgFCAH8B776uEPuU%2BM51E1W0bK3RsO7a52tDV1STumW%2FCI49UIFNQzM%2BSeNS96ZBG272U00kPR0E5gKmQCfbnSPwPqp9JlLxcEsusMT73bSXN2Ss2A4qOwZmr8ZGK3WIEt9suq%2BUcqe%2FdBvT7NxLc46oogiJy8i56IIq3wYyhkDOE4fs4cWZzXk5NbRpFLfe3Y%2F4kWdemOTnIbAfIbfBnBQrJiJcmmU4awCm3ECg7ac72NRPBtUmzm7thPzYhDORJqjhTZKFCfF9YpZPFoYs9v4uxGE8iyua4WiAbnKtAFYAaMmjUL1aBfmi2D63NXxhCYVbUFMsgCpUxe3eJR%2ByWccaqLuWled6vp5N%2BndC5ti0CruR22tJyDsESLlZkIZ1Edx2NMGZBPSkqgG%2Fe5kv0uNxrhVWVHjzHeBH9w765%2BLIbu4S%2Fp5yaJ6QcUSpbX9hQTFbjU7h47ufSqk%2FDZ26WbavrablBUgjsVBtRAkjRfVrJFSjXqiyUhvQ1adQgcNAzNPnt1vliWn20%2BV%2FxksSRVhBc7OLOQIBBCxYPg%2FgtcU7hSbEpIWLannAg5dsbTukihjEYbWTk9DR5LQ%3D%3D&itmmeta=wwHmKhYwY%2Fjx0DQwMUtKRVZSVkZRMUJIM1lBRTJUMkc0UzNIRDQwMUtKRVZSVjdEU1ZWOVNLUjY3VlJaSkIzRbagDA%3D%3D
+              - img "Bosca Men's Wallet, Old Leather Full Gusset 2-Pocket Card Case I.D. Window U3" [ref=e470]
+        - generic [ref=e471]:
+          - generic [ref=e473]:
+            - heading "12 results for mens leather wallet" [level=1] [ref=e475]
+            - button "Save this search mens leather wallet search" [ref=e485] [cursor=pointer]:
+              - generic [ref=e486]:
+                - img
+              - text: Save this search
+          - generic [ref=e487]:
+            - generic [ref=e488]:
+              - list [ref=e491]:
+                - listitem [ref=e492]:
+                  - link "All selected" [ref=e493] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=267&_from=R40&rt=nc&LH_All=1
+                    - generic "All selected" [ref=e494]: All
+                - listitem [ref=e495]:
+                  - generic [ref=e496]: Auction
+                - listitem [ref=e497]:
+                  - link "Buy It Now" [ref=e498] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_nkw=mens+leather+wallet&_sacat=267&_from=R40&rt=nc&LH_BIN=1
+                    - generic [ref=e499]: Buy It Now
+              - generic [ref=e500]:
+                - button "Condition" [ref=e502]:
+                  - generic [ref=e503]:
+                    - generic [ref=e504]: Condition
+                    - img
+                - button "Item Location" [ref=e506]:
+                  - generic [ref=e507]:
+                    - generic [ref=e508]: Item Location
+                    - img
+            - generic [ref=e509]:
+              - button "Sort" [ref=e513]:
+                - generic [ref=e514]:
+                  - generic [ref=e515]: "Sort: Best Match"
+                  - img
+              - button "Listing options selector. List View selected." [ref=e519]:
+                - generic [ref=e520]:
+                  - img
+                  - img
+      - generic [ref=e522]:
+        - listitem [ref=e524]:
+          - generic [ref=e525]:
+            - link [ref=e531] [cursor=pointer]:
+              - /url: https://ebay.com/itm/123456?itmmeta=012DEW30YG0MEEKND7NH&hash=item123546:g:acwAA9KNiJowH:sc:ShippingMethodStandard!95008!US!-1&itmprp=enc%3AbgepL1tlUHjMGCVfSTGJh%2BzsVKeJ3CQk7NizDI4BZeppuFnmyS6Ijyp8lh%2FnEw%2BWqO7uTV1Q6izE1R0T54aV8j71F4xlWfVcGft4%2FiOQhtqVXA1rW6M1atPARQRmhqUxtEPJKhKtSFgI%2Bvwlzb0GwVCtkp%3ABlBMUObkmabpYw
+            - generic [ref=e532]:
+              - generic [ref=e533]:
+                - link [ref=e534] [cursor=pointer]:
+                  - /url: https://ebay.com/itm/123456?itmmeta=012DEW30YG0MEEKND7NH&hash=item123546:g:acwAA9KNiJowH:sc:ShippingMethodStandard!95008!US!-1&itmprp=enc%3AbgepL1tlUHjMGCVfSTGJh%2BzsVKeJ3CQk7NizDI4BZeppuFnmyS6Ijyp8lh%2FnEw%2BWqO7uTV1Q6izE1R0T54aV8j71F4xlWfVcGft4%2FiOQhtqVXA1rW6M1atPARQRmhqUxtEPJKhKtSFgI%2Bvwlzb0GwVCtkp%3ABlBMUObkmabpYw
+                  - heading [level=3] [ref=e535]: Shop on eBay
+                - generic [ref=e537]: Brand New
+              - generic [ref=e539]:
+                - generic [ref=e540]: $20.00
+                - generic [ref=e541]: or Best Offer
+              - generic [ref=e543]: Sponsored
+        - listitem [ref=e545]:
+          - generic [ref=e546]:
+            - link [ref=e552] [cursor=pointer]:
+              - /url: https://ebay.com/itm/123456?itmmeta=012DEW30YG0MEEKND7NH&hash=item123546:g:acwAA9KNiJowH:sc:ShippingMethodStandard!95008!US!-1&itmprp=enc%3AbgepL1tlUHjMGCVfSTGJh%2BzsVKeJ3CQk7NizDI4BZeppuFnmyS6Ijyp8lh%2FnEw%2BWqO7uTV1Q6izE1R0T54aV8j71F4xlWfVcGft4%2FiOQhtqVXA1rW6M1atPARQRmhqUxtEPJKhKtSFgI%2Bvwlzb0GwVCtkp%3ABlBMUObkmabpYw
+            - generic [ref=e553]:
+              - generic [ref=e554]:
+                - link [ref=e555] [cursor=pointer]:
+                  - /url: https://ebay.com/itm/123456?itmmeta=012DEW30YG0MEEKND7NH&hash=item123546:g:acwAA9KNiJowH:sc:ShippingMethodStandard!95008!US!-1&itmprp=enc%3AbgepL1tlUHjMGCVfSTGJh%2BzsVKeJ3CQk7NizDI4BZeppuFnmyS6Ijyp8lh%2FnEw%2BWqO7uTV1Q6izE1R0T54aV8j71F4xlWfVcGft4%2FiOQhtqVXA1rW6M1atPARQRmhqUxtEPJKhKtSFgI%2Bvwlzb0GwVCtkp%3ABlBMUObkmabpYw
+                  - heading [level=3] [ref=e556]: Shop on eBay
+                - generic [ref=e558]: Brand New
+              - generic [ref=e560]:
+                - generic [ref=e561]: $20.00
+                - generic [ref=e562]: or Best Offer
+              - generic [ref=e564]: Sponsored
+        - list [ref=e566]:
+          - listitem [ref=e567]:
+            - generic [ref=e568]:
+              - generic [ref=e570]:
+                - link "Marvel Heroes Mens Trifold Chain Leather Wallet In Collectors Tin" [ref=e574] [cursor=pointer]:
+                  - /url: https://www.ebay.com/itm/265932963984?_skw=mens+leather+wallet&itmmeta=01KJEVRVXNSX00WR920RW6FD2K&hash=item3dead70090:g:9DoAAeSwDoRpQ~US&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xDI8zYq2A854IFDMWBk8ebsdwkrPZOcPMY6mEeBXcark9iZt7tN3qPJIX3KVocS87P1ZDox5edbH8idbMvlENj3b8FjCwiPb4BRP84pYzftbOCZ3A%2BDGPB0I1xnVUiIRbdyLH%2Fd30PvjNLDsvg4YnGSBGZKIjHqfioV7mCc5MqH9vTFmmDrys2ghY6nM4uqjFhWYEpU4YdBoFjF0A%2FUz4btwLXordZJsNj9paMtcSOoMMsTz7ZVVssra%2BhmR0K0fMU%3D%7Ctkp%3ABk9SR4i_49uTZw
+                  - img "Marvel Heroes Mens Trifold Chain Leather Wallet In Collectors Tin" [ref=e575]
+                - link "watch Marvel Heroes Mens Trifold Chain Leather Wallet In Collectors Tin" [ref=e577] [cursor=pointer]:
+                  - /url: https://www.ebay.com/myb/WatchListAdd?item=265932963984&pt=null&srt=01000b00000050be92df6cc114a895b5ffb7065993237e238fcd454e95b9878f26868461008ac52f8eb3c8a328958eabf37220c19b7857e4f0f350ef5525610c74214e4af67732233ddc9fddb70f0d01803edbb4fcec28&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D267%26_from%3DR40
+                  - generic [ref=e578]:
+                    - img
+              - generic [ref=e579]:
+                - generic [ref=e580]:
+                  - link "Marvel Heroes Mens Trifold Chain Leather Wallet In Collectors Tin Opens in a new window or tab" [ref=e581] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/265932963984?_skw=mens+leather+wallet&itmmeta=01KJEVRVXNSX00WR920RW6FD2K&hash=item3dead70090:g:9DoAAeSwDoRpQ~US&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xDI8zYq2A854IFDMWBk8ebsdwkrPZOcPMY6mEeBXcark9iZt7tN3qPJIX3KVocS87P1ZDox5edbH8idbMvlENj3b8FjCwiPb4BRP84pYzftbOCZ3A%2BDGPB0I1xnVUiIRbdyLH%2Fd30PvjNLDsvg4YnGSBGZKIjHqfioV7mCc5MqH9vTFmmDrys2ghY6nM4uqjFhWYEpU4YdBoFjF0A%2FUz4btwLXordZJsNj9paMtcSOoMMsTz7ZVVssra%2BhmR0K0fMU%3D%7Ctkp%3ABk9SR4i_49uTZw
+                    - heading "Marvel Heroes Mens Trifold Chain Leather Wallet In Collectors Tin Opens in a new window or tab" [level=3] [ref=e582]:
+                      - text: Marvel Heroes Mens Trifold Chain Leather Wallet In Collectors Tin
+                      - generic [ref=e583]: Opens in a new window or tab
+                  - generic [ref=e585]: Brand New
+                - generic [ref=e586]:
+                  - generic [ref=e587]:
+                    - generic [ref=e588]: $25.99
+                    - generic [ref=e589]: Buy It Now
+                    - generic [ref=e590]: +$24.65 delivery
+                    - generic [ref=e591]: Located in United States
+                  - generic [ref=e593]: jodiealison 99.5% positive (19K)
+                - generic [ref=e594]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading "Sponsored" [level=6]:
+                          - generic [ref=e595]: Sponsored
+          - listitem [ref=e596]:
+            - generic [ref=e597]:
+              - generic [ref=e599]:
+                - link "men women wallet purse pen bag holder ID card case cow leather handmade brown" [ref=e603] [cursor=pointer]:
+                  - /url: https://www.ebay.com/itm/116605147692?_skw=mens+leather+wallet&itmmeta=01KJEVRVXNPPNZJEP25A2AEC2K&hash=item1b26355a2c:g:QzgAAOSwCT1jBByX&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAmXwP5Joe8g%2FqnTy2uI8V6KLj%2Bss3PA4%2B4pU3wACoNPQ2QUI8Z4zU9uVyTeDxjjce83a4pIZuZJfgwPK2%2B685jjMaRoXX8B2edIB0hhCLjcw1ajz6SK5JUkb%2Fwk4G8hKGuo1OIka%2BKXhWmIFQd0z5jbEIvphzsy7E%2Bg%2BDzc4CQ3lCxSMFX3%2BQ4mR8H6U1lpWqoqxsm%2BrMakpv8X%2FlJqKM96uid7hJuBDByps%2FEYwIyboDncpAvYYtrWyMcTtZvv%2BHpyK7ZQdtSPMvYXCgyG5c3D1JAYL4Pv6QeOaAw38XazA%3D%3D%7Ctkp%3ABFBMiL_j25Nn
+                  - img "men women wallet purse pen bag holder ID card case cow leather handmade brown" [ref=e604]
+                - link "watch men women wallet purse pen bag holder ID card case cow leather handmade brown" [ref=e606] [cursor=pointer]:
+                  - /url: https://www.ebay.com/myb/WatchListAdd?item=116605147692&pt=null&srt=01000b00000050d47974ef51668a1d30275f8ba79d32464923819ee4faf428d1c55da083ea34b00dcc41fe26de268c3f149fb0bda1fe13afb43ad027a6947aa7d24b920cd909152ea2f307b0e9068e3cc301e76fc407e7&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D267%26_from%3DR40
+                  - generic [ref=e607]:
+                    - img
+              - generic [ref=e608]:
+                - generic [ref=e609]:
+                  - link "men women wallet purse pen bag holder ID card case cow leather handmade brown Opens in a new window or tab" [ref=e610] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/116605147692?_skw=mens+leather+wallet&itmmeta=01KJEVRVXNPPNZJEP25A2AEC2K&hash=item1b26355a2c:g:QzgAAOSwCT1jBByX&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAmXwP5Joe8g%2FqnTy2uI8V6KLj%2Bss3PA4%2B4pU3wACoNPQ2QUI8Z4zU9uVyTeDxjjce83a4pIZuZJfgwPK2%2B685jjMaRoXX8B2edIB0hhCLjcw1ajz6SK5JUkb%2Fwk4G8hKGuo1OIka%2BKXhWmIFQd0z5jbEIvphzsy7E%2Bg%2BDzc4CQ3lCxSMFX3%2BQ4mR8H6U1lpWqoqxsm%2BrMakpv8X%2FlJqKM96uid7hJuBDByps%2FEYwIyboDncpAvYYtrWyMcTtZvv%2BHpyK7ZQdtSPMvYXCgyG5c3D1JAYL4Pv6QeOaAw38XazA%3D%3D%7Ctkp%3ABFBMiL_j25Nn
+                    - heading "men women wallet purse pen bag holder ID card case cow leather handmade brown Opens in a new window or tab" [level=3] [ref=e611]:
+                      - text: men women wallet purse pen bag holder ID card case cow leather handmade brown
+                      - generic [ref=e612]: Opens in a new window or tab
+                  - generic [ref=e614]: Brand New
+                - generic [ref=e615]:
+                  - generic [ref=e616]:
+                    - generic [ref=e617]: $13.90
+                    - generic [ref=e618]: Buy It Now
+                    - generic [ref=e619]: +$13.90 delivery
+                    - generic [ref=e620]: Located in China
+                  - generic [ref=e622]: sunnyzone25 97.6% positive (1.4K)
+                - generic [ref=e623]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading "Sponsored" [level=6]:
+                          - generic [ref=e624]: Sponsored
+          - listitem [ref=e625]:
+            - generic [ref=e626]:
+              - link "Handcrafted All Leather Cowboy Western Honey Bi-Fold Wallet" [ref=e632] [cursor=pointer]:
+                - /url: https://www.ebay.com/itm/196387359949?_skw=mens+leather+wallet&itmmeta=01KJEVRVXN55JM0ED2BDPQ57R3&hash=item2db9994ccd:g:VikAAOSwngFmPRvS&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBMSlN5lSbDVTcKrlQIyP6JM6YGO5zhpBhYdUcJityefofs9gUeEKuldmgSdpAAkRlYNLKqjZTXR3dum2AJtx6Wa4pTcqgU%2FLLLWYX3I4eyC2awK58LDmybsd56NtOdy%2BljMk59VAXavr20OpbW5dTRdlTCMpUi5WSelsd8ZP%2F35KlNN4g4RS7xgRkfNJP%2FqqVt1E%2BmvM5G5NEd%2FYLYnFyWw%2Bjhs3hwqHMmsOyP37Uen%2BtB9EcnYpgliziTJiXHrdbdITBMFkmbcKz4gqgx1LHN120xGk%2FETTIImoicXowu3A%3D%3D%7Ctkp%3ABFBMiL_j25Nn
+                - img "Handcrafted All Leather Cowboy Western Honey Bi-Fold Wallet" [ref=e633]
+              - generic [ref=e634]:
+                - generic [ref=e635]:
+                  - link "Handcrafted All Leather Cowboy Western Honey Bi-Fold Wallet Opens in a new window or tab" [ref=e636] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/196387359949?_skw=mens+leather+wallet&itmmeta=01KJEVRVXN55JM0ED2BDPQ57R3&hash=item2db9994ccd:g:VikAAOSwngFmPRvS&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBMSlN5lSbDVTcKrlQIyP6JM6YGO5zhpBhYdUcJityefofs9gUeEKuldmgSdpAAkRlYNLKqjZTXR3dum2AJtx6Wa4pTcqgU%2FLLLWYX3I4eyC2awK58LDmybsd56NtOdy%2BljMk59VAXavr20OpbW5dTRdlTCMpUi5WSelsd8ZP%2F35KlNN4g4RS7xgRkfNJP%2FqqVt1E%2BmvM5G5NEd%2FYLYnFyWw%2Bjhs3hwqHMmsOyP37Uen%2BtB9EcnYpgliziTJiXHrdbdITBMFkmbcKz4gqgx1LHN120xGk%2FETTIImoicXowu3A%3D%3D%7Ctkp%3ABFBMiL_j25Nn
+                    - heading "Handcrafted All Leather Cowboy Western Honey Bi-Fold Wallet Opens in a new window or tab" [level=3] [ref=e637]:
+                      - text: Handcrafted All Leather Cowboy Western Honey Bi-Fold Wallet
+                      - generic [ref=e638]: Opens in a new window or tab
+                  - generic [ref=e640]: Brand New
+                - generic [ref=e641]:
+                  - generic [ref=e642]:
+                    - generic [ref=e643]: $29.95
+                    - generic [ref=e644]: Buy It Now
+                    - generic [ref=e645]: +$24.73 delivery
+                    - generic [ref=e646]: Located in United States
+                  - generic [ref=e648]: silvertonboots 98.6% positive (236)
+                - generic [ref=e649]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading "Sponsored Sponsored" [level=6]:
+                          - generic [ref=e650]: Sponsored
+          - listitem [ref=e651]:
+            - generic [ref=e652]:
+              - generic [ref=e654]:
+                - link "men women wallet purse cow Leather driver's license ID Card bag case coffee A214" [ref=e658] [cursor=pointer]:
+                  - /url: https://www.ebay.com/itm/204701505380?_skw=mens+leather+wallet&itmmeta=01KJEVRVXNZQY5B2BT7CQP0X16&hash=item2fa9291764:g:spoAAOSwKDRl-RvL&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDmN%2BkmElI%2Fjf3t0U7cHrnAGuS8aQgyOeHw4RBcMnWRBlm%2Fa%2FrC48w4VHEKABUp3yJrmwGl6FAIYXtueyJE3fAPPM%2BZzVd7dwyC1r4V5N0h98Zl4JbfP5r5ZdbpU3D5Z6KLB2Zyb81hec6cFs4Eym%2BS9G10clH0GkAQlp53c3VUKbjy0f2mZ2P3C9ah74UeOKAGvkwFJlZHdiGXm0AtBkybfAs013nOnXlqg8RrR2vojJh7yLSSdxdbnWD5hHmbLLuRjgcPO7a%2BpyaLmC2asmOl%2FXdrhO16wjEMCmZGuNmypg%3D%3D%7Ctkp%3ABFBMiL_j25Nn
+                  - img "men women wallet purse cow Leather driver's license ID Card bag case coffee A214" [ref=e659]
+                - link "watch men women wallet purse cow Leather driver's license ID Card bag case coffee A214" [ref=e661] [cursor=pointer]:
+                  - /url: https://www.ebay.com/myb/WatchListAdd?item=204701505380&pt=null&srt=01000b000000505b18cc5330493d85a1fdb2d021c9ed58fb3cc69ee458e3d4add269c100e4bf715c88508409b3b58fa4e580087667a311383c63cc488ef813c3b620843db67121f7313b8f3244a85855c72a273d108c7f&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D267%26_from%3DR40
+                  - generic [ref=e662]:
+                    - img
+              - generic [ref=e663]:
+                - generic [ref=e664]:
+                  - link "men women wallet purse cow Leather driver's license ID Card bag case coffee A214 Opens in a new window or tab" [ref=e665] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/204701505380?_skw=mens+leather+wallet&itmmeta=01KJEVRVXNZQY5B2BT7CQP0X16&hash=item2fa9291764:g:spoAAOSwKDRl-RvL&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDmN%2BkmElI%2Fjf3t0U7cHrnAGuS8aQgyOeHw4RBcMnWRBlm%2Fa%2FrC48w4VHEKABUp3yJrmwGl6FAIYXtueyJE3fAPPM%2BZzVd7dwyC1r4V5N0h98Zl4JbfP5r5ZdbpU3D5Z6KLB2Zyb81hec6cFs4Eym%2BS9G10clH0GkAQlp53c3VUKbjy0f2mZ2P3C9ah74UeOKAGvkwFJlZHdiGXm0AtBkybfAs013nOnXlqg8RrR2vojJh7yLSSdxdbnWD5hHmbLLuRjgcPO7a%2BpyaLmC2asmOl%2FXdrhO16wjEMCmZGuNmypg%3D%3D%7Ctkp%3ABFBMiL_j25Nn
+                    - heading "men women wallet purse cow Leather driver's license ID Card bag case coffee A214 Opens in a new window or tab" [level=3] [ref=e666]:
+                      - text: men women wallet purse cow Leather driver's license ID Card bag case coffee A214
+                      - generic [ref=e667]: Opens in a new window or tab
+                  - generic [ref=e669]: Brand New
+                - generic [ref=e670]:
+                  - generic [ref=e671]:
+                    - generic [ref=e672]: $6.90
+                    - generic [ref=e673]: Buy It Now
+                    - generic [ref=e674]: +$9.90 delivery
+                    - generic [ref=e675]: Located in China
+                  - generic [ref=e677]: sunnylife25 100% positive (11.8K)
+                - generic [ref=e678]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading "Sponsored" [level=6]:
+                          - generic [ref=e679]: Sponsored
+          - listitem [ref=e680]:
+            - generic [ref=e681]:
+              - generic [ref=e683]:
+                - link "Men's Leather Wallet Handmade Craft Pattern Japanese Guidebook" [ref=e687] [cursor=pointer]:
+                  - /url: https://www.ebay.com/itm/177157983986?_skw=mens+leather+wallet&itmmeta=01KJEVRVXN245BR0X8R1KKDDNX&hash=item293f704ef2:g:OsYAAeSwhadpoIaH&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xDMX3O1MlzoJ0O2xgzeK2QkNcpVuK%2B7FoE81%2Biddio0inuvo%2B0KTUFlbukyNl76RaPwz%2F8lfstYgzE9wQDDaW9fp%2FjstlXy628jdH0z1VcJrBbCXzUirUPzajpYXCv%2FrOrEqc9U7YRwQQjVbf7ZOs1I3R3puYtDNPLV6hlwVYbnhZ7VsDrtS%2FHd3dHyDbbIjMmgZ6X1LLH6JwVZji8o4BPILDyqoVNTlybmc9cFXnfBNM9OJ2tBqoe3nWqQhIOmIN0%3D%7Ctkp%3ABk9SR4i_49uTZw
+                  - img "Men's Leather Wallet Handmade Craft Pattern Japanese Guidebook" [ref=e688]
+                - link "watch Men's Leather Wallet Handmade Craft Pattern Japanese Guidebook" [ref=e690] [cursor=pointer]:
+                  - /url: https://www.ebay.com/myb/WatchListAdd?item=177157983986&pt=null&srt=01000b00000050812114299d5658d8b16a63c75847772a1d2d7df7654de43a833243e13fe8da92413733615bf63495688cbf5483c33bfbd44f1a04c1c9c17b1772739320b3561af75f104247d1c165953f64b6c1dc84bf&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D267%26_from%3DR40
+                  - generic [ref=e691]:
+                    - img
+              - generic [ref=e692]:
+                - generic [ref=e693]:
+                  - link "Men's Leather Wallet Handmade Craft Pattern Japanese Guidebook Opens in a new window or tab" [ref=e694] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/177157983986?_skw=mens+leather+wallet&itmmeta=01KJEVRVXN245BR0X8R1KKDDNX&hash=item293f704ef2:g:OsYAAeSwhadpoIaH&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xDMX3O1MlzoJ0O2xgzeK2QkNcpVuK%2B7FoE81%2Biddio0inuvo%2B0KTUFlbukyNl76RaPwz%2F8lfstYgzE9wQDDaW9fp%2FjstlXy628jdH0z1VcJrBbCXzUirUPzajpYXCv%2FrOrEqc9U7YRwQQjVbf7ZOs1I3R3puYtDNPLV6hlwVYbnhZ7VsDrtS%2FHd3dHyDbbIjMmgZ6X1LLH6JwVZji8o4BPILDyqoVNTlybmc9cFXnfBNM9OJ2tBqoe3nWqQhIOmIN0%3D%7Ctkp%3ABk9SR4i_49uTZw
+                    - heading "Men's Leather Wallet Handmade Craft Pattern Japanese Guidebook Opens in a new window or tab" [level=3] [ref=e695]:
+                      - text: Men's Leather Wallet Handmade Craft Pattern Japanese Guidebook
+                      - generic [ref=e696]: Opens in a new window or tab
+                  - generic [ref=e698]: Pre-Owned
+                - generic [ref=e699]:
+                  - generic [ref=e700]:
+                    - generic [ref=e701]: $64.60
+                    - generic [ref=e702]: or Best Offer
+                    - generic [ref=e703]: +$10.00 delivery
+                    - generic [ref=e704]: Located in Japan
+                  - generic [ref=e706]: d.d.d.shop 99.9% positive (24.1K)
+                - generic [ref=e707]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading "Sponsored" [level=6]:
+                          - generic [ref=e708]: Sponsored
+          - listitem [ref=e709]:
+            - generic [ref=e710]:
+              - generic [ref=e712]:
+                - link "Men's Leather Wallet Handmade Craft Pattern Japanese Guidebook" [ref=e716] [cursor=pointer]:
+                  - /url: https://www.ebay.com/itm/336002363034?_skw=mens+leather+wallet&itmmeta=01KJEVRVXN2AKBJ5N8W6BX9JV9&hash=item4e3b4d2e9a:g:BkgAAeSwfo9poHgV&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xDW49EX1oXPEsJ%2BWt2046fZ1lOhA3eVlCzp9RyAPvQNmCZu%2BLPSnmFvSIiMZRswb6z3LMyhopjMF7wTAzCfiTjPJ2xfZsFk2iZQmdIB4nvws0WszIf6PSFqOQzHAmpbIKWcEhLdmEXCpSIB26N%2F3gqQ10%2BaAYWtuIXbOQUf17PVkYP8Ee%2Fz3MNTp%2BWC544T%2FGlRgO0gJLT2trx7E0hvAiDJqcXYcNG0kqxv3klWmgOk1EnHv1DvnugOhmNWMGmfoFA%3D%7Ctkp%3ABk9SR4i_49uTZw
+                  - img "Men's Leather Wallet Handmade Craft Pattern Japanese Guidebook" [ref=e717]
+                - link "watch Men's Leather Wallet Handmade Craft Pattern Japanese Guidebook" [ref=e719] [cursor=pointer]:
+                  - /url: https://www.ebay.com/myb/WatchListAdd?item=336002363034&pt=null&srt=01000b000000507362877a7f61c6cd1dfc899c9ea6048950d31cf73d4e78c0e938cebfed807b55b7a2c9cc3cd06c6838189762e158cab13c117b6bf738bded160001d83727300e66fa8701f2c8bd7381c9fd8188bd6d5a&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D267%26_from%3DR40
+                  - generic [ref=e720]:
+                    - img
+              - generic [ref=e721]:
+                - generic [ref=e722]:
+                  - link "Men's Leather Wallet Handmade Craft Pattern Japanese Guidebook Opens in a new window or tab" [ref=e723] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/336002363034?_skw=mens+leather+wallet&itmmeta=01KJEVRVXN2AKBJ5N8W6BX9JV9&hash=item4e3b4d2e9a:g:BkgAAeSwfo9poHgV&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xDW49EX1oXPEsJ%2BWt2046fZ1lOhA3eVlCzp9RyAPvQNmCZu%2BLPSnmFvSIiMZRswb6z3LMyhopjMF7wTAzCfiTjPJ2xfZsFk2iZQmdIB4nvws0WszIf6PSFqOQzHAmpbIKWcEhLdmEXCpSIB26N%2F3gqQ10%2BaAYWtuIXbOQUf17PVkYP8Ee%2Fz3MNTp%2BWC544T%2FGlRgO0gJLT2trx7E0hvAiDJqcXYcNG0kqxv3klWmgOk1EnHv1DvnugOhmNWMGmfoFA%3D%7Ctkp%3ABk9SR4i_49uTZw
+                    - heading "Men's Leather Wallet Handmade Craft Pattern Japanese Guidebook Opens in a new window or tab" [level=3] [ref=e724]:
+                      - text: Men's Leather Wallet Handmade Craft Pattern Japanese Guidebook
+                      - generic [ref=e725]: Opens in a new window or tab
+                  - generic [ref=e727]: Pre-Owned
+                - generic [ref=e728]:
+                  - generic [ref=e729]:
+                    - generic [ref=e730]: $56.41
+                    - generic [ref=e731]: or Best Offer
+                    - generic [ref=e732]: +$13.48 delivery
+                    - generic [ref=e733]: Located in Japan
+                  - generic [ref=e735]: d.d.d.shop-uk 100% positive (6.9K)
+                - generic [ref=e736]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading "Sponsored" [level=6]:
+                          - generic [ref=e737]: Sponsored
+          - listitem [ref=e738]:
+            - generic [ref=e739]:
+              - generic [ref=e741]:
+                - link "Captain America Comics Mens Trifold Chain Leather Wallet In Collectors Tin" [ref=e745] [cursor=pointer]:
+                  - /url: https://www.ebay.com/itm/265932968006?_skw=mens+leather+wallet&itmmeta=01KJEVRVXNFH4KXPSY41WP6BJD&hash=item3dead71046:g:tb0AAeSwz-xomlda&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xBrCLXrTyLMEi%2FnvOOlr4WWz7K5LYVfKQ%2FFu8RCYI9%2FVeED4O9Z2%2BWNwOa98zKDXPC4w5Lx4rknmM14D0Gfv5F%2Fzj75N08ndeUn0a8%2By0G7DEbg5kc3x2Ehw4dlEMr1vnlWHT%2BiEHk0SI8F5yXEpsvTMUGZ5NoBaPtqdqmpppSqNPkoWvslLvI%2Bt4cmUjMdQl4kA1kyHCa%2BvkS%2Fa29ye9ga7T2V37QE0vIW3g4oAvxvPEiIFLoZ4MJif3PaDC2mGag%3D%7Ctkp%3ABk9SR4q_49uTZw
+                  - img "Captain America Comics Mens Trifold Chain Leather Wallet In Collectors Tin" [ref=e746]
+                - link "watch Captain America Comics Mens Trifold Chain Leather Wallet In Collectors Tin" [ref=e748] [cursor=pointer]:
+                  - /url: https://www.ebay.com/myb/WatchListAdd?item=265932968006&pt=null&srt=01000b000000505c3404691609462b40b83681dc76d93ef5855dd66fd9b808f416f2d89a05349301db97f93b0373d48ab97ee6d5ca72f40ba58e2fafe2ef4dc921d107436e0d816e7ec5183c1def2f5f5a773093dca6ad&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D267%26_from%3DR40
+                  - generic [ref=e749]:
+                    - img
+              - generic [ref=e750]:
+                - generic [ref=e751]:
+                  - link "Captain America Comics Mens Trifold Chain Leather Wallet In Collectors Tin Opens in a new window or tab" [ref=e752] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/265932968006?_skw=mens+leather+wallet&itmmeta=01KJEVRVXNFH4KXPSY41WP6BJD&hash=item3dead71046:g:tb0AAeSwz-xomlda&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xBrCLXrTyLMEi%2FnvOOlr4WWz7K5LYVfKQ%2FFu8RCYI9%2FVeED4O9Z2%2BWNwOa98zKDXPC4w5Lx4rknmM14D0Gfv5F%2Fzj75N08ndeUn0a8%2By0G7DEbg5kc3x2Ehw4dlEMr1vnlWHT%2BiEHk0SI8F5yXEpsvTMUGZ5NoBaPtqdqmpppSqNPkoWvslLvI%2Bt4cmUjMdQl4kA1kyHCa%2BvkS%2Fa29ye9ga7T2V37QE0vIW3g4oAvxvPEiIFLoZ4MJif3PaDC2mGag%3D%7Ctkp%3ABk9SR4q_49uTZw
+                    - heading "Captain America Comics Mens Trifold Chain Leather Wallet In Collectors Tin Opens in a new window or tab" [level=3] [ref=e753]:
+                      - text: Captain America Comics Mens Trifold Chain Leather Wallet In Collectors Tin
+                      - generic [ref=e754]: Opens in a new window or tab
+                  - generic [ref=e756]: Brand New
+                - generic [ref=e757]:
+                  - generic [ref=e758]:
+                    - generic [ref=e759]: $25.99
+                    - generic [ref=e760]: Buy It Now
+                    - generic [ref=e761]: +$24.65 delivery
+                    - generic [ref=e762]: Located in United States
+                  - generic [ref=e764]: jodiealison 99.5% positive (19K)
+                - generic [ref=e765]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading [level=6]:
+                          - generic [ref=e766]: Sponsored
+          - listitem [ref=e767]:
+            - generic [ref=e768]:
+              - generic [ref=e770]:
+                - link "Wallet-Genuine Leather-Wings Like Eagles-Brown" [ref=e774] [cursor=pointer]:
+                  - /url: https://www.ebay.com/itm/167028491770?_skw=mens+leather+wallet&epid=11038432025&itmmeta=01KJEVRVXPTSX7MHZZF522TJ10&hash=item26e3ac85fa:g:6-wAAOSw2k1oPguo&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xD7Ns4vF2ltR2Ww5JDNa3JG129nuQuOH7PNrjZNc9%2BgO9i5OvH%2FghGNsmp5m8%2BsmDo9mMr5GgLHWW5F7fJyt7qHhigFtqjtx0We3KP4fnxtSMrpsFXbm6bSJKDDx5Xo%2F8VleXweLK44%2F6COB%2FUSRL7jZ0Cjro3cR0Vnb2%2BussOXZ4mpP9%2BocjQ%2F6ceptObDIjdXOT0ThFptAyHnudYXb2Ucz89DImZiJpQf4XshQRaNKZfv2fnssAO9BwObequRI6xIjWksCj04KP4%2B8Y3SBJAWwJ0HjG9D3%2FbesXDPREuNfQ%3D%3D%7Ctkp%3ABk9SR4q_49uTZw
+                  - img "Wallet-Genuine Leather-Wings Like Eagles-Brown" [ref=e775]
+                - link "watch Wallet-Genuine Leather-Wings Like Eagles-Brown" [ref=e777] [cursor=pointer]:
+                  - /url: https://www.ebay.com/myb/WatchListAdd?item=167028491770&pt=null&srt=01000b0000005080bacb2074d1c7a19959287df587106550dbeef891e0e53c1024b3426703226f5a5807fd0a3b2d487d211918a261d37d5796776e3a98eb18658af775018dfe13b920e42c4c3e10d7c32c27ca6c2da230&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D267%26_from%3DR40
+                  - generic [ref=e778]:
+                    - img
+              - generic [ref=e779]:
+                - generic [ref=e780]:
+                  - link "Wallet-Genuine Leather-Wings Like Eagles-Brown Opens in a new window or tab" [ref=e781] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/167028491770?_skw=mens+leather+wallet&epid=11038432025&itmmeta=01KJEVRVXPTSX7MHZZF522TJ10&hash=item26e3ac85fa:g:6-wAAOSw2k1oPguo&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xD7Ns4vF2ltR2Ww5JDNa3JG129nuQuOH7PNrjZNc9%2BgO9i5OvH%2FghGNsmp5m8%2BsmDo9mMr5GgLHWW5F7fJyt7qHhigFtqjtx0We3KP4fnxtSMrpsFXbm6bSJKDDx5Xo%2F8VleXweLK44%2F6COB%2FUSRL7jZ0Cjro3cR0Vnb2%2BussOXZ4mpP9%2BocjQ%2F6ceptObDIjdXOT0ThFptAyHnudYXb2Ucz89DImZiJpQf4XshQRaNKZfv2fnssAO9BwObequRI6xIjWksCj04KP4%2B8Y3SBJAWwJ0HjG9D3%2FbesXDPREuNfQ%3D%3D%7Ctkp%3ABk9SR4q_49uTZw
+                    - heading "Wallet-Genuine Leather-Wings Like Eagles-Brown Opens in a new window or tab" [level=3] [ref=e782]:
+                      - text: Wallet-Genuine Leather-Wings Like Eagles-Brown
+                      - generic [ref=e783]: Opens in a new window or tab
+                  - generic [ref=e785]: Brand New
+                - generic [ref=e786]:
+                  - generic [ref=e787]:
+                    - generic [ref=e788]: $31.78
+                    - generic [ref=e789]: Buy It Now
+                    - generic [ref=e790]: +$24.77 delivery
+                    - generic [ref=e791]: Located in United States
+                  - generic [ref=e793]: godsoutletstore 99.8% positive (11.2K)
+                - generic [ref=e794]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading [level=6]:
+                          - generic [ref=e795]: Sponsored
+          - listitem [ref=e796]:
+            - generic [ref=e797]:
+              - generic [ref=e799]:
+                - link "Wallet-Genuine Leather-On Wings Like Eagles-Trifold-Tan" [ref=e803] [cursor=pointer]:
+                  - /url: https://www.ebay.com/itm/167028509356?_skw=mens+leather+wallet&epid=11038432025&itmmeta=01KJEVRVXPP16JKEZ9T3KTCRBJ&hash=item26e3accaac:g:exgAAOSwZRJoPfR8&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xCWrBUMtWKr%2F4mU49KU3qxhnIABYU90ZVYFgaqYPDzkMJ86jranmBqPyDSRDbNEgoVNtBk59b9KWgGUee4eqm9c5hkP1JwFdrC%2FMaMXTUDV3WjmirbHFsQnvMLAsqBnfnrIalNywt6bcQkD0djYXkCort%2Fvjx%2BniuDEQ57fxnQ%2BNxrrlTawwzyjokbjyAWUbhrLzIXK3h9NWSEAFyZrUwj%2BBm0nncqn41qRwJ1hrcvy9chEprQSTWvL0fs3aJ2mNQQ%3D%7Ctkp%3ABk9SR4q_49uTZw
+                  - img "Wallet-Genuine Leather-On Wings Like Eagles-Trifold-Tan" [ref=e804]
+                - link "watch Wallet-Genuine Leather-On Wings Like Eagles-Trifold-Tan" [ref=e806] [cursor=pointer]:
+                  - /url: https://www.ebay.com/myb/WatchListAdd?item=167028509356&pt=null&srt=01000b00000050a15534379b77c1bb0c0ca8fa195e88008d166ee4ef86e200ff87bfed581daac06e143e5e4c582a361e3f7a15194a3f28ec462ee0fbb7a4d366345aed8bc8eb911974a5ae0a9d9357012a87ced030f4ac&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D267%26_from%3DR40
+                  - generic [ref=e807]:
+                    - img
+              - generic [ref=e808]:
+                - generic [ref=e809]:
+                  - link "Wallet-Genuine Leather-On Wings Like Eagles-Trifold-Tan Opens in a new window or tab" [ref=e810] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/167028509356?_skw=mens+leather+wallet&epid=11038432025&itmmeta=01KJEVRVXPP16JKEZ9T3KTCRBJ&hash=item26e3accaac:g:exgAAOSwZRJoPfR8&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xCWrBUMtWKr%2F4mU49KU3qxhnIABYU90ZVYFgaqYPDzkMJ86jranmBqPyDSRDbNEgoVNtBk59b9KWgGUee4eqm9c5hkP1JwFdrC%2FMaMXTUDV3WjmirbHFsQnvMLAsqBnfnrIalNywt6bcQkD0djYXkCort%2Fvjx%2BniuDEQ57fxnQ%2BNxrrlTawwzyjokbjyAWUbhrLzIXK3h9NWSEAFyZrUwj%2BBm0nncqn41qRwJ1hrcvy9chEprQSTWvL0fs3aJ2mNQQ%3D%7Ctkp%3ABk9SR4q_49uTZw
+                    - heading "Wallet-Genuine Leather-On Wings Like Eagles-Trifold-Tan Opens in a new window or tab" [level=3] [ref=e811]:
+                      - text: Wallet-Genuine Leather-On Wings Like Eagles-Trifold-Tan
+                      - generic [ref=e812]: Opens in a new window or tab
+                  - generic [ref=e814]: Brand New
+                - generic [ref=e815]:
+                  - generic [ref=e816]:
+                    - generic [ref=e817]: $31.78
+                    - generic [ref=e818]: Buy It Now
+                    - generic [ref=e819]: +$24.77 delivery
+                    - generic [ref=e820]: Located in United States
+                  - generic [ref=e822]: godsoutletstore 99.8% positive (11.2K)
+                - generic [ref=e823]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading "Sponsored" [level=6]:
+                          - generic [ref=e824]: Sponsored
+          - listitem [ref=e825]:
+            - generic [ref=e826]:
+              - generic [ref=e828]:
+                - link "Wallet Leather With God All Things Are Possible Matt. 19:26" [ref=e832] [cursor=pointer]:
+                  - /url: https://www.ebay.com/itm/167028560724?_skw=mens+leather+wallet&epid=6050397914&itmmeta=01KJEVRVXP10FBR9YARATRYX68&hash=item26e3ad9354:g:WRMAAOSws7doPg3~&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBT04gnbdKVjqqujkuM4FQif8kkdiC9kRQBmNG9gOgbgQMfKediYg7JmsC4VxS9VXsk7iX3Jf8negps8DMe5zvgUa5oxf2PuXqWYLEdoFtT22PCWA3MjevYUymrPBg8pp%2BH6HbNvSwhm4sXZE02jBTz5OrirIm0C6Vnaz%2BKxTxNGli3dIjB4EXghcjxMlZMQhZdY%2BBA464UEIKUiKflV2tEXYoqTHHiN4AbGfWTyO8G5VvemyVmEQHJ3qKSjOQka84%2Bb3fy3g2FfDcxvvg%2Fr%2FmMFrPew16%2FSs6--b7gX5R%2B6Q%3D%3D%7Ctkp%3ABk9SR4q_49uTZw
+                  - img "Wallet Leather With God All Things Are Possible Matt. 19:26" [ref=e833]
+                - link "watch Wallet Leather With God All Things Are Possible Matt. 19:26" [ref=e835] [cursor=pointer]:
+                  - /url: https://www.ebay.com/myb/WatchListAdd?item=167028560724&pt=null&srt=01000b000000500f03edff40e956139fe9bbf4349fc13989184429f122d049393b935c655d637f29ed2b72b79279e3b3c3e76bb0d5500fdb3e210f69a4ff9f3dc9b3bc21dff4a8538c02f748f8a07ff84df7b8dc67baf4&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D267%26_from%3DR40
+                  - generic [ref=e836]:
+                    - img
+              - generic [ref=e837]:
+                - generic [ref=e838]:
+                  - link "Wallet Leather With God All Things Are Possible Matt. 19:26 Opens in a new window or tab" [ref=e839] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/167028560724?_skw=mens+leather+wallet&epid=6050397914&itmmeta=01KJEVRVXP10FBR9YARATRYX68&hash=item26e3ad9354:g:WRMAAOSws7doPg3~&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBT04gnbdKVjqqujkuM4FQif8kkdiC9kRQBmNG9gOgbgQMfKediYg7JmsC4VxS9VXsk7iX3Jf8negps8DMe5zvgUa5oxf2PuXqWYLEdoFtT22PCWA3MjevYUymrPBg8pp%2BH6HbNvSwhm4sXZE02jBTz5OrirIm0C6Vnaz%2BKxTxNGli3dIjB4EXghcjxMlZMQhZdY%2BBA464UEIKUiKflV2tEXYoqTHHiN4AbGfWTyO8G5VvemyVmEQHJ3qKSjOQka84%2Bb3fy3g2FfDcxvvg%2Fr%2FmMFrPew16%2FSs6--b7gX5R%2B6Q%3D%3D%7Ctkp%3ABk9SR4q_49uTZw
+                    - heading "Wallet Leather With God All Things Are Possible Matt. 19:26 Opens in a new window or tab" [level=3] [ref=e840]:
+                      - text: Wallet Leather With God All Things Are Possible Matt. 19:26
+                      - generic [ref=e841]: Opens in a new window or tab
+                  - generic [ref=e843]: Brand New
+                - generic [ref=e844]:
+                  - generic [ref=e845]:
+                    - generic [ref=e846]: $31.78
+                    - generic [ref=e847]: Buy It Now
+                    - generic [ref=e848]: +$24.77 delivery
+                    - generic [ref=e849]: Located in United States
+                  - generic [ref=e851]: godsoutletstore 99.8% positive (11.2K)
+                - generic [ref=e852]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading "Sponsored" [level=6]:
+                          - generic [ref=e853]: Sponsored
+          - listitem [ref=e854]:
+            - generic [ref=e855]:
+              - link "Black Genuine Leather Bible Cover Zippered Bag Book Organizer" [ref=e861] [cursor=pointer]:
+                - /url: https://www.ebay.com/itm/135192419332?_skw=mens+leather+wallet&itmmeta=01KJEVRVXP8953W60HR0ZBX875&hash=item1f7a189c04:g:PlEAAOSwVMVk~CVh&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDH7EFg67ULTZ9MxOtYiZNfB3PJpBmuxwtiEUWQz2Swm1yXXrlBYapMIcthDgaJMw5WllVLgW15QL4qjw88YbjD6c2x2LX1uius0jDPeuLYNPaZttpg6DMd8sQ2wEyDLTHnFpxIa8rTZtCdNbH%2BSWYVMLApLW4U6FVAwiKRzGJMJh35jTruHNfj%2BB0kNQJG816iMhLLvZSe6bDRlFi6nS5wSMRLsoUcyTl8dM2ThU6N%2FhDbLqDNulwWu7Yycd1rxf6O6oBWUDooXKQNmDi7YejZRN9Goy7oBmS1n3MrnEJeUw%3D%3D%7Ctkp%3ABFBMir_j25Nn
+                - img "Black Genuine Leather Bible Cover Zippered Bag Book Organizer" [ref=e862]
+              - generic [ref=e863]:
+                - generic [ref=e864]:
+                  - link "Black Genuine Leather Bible Cover Zippered Bag Book Organizer Opens in a new window or tab" [ref=e865] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/135192419332?_skw=mens+leather+wallet&itmmeta=01KJEVRVXP8953W60HR0ZBX875&hash=item1f7a189c04:g:PlEAAOSwVMVk~CVh&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDH7EFg67ULTZ9MxOtYiZNfB3PJpBmuxwtiEUWQz2Swm1yXXrlBYapMIcthDgaJMw5WllVLgW15QL4qjw88YbjD6c2x2LX1uius0jDPeuLYNPaZttpg6DMd8sQ2wEyDLTHnFpxIa8rTZtCdNbH%2BSWYVMLApLW4U6FVAwiKRzGJMJh35jTruHNfj%2BB0kNQJG816iMhLLvZSe6bDRlFi6nS5wSMRLsoUcyTl8dM2ThU6N%2FhDbLqDNulwWu7Yycd1rxf6O6oBWUDooXKQNmDi7YejZRN9Goy7oBmS1n3MrnEJeUw%3D%3D%7Ctkp%3ABFBMir_j25Nn
+                    - heading "Black Genuine Leather Bible Cover Zippered Bag Book Organizer Opens in a new window or tab" [level=3] [ref=e866]:
+                      - text: Black Genuine Leather Bible Cover Zippered Bag Book Organizer
+                      - generic [ref=e867]: Opens in a new window or tab
+                  - generic [ref=e869]: Brand New
+                - generic [ref=e870]:
+                  - generic [ref=e871]:
+                    - generic [ref=e872]:
+                      - text: $26.92 to $27.99
+                      - text: $31.10
+                    - generic [ref=e873]: Buy It Now
+                    - generic [ref=e874]: +$24.69 delivery
+                    - generic [ref=e875]: Located in United States
+                    - generic [ref=e876]: Save up to 25% when you buy more
+                  - generic [ref=e878]: leatherwholesale3000 99% positive (40K)
+                - generic [ref=e879]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading "Sponsored" [level=6]:
+                          - generic [ref=e880]: Sponsored
+          - listitem [ref=e881]:
+            - generic [ref=e882]:
+              - generic [ref=e884]:
+                - link "How to make an authentic leather wallet taught by a top samp Japanese Craft Book" [ref=e888] [cursor=pointer]:
+                  - /url: https://www.ebay.com/itm/276937711781?_skw=mens+leather+wallet&itmmeta=01KJEVRVXPG7HSXTNZCYC7JXYD&hash=item407ac620a5:g:JDgAAeSw3hVnz91P&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCGu6%2BdW%2FTYUX48XJjz%2BjwaIkZZu9htBCxQA0PLECx560FTPWmFTPBvHuIsI2RiI0xdXumEGpnoYCM4riV4sbbaOf6XO67gbHApeo7fS9MVDH1Eh1x5HdHtJJu4wX10mNSWonIuYTlhRrh%2FyhXqlMwlxE4ZoL%2BlRjOCCHz5DRFvXbF%2FW0OHlDAaQh9eDrz4pZt7Kh7%2FbekJ5e4mBxTyGrtAfgKORo9j0ReJ8x%2BLWdThcZHpjgx9Zdt%2Ft24Hz%2FvAkrZdOHgOdFmXNCtJlsy7BYKIuHWJ9VCfEVMzKap2I6IX5g%3D%3D%7Ctkp%3ABFBMir_j25Nn
+                  - img "How to make an authentic leather wallet taught by a top samp Japanese Craft Book"
+                - link "watch How to make an authentic leather wallet taught by a top samp Japanese Craft Book" [ref=e890] [cursor=pointer]:
+                  - /url: https://www.ebay.com/myb/WatchListAdd?item=276937711781&pt=null&srt=01000b0000005088e5273958b81e45ec7dd78760bf7cbfe389c99898a4416eb83ce978a86d52f6b5c852525345d52b99ef77c2c3d55b397eb360fb4febecc6a6b52d20582e0798c8e71d30a5ee316688f9c50e98524dc8&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D267%26_from%3DR40
+                  - generic [ref=e891]:
+                    - img
+              - generic [ref=e892]:
+                - generic [ref=e893]:
+                  - link "How to make an authentic leather wallet taught by a top samp Japanese Craft Book Opens in a new window or tab" [ref=e894] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/276937711781?_skw=mens+leather+wallet&itmmeta=01KJEVRVXPG7HSXTNZCYC7JXYD&hash=item407ac620a5:g:JDgAAeSw3hVnz91P&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCGu6%2BdW%2FTYUX48XJjz%2BjwaIkZZu9htBCxQA0PLECx560FTPWmFTPBvHuIsI2RiI0xdXumEGpnoYCM4riV4sbbaOf6XO67gbHApeo7fS9MVDH1Eh1x5HdHtJJu4wX10mNSWonIuYTlhRrh%2FyhXqlMwlxE4ZoL%2BlRjOCCHz5DRFvXbF%2FW0OHlDAaQh9eDrz4pZt7Kh7%2FbekJ5e4mBxTyGrtAfgKORo9j0ReJ8x%2BLWdThcZHpjgx9Zdt%2Ft24Hz%2FvAkrZdOHgOdFmXNCtJlsy7BYKIuHWJ9VCfEVMzKap2I6IX5g%3D%3D%7Ctkp%3ABFBMir_j25Nn
+                    - heading "How to make an authentic leather wallet taught by a top samp Japanese Craft Book Opens in a new window or tab" [level=3] [ref=e895]:
+                      - text: How to make an authentic leather wallet taught by a top samp Japanese Craft Book
+                      - generic [ref=e896]: Opens in a new window or tab
+                  - generic [ref=e898]: Brand New
+                - generic [ref=e899]:
+                  - generic [ref=e900]:
+                    - generic [ref=e901]: $62.50
+                    - generic [ref=e902]: Buy It Now
+                    - generic [ref=e903]: Free International Shipping
+                    - generic [ref=e904]: Located in Japan
+                  - generic [ref=e906]: japancraftbook 100% positive (326)
+                - generic [ref=e907]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading "Sponsored" [level=6]:
+                          - generic [ref=e908]: Sponsored
+          - listitem [ref=e909]:
+            - region [ref=e911]:
+              - generic [ref=e912]:
+                - img
+              - paragraph [ref=e914]: Results matching fewer words
+          - listitem [ref=e915]:
+            - generic [ref=e916]:
+              - generic [ref=e918]:
+                - link "1859 HOLY BIBLE leather wallet style CIVIL WAR ERA old and New Testament" [ref=e922] [cursor=pointer]:
+                  - /url: https://www.ebay.com/itm/227226664793?_skw=mens+leather+wallet&itmmeta=01KJEVRVXPM7SZXZMZR7HNEBBN&hash=item34e7c3bf59:g:05IAAeSwtkBpmhZG&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDRx%2BtN8Eja0bnWzfW9qyceOqzibWUp58WPXg5VDK2oUY3qPzwZoGn0ZM%2F4P7j7CJlW5GqS4TFN9bXkEYdtvsXotlJ7LW33VUyMvQWj1VJHpmZBpQLglPy21XH2FZ%2BoXi4%2FMmv69v2IE9slPLqh5WRaniA0Fc21qMq6IqqxLVJpJk4yCQU%2FmYda%2FThBuTVbgaR30gfgglThsCpGSCV8Tblh9bjYwVNU7dyN%2BQ9%2Bq6CgBWr7UuCKzENGSIYXdcFlF%2BIAm4CUvTh2Ws95s8av8JaqKQ0iElQvwyWVM%2FfbTlE%2FgA%3D%3D%7Ctkp%3ABFBMir_j25Nn
+                  - img "1859 HOLY BIBLE leather wallet style CIVIL WAR ERA old and New Testament"
+                - link "watch 1859 HOLY BIBLE leather wallet style CIVIL WAR ERA old and New Testament" [ref=e924] [cursor=pointer]:
+                  - /url: https://www.ebay.com/myb/WatchListAdd?item=227226664793&pt=null&srt=01000b0000005072316eeed09abb76690074fa4f5e5a92db7eb0b004a938a3fb805bda4ff0ceb69750b9e63969ea97bb19bbb25dae3b40ae39d920c047cd9caa0e59e149f33b7afdedf2e5b2663a2921bdbc86b3058308&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D267%26_from%3DR40
+                  - generic [ref=e925]:
+                    - img
+              - generic [ref=e926]:
+                - link "1859 HOLY BIBLE leather wallet style CIVIL WAR ERA old and New Testament Opens in a new window or tab" [ref=e928] [cursor=pointer]:
+                  - /url: https://www.ebay.com/itm/227226664793?_skw=mens+leather+wallet&itmmeta=01KJEVRVXPM7SZXZMZR7HNEBBN&hash=item34e7c3bf59:g:05IAAeSwtkBpmhZG&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDRx%2BtN8Eja0bnWzfW9qyceOqzibWUp58WPXg5VDK2oUY3qPzwZoGn0ZM%2F4P7j7CJlW5GqS4TFN9bXkEYdtvsXotlJ7LW33VUyMvQWj1VJHpmZBpQLglPy21XH2FZ%2BoXi4%2FMmv69v2IE9slPLqh5WRaniA0Fc21qMq6IqqxLVJpJk4yCQU%2FmYda%2FThBuTVbgaR30gfgglThsCpGSCV8Tblh9bjYwVNU7dyN%2BQ9%2Bq6CgBWr7UuCKzENGSIYXdcFlF%2BIAm4CUvTh2Ws95s8av8JaqKQ0iElQvwyWVM%2FfbTlE%2FgA%3D%3D%7Ctkp%3ABFBMir_j25Nn
+                  - heading "1859 HOLY BIBLE leather wallet style CIVIL WAR ERA old and New Testament Opens in a new window or tab" [level=3] [ref=e929]:
+                    - text: 1859 HOLY BIBLE leather wallet style CIVIL WAR ERA old and New Testament
+                    - generic [ref=e930]: Opens in a new window or tab
+                - generic [ref=e931]:
+                  - generic [ref=e932]:
+                    - generic [ref=e933]: $150.00
+                    - generic [ref=e934]: or Best Offer
+                    - generic [ref=e935]: +$36.66 delivery
+                    - generic [ref=e936]: Located in United States
+                    - generic [ref=e937]: 13 watchers
+                  - generic [ref=e939]: penny_girl_11 100% positive (465)
+                - generic [ref=e940]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading "Sponsored" [level=6]:
+                          - generic [ref=e941]: Sponsored
+          - listitem [ref=e942]:
+            - generic [ref=e943]:
+              - generic [ref=e945]:
+                - link "Leather Wallet by Kawacoya Craftsman New Fine Leather Gift" [ref=e949] [cursor=pointer]:
+                  - /url: https://www.ebay.com/itm/376735069649?_skw=mens+leather+wallet&itmmeta=01KJEVRVXPRSTBF1JWA59Q9P81&hash=item57b728f5d1:g:6BMAAeSwMA5pKG89&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xBT8YBgj0eqzLMQuX8j5j7gmR7Tif5xjZvDszUDHl%2BHGc6nPcBugQtFk3eWBLrEcn2Fj4L%2BkXjsqdVLB64o8bO6skReHwJNiVZUDyQ3iAZflCyy6UkCXB2mZmSYh6CAdhArKePQhKvdjg7DRSGI%2FTTqBBXYbRkUIus%2FPQaPExXZeHTt24T7Ztvr%2BJ6W%2FdrdjwmhpV6DmUmvDaThEjvOAzow9uwwDJFdqusbALMVKegSo%2BFZKhf0z86mJYoghFTTWpI%3D%7Ctkp%3ABk9SR4q_49uTZw
+                  - img "Leather Wallet by Kawacoya Craftsman New Fine Leather Gift"
+                - link "watch Leather Wallet by Kawacoya Craftsman New Fine Leather Gift" [ref=e951] [cursor=pointer]:
+                  - /url: https://www.ebay.com/myb/WatchListAdd?item=376735069649&pt=null&srt=01000b00000050b7dae6996a5b28e8b5eb42939b130f61e6ff69b131abd7f32c8f3ff1d7bec5a68c42533cabcff18578105b5effed9cf6a504e99ead8bcc6e7b1b6da582a69acb38c9fc8301a55e81e2194b94f920958b&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D267%26_from%3DR40
+                  - generic [ref=e952]:
+                    - img
+              - generic [ref=e953]:
+                - generic [ref=e954]:
+                  - link "Leather Wallet by Kawacoya Craftsman New Fine Leather Gift Opens in a new window or tab" [ref=e955] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/376735069649?_skw=mens+leather+wallet&itmmeta=01KJEVRVXPRSTBF1JWA59Q9P81&hash=item57b728f5d1:g:6BMAAeSwMA5pKG89&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xBT8YBgj0eqzLMQuX8j5j7gmR7Tif5xjZvDszUDHl%2BHGc6nPcBugQtFk3eWBLrEcn2Fj4L%2BkXjsqdVLB64o8bO6skReHwJNiVZUDyQ3iAZflCyy6UkCXB2mZmSYh6CAdhArKePQhKvdjg7DRSGI%2FTTqBBXYbRkUIus%2FPQaPExXZeHTt24T7Ztvr%2BJ6W%2FdrdjwmhpV6DmUmvDaThEjvOAzow9uwwDJFdqusbALMVKegSo%2BFZKhf0z86mJYoghFTTWpI%3D%7Ctkp%3ABk9SR4q_49uTZw
+                    - heading "Leather Wallet by Kawacoya Craftsman New Fine Leather Gift Opens in a new window or tab" [level=3] [ref=e956]:
+                      - text: Leather Wallet by Kawacoya Craftsman New Fine Leather Gift
+                      - generic [ref=e957]: Opens in a new window or tab
+                  - generic [ref=e959]: New (Other)
+                - generic [ref=e960]:
+                  - generic [ref=e961]:
+                    - generic [ref=e962]:
+                      - text: $123.68
+                      - text: $130.19
+                    - generic [ref=e963]: or Best Offer
+                    - generic [ref=e964]: +$20.00 delivery
+                    - generic [ref=e965]: Located in Japan
+                    - generic [ref=e966]: Free returns
+                  - generic [ref=e968]: nannkaisas-37 99.3% positive (687)
+                - generic [ref=e969]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading [level=6]:
+                          - generic [ref=e970]: Sponsored
+          - listitem [ref=e971]:
+            - generic [ref=e972]:
+              - generic [ref=e974]:
+                - link "7 Hand-Sewn Leather Wallets Japanese Craft Book" [ref=e978] [cursor=pointer]:
+                  - /url: https://www.ebay.com/itm/277400464072?_skw=mens+leather+wallet&itmmeta=01KJEVRVXPERPBM0QT83HCV26M&hash=item40965b2ac8:g:ahQAAeSw7aVo04kr&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBq%2F8Uaf%2FU6YTn2F3EDYt1BnPwf%2FXTjDllhzJyijBb1ty%2BbOOIO0o2m6JJWFCtwQrv6Jl5oALTLeB%2B%2FScMNKAe%2FYzhEyFNWggFjF5XX%2FoAcrsPptMQxeXOswD5elVgeyjAIGFiHXAanszh83ndP7dOQTPgUjSqZNgr3EubHzt%2BbZVfjHRSu0KusTxGKFEgLwJ7RX7XRY4tlz0H3w9Eii6gZHuo%2BbCmI03K2EOlVEnKg93yj6M3E3VlLWjThZkli42IsMrIWRu0V6uO5MWa80iWV06%2BvViowTLeQMv6Vb7H48g%3D%3D%7Ctkp%3ABk9SR4q_49uTZw
+                  - img "7 Hand-Sewn Leather Wallets Japanese Craft Book"
+                - link "watch 7 Hand-Sewn Leather Wallets Japanese Craft Book" [ref=e980] [cursor=pointer]:
+                  - /url: https://www.ebay.com/myb/WatchListAdd?item=277400464072&pt=null&srt=01000b000000502d0a712342936152cd0a0bdd800ebbd50ed9d84ce7b5553b7c003da8c81eff615b749813cf8e5de0081b4dfec0453d92c02683b1f27bcf74183471195e6925f8384d50cf04cc2a4ba5f0f050835392fe&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D267%26_from%3DR40
+                  - generic [ref=e981]:
+                    - img
+              - generic [ref=e982]:
+                - generic [ref=e983]:
+                  - link "7 Hand-Sewn Leather Wallets Japanese Craft Book Opens in a new window or tab" [ref=e984] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/277400464072?_skw=mens+leather+wallet&itmmeta=01KJEVRVXPERPBM0QT83HCV26M&hash=item40965b2ac8:g:ahQAAeSw7aVo04kr&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBq%2F8Uaf%2FU6YTn2F3EDYt1BnPwf%2FXTjDllhzJyijBb1ty%2BbOOIO0o2m6JJWFCtwQrv6Jl5oALTLeB%2B%2FScMNKAe%2FYzhEyFNWggFjF5XX%2FoAcrsPptMQxeXOswD5elVgeyjAIGFiHXAanszh83ndP7dOQTPgUjSqZNgr3EubHzt%2BbZVfjHRSu0KusTxGKFEgLwJ7RX7XRY4tlz0H3w9Eii6gZHuo%2BbCmI03K2EOlVEnKg93yj6M3E3VlLWjThZkli42IsMrIWRu0V6uO5MWa80iWV06%2BvViowTLeQMv6Vb7H48g%3D%3D%7Ctkp%3ABk9SR4q_49uTZw
+                    - heading "7 Hand-Sewn Leather Wallets Japanese Craft Book Opens in a new window or tab" [level=3] [ref=e985]:
+                      - text: 7 Hand-Sewn Leather Wallets Japanese Craft Book
+                      - generic [ref=e986]: Opens in a new window or tab
+                  - generic [ref=e988]: Brand New
+                - generic [ref=e989]:
+                  - generic [ref=e990]:
+                    - generic [ref=e991]: $55.10
+                    - generic [ref=e992]: Buy It Now
+                    - generic [ref=e993]: Free International Shipping
+                    - generic [ref=e994]: Located in Japan
+                  - generic [ref=e996]: japancraftbook 100% positive (326)
+                - generic [ref=e997]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading [level=6]:
+                          - generic [ref=e998]: Sponsored
+          - listitem [ref=e999]:
+            - generic [ref=e1000]:
+              - generic [ref=e1002]:
+                - link "Making of Leather Wallet Hand Sewing Leathercraft Book" [ref=e1006] [cursor=pointer]:
+                  - /url: https://www.ebay.com/itm/266927843722?_skw=mens+leather+wallet&itmmeta=01KJEVRVXPJMGWJXZGMKKSGYCT&hash=item3e2623a98a:g:49MAAOSwZnNmqJCV&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCcvDSw9SKc3keAfSJmYcAZ1k8Y%2BXFvlNmMufWCrK%2FlHCYMe5lQ2R4NhpkMoqZYMC9kEMVbmuKAxd1rZSala2gW8Cs4T5fgzPEkTIc0iZkoRWT57CnZ9Bx%2FIiC37O2bY1VVO1RK%2B8VWnyG5d5oVug80YetCdqva6iCwgQda8fY5Ql4i9olQbTLuaxXckDU93bHF%2Fuf%2BXVBTtUP6kacPCctCSCOTPiRstFAtDdCdVvtrquCsL5NC%2FpCtaEsfBdD3lXjbYddg4zP45kC2QqwssTjy746HH%2BmGr4G3e3BRc7neJg%3D%3D%7Ctkp%3ABk9SR4q_49uTZw
+                  - img "Making of Leather Wallet Hand Sewing Leathercraft Book"
+                - link "watch Making of Leather Wallet Hand Sewing Leathercraft Book" [ref=e1008] [cursor=pointer]:
+                  - /url: https://www.ebay.com/myb/WatchListAdd?item=266927843722&pt=null&srt=01000b00000050601d447ddcf5574e2d766dec312da20b54499208504ac3df1aa15c2a74398149b97f3ca914f7b88a944b76442fb6030c89daedcf88d4419513dc08d4830129c87f833c2518dd0f1dedfd79542d2c1c49&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D267%26_from%3DR40
+                  - generic [ref=e1009]:
+                    - img
+              - generic [ref=e1010]:
+                - generic [ref=e1011]:
+                  - link "Making of Leather Wallet Hand Sewing Leathercraft Book Opens in a new window or tab" [ref=e1012] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/266927843722?_skw=mens+leather+wallet&itmmeta=01KJEVRVXPJMGWJXZGMKKSGYCT&hash=item3e2623a98a:g:49MAAOSwZnNmqJCV&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCcvDSw9SKc3keAfSJmYcAZ1k8Y%2BXFvlNmMufWCrK%2FlHCYMe5lQ2R4NhpkMoqZYMC9kEMVbmuKAxd1rZSala2gW8Cs4T5fgzPEkTIc0iZkoRWT57CnZ9Bx%2FIiC37O2bY1VVO1RK%2B8VWnyG5d5oVug80YetCdqva6iCwgQda8fY5Ql4i9olQbTLuaxXckDU93bHF%2Fuf%2BXVBTtUP6kacPCctCSCOTPiRstFAtDdCdVvtrquCsL5NC%2FpCtaEsfBdD3lXjbYddg4zP45kC2QqwssTjy746HH%2BmGr4G3e3BRc7neJg%3D%3D%7Ctkp%3ABk9SR4q_49uTZw
+                    - heading "Making of Leather Wallet Hand Sewing Leathercraft Book Opens in a new window or tab" [level=3] [ref=e1013]:
+                      - text: Making of Leather Wallet Hand Sewing Leathercraft Book
+                      - generic [ref=e1014]: Opens in a new window or tab
+                  - generic [ref=e1016]: Pre-Owned
+                - generic [ref=e1017]:
+                  - generic [ref=e1018]:
+                    - generic [ref=e1019]: $37.00
+                    - generic [ref=e1020]: Buy It Now
+                    - generic [ref=e1021]: +$9.00 delivery
+                    - generic [ref=e1022]: Located in Japan
+                    - generic [ref=e1023]: Free returns
+                    - generic [ref=e1024]: Last one
+                    - generic [ref=e1025]: 9 watchers
+                  - generic [ref=e1027]: wagocoro365 99.9% positive (3.1K)
+                - generic [ref=e1028]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading [level=6]:
+                          - generic [ref=e1029]: Sponsored
+          - listitem [ref=e1030]:
+            - generic [ref=e1031]:
+              - generic [ref=e1033]:
+                - link "Diesel Diesel FIFTY Leather Wallet Unisex" [ref=e1037] [cursor=pointer]:
+                  - /url: https://www.ebay.com/itm/376931026300?_skw=mens+leather+wallet&itmmeta=01KJEVRVXP61J5TD9HEH6Y9EYP&hash=item57c2d7057c:g:kdMAAeSwBEJpgvpy&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDwW8%2Bu99vrvQozc9fKMM2CfGojSVrS7c4CsjTXRYqJrKlsaaObVqNgvze6arSDGJ%2FdLtAaVzDc5%2FMNYj4RKN9%2BLYhi0q%2BzAjPgVgLyHiPv2j%2BgEZcWFU%2Bkvy4FMQ88g2d49rk7QYHb4QskqrRU%2FmJx0Cbu5e%2Biv1wKmSbpgtTa3sB%2FIVy3f2KCnJE4pLWjzvlCi4qRkEscSOe7q0LusH1EeEg5YiBh0%2B4o24%2FoVfvS2Mg5NL5scVrTFecuDXsrMirWuBvy8mSbheRCxuAAWhb48c2oqtg4Fw3AY1lAMlKckA%3D%3D%7Ctkp%3ABk9SR4q_49uTZw
+                  - img "Diesel Diesel FIFTY Leather Wallet Unisex"
+                - link "watch Diesel Diesel FIFTY Leather Wallet Unisex" [ref=e1039] [cursor=pointer]:
+                  - /url: https://www.ebay.com/myb/WatchListAdd?item=376931026300&pt=null&srt=01000b00000050cf64c2f8a9cd930505579baf38ff9d448e170e91006ce0b1109bcc338d5b2219528fe4c27b445236f51a4849fb1033703cbe164b022865f94c814afac52f55f0b2c38c57a4410f573dff46526438bc63&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D267%26_from%3DR40
+                  - generic [ref=e1040]:
+                    - img
+              - generic [ref=e1041]:
+                - generic [ref=e1042]:
+                  - link "Diesel Diesel FIFTY Leather Wallet Unisex Opens in a new window or tab" [ref=e1043] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/376931026300?_skw=mens+leather+wallet&itmmeta=01KJEVRVXP61J5TD9HEH6Y9EYP&hash=item57c2d7057c:g:kdMAAeSwBEJpgvpy&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDwW8%2Bu99vrvQozc9fKMM2CfGojSVrS7c4CsjTXRYqJrKlsaaObVqNgvze6arSDGJ%2FdLtAaVzDc5%2FMNYj4RKN9%2BLYhi0q%2BzAjPgVgLyHiPv2j%2BgEZcWFU%2Bkvy4FMQ88g2d49rk7QYHb4QskqrRU%2FmJx0Cbu5e%2Biv1wKmSbpgtTa3sB%2FIVy3f2KCnJE4pLWjzvlCi4qRkEscSOe7q0LusH1EeEg5YiBh0%2B4o24%2FoVfvS2Mg5NL5scVrTFecuDXsrMirWuBvy8mSbheRCxuAAWhb48c2oqtg4Fw3AY1lAMlKckA%3D%3D%7Ctkp%3ABk9SR4q_49uTZw
+                    - heading "Diesel Diesel FIFTY Leather Wallet Unisex Opens in a new window or tab" [level=3] [ref=e1044]:
+                      - text: Diesel Diesel FIFTY Leather Wallet Unisex
+                      - generic [ref=e1045]: Opens in a new window or tab
+                  - generic [ref=e1047]: New (Other)
+                - generic [ref=e1048]:
+                  - generic [ref=e1049]:
+                    - generic [ref=e1050]:
+                      - text: $239.74
+                      - text: $266.38
+                    - generic [ref=e1051]: or Best Offer
+                    - generic [ref=e1052]: +$15.00 delivery
+                    - generic [ref=e1053]: Located in Japan
+                  - generic [ref=e1055]: rk-compass 100% positive (384)
+                - generic [ref=e1056]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading [level=6]:
+                          - generic [ref=e1057]: Sponsored
+          - listitem [ref=e1058]:
+            - generic [ref=e1059]:
+              - link "Genuine Leather Magic Wallet Slim Credit Card Bill fold Note Holder" [ref=e1065] [cursor=pointer]:
+                - /url: https://www.ebay.com/itm/135560426229?_skw=mens+leather+wallet&itmmeta=01KJEVRVXPWN3AVW7ET9MT4SXJ&hash=item1f9007f2f5:g:X~gAAOSwBORlUKD1&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xA24rel42%2BkUClga21v1Y6ic21hQRnOJ9ri5rxfWvO5W8XUCUWspRpGUyZOjwXkGJ6J%2B7Ww1fG6npYqJHtW9XaUmnT06nKoHxmS4g4hFi7fw8NOYZaAff3b83TpVmzeIZ3meMzrXIMwrFcD9i%2B7m%2F25Ar7wufDqTnePGUXPzZKXQ2cmYIvGSKwkUg1V1hZuDrxkJ7%2Fyq2mJtfYzEDWc1Jgm9ipnG2mffrULjb0xorzjrjvV3rDIaKaGYR%2FtIH%2FPBaFq58zJQw51YL9%2FNdswHtT4Em%2BO%2FnurE3W5n3SJbKLzXw%3D%3D%7Ctkp%3ABk9SR4q_49uTZw
+                - img "Genuine Leather Magic Wallet Slim Credit Card Bill fold Note Holder"
+              - generic [ref=e1066]:
+                - generic [ref=e1067]:
+                  - link "Genuine Leather Magic Wallet Slim Credit Card Bill fold Note Holder Opens in a new window or tab" [ref=e1068] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/135560426229?_skw=mens+leather+wallet&itmmeta=01KJEVRVXPWN3AVW7ET9MT4SXJ&hash=item1f9007f2f5:g:X~gAAOSwBORlUKD1&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xA24rel42%2BkUClga21v1Y6ic21hQRnOJ9ri5rxfWvO5W8XUCUWspRpGUyZOjwXkGJ6J%2B7Ww1fG6npYqJHtW9XaUmnT06nKoHxmS4g4hFi7fw8NOYZaAff3b83TpVmzeIZ3meMzrXIMwrFcD9i%2B7m%2F25Ar7wufDqTnePGUXPzZKXQ2cmYIvGSKwkUg1V1hZuDrxkJ7%2Fyq2mJtfYzEDWc1Jgm9ipnG2mffrULjb0xorzjrjvV3rDIaKaGYR%2FtIH%2FPBaFq58zJQw51YL9%2FNdswHtT4Em%2BO%2FnurE3W5n3SJbKLzXw%3D%3D%7Ctkp%3ABk9SR4q_49uTZw
+                    - heading "Genuine Leather Magic Wallet Slim Credit Card Bill fold Note Holder Opens in a new window or tab" [level=3] [ref=e1069]:
+                      - text: Genuine Leather Magic Wallet Slim Credit Card Bill fold Note Holder
+                      - generic [ref=e1070]: Opens in a new window or tab
+                  - generic [ref=e1072]: Brand New
+                - generic [ref=e1073]:
+                  - generic [ref=e1074]:
+                    - generic [ref=e1075]:
+                      - text: $15.42
+                      - text: $17.13
+                    - generic [ref=e1076]: Buy It Now
+                    - generic [ref=e1077]: +$24.42 delivery
+                    - generic [ref=e1078]: Located in United States
+                  - generic [ref=e1080]: icycoolproduct 98.5% positive (77.6K)
+                - generic [ref=e1081]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading "Sponsored" [level=6]:
+                          - generic [ref=e1082]: Sponsored
+          - listitem [ref=e1083]:
+            - generic [ref=e1084]:
+              - generic [ref=e1086]:
+                - link "SNOOPY Compact Genuine Leather Wallet BOOK Japanese Craft Book^" [ref=e1090] [cursor=pointer]:
+                  - /url: https://www.ebay.com/itm/286750869117?_skw=mens+leather+wallet&itmmeta=01KJEVRVXP5J2M1FBJ2WPZ2QTQ&hash=item42c3af067d:g:yxIAAeSw6shokv0q&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xB0SG7JAYl%2FrPnK4bBmY7YCyoz%2FS7dCj%2Fg%2BjO3mfKkh1TmdbiK%2FHN%2BCxYllXAcRoE0hrGRrB0eygIv4Ixro4MJhMko3eER4%2B8M0%2FBjR1wj%2FhOKWp00rIzmjxuQeyuIs0CGhpypKj1cqcqdOg9ZlmfZAJtvWZ1MupvfJh3JqFU%2BC8Wsb%2BnR4ZNwldnwXwnKB1ycw2juiMw5xvw2m49jq3sbmDhryOu4CzqTXm746Pie%2BQOYpJYPfQFuUUxKFkWFoaRxpjvHmd6ZTBfca5FLH5vV4RYSWYkDFXX0Hbe%2FFrmrEAA%3D%3D%7Ctkp%3ABk9SR4q_49uTZw
+                  - img "SNOOPY Compact Genuine Leather Wallet BOOK Japanese Craft Book^"
+                - link "watch SNOOPY Compact Genuine Leather Wallet BOOK Japanese Craft Book^" [ref=e1092] [cursor=pointer]:
+                  - /url: https://www.ebay.com/myb/WatchListAdd?item=286750869117&pt=null&srt=01000b0000005030ca5964e0781155610db6752787fa6d42721a5302c0bce164c51eaa299806cd2f70dbfdf9beec020e5d5443d80b78aa611ebd98c0c9d6ec7c1343103193c4e8b9c9f7a3d7ff2c3ca652519fbee9ccfa&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D267%26_from%3DR40
+                  - generic [ref=e1093]:
+                    - img
+              - generic [ref=e1094]:
+                - generic [ref=e1095]:
+                  - link "SNOOPY Compact Genuine Leather Wallet BOOK Japanese Craft Book^ Opens in a new window or tab" [ref=e1096] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/286750869117?_skw=mens+leather+wallet&itmmeta=01KJEVRVXP5J2M1FBJ2WPZ2QTQ&hash=item42c3af067d:g:yxIAAeSw6shokv0q&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xB0SG7JAYl%2FrPnK4bBmY7YCyoz%2FS7dCj%2Fg%2BjO3mfKkh1TmdbiK%2FHN%2BCxYllXAcRoE0hrGRrB0eygIv4Ixro4MJhMko3eER4%2B8M0%2FBjR1wj%2FhOKWp00rIzmjxuQeyuIs0CGhpypKj1cqcqdOg9ZlmfZAJtvWZ1MupvfJh3JqFU%2BC8Wsb%2BnR4ZNwldnwXwnKB1ycw2juiMw5xvw2m49jq3sbmDhryOu4CzqTXm746Pie%2BQOYpJYPfQFuUUxKFkWFoaRxpjvHmd6ZTBfca5FLH5vV4RYSWYkDFXX0Hbe%2FFrmrEAA%3D%3D%7Ctkp%3ABk9SR4q_49uTZw
+                    - heading "SNOOPY Compact Genuine Leather Wallet BOOK Japanese Craft Book^ Opens in a new window or tab" [level=3] [ref=e1097]:
+                      - text: SNOOPY Compact Genuine Leather Wallet BOOK Japanese Craft Book^
+                      - generic [ref=e1098]: Opens in a new window or tab
+                  - generic [ref=e1100]: Brand New
+                - generic [ref=e1101]:
+                  - generic [ref=e1102]:
+                    - generic [ref=e1103]: $52.40
+                    - generic [ref=e1104]: Buy It Now
+                    - generic [ref=e1105]: Free International Shipping
+                    - generic [ref=e1106]: Located in Japan
+                  - generic [ref=e1108]: japancraftbook 100% positive (326)
+                - generic [ref=e1109]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading "Sponsored" [level=6]:
+                          - generic [ref=e1110]: Sponsored
+          - listitem [ref=e1111]:
+            - generic [ref=e1112]:
+              - generic [ref=e1114]:
+                - link "Moleskine Zip Wallet, Payne's Grey New" [ref=e1118] [cursor=pointer]:
+                  - /url: https://www.ebay.com/itm/156958088648?_skw=mens+leather+wallet&itmmeta=01KJEVRVXP254HTMVT5AXAFBAP&hash=item248b6e5dc8:g:wIYAAeSwc9FoGJZT&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAXhv6IHAGNBqDh3SpInBPdWxpgqxrSNbJFraYnqb6ksLAnmEDj1fdJAbezNP8O89dM0ZW%2B9kKl%2B%2BUfNIfHy%2BenpOm%2BRNFTHg7eZLbl6XUiTNRqJzo3SzQ7V0WCqw0jIFNtASbA6Sdv%2FqPzPc3vQ95zguNcPb1oCVeXq%2BWUMsodaPR8pg5OjvkmmT75kNbICZH2wfoA0AT5bbyd48HctA%2BT3MURtNmtn%2Fhimk6y4TBGZdytfS%2B1KnFJ%2B4YJyKpe67ElhHFzCXM2vnAVXTZjdnISlojo4RgzvvuB9438WEQ5Nw%3D%3D%7Ctkp%3ABk9SR4q_49uTZw
+                  - img "Moleskine Zip Wallet, Payne's Grey New"
+                - link "watch Moleskine Zip Wallet, Payne's Grey New" [ref=e1120] [cursor=pointer]:
+                  - /url: https://www.ebay.com/myb/WatchListAdd?item=156958088648&pt=null&srt=01000b00000050a6df8e95ab93e08ad0c5acba09ea1e949ae40e5b09aa14c8675e153ae737605d9af0b61eea0cbd86c0336b2a62707abb02c1c94e3f17d218f8d90265da40ffc4c633b2a2fe50356302fdbb0ecec047c3&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D267%26_from%3DR40
+                  - generic [ref=e1121]:
+                    - img
+              - generic [ref=e1122]:
+                - generic [ref=e1123]:
+                  - link "Moleskine Zip Wallet, Payne's Grey New Opens in a new window or tab" [ref=e1124] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/156958088648?_skw=mens+leather+wallet&itmmeta=01KJEVRVXP254HTMVT5AXAFBAP&hash=item248b6e5dc8:g:wIYAAeSwc9FoGJZT&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAXhv6IHAGNBqDh3SpInBPdWxpgqxrSNbJFraYnqb6ksLAnmEDj1fdJAbezNP8O89dM0ZW%2B9kKl%2B%2BUfNIfHy%2BenpOm%2BRNFTHg7eZLbl6XUiTNRqJzo3SzQ7V0WCqw0jIFNtASbA6Sdv%2FqPzPc3vQ95zguNcPb1oCVeXq%2BWUMsodaPR8pg5OjvkmmT75kNbICZH2wfoA0AT5bbyd48HctA%2BT3MURtNmtn%2Fhimk6y4TBGZdytfS%2B1KnFJ%2B4YJyKpe67ElhHFzCXM2vnAVXTZjdnISlojo4RgzvvuB9438WEQ5Nw%3D%3D%7Ctkp%3ABk9SR4q_49uTZw
+                    - heading "Moleskine Zip Wallet, Payne's Grey New Opens in a new window or tab" [level=3] [ref=e1125]:
+                      - text: Moleskine Zip Wallet, Payne's Grey New
+                      - generic [ref=e1126]: Opens in a new window or tab
+                  - generic [ref=e1128]: Brand New
+                - generic [ref=e1129]:
+                  - generic [ref=e1130]:
+                    - generic [ref=e1131]: $36.00
+                    - generic [ref=e1132]: or Best Offer
+                    - generic [ref=e1133]: +$25.35 delivery
+                    - generic [ref=e1134]: Located in United States
+                    - generic [ref=e1135]: 7 watchers
+                  - generic [ref=e1137]: richnrickservices 99.3% positive (484)
+                - generic [ref=e1138]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading [level=6]:
+                          - generic [ref=e1139]: Sponsored
+          - listitem [ref=e1140]:
+            - generic [ref=e1141]:
+              - generic [ref=e1143]:
+                - link "1855 Masonic Text-book ; Jeremy L Cross leather wallet pocket size AS-IS antique" [ref=e1147] [cursor=pointer]:
+                  - /url: https://www.ebay.com/itm/326785960209?_skw=mens+leather+wallet&itmmeta=01KJEVRVXPEG5EVCNJA0QPX7BE&hash=item4c15f60911:g:I1wAAeSw6jNo0tJO&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBwtAJxh2%2BGL%2FhuiR4W%2BAxNaqZctb0YfFmoBmKyWck4hlbol4rN8O%2BE2u4ue4qnkx%2B9ZYt0heP%2FR2umhgYuia4opkCF%2BXaUpO5EMr7KsNvEU4JTyUEIPRdnznrW%2FHrUR%2FWj9QnHMvT%2FY8lRowNZa%2FMtnXo3Sr7aH4s2Xs1LYOC%2BJgqQ2qG6WJYRKnlthiubH0AwUND8dgE%2FBeQnjX5bB%2BckfNmpZcHPcP%2B9enbpwI9W34FFxhRS8zVEaHRlJKYF0M8bdwy9ZVhXpTtfa10GzTTucKIfHLv6QGh%2BnwFuZEw1dA%3D%3D%7Ctkp%3ABk9SR4q_49uTZw
+                  - img "1855 Masonic Text-book ; Jeremy L Cross leather wallet pocket size AS-IS antique"
+                - link "watch 1855 Masonic Text-book ; Jeremy L Cross leather wallet pocket size AS-IS antique" [ref=e1149] [cursor=pointer]:
+                  - /url: https://www.ebay.com/myb/WatchListAdd?item=326785960209&pt=null&srt=01000b00000050a18fa9a68741fa1d3de4e13d4719ac036c6cad5c93c7fe7b1242d8e496dbf59aff7ac04c40ef8e9b8151d1e15e6c0df08897e7c5c18deb807d30502034a9ec31d5f1d39338f06eaed883cada0e02bc73&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D267%26_from%3DR40
+                  - generic [ref=e1150]:
+                    - img
+              - generic [ref=e1151]:
+                - link "1855 Masonic Text-book ; Jeremy L Cross leather wallet pocket size AS-IS antique Opens in a new window or tab" [ref=e1153] [cursor=pointer]:
+                  - /url: https://www.ebay.com/itm/326785960209?_skw=mens+leather+wallet&itmmeta=01KJEVRVXPEG5EVCNJA0QPX7BE&hash=item4c15f60911:g:I1wAAeSw6jNo0tJO&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBwtAJxh2%2BGL%2FhuiR4W%2BAxNaqZctb0YfFmoBmKyWck4hlbol4rN8O%2BE2u4ue4qnkx%2B9ZYt0heP%2FR2umhgYuia4opkCF%2BXaUpO5EMr7KsNvEU4JTyUEIPRdnznrW%2FHrUR%2FWj9QnHMvT%2FY8lRowNZa%2FMtnXo3Sr7aH4s2Xs1LYOC%2BJgqQ2qG6WJYRKnlthiubH0AwUND8dgE%2FBeQnjX5bB%2BckfNmpZcHPcP%2B9enbpwI9W34FFxhRS8zVEaHRlJKYF0M8bdwy9ZVhXpTtfa10GzTTucKIfHLv6QGh%2BnwFuZEw1dA%3D%3D%7Ctkp%3ABk9SR4q_49uTZw
+                  - heading "1855 Masonic Text-book ; Jeremy L Cross leather wallet pocket size AS-IS antique Opens in a new window or tab" [level=3] [ref=e1154]:
+                    - text: 1855 Masonic Text-book ; Jeremy L Cross leather wallet pocket size AS-IS antique
+                    - generic [ref=e1155]: Opens in a new window or tab
+                - generic [ref=e1156]:
+                  - generic [ref=e1157]:
+                    - generic [ref=e1158]: $199.99
+                    - generic [ref=e1159]: Buy It Now
+                    - generic [ref=e1160]: +$37.72 delivery
+                    - generic [ref=e1161]: Located in United States
+                    - generic [ref=e1162]: 10 watchers
+                  - generic [ref=e1164]: ap197 100% positive (3.9K)
+                - generic [ref=e1165]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading [level=6]:
+                          - generic [ref=e1166]: Sponsored
+          - listitem [ref=e1167]:
+            - generic [ref=e1168]:
+              - generic [ref=e1170]:
+                - link "A man and his money, by Harvey Reeves Calkins ... under the ausp [Leather Bound]" [ref=e1174] [cursor=pointer]:
+                  - /url: https://www.ebay.com/itm/305937335077?_skw=mens+leather+wallet&itmmeta=01KJEVRVXP8XHN07AGMHB3J6HE&hash=item473b494325:g:ukoAAOSwSYNnP0XL&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAZ65RITsnikrHZhto1zh4MP2OWE6%2FUnadlXA76vdq2RHKXtu2kE9On7GcjoA3s3K34DRZvCpnq87Iz74eeSkbyAbevYJqCfv%2Fx2eRiF6vexiUCeau3rp%2FT6bBN4JbGsEQ9k6qE7eV5%2Fw5r5eyPA%2FeQ31Y1Jrq7yZDnQs9wKlcNQef88RqfbytN%2BAHHDIuu2y52AokmY1VDla%2FCF9ZBg65miaDUvmmsJIvdYe9TuYoTzAeJhvhQsVaOqYE78U5TNANmT3gzdq4QRImD5DSsEF5ff1frr4bmVk%2Fxc2WUl4dbbA%3D%3D%7Ctkp%3ABFBMjL_j25Nn
+                  - img "A man and his money, by Harvey Reeves Calkins ... under the ausp [Leather Bound]"
+                - link "watch A man and his money, by Harvey Reeves Calkins ... under the ausp [Leather Bound]" [ref=e1176] [cursor=pointer]:
+                  - /url: https://www.ebay.com/myb/WatchListAdd?item=305937335077&pt=null&srt=01000b0000005008c9423d9144def3ca55b6dd6c0e80aba48980f579657d898603db5934249b8a340dc7d65de929515772628816f450f20095aa14f44649a1660b932763f8eb609976fa2902ab455fefb0741dce1509ce&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D267%26_from%3DR40
+                  - generic [ref=e1177]:
+                    - img
+              - generic [ref=e1178]:
+                - generic [ref=e1179]:
+                  - link "A man and his money, by Harvey Reeves Calkins ... under the ausp [Leather Bound] Opens in a new window or tab" [ref=e1180] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/305937335077?_skw=mens+leather+wallet&itmmeta=01KJEVRVXP8XHN07AGMHB3J6HE&hash=item473b494325:g:ukoAAOSwSYNnP0XL&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAZ65RITsnikrHZhto1zh4MP2OWE6%2FUnadlXA76vdq2RHKXtu2kE9On7GcjoA3s3K34DRZvCpnq87Iz74eeSkbyAbevYJqCfv%2Fx2eRiF6vexiUCeau3rp%2FT6bBN4JbGsEQ9k6qE7eV5%2Fw5r5eyPA%2FeQ31Y1Jrq7yZDnQs9wKlcNQef88RqfbytN%2BAHHDIuu2y52AokmY1VDla%2FCF9ZBg65miaDUvmmsJIvdYe9TuYoTzAeJhvhQsVaOqYE78U5TNANmT3gzdq4QRImD5DSsEF5ff1frr4bmVk%2Fxc2WUl4dbbA%3D%3D%7Ctkp%3ABFBMjL_j25Nn
+                    - heading "A man and his money, by Harvey Reeves Calkins ... under the ausp [Leather Bound] Opens in a new window or tab" [level=3] [ref=e1181]:
+                      - text: A man and his money, by Harvey Reeves Calkins ... under the ausp [Leather Bound]
+                      - generic [ref=e1182]: Opens in a new window or tab
+                  - generic [ref=e1184]: Brand New
+                - generic [ref=e1185]:
+                  - generic [ref=e1186]:
+                    - generic [ref=e1187]:
+                      - text: $88.62
+                      - text: $98.47
+                    - generic [ref=e1188]: or Best Offer
+                    - generic [ref=e1189]: Free International Shipping
+                    - generic [ref=e1190]: Located in India
+                    - generic [ref=e1191]: Free returns
+                  - generic [ref=e1193]: gyan_books 98.5% positive (5.2K)
+                - generic [ref=e1194]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading "Sponsored" [level=6]:
+                          - generic [ref=e1195]: Sponsored
+          - listitem [ref=e1196]:
+            - generic [ref=e1197]:
+              - generic [ref=e1199]:
+                - link "notebook notes book jacket cover wallet card case bag cow leather black H744" [ref=e1203] [cursor=pointer]:
+                  - /url: https://www.ebay.com/itm/125880296870?_skw=mens+leather+wallet&itmmeta=01KJEVRVXPYXZMCAAC47MWEBWC&hash=item1d4f0ce5a6:g:n7wAAOSwQIhkN5tx&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCLjoRkFqeuwKDZ18tTR6JNKBv%2BSJC0OSV2rn30OX3UVOruOLwPLlkrtkW2XIb%2FFca3KBV5mFIleBp09lX%2FGOVTKtr3Y1wHOAWatH5hCFA7kqvCoriKHYYS%2FAGJViMWEdjxWJdmymbOxNSiVZ4hu%2F8HiyL8zp3plAtcpT0%2BbI%2FxI16VnXUIS734Q4ow%2BUxV5XT4QdIL0tprWwRfnKHBmYosqVaKptkRWHuq8LIVtNNfgvRN9qTJ0F6ggEQghdGLe7uDPXDNm4fn7pido2U2w8Kmps8KELkeVIPTNlX3g3h%2Brw%3D%3D%7Ctkp%3ABFBMjL_j25Nn
+                  - img "notebook notes book jacket cover wallet card case bag cow leather black H744"
+                - link "watch notebook notes book jacket cover wallet card case bag cow leather black H744" [ref=e1205] [cursor=pointer]:
+                  - /url: https://www.ebay.com/myb/WatchListAdd?item=125880296870&pt=null&srt=01000b00000050c2ca260678608635177476188da94990bcf0662ae5eb5605c643c045208d7b93d48f3607a2e1c47ad2d23fa7d9c3b537b8ac4a65edbb220d5b07db7048bc863dc49ff0ba2f46104f5a53b9d3195e4340&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D267%26_from%3DR40
+                  - generic [ref=e1206]:
+                    - img
+              - generic [ref=e1207]:
+                - generic [ref=e1208]:
+                  - link "notebook notes book jacket cover wallet card case bag cow leather black H744 Opens in a new window or tab" [ref=e1209] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/125880296870?_skw=mens+leather+wallet&itmmeta=01KJEVRVXPYXZMCAAC47MWEBWC&hash=item1d4f0ce5a6:g:n7wAAOSwQIhkN5tx&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCLjoRkFqeuwKDZ18tTR6JNKBv%2BSJC0OSV2rn30OX3UVOruOLwPLlkrtkW2XIb%2FFca3KBV5mFIleBp09lX%2FGOVTKtr3Y1wHOAWatH5hCFA7kqvCoriKHYYS%2FAGJViMWEdjxWJdmymbOxNSiVZ4hu%2F8HiyL8zp3plAtcpT0%2BbI%2FxI16VnXUIS734Q4ow%2BUxV5XT4QdIL0tprWwRfnKHBmYosqVaKptkRWHuq8LIVtNNfgvRN9qTJ0F6ggEQghdGLe7uDPXDNm4fn7pido2U2w8Kmps8KELkeVIPTNlX3g3h%2Brw%3D%3D%7Ctkp%3ABFBMjL_j25Nn
+                    - heading "notebook notes book jacket cover wallet card case bag cow leather black H744 Opens in a new window or tab" [level=3] [ref=e1210]:
+                      - text: notebook notes book jacket cover wallet card case bag cow leather black H744
+                      - generic [ref=e1211]: Opens in a new window or tab
+                  - generic [ref=e1213]: Brand New
+                - generic [ref=e1214]:
+                  - generic [ref=e1215]:
+                    - generic [ref=e1216]: $9.90
+                    - generic [ref=e1217]: Buy It Now
+                    - generic [ref=e1218]: +$9.90 delivery
+                    - generic [ref=e1219]: Located in China
+                  - generic [ref=e1221]: sunnyzone25 97.6% positive (1.4K)
+                - generic [ref=e1222]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading "Sponsored" [level=6]:
+                          - generic [ref=e1223]: Sponsored
+          - listitem [ref=e1224]:
+            - generic [ref=e1225]:
+              - generic [ref=e1227]:
+                - link "A Guide to Making a Leather Wallet - A Collection of Historical Articles on Desi" [ref=e1231] [cursor=pointer]:
+                  - /url: https://www.ebay.com/itm/317801732969?_skw=mens+leather+wallet&epid=248881398&itmmeta=01KJEVRVXP1XS568VSGFDB04JC&hash=item49fe759b69:g:iS4AAeSwHWhpNX-R&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xAdJUZK9sHOdj7l041Ks2jXy3oXYE3p%2Bo9zrgOOdjUIlL0PoMH8FhlrWsu6B3CXX26UXVMnKrSwlQNSvZUEZ0QpQBJNlJY6Dhm59Cmo%2FP8WDhbehLmlR%2FtYpr1p%2BGAn71APcC%2F7lGbavt7HZL8sV9fTUhDDbxdprYfh9sLyFb%2FF0xU1pEALK4tsVtrp6V9W6a9Jq3wEzaC%2BEmBcPdcBYCsF29c1Dl771%2FWr5xSEZT3fhYYN9BbpdHj13TFlrhMBEiM%3D%7Ctkp%3ABk9SR4y_49uTZw
+                  - img "A Guide to Making a Leather Wallet - A Collection of Historical Articles on Desi"
+                - link "watch A Guide to Making a Leather Wallet - A Collection of Historical Articles on Desi" [ref=e1233] [cursor=pointer]:
+                  - /url: https://www.ebay.com/myb/WatchListAdd?item=317801732969&pt=null&srt=01000b000000507ce468414d2fe696f36ef7d61faa8a81d5c1208803bdc2c07f3df0511a7876a94485fff48ef89553a21481210f4304ee212dabfec0e489901b4da9a6448ed89c21e27eb09eb81e5ef661b84cf572b8de&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D267%26_from%3DR40
+                  - generic [ref=e1234]:
+                    - img
+              - generic [ref=e1235]:
+                - generic [ref=e1236]:
+                  - link "A Guide to Making a Leather Wallet - A Collection of Historical Articles on Desi Opens in a new window or tab" [ref=e1237] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/317801732969?_skw=mens+leather+wallet&epid=248881398&itmmeta=01KJEVRVXP1XS568VSGFDB04JC&hash=item49fe759b69:g:iS4AAeSwHWhpNX-R&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xAdJUZK9sHOdj7l041Ks2jXy3oXYE3p%2Bo9zrgOOdjUIlL0PoMH8FhlrWsu6B3CXX26UXVMnKrSwlQNSvZUEZ0QpQBJNlJY6Dhm59Cmo%2FP8WDhbehLmlR%2FtYpr1p%2BGAn71APcC%2F7lGbavt7HZL8sV9fTUhDDbxdprYfh9sLyFb%2FF0xU1pEALK4tsVtrp6V9W6a9Jq3wEzaC%2BEmBcPdcBYCsF29c1Dl771%2FWr5xSEZT3fhYYN9BbpdHj13TFlrhMBEiM%3D%7Ctkp%3ABk9SR4y_49uTZw
+                    - heading "A Guide to Making a Leather Wallet - A Collection of Historical Articles on Desi Opens in a new window or tab" [level=3] [ref=e1238]:
+                      - text: A Guide to Making a Leather Wallet - A Collection of Historical Articles on Desi
+                      - generic [ref=e1239]: Opens in a new window or tab
+                  - generic [ref=e1241]: Brand New
+                - generic [ref=e1242]:
+                  - generic [ref=e1243]:
+                    - generic [ref=e1244]:
+                      - text: $21.47
+                      - text: $25.84
+                    - generic [ref=e1245]: Buy It Now
+                    - generic [ref=e1246]: +$17.16 delivery
+                    - generic [ref=e1247]: Located in United States
+                  - generic [ref=e1249]: bargainbookstores 99.5% positive (1.1M)
+                - generic [ref=e1250]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading [level=6]:
+                          - generic [ref=e1251]: Sponsored
+          - listitem [ref=e1252]:
+            - generic [ref=e1253]:
+              - generic [ref=e1255]:
+                - link "Hand Sewing Leathercraft for Men Leatherwork Wallet Instruction Book" [ref=e1259] [cursor=pointer]:
+                  - /url: https://www.ebay.com/itm/266927835013?_skw=mens+leather+wallet&itmmeta=01KJEVRVXP0QRPF9RFN8DA2W3C&hash=item3e26238785:g:r60AAOSwsg5mqIuF&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCLWdyY58znW7MF%2FCpGv0dnsT20R%2BF2bJ8j%2FQj6v4BY0uT4Y2jWGVEu6qrfgyFgTcVT8CkE4DKeRu1SJzQ%2Ffk8N4nDD73GVT0tQXq2eJnMsJZ4uxFPYX2DpJ4HlNLc0CNT6KR%2FN4y4amvM%2FZgAGO0HJS5Erf5zFVCsThr4FbU7GjmVRVrTJGeG%2B%2B2nTocM2j2MsJAJ8BFLF8gNGqgFQrU72jytgHfAxe15Vk6Xpm0DYD%2Bf5rUiCOrbcpo8bPgetJv4WJO8CPvWuXbfwZQ8k%2F1tYhLYTivIqcsa9kkv6mjeobg%3D%3D%7Ctkp%3ABk9SR4y_49uTZw
+                  - img "Hand Sewing Leathercraft for Men Leatherwork Wallet Instruction Book"
+                - link "watch Hand Sewing Leathercraft for Men Leatherwork Wallet Instruction Book" [ref=e1261] [cursor=pointer]:
+                  - /url: https://www.ebay.com/myb/WatchListAdd?item=266927835013&pt=null&srt=01000b0000005044b850a71fd43e2578f03fccdcc848ccc979b65106d6965bf7da5c0f9133c6d4afc5b1484487358e9797100b0de9ba9c06adf95c1a110b5d71d01a756b9a22bd5589aeeed8ed76b967a6b5cdbdecf343&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D267%26_from%3DR40
+                  - generic [ref=e1262]:
+                    - img
+              - generic [ref=e1263]:
+                - generic [ref=e1264]:
+                  - link "Hand Sewing Leathercraft for Men Leatherwork Wallet Instruction Book Opens in a new window or tab" [ref=e1265] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/266927835013?_skw=mens+leather+wallet&itmmeta=01KJEVRVXP0QRPF9RFN8DA2W3C&hash=item3e26238785:g:r60AAOSwsg5mqIuF&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCLWdyY58znW7MF%2FCpGv0dnsT20R%2BF2bJ8j%2FQj6v4BY0uT4Y2jWGVEu6qrfgyFgTcVT8CkE4DKeRu1SJzQ%2Ffk8N4nDD73GVT0tQXq2eJnMsJZ4uxFPYX2DpJ4HlNLc0CNT6KR%2FN4y4amvM%2FZgAGO0HJS5Erf5zFVCsThr4FbU7GjmVRVrTJGeG%2B%2B2nTocM2j2MsJAJ8BFLF8gNGqgFQrU72jytgHfAxe15Vk6Xpm0DYD%2Bf5rUiCOrbcpo8bPgetJv4WJO8CPvWuXbfwZQ8k%2F1tYhLYTivIqcsa9kkv6mjeobg%3D%3D%7Ctkp%3ABk9SR4y_49uTZw
+                    - heading "Hand Sewing Leathercraft for Men Leatherwork Wallet Instruction Book Opens in a new window or tab" [level=3] [ref=e1266]:
+                      - text: Hand Sewing Leathercraft for Men Leatherwork Wallet Instruction Book
+                      - generic [ref=e1267]: Opens in a new window or tab
+                  - generic [ref=e1269]: Pre-Owned
+                - generic [ref=e1270]:
+                  - generic [ref=e1271]:
+                    - generic [ref=e1272]: $27.00
+                    - generic [ref=e1273]: Buy It Now
+                    - generic [ref=e1274]: +$6.00 delivery
+                    - generic [ref=e1275]: Located in Japan
+                    - generic [ref=e1276]: Free returns
+                    - generic [ref=e1277]: Last one
+                    - generic [ref=e1278]: 6 watchers
+                  - generic [ref=e1280]: wagocoro365 99.9% positive (3.1K)
+                - generic [ref=e1281]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading "Sponsored" [level=6]:
+                          - generic [ref=e1282]: Sponsored
+          - listitem [ref=e1283]:
+            - generic [ref=e1284]:
+              - generic [ref=e1286]:
+                - link "Leather Carving Vol 6, Mens Leather Accessories" [ref=e1290] [cursor=pointer]:
+                  - /url: https://www.ebay.com/itm/147112071602?_skw=mens+leather+wallet&itmmeta=01KJEVRVXPDNXZRZBQ4MRC964W&hash=item22409011b2:g:ZEwAAeSwk69pdCGa&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDHwEUNbusxgBx0mnVBW91jpH6npE9aEusZJLPoCJk1gceqq0NNUcknPsk1TaCr0sioCIGlHN9u1T%2FL4nrmhPdczHKr5dfuexq2c4%2FSu%2BIpPTTdeV0Zu3HQpS3JlkTZdOSSNWvM0U8%2FetEHwbe6UvZyuKpuvt%2FNTtNLlv4iPvEWRsMWmUhqzi7yOPeEC%2BLnoXU7KkjaRNfoej%2F76uv4OHKyP2uz310QnDllIJkm26rP2JK5P0g%2BVcXevqy%2BCPVx8jbR3xDVghyzIumWbykRFnSWsuVxE%2B2W%2FeLIKp%2BedyXQIA%3D%3D%7Ctkp%3ABk9SR4y_49uTZw
+                  - img "Leather Carving Vol 6, Mens Leather Accessories"
+                - link "watch Leather Carving Vol 6, Mens Leather Accessories" [ref=e1292] [cursor=pointer]:
+                  - /url: https://www.ebay.com/myb/WatchListAdd?item=147112071602&pt=null&srt=01000b00000050a3b734a1dc1190749c3768baa3f5675300283ec9e76e43afe7bf1d95c53e8cd7790c78f7771898c220257369763d8628810a502c08d1cad4eb676c76bbd2ba4ff0c36c697148e110d1943dbb77ac98e0&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D267%26_from%3DR40
+                  - generic [ref=e1293]:
+                    - img
+              - generic [ref=e1294]:
+                - generic [ref=e1295]:
+                  - link "Leather Carving Vol 6, Mens Leather Accessories Opens in a new window or tab" [ref=e1296] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/147112071602?_skw=mens+leather+wallet&itmmeta=01KJEVRVXPDNXZRZBQ4MRC964W&hash=item22409011b2:g:ZEwAAeSwk69pdCGa&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDHwEUNbusxgBx0mnVBW91jpH6npE9aEusZJLPoCJk1gceqq0NNUcknPsk1TaCr0sioCIGlHN9u1T%2FL4nrmhPdczHKr5dfuexq2c4%2FSu%2BIpPTTdeV0Zu3HQpS3JlkTZdOSSNWvM0U8%2FetEHwbe6UvZyuKpuvt%2FNTtNLlv4iPvEWRsMWmUhqzi7yOPeEC%2BLnoXU7KkjaRNfoej%2F76uv4OHKyP2uz310QnDllIJkm26rP2JK5P0g%2BVcXevqy%2BCPVx8jbR3xDVghyzIumWbykRFnSWsuVxE%2B2W%2FeLIKp%2BedyXQIA%3D%3D%7Ctkp%3ABk9SR4y_49uTZw
+                    - heading "Leather Carving Vol 6, Mens Leather Accessories Opens in a new window or tab" [level=3] [ref=e1297]:
+                      - text: Leather Carving Vol 6, Mens Leather Accessories
+                      - generic [ref=e1298]: Opens in a new window or tab
+                  - generic [ref=e1300]: Pre-Owned
+                - generic [ref=e1301]:
+                  - generic [ref=e1302]:
+                    - generic [ref=e1303]: $45.00
+                    - generic [ref=e1304]: Buy It Now
+                    - generic [ref=e1305]: +$33.75 delivery
+                    - generic [ref=e1306]: Located in United States
+                  - generic [ref=e1308]: littletony2020 100% positive (1.7K)
+                - generic [ref=e1309]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading [level=6]:
+                          - generic [ref=e1310]: Sponsored
+          - listitem [ref=e1311]:
+            - generic [ref=e1312]:
+              - generic [ref=e1314]:
+                - link "VTG Holy Bible Leather Calfskin KJV Wallet Gilded Compact Undated Royal Ruby" [ref=e1318] [cursor=pointer]:
+                  - /url: https://www.ebay.com/itm/198007337872?_skw=mens+leather+wallet&itmmeta=01KJEVRVXPQ3DHABVW1R2X090X&hash=item2e1a283390:g:9ZYAAeSwhcJpXUub&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xB8wCK0FgWmKtnZLGXFoRQpsV%2BNgZHj%2F8RQX69oGuiUAwQAI07RB%2F3F14M%2FtYgfB0TwiKFg4OeIH76TKkM%2BMjjjj658APXApKYT5uRjJdaWhvLwlkGibUe5G6cr0hZR3fqwKQ8VxfKXQqYPA6oJ4pmFKkjr3AC%2FizZnnO%2FSYm88S2wpPJ1jce6GOjlJbb%2BYqrtnmGgq%2BBE5%2BR7FCZa8mV8kfKufDhUCg%2FO%2FkdjvRVNwRdrTmLyuJfGMPQcnF%2Bf2p9Q%3D%7Ctkp%3ABk9SR4y_49uTZw
+                  - img "VTG Holy Bible Leather Calfskin KJV Wallet Gilded Compact Undated Royal Ruby"
+                - link "watch VTG Holy Bible Leather Calfskin KJV Wallet Gilded Compact Undated Royal Ruby" [ref=e1320] [cursor=pointer]:
+                  - /url: https://www.ebay.com/myb/WatchListAdd?item=198007337872&pt=null&srt=01000b0000005022f0e5e7c2c0efefc5bade4b4f83789e71f92657c0c967922a5c1ddf2ce3ec893bdf337b55f7dc895aa37cdb339fd719ab1bfd8de1009b00c9065a965f9b6a8f4404a1bad998ffc369e927d125862be5&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D267%26_from%3DR40
+                  - generic [ref=e1321]:
+                    - img
+              - generic [ref=e1322]:
+                - generic [ref=e1323]:
+                  - link "VTG Holy Bible Leather Calfskin KJV Wallet Gilded Compact Undated Royal Ruby Opens in a new window or tab" [ref=e1324] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/198007337872?_skw=mens+leather+wallet&itmmeta=01KJEVRVXPQ3DHABVW1R2X090X&hash=item2e1a283390:g:9ZYAAeSwhcJpXUub&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xB8wCK0FgWmKtnZLGXFoRQpsV%2BNgZHj%2F8RQX69oGuiUAwQAI07RB%2F3F14M%2FtYgfB0TwiKFg4OeIH76TKkM%2BMjjjj658APXApKYT5uRjJdaWhvLwlkGibUe5G6cr0hZR3fqwKQ8VxfKXQqYPA6oJ4pmFKkjr3AC%2FizZnnO%2FSYm88S2wpPJ1jce6GOjlJbb%2BYqrtnmGgq%2BBE5%2BR7FCZa8mV8kfKufDhUCg%2FO%2FkdjvRVNwRdrTmLyuJfGMPQcnF%2Bf2p9Q%3D%7Ctkp%3ABk9SR4y_49uTZw
+                    - heading "VTG Holy Bible Leather Calfskin KJV Wallet Gilded Compact Undated Royal Ruby Opens in a new window or tab" [level=3] [ref=e1325]:
+                      - text: VTG Holy Bible Leather Calfskin KJV Wallet Gilded Compact Undated Royal Ruby
+                      - generic [ref=e1326]: Opens in a new window or tab
+                  - generic [ref=e1328]: Pre-Owned
+                - generic [ref=e1329]:
+                  - generic [ref=e1330]:
+                    - generic [ref=e1331]: $21.00
+                    - generic [ref=e1332]: Buy It Now
+                    - generic [ref=e1333]: +$38.64 delivery
+                    - generic [ref=e1334]: Located in United States
+                  - generic [ref=e1336]: ldsulli19736 100% positive (1.1K)
+                - generic [ref=e1337]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading [level=6]:
+                          - generic [ref=e1338]: Sponsored
+          - listitem [ref=e1339]:
+            - generic [ref=e1340]:
+              - generic [ref=e1342]:
+                - link "Marvel Comics Men's Multi-Color Classic Character Print Bifold Billfold Wallet" [ref=e1346] [cursor=pointer]:
+                  - /url: https://www.ebay.com/itm/265902298275?_skw=mens+leather+wallet&itmmeta=01KJEVRVXQVHCW1EDTTPEYEKGR&hash=item3de90314a3:g:uEcAAeSwt1FpcR6u&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xCDTj6biYWgdwWm7shEtkSu0JBmPo4o0cTeiqYgUCLVoArkxD0jmp0RXPdc%2BCIxGLh6J8opyKFBXGiZSFuiCrjs8OdP85Rgrh4WOKvKvnPvdjmTMKkz4pWyy2mbsSoP0n9kqwOTQz2BrxvrblvV%2F6G%2Bl%2BU5a4oyhMWKeTgBFqaxO0BRU%2FXgi9%2FXnZtyY%2BtgdtUfP6QTm15fpFsbDLEo%2F%2BgZJykmZL7nATZIjElTOyLP1Ubt2F9I6Va7uLG%2BeiJRVww%3D%7Ctkp%3ABk9SR4y_49uTZw
+                  - img "Marvel Comics Men's Multi-Color Classic Character Print Bifold Billfold Wallet"
+                - link "watch Marvel Comics Men's Multi-Color Classic Character Print Bifold Billfold Wallet" [ref=e1348] [cursor=pointer]:
+                  - /url: https://www.ebay.com/myb/WatchListAdd?item=265902298275&pt=null&srt=01000b000000508f69ad7c433d9f414cdafe75de665d95d4c5ff73f1d3052d5a0dccd23363fb6b8981e43322bc5ab4c3bb892ce45c7465f934ce922108ea08ada66a1386a76083194e6bc28c0225b253d7a0b7e0a9c45a&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D267%26_from%3DR40
+                  - generic [ref=e1349]:
+                    - img
+              - generic [ref=e1350]:
+                - generic [ref=e1351]:
+                  - link "Marvel Comics Men's Multi-Color Classic Character Print Bifold Billfold Wallet Opens in a new window or tab" [ref=e1352] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/265902298275?_skw=mens+leather+wallet&itmmeta=01KJEVRVXQVHCW1EDTTPEYEKGR&hash=item3de90314a3:g:uEcAAeSwt1FpcR6u&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xCDTj6biYWgdwWm7shEtkSu0JBmPo4o0cTeiqYgUCLVoArkxD0jmp0RXPdc%2BCIxGLh6J8opyKFBXGiZSFuiCrjs8OdP85Rgrh4WOKvKvnPvdjmTMKkz4pWyy2mbsSoP0n9kqwOTQz2BrxvrblvV%2F6G%2Bl%2BU5a4oyhMWKeTgBFqaxO0BRU%2FXgi9%2FXnZtyY%2BtgdtUfP6QTm15fpFsbDLEo%2F%2BgZJykmZL7nATZIjElTOyLP1Ubt2F9I6Va7uLG%2BeiJRVww%3D%7Ctkp%3ABk9SR4y_49uTZw
+                    - heading "Marvel Comics Men's Multi-Color Classic Character Print Bifold Billfold Wallet Opens in a new window or tab" [level=3] [ref=e1353]:
+                      - text: Marvel Comics Men's Multi-Color Classic Character Print Bifold Billfold Wallet
+                      - generic [ref=e1354]: Opens in a new window or tab
+                  - generic [ref=e1356]: Brand New
+                - generic [ref=e1357]:
+                  - generic [ref=e1358]:
+                    - generic [ref=e1359]: $24.99
+                    - generic [ref=e1360]: Buy It Now
+                    - generic [ref=e1361]: +$24.62 delivery
+                    - generic [ref=e1362]: Located in United States
+                  - generic [ref=e1364]: jodiealison 99.5% positive (19K)
+                - generic [ref=e1365]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading "Sponsored" [level=6]:
+                          - generic [ref=e1366]: Sponsored
+          - listitem [ref=e1367]:
+            - generic [ref=e1368]:
+              - generic [ref=e1370]:
+                - link "Hand-Sewn Leather Wallet DIY Book with 7 Projects, Techniques & Tools Guide" [ref=e1374] [cursor=pointer]:
+                  - /url: https://www.ebay.com/itm/376735023797?_skw=mens+leather+wallet&itmmeta=01KJEVRVXQPMDH6RYHM6E0TC55&hash=item57b72842b5:g:uMAAAeSwhftpKGb1&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDSElChBGSRzq48YkBU6x5OSQv9Wh4weOcgTh18yizhc4bgqpf0tDEoCKC8cZfzc3%2B1sqYjIz5E07UFiM%2FvfQ0D2MptjmUNPLbRCxSExamQ1iceioffjteVIKbN6nupKRdr8Se4F0%2ButdGO7%2FfZICON9IrQ7bxZVxdzagW1vg3SxuGT8dMg%2Ftz6a5gAcPrKdW%2FPR%2FSIRHHPZg4fFkl88BuGLCv04QSzmcOc6v61O5rENuxixwji9v1ds0oUGXZzmCzaC1WtG7HydpfspIR%2BnDXNTwa0u5RgEAWcU4Hxm5UA3w%3D%3D%7Ctkp%3ABk9SR4y_49uTZw
+                  - img "Hand-Sewn Leather Wallet DIY Book with 7 Projects, Techniques & Tools Guide"
+                - link "watch Hand-Sewn Leather Wallet DIY Book with 7 Projects, Techniques & Tools Guide" [ref=e1376] [cursor=pointer]:
+                  - /url: https://www.ebay.com/myb/WatchListAdd?item=376735023797&pt=null&srt=01000b000000506606733cf1726655c1972b6754dc328e1366c8dd545bfa7f4c6c036a7deb1b4e04b2a6f97eb33b3a54ae0ec89b362193b1a4af99c6d0550d96c3c56ad727e267c2d96f8fec71b3cc53009193033d0a0c&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D267%26_from%3DR40
+                  - generic [ref=e1377]:
+                    - img
+              - generic [ref=e1378]:
+                - generic [ref=e1379]:
+                  - link "Hand-Sewn Leather Wallet DIY Book with 7 Projects, Techniques & Tools Guide Opens in a new window or tab" [ref=e1380] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/376735023797?_skw=mens+leather+wallet&itmmeta=01KJEVRVXQPMDH6RYHM6E0TC55&hash=item57b72842b5:g:uMAAAeSwhftpKGb1&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDSElChBGSRzq48YkBU6x5OSQv9Wh4weOcgTh18yizhc4bgqpf0tDEoCKC8cZfzc3%2B1sqYjIz5E07UFiM%2FvfQ0D2MptjmUNPLbRCxSExamQ1iceioffjteVIKbN6nupKRdr8Se4F0%2ButdGO7%2FfZICON9IrQ7bxZVxdzagW1vg3SxuGT8dMg%2Ftz6a5gAcPrKdW%2FPR%2FSIRHHPZg4fFkl88BuGLCv04QSzmcOc6v61O5rENuxixwji9v1ds0oUGXZzmCzaC1WtG7HydpfspIR%2BnDXNTwa0u5RgEAWcU4Hxm5UA3w%3D%3D%7Ctkp%3ABk9SR4y_49uTZw
+                    - heading "Hand-Sewn Leather Wallet DIY Book with 7 Projects, Techniques & Tools Guide Opens in a new window or tab" [level=3] [ref=e1381]:
+                      - text: Hand-Sewn Leather Wallet DIY Book with 7 Projects, Techniques & Tools Guide
+                      - generic [ref=e1382]: Opens in a new window or tab
+                  - generic [ref=e1384]: New (Other)
+                - generic [ref=e1385]:
+                  - generic [ref=e1386]:
+                    - generic [ref=e1387]:
+                      - text: $110.29
+                      - text: $116.09
+                    - generic [ref=e1388]: or Best Offer
+                    - generic [ref=e1389]: +$20.00 delivery
+                    - generic [ref=e1390]: Located in Japan
+                    - generic [ref=e1391]: Free returns
+                  - generic [ref=e1393]: nannkaisas-37 99.3% positive (687)
+                - generic [ref=e1394]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading "Sponsored" [level=6]:
+                          - generic [ref=e1395]: Sponsored
+          - listitem [ref=e1396]:
+            - generic [ref=e1397]:
+              - generic [ref=e1399]:
+                - link "Wallet-Genuine Leather-Be Strong And Courageous-Brown" [ref=e1403] [cursor=pointer]:
+                  - /url: https://www.ebay.com/itm/167028292556?_skw=mens+leather+wallet&epid=17057269558&itmmeta=01KJEVRVXQ01VQYEYEMKR9GA45&hash=item26e3a97bcc:g:IYIAAOSwTTtoPfhx&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xBH%2Bi78CVCZYxgZEugzvt1HmA1mHtNNnUe6oyfuTJnuFbuLCB4wGdQpni9b1HylwqDVfYK0KBlsEdbR1by%2FSW61MJeWJ3%2BfSiFG0BrWOQunjoIEohz0TlVyPTz%2BONhJYwYswngAfdCZw17L3HK2rK4wFNI1EjQLfmaPUduR0ohkEzOWb8piVbmMfgVLw09eD7MG8jqIZ6gRU5r4CjuzGueT74v%2BaJjaPJcF5%2BHpE1h8wO6%2BZN5Gr7MmW1cBZIbCJzw%3D%7Ctkp%3ABk9SR4y_49uTZw
+                  - img "Wallet-Genuine Leather-Be Strong And Courageous-Brown"
+                - link "watch Wallet-Genuine Leather-Be Strong And Courageous-Brown" [ref=e1405] [cursor=pointer]:
+                  - /url: https://www.ebay.com/myb/WatchListAdd?item=167028292556&pt=null&srt=01000b00000050f6311e3d0436506d8e0a39d9221059a6500a90043e8a5dab052684577a52e4317270877db56ae68c99fc2fa1ad14029db5e4a8bbb20e13c801edfe0951f51ec271c3a834f579bfa13ea6dab0dcfe583f&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D267%26_from%3DR40
+                  - generic [ref=e1406]:
+                    - img
+              - generic [ref=e1407]:
+                - generic [ref=e1408]:
+                  - link "Wallet-Genuine Leather-Be Strong And Courageous-Brown Opens in a new window or tab" [ref=e1409] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/167028292556?_skw=mens+leather+wallet&epid=17057269558&itmmeta=01KJEVRVXQ01VQYEYEMKR9GA45&hash=item26e3a97bcc:g:IYIAAOSwTTtoPfhx&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xBH%2Bi78CVCZYxgZEugzvt1HmA1mHtNNnUe6oyfuTJnuFbuLCB4wGdQpni9b1HylwqDVfYK0KBlsEdbR1by%2FSW61MJeWJ3%2BfSiFG0BrWOQunjoIEohz0TlVyPTz%2BONhJYwYswngAfdCZw17L3HK2rK4wFNI1EjQLfmaPUduR0ohkEzOWb8piVbmMfgVLw09eD7MG8jqIZ6gRU5r4CjuzGueT74v%2BaJjaPJcF5%2BHpE1h8wO6%2BZN5Gr7MmW1cBZIbCJzw%3D%7Ctkp%3ABk9SR4y_49uTZw
+                    - heading "Wallet-Genuine Leather-Be Strong And Courageous-Brown Opens in a new window or tab" [level=3] [ref=e1410]:
+                      - text: Wallet-Genuine Leather-Be Strong And Courageous-Brown
+                      - generic [ref=e1411]: Opens in a new window or tab
+                  - generic [ref=e1413]: Brand New
+                - generic [ref=e1414]:
+                  - generic [ref=e1415]:
+                    - generic [ref=e1416]: $31.78
+                    - generic [ref=e1417]: Buy It Now
+                    - generic [ref=e1418]: +$24.77 delivery
+                    - generic [ref=e1419]: Located in United States
+                  - generic [ref=e1421]: godsoutletstore 99.8% positive (11.2K)
+                - generic [ref=e1422]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading "Sponsored" [level=6]:
+                          - generic [ref=e1423]: Sponsored
+          - listitem [ref=e1424]:
+            - generic [ref=e1425]:
+              - generic [ref=e1427]:
+                - link "Moleskine Zip Wallet, Payne's Grey New" [ref=e1431] [cursor=pointer]:
+                  - /url: https://www.ebay.com/itm/135818837033?_skw=mens+leather+wallet&itmmeta=01KJEVRVXQZE862P9Q2R7X5JJF&hash=item1f9f6efc29:g:lGYAAeSwmJpoKnmq&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xCOVA6M7VEejQKUCFbkqBftvxV5A3GeeLfrCcB3ICHnhjfBKyQiW9byOiOPpe0Ju1ULaxt9VuhXtXdt3fmRr%2BfrJnZLwxuFwcQ6aqgdZOvi1TMU0dSJ9q3GUuwotptm6sFmOd1TL9IVxbEn9Wa%2BWclZmCMDiwGFO2H4ZuU37a3ZUWfjUHXOEAb3EAZ3Rf8RVH9fTtm7T8S3uahYtjlzRKLIelIq3xmY4%2BBiYmlki%2BPTLDO6ziBCTyw6dHd3LKRK5f8%3D%7Ctkp%3ABk9SR4y_49uTZw
+                  - img "Moleskine Zip Wallet, Payne's Grey New"
+                - link "watch Moleskine Zip Wallet, Payne's Grey New" [ref=e1433] [cursor=pointer]:
+                  - /url: https://www.ebay.com/myb/WatchListAdd?item=135818837033&pt=null&srt=01000b0000005067602b6a9718ddca1c2a3ba1947fb77d4986749ef006b5d5658288279066be8b2ab8fb7a578d50449073fb79e0123c70bbd4d46a497778f19764229a1dcea90f7d437e318885098aa8d518d2c9db6c6b&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D267%26_from%3DR40
+                  - generic [ref=e1434]:
+                    - img
+              - generic [ref=e1435]:
+                - generic [ref=e1436]:
+                  - link "Moleskine Zip Wallet, Payne's Grey New Opens in a new window or tab" [ref=e1437] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/135818837033?_skw=mens+leather+wallet&itmmeta=01KJEVRVXQZE862P9Q2R7X5JJF&hash=item1f9f6efc29:g:lGYAAeSwmJpoKnmq&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xCOVA6M7VEejQKUCFbkqBftvxV5A3GeeLfrCcB3ICHnhjfBKyQiW9byOiOPpe0Ju1ULaxt9VuhXtXdt3fmRr%2BfrJnZLwxuFwcQ6aqgdZOvi1TMU0dSJ9q3GUuwotptm6sFmOd1TL9IVxbEn9Wa%2BWclZmCMDiwGFO2H4ZuU37a3ZUWfjUHXOEAb3EAZ3Rf8RVH9fTtm7T8S3uahYtjlzRKLIelIq3xmY4%2BBiYmlki%2BPTLDO6ziBCTyw6dHd3LKRK5f8%3D%7Ctkp%3ABk9SR4y_49uTZw
+                    - heading "Moleskine Zip Wallet, Payne's Grey New Opens in a new window or tab" [level=3] [ref=e1438]:
+                      - text: Moleskine Zip Wallet, Payne's Grey New
+                      - generic [ref=e1439]: Opens in a new window or tab
+                  - generic [ref=e1441]: Brand New
+                - generic [ref=e1442]:
+                  - generic [ref=e1443]:
+                    - generic [ref=e1444]: $25.00
+                    - generic [ref=e1445]: or Best Offer
+                    - generic [ref=e1446]: +$21.70 delivery
+                    - generic [ref=e1447]: Located in United States
+                  - generic [ref=e1449]: vsyaky_koteh 91.7% positive (47)
+                - generic [ref=e1450]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading [level=6]:
+                          - generic [ref=e1451]: Sponsored
+          - listitem [ref=e1452]:
+            - generic [ref=e1453]:
+              - generic [ref=e1455]:
+                - link "Holy Bible NKJV Thomas Nelson 0024S Wallet Size Snap Genuine BONDED Leather" [ref=e1459] [cursor=pointer]:
+                  - /url: https://www.ebay.com/itm/388162282912?_skw=mens+leather+wallet&itmmeta=01KJEVRVXQSSDM1W019XQ3VF1K&hash=item5a604665a0:g:y4kAAOSwFxVn5vCv&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBFpXGg5es%2BGQRFFsc4xEvgHS8w1SIGpEEBNXwTMi1hdO9%2BgiVdMKYzJuBRpnlwpfp%2FPuBrowP%2FqrGD1zVCBW4SkeRWzVscQ%2FXGpsybaDCRaALXaSwJaSK%2F1D5xJog3gVYt0oBaAwWmcGvO43vIyhaPvnMPMDmaY%2B76zJ4SxZQttFXbNV%2Biz0b%2BentRijJnkw60gFcauIKpd3nlt3q%2F1wW460xNFZlJg%2FgYYyh0iBLrkKSK4mN6jiC8XnsOqdszZ9CMBtzRNdscC76vco6rMQ%2Fj9QhClQfUYvL0Rt08tWwe0w%3D%3D%7Ctkp%3ABk9SR4y_49uTZw
+                  - img "Holy Bible NKJV Thomas Nelson 0024S Wallet Size Snap Genuine BONDED Leather"
+                - link "watch Holy Bible NKJV Thomas Nelson 0024S Wallet Size Snap Genuine BONDED Leather" [ref=e1461] [cursor=pointer]:
+                  - /url: https://www.ebay.com/myb/WatchListAdd?item=388162282912&pt=null&srt=01000b000000502579b412fb68236ad7df6229836839a4a7eabcbdab4c7c215a8c7d6aa2f91ab2990aef21eff1317893784da7dadfd77509c65acce45ba87b1dc8ebeaf152e60f4d21130859184166680f4244361e83e2&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D267%26_from%3DR40
+                  - generic [ref=e1462]:
+                    - img
+              - generic [ref=e1463]:
+                - generic [ref=e1464]:
+                  - link "Holy Bible NKJV Thomas Nelson 0024S Wallet Size Snap Genuine BONDED Leather Opens in a new window or tab" [ref=e1465] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/388162282912?_skw=mens+leather+wallet&itmmeta=01KJEVRVXQSSDM1W019XQ3VF1K&hash=item5a604665a0:g:y4kAAOSwFxVn5vCv&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBFpXGg5es%2BGQRFFsc4xEvgHS8w1SIGpEEBNXwTMi1hdO9%2BgiVdMKYzJuBRpnlwpfp%2FPuBrowP%2FqrGD1zVCBW4SkeRWzVscQ%2FXGpsybaDCRaALXaSwJaSK%2F1D5xJog3gVYt0oBaAwWmcGvO43vIyhaPvnMPMDmaY%2B76zJ4SxZQttFXbNV%2Biz0b%2BentRijJnkw60gFcauIKpd3nlt3q%2F1wW460xNFZlJg%2FgYYyh0iBLrkKSK4mN6jiC8XnsOqdszZ9CMBtzRNdscC76vco6rMQ%2Fj9QhClQfUYvL0Rt08tWwe0w%3D%3D%7Ctkp%3ABk9SR4y_49uTZw
+                    - heading "Holy Bible NKJV Thomas Nelson 0024S Wallet Size Snap Genuine BONDED Leather Opens in a new window or tab" [level=3] [ref=e1466]:
+                      - text: Holy Bible NKJV Thomas Nelson 0024S Wallet Size Snap Genuine BONDED Leather
+                      - generic [ref=e1467]: Opens in a new window or tab
+                  - generic [ref=e1469]: Pre-Owned
+                - generic [ref=e1470]:
+                  - generic [ref=e1471]:
+                    - generic [ref=e1472]: $19.99
+                    - generic [ref=e1473]: Buy It Now
+                    - generic [ref=e1474]: +$29.42 delivery
+                    - generic [ref=e1475]: Located in United States
+                  - generic [ref=e1477]: yuuuup11 99.2% positive (74.8K)
+                - generic [ref=e1478]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading [level=6]:
+                          - generic [ref=e1479]: Sponsored
+          - listitem [ref=e1480]:
+            - generic [ref=e1481]:
+              - generic [ref=e1483]:
+                - link "Moleskine Double Wallet Travel Large Gray Nylon Zip Around Travel Organizer" [ref=e1487] [cursor=pointer]:
+                  - /url: https://www.ebay.com/itm/226929326841?_skw=mens+leather+wallet&epid=172065729&itmmeta=01KJEVRVXQPRQ51BYCGNQ47PQS&hash=item34d60abaf9:g:k2oAAeSwt6RopMxE&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCOk1h60Z5gRk2cY2BrJq%2FyscfMOlX0GA031OHvj7xTheE3PgEJUSZaP1gksLY5Bupvy4JNV1FX1B63b37JBAn1hetb5fwNS6pptrJ5JC3VexhLF2buaPU1xHVVIZwYeRgc8aGqTa2DXji3XiZH1X%2FSQUD%2BodCPVkybjTu92x7DiZD12S9pK50gEaZ1gsaHxV8uIo8wJejK5gTs3HgYYJZpREhEgEi4FKJ16USncMfH%2FhGLv3OBeoMAhcn2%2Fhvdi5pQ%2BhC75QY%2B4Xkc0UP2Og51u1bKNEfIGnJTtV8uzyh4JA%3D%3D%7Ctkp%3ABk9SR4y_49uTZw
+                  - img "Moleskine Double Wallet Travel Large Gray Nylon Zip Around Travel Organizer"
+                - link "watch Moleskine Double Wallet Travel Large Gray Nylon Zip Around Travel Organizer" [ref=e1489] [cursor=pointer]:
+                  - /url: https://www.ebay.com/myb/WatchListAdd?item=226929326841&pt=null&srt=01000b000000505b57422a01ce7e9a35c6824b940b9a1d8d0f29a742c08e0ef369b77f66d7bec3ac14027b620af9a718a7b7db9278bb1caba2e01e3e110001916cb38cddaca962de8ab47d6195090c7cf4bdf06d440a66&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D267%26_from%3DR40
+                  - generic [ref=e1490]:
+                    - img
+              - generic [ref=e1491]:
+                - generic [ref=e1492]:
+                  - link "Moleskine Double Wallet Travel Large Gray Nylon Zip Around Travel Organizer Opens in a new window or tab" [ref=e1493] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/226929326841?_skw=mens+leather+wallet&epid=172065729&itmmeta=01KJEVRVXQPRQ51BYCGNQ47PQS&hash=item34d60abaf9:g:k2oAAeSwt6RopMxE&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCOk1h60Z5gRk2cY2BrJq%2FyscfMOlX0GA031OHvj7xTheE3PgEJUSZaP1gksLY5Bupvy4JNV1FX1B63b37JBAn1hetb5fwNS6pptrJ5JC3VexhLF2buaPU1xHVVIZwYeRgc8aGqTa2DXji3XiZH1X%2FSQUD%2BodCPVkybjTu92x7DiZD12S9pK50gEaZ1gsaHxV8uIo8wJejK5gTs3HgYYJZpREhEgEi4FKJ16USncMfH%2FhGLv3OBeoMAhcn2%2Fhvdi5pQ%2BhC75QY%2B4Xkc0UP2Og51u1bKNEfIGnJTtV8uzyh4JA%3D%3D%7Ctkp%3ABk9SR4y_49uTZw
+                    - heading "Moleskine Double Wallet Travel Large Gray Nylon Zip Around Travel Organizer Opens in a new window or tab" [level=3] [ref=e1494]:
+                      - text: Moleskine Double Wallet Travel Large Gray Nylon Zip Around Travel Organizer
+                      - generic [ref=e1495]: Opens in a new window or tab
+                  - generic [ref=e1497]: Brand New
+                - generic [ref=e1498]:
+                  - generic [ref=e1499]:
+                    - generic [ref=e1500]: $36.00
+                    - generic [ref=e1501]: Buy It Now
+                    - generic [ref=e1502]: +$30.84 delivery
+                    - generic [ref=e1503]: Located in United States
+                    - generic [ref=e1504]: Last one
+                    - generic [ref=e1505]: 2 watchers
+                  - generic [ref=e1507]: beautifulworldinc2010 100% positive (2.3K)
+                - generic [ref=e1508]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading [level=6]:
+                          - generic [ref=e1509]: Sponsored
+          - listitem [ref=e1510]:
+            - generic [ref=e1511]:
+              - generic [ref=e1513]:
+                - link "Checkbook/Wallet-Blessed Man-LuxLeather-Brown" [ref=e1517] [cursor=pointer]:
+                  - /url: https://www.ebay.com/itm/167028510683?_skw=mens+leather+wallet&itmmeta=01KJEVRVXQ649X1ZQD6HMXDJRW&hash=item26e3accfdb:g:H~AAAOSwIvpoPfSM&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBlxoNO9DyW%2BQShAredZCdv1rgKZXww%2BqEOUQXPlbl88Gw88XJ4eoZEuOnDULKIHHS%2FYs%2BC8BSqnn7TFGhSLMkmBrPtchRgKYv146FxY3lbTZAK3O36WhDC78lLvXH1pprzuLkuypa82mJP74KMRAysCu7AVm8Y0XMNC%2B1IwLkn99AuFGhePVp9%2BPHNIV3IvcR9dnqTMfcdsDwqOZMtB3HxBfiULsAFt4LGewo%2BaiftAhLs2uLIVLgC7pQT1eCilhOktHH%2BTX86JUJIL6g0Ptw611QOIptoZeqBeYnXHRgO6Q%3D%3D%7Ctkp%3ABk9SR4y_49uTZw
+                  - img "Checkbook/Wallet-Blessed Man-LuxLeather-Brown"
+                - link "watch Checkbook/Wallet-Blessed Man-LuxLeather-Brown" [ref=e1519] [cursor=pointer]:
+                  - /url: https://www.ebay.com/myb/WatchListAdd?item=167028510683&pt=null&srt=01000b000000505704c7d8af74ed428dea8bfd8ea31fae2d85f9cfac3e767786d8effbd280bfc91f51b0e461e0c074cfa5a093e68dde23e1ae535e82c04f7c27a9c9f5bc78fda3f793bd6a5424599a28fd0d0fb14f0e98&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D267%26_from%3DR40
+                  - generic [ref=e1520]:
+                    - img
+              - generic [ref=e1521]:
+                - generic [ref=e1522]:
+                  - link "Checkbook/Wallet-Blessed Man-LuxLeather-Brown Opens in a new window or tab" [ref=e1523] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/167028510683?_skw=mens+leather+wallet&itmmeta=01KJEVRVXQ649X1ZQD6HMXDJRW&hash=item26e3accfdb:g:H~AAAOSwIvpoPfSM&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBlxoNO9DyW%2BQShAredZCdv1rgKZXww%2BqEOUQXPlbl88Gw88XJ4eoZEuOnDULKIHHS%2FYs%2BC8BSqnn7TFGhSLMkmBrPtchRgKYv146FxY3lbTZAK3O36WhDC78lLvXH1pprzuLkuypa82mJP74KMRAysCu7AVm8Y0XMNC%2B1IwLkn99AuFGhePVp9%2BPHNIV3IvcR9dnqTMfcdsDwqOZMtB3HxBfiULsAFt4LGewo%2BaiftAhLs2uLIVLgC7pQT1eCilhOktHH%2BTX86JUJIL6g0Ptw611QOIptoZeqBeYnXHRgO6Q%3D%3D%7Ctkp%3ABk9SR4y_49uTZw
+                    - heading "Checkbook/Wallet-Blessed Man-LuxLeather-Brown Opens in a new window or tab" [level=3] [ref=e1524]:
+                      - text: Checkbook/Wallet-Blessed Man-LuxLeather-Brown
+                      - generic [ref=e1525]: Opens in a new window or tab
+                  - generic [ref=e1527]: Brand New
+                - generic [ref=e1528]:
+                  - generic [ref=e1529]:
+                    - generic [ref=e1530]: $17.01
+                    - generic [ref=e1531]: Buy It Now
+                    - generic [ref=e1532]: +$24.45 delivery
+                    - generic [ref=e1533]: Located in United States
+                  - generic [ref=e1535]: godsoutletstore 99.8% positive (11.2K)
+                - generic [ref=e1536]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading [level=6]:
+                          - generic [ref=e1537]: Sponsored
+          - listitem [ref=e1538]:
+            - generic [ref=e1539]:
+              - generic [ref=e1541]:
+                - 'link "The abilities of man : their nature and measurement by Spearman, [Leather Bound]" [ref=e1545] [cursor=pointer]':
+                  - /url: https://www.ebay.com/itm/396794431451?_skw=mens+leather+wallet&itmmeta=01KJEVRVXQYCF1V4V828P59SPM&hash=item5c62ca87db:g:HtUAAeSwLCpoXpck&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAJTlNdLMoBf1PcxxNQV7tHJ3z0qWDnjt%2Fgs%2FhpZUXPtpfFY1asvnJdzszdkgQTy0tlglQvULU870aFo4JVfG13%2F7j1yiBLFCXc25a%2B%2Fo19CftwQZYyC8e4pfsIt%2FdJx5wr3JDZy30LR6GNLqELfxtxVBVylBzi3x%2F0muwQDwfgMJOUltGHYlsH2ZIY7KWmhrQpw%2B6LSWjIucbghf9niQ5JQuSKnq1tVV7y9jQX4doOUf5gQgV69HsPhY1%2BLlBc4y1FCbLSTU4zqSGAXbGn0X7IOUSnyZvD4Hc11gVnCYb8Sg%3D%3D%7Ctkp%3ABFBMjL_j25Nn
+                  - 'img "The abilities of man : their nature and measurement by Spearman, [Leather Bound]"'
+                - 'link "watch The abilities of man : their nature and measurement by Spearman, [Leather Bound]" [ref=e1547] [cursor=pointer]':
+                  - /url: https://www.ebay.com/myb/WatchListAdd?item=396794431451&pt=null&srt=01000b00000050b58f605cb14d8a70dd2047013fd8ebcb90b7827dab28d153c8f2756ae78590a7b286b90f3cece7b944d51a35984ed73c424925f5410af8eb83084b4f3c3781f3108782c027f4211ac08ee24136094745&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D267%26_from%3DR40
+                  - generic [ref=e1548]:
+                    - img
+              - generic [ref=e1549]:
+                - generic [ref=e1550]:
+                  - 'link "The abilities of man : their nature and measurement by Spearman, [Leather Bound] Opens in a new window or tab" [ref=e1551] [cursor=pointer]':
+                    - /url: https://www.ebay.com/itm/396794431451?_skw=mens+leather+wallet&itmmeta=01KJEVRVXQYCF1V4V828P59SPM&hash=item5c62ca87db:g:HtUAAeSwLCpoXpck&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAJTlNdLMoBf1PcxxNQV7tHJ3z0qWDnjt%2Fgs%2FhpZUXPtpfFY1asvnJdzszdkgQTy0tlglQvULU870aFo4JVfG13%2F7j1yiBLFCXc25a%2B%2Fo19CftwQZYyC8e4pfsIt%2FdJx5wr3JDZy30LR6GNLqELfxtxVBVylBzi3x%2F0muwQDwfgMJOUltGHYlsH2ZIY7KWmhrQpw%2B6LSWjIucbghf9niQ5JQuSKnq1tVV7y9jQX4doOUf5gQgV69HsPhY1%2BLlBc4y1FCbLSTU4zqSGAXbGn0X7IOUSnyZvD4Hc11gVnCYb8Sg%3D%3D%7Ctkp%3ABFBMjL_j25Nn
+                    - 'heading "The abilities of man : their nature and measurement by Spearman, [Leather Bound] Opens in a new window or tab" [level=3] [ref=e1552]':
+                      - text: "The abilities of man : their nature and measurement by Spearman, [Leather Bound]"
+                      - generic [ref=e1553]: Opens in a new window or tab
+                  - generic [ref=e1555]: Brand New
+                - generic [ref=e1556]:
+                  - generic [ref=e1557]:
+                    - generic [ref=e1558]: $123.12
+                    - generic [ref=e1559]: or Best Offer
+                    - generic [ref=e1560]: Free International Shipping
+                    - generic [ref=e1561]: Located in United Kingdom
+                    - generic [ref=e1562]: Free returns
+                    - generic [ref=e1563]: Last one
+                  - generic [ref=e1565]: gyan_booksuk 97.7% positive (818)
+                - generic [ref=e1566]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading "Sponsored" [level=6]:
+                          - generic [ref=e1567]: Sponsored
+          - listitem [ref=e1568]:
+            - generic [ref=e1569]:
+              - generic [ref=e1571]:
+                - link "The Black Man Or The Natural History Of The Hametic Race 1894 [Leather Bound]" [ref=e1575] [cursor=pointer]:
+                  - /url: https://www.ebay.com/itm/305987248915?_skw=mens+leather+wallet&itmmeta=01KJEVRVXQXQQQM2WYR8YYAP84&hash=item473e42e313:g:ZtgAAOSwpVhnP0zW&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xB%2BaWERmZca8ZIr2F9xgvXemdNnGrliS6FZPbTP05%2FlDK2Pctc6SWpYU87285fCAn4A7Rt9DxOWPBEkPRkWdjOKhifengvLKtXWJmedzUyXA%2F1v%2FnuyaB44vpaqMtkQ7n41vCfBkPRZQ2wti5WQVF84Cj9NVJKpHqQaEmFSXQXM1lsixRtU%2BhasGdBNzOOR6xc8wOn3f9tEEr1PU2ccOMS84GCcnYar2dSaZZGdKxI9CDuDPbKR5cWGF6q1HvYV2owOQkoAKRwNkOP41m9HrlXU0j%2Bekn37%2BEv8rA3ZGxSFiw%3D%3D%7Ctkp%3ABFBMjL_j25Nn
+                  - img "The Black Man Or The Natural History Of The Hametic Race 1894 [Leather Bound]"
+                - link "watch The Black Man Or The Natural History Of The Hametic Race 1894 [Leather Bound]" [ref=e1577] [cursor=pointer]:
+                  - /url: https://www.ebay.com/myb/WatchListAdd?item=305987248915&pt=null&srt=01000b000000503bc2169515cedd94b78512e3fe0a5692568feecc47f03b8a710710f89d750c7f5c156c9d60503c39be02996a0de662b9f4edc9844982367fa87eeebf49064060e5812ae48e9c0df0cdf60277ac3ae2bb&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D267%26_from%3DR40
+                  - generic [ref=e1578]:
+                    - img
+              - generic [ref=e1579]:
+                - generic [ref=e1580]:
+                  - link "The Black Man Or The Natural History Of The Hametic Race 1894 [Leather Bound] Opens in a new window or tab" [ref=e1581] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/305987248915?_skw=mens+leather+wallet&itmmeta=01KJEVRVXQXQQQM2WYR8YYAP84&hash=item473e42e313:g:ZtgAAOSwpVhnP0zW&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xB%2BaWERmZca8ZIr2F9xgvXemdNnGrliS6FZPbTP05%2FlDK2Pctc6SWpYU87285fCAn4A7Rt9DxOWPBEkPRkWdjOKhifengvLKtXWJmedzUyXA%2F1v%2FnuyaB44vpaqMtkQ7n41vCfBkPRZQ2wti5WQVF84Cj9NVJKpHqQaEmFSXQXM1lsixRtU%2BhasGdBNzOOR6xc8wOn3f9tEEr1PU2ccOMS84GCcnYar2dSaZZGdKxI9CDuDPbKR5cWGF6q1HvYV2owOQkoAKRwNkOP41m9HrlXU0j%2Bekn37%2BEv8rA3ZGxSFiw%3D%3D%7Ctkp%3ABFBMjL_j25Nn
+                    - heading "The Black Man Or The Natural History Of The Hametic Race 1894 [Leather Bound] Opens in a new window or tab" [level=3] [ref=e1582]:
+                      - text: The Black Man Or The Natural History Of The Hametic Race 1894 [Leather Bound]
+                      - generic [ref=e1583]: Opens in a new window or tab
+                  - generic [ref=e1585]: Brand New
+                - generic [ref=e1586]:
+                  - generic [ref=e1587]:
+                    - generic [ref=e1588]:
+                      - text: $83.98
+                      - text: $93.31
+                    - generic [ref=e1589]: or Best Offer
+                    - generic [ref=e1590]: Free International Shipping
+                    - generic [ref=e1591]: Located in India
+                    - generic [ref=e1592]: Free returns
+                  - generic [ref=e1594]: gyan_books 98.5% positive (5.2K)
+                - generic [ref=e1595]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading "Sponsored" [level=6]:
+                          - generic [ref=e1596]: Sponsored
+          - listitem [ref=e1597]:
+            - generic [ref=e1598]:
+              - generic [ref=e1600]:
+                - link "The Man Who Laughs / By Victor Hugo V.2. Volume 2 1888 [Leather Bound]" [ref=e1604] [cursor=pointer]:
+                  - /url: https://www.ebay.com/itm/395457678456?_skw=mens+leather+wallet&itmmeta=01KJEVRVXQ4HFF13XVYH1A1YS6&hash=item5c131d4c78:g:YooAAOSwbLFmQeL-&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDgH%2B5Ts%2F0F0D13BpyERrSuODTuCUwgxzEZZfHfy2%2B0V8Fk9wewbaIgeMBuYed13pAAlA6ZAU8OZIgjR3XvHnGY--%2B4J0w6wAotcRUDUyZjivp1pwxLJeR77nxmH1svzVzLUj1U7T%2Fxbd%2BQSgOyt5kvsf3wNuNdM6G%2Fa1Hxxq9EOFAWC4mGC1V%2B9BwlTUOroOLFnU6i8ePHMzw%2Brs0pRK0tYOHJ2q1LI8SGaRH5e%2BUh4Pq%2FyHM7qlf%2FAYPgWmzUkX%2B3g6cj0DsqNt14Rzt9MeEBBRHS%2F6hTw3AAahKEuMuIrw%3D%3D%7Ctkp%3ABFBMjL_j25Nn
+                  - img "The Man Who Laughs / By Victor Hugo V.2. Volume 2 1888 [Leather Bound]"
+                - link "watch The Man Who Laughs / By Victor Hugo V.2. Volume 2 1888 [Leather Bound]" [ref=e1606] [cursor=pointer]:
+                  - /url: https://www.ebay.com/myb/WatchListAdd?item=395457678456&pt=null&srt=01000b00000050e7163724f65f0ad8717280ad7fadea24bd2940d198dfc6aaaffbdb8d1d3f19b12a876927826f0c62abeb30c7c7b1e862f97d6278a9d7647d3f3b061b995cad83f19db5656a85ad57060db037dea5ba43&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D267%26_from%3DR40
+                  - generic [ref=e1607]:
+                    - img
+                - button "Open product gallery The Man Who Laughs / By Victor Hugo V.2. Volume 2 1888 [Leather Bound]" [ref=e1608]:
+                  - img
+              - generic [ref=e1609]:
+                - generic [ref=e1610]:
+                  - link "The Man Who Laughs / By Victor Hugo V.2. Volume 2 1888 [Leather Bound] Opens in a new window or tab" [ref=e1611] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/395457678456?_skw=mens+leather+wallet&itmmeta=01KJEVRVXQ4HFF13XVYH1A1YS6&hash=item5c131d4c78:g:YooAAOSwbLFmQeL-&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDgH%2B5Ts%2F0F0D13BpyERrSuODTuCUwgxzEZZfHfy2%2B0V8Fk9wewbaIgeMBuYed13pAAlA6ZAU8OZIgjR3XvHnGY--%2B4J0w6wAotcRUDUyZjivp1pwxLJeR77nxmH1svzVzLUj1U7T%2Fxbd%2BQSgOyt5kvsf3wNuNdM6G%2Fa1Hxxq9EOFAWC4mGC1V%2B9BwlTUOroOLFnU6i8ePHMzw%2Brs0pRK0tYOHJ2q1LI8SGaRH5e%2BUh4Pq%2FyHM7qlf%2FAYPgWmzUkX%2B3g6cj0DsqNt14Rzt9MeEBBRHS%2F6hTw3AAahKEuMuIrw%3D%3D%7Ctkp%3ABFBMjL_j25Nn
+                    - heading "The Man Who Laughs / By Victor Hugo V.2. Volume 2 1888 [Leather Bound] Opens in a new window or tab" [level=3] [ref=e1612]:
+                      - text: The Man Who Laughs / By Victor Hugo V.2. Volume 2 1888 [Leather Bound]
+                      - generic [ref=e1613]: Opens in a new window or tab
+                  - generic [ref=e1615]: Brand New
+                - generic [ref=e1616]:
+                  - generic [ref=e1617]:
+                    - generic [ref=e1618]: $106.82
+                    - generic [ref=e1619]: or Best Offer
+                    - generic [ref=e1620]: Free International Shipping
+                    - generic [ref=e1621]: Located in India
+                    - generic [ref=e1622]: Free returns
+                  - generic [ref=e1624]: gyan_booksau 96.6% positive (554)
+                - generic [ref=e1625]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading "Sponsored" [level=6]:
+                          - generic [ref=e1626]: Sponsored
+          - listitem [ref=e1627]:
+            - generic [ref=e1628]:
+              - generic [ref=e1630]:
+                - link "notebook notes book jacket cover wallet card case bag cow leather black H287" [ref=e1634] [cursor=pointer]:
+                  - /url: https://www.ebay.com/itm/124927841765?_skw=mens+leather+wallet&itmmeta=01KJEVRVXQ4DB8GTWMVBQ1TQ9M&hash=item1d164795e5:g:6WgAAOSwQjphDbQ~&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCRB9Pi8MDl2Q3GXt0iKp7RHXQ9lCclOWgGUewend%2FAf0AjPimmNCCnmtLMhYUEYU9SYqhQwxa2ThYPv610mLuKPt0r8nI5Ol%2BrFS0lolq9xzbpOLp41SPGl3nSfP2BH3GNSORDTSzXc2RrMZkUADpI5qW8LfW20bV8SZ91kvivMT6Svc4lCVAYFRKLjDtz8DSSnfHL6%2BSa53nw%2B%2F6tSdrMAvlTUhcKpyn0xfghOP%2BO%2FOI484BbSB7h3mHUmIZnaescWuvR1giNpzjOhLwYDNJ8mjmRLMc%2Bz1DD3fMa8WYrFw%3D%3D%7Ctkp%3ABFBMjr_j25Nn
+                  - img "notebook notes book jacket cover wallet card case bag cow leather black H287"
+                - link "watch notebook notes book jacket cover wallet card case bag cow leather black H287" [ref=e1636] [cursor=pointer]:
+                  - /url: https://www.ebay.com/myb/WatchListAdd?item=124927841765&pt=null&srt=01000b000000503058f78b1b6fcf5a1ca0b309ee567284b9f91800871180466a9817a5b0751221ae4b2e6f000d0d1b673d6cc68689dc26f6709b022df0d22ea83b1394aacbde74451137e2bfb705d3c4c21bed8a479383&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D267%26_from%3DR40
+                  - generic [ref=e1637]:
+                    - img
+              - generic [ref=e1638]:
+                - generic [ref=e1639]:
+                  - link "notebook notes book jacket cover wallet card case bag cow leather black H287 Opens in a new window or tab" [ref=e1640] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/124927841765?_skw=mens+leather+wallet&itmmeta=01KJEVRVXQ4DB8GTWMVBQ1TQ9M&hash=item1d164795e5:g:6WgAAOSwQjphDbQ~&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCRB9Pi8MDl2Q3GXt0iKp7RHXQ9lCclOWgGUewend%2FAf0AjPimmNCCnmtLMhYUEYU9SYqhQwxa2ThYPv610mLuKPt0r8nI5Ol%2BrFS0lolq9xzbpOLp41SPGl3nSfP2BH3GNSORDTSzXc2RrMZkUADpI5qW8LfW20bV8SZ91kvivMT6Svc4lCVAYFRKLjDtz8DSSnfHL6%2BSa53nw%2B%2F6tSdrMAvlTUhcKpyn0xfghOP%2BO%2FOI484BbSB7h3mHUmIZnaescWuvR1giNpzjOhLwYDNJ8mjmRLMc%2Bz1DD3fMa8WYrFw%3D%3D%7Ctkp%3ABFBMjr_j25Nn
+                    - heading "notebook notes book jacket cover wallet card case bag cow leather black H287 Opens in a new window or tab" [level=3] [ref=e1641]:
+                      - text: notebook notes book jacket cover wallet card case bag cow leather black H287
+                      - generic [ref=e1642]: Opens in a new window or tab
+                  - generic [ref=e1644]: Brand New
+                - generic [ref=e1645]:
+                  - generic [ref=e1646]:
+                    - generic [ref=e1647]: $15.80
+                    - generic [ref=e1648]: Buy It Now
+                    - generic [ref=e1649]: +$15.90 delivery
+                    - generic [ref=e1650]: Located in China
+                  - generic [ref=e1652]: sunnyzone25 97.6% positive (1.4K)
+                - generic [ref=e1653]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading "Sponsored" [level=6]:
+                          - generic [ref=e1654]: Sponsored
+          - listitem [ref=e1655]:
+            - generic [ref=e1656]:
+              - generic [ref=e1658]:
+                - link "notebook notes book jacket cover wallet card case bag cow leather brown H63" [ref=e1662] [cursor=pointer]:
+                  - /url: https://www.ebay.com/itm/115022441211?_skw=mens+leather+wallet&itmmeta=01KJEVRVXQJGJ4N6D1N7XSBMJ5&hash=item1ac7df2afb:g:zDcAAOSw2iBg4axu&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDWWdDOGuXjjJcCHbmxHvPQyfoZUOd8TgkhRYXPtaAogaPjSXwzluyrMvmEH8iuyDFbxAtXpk5qE%2BB4oqPMYD8kDSm9aQt33nCLVlCGVQ7hIWckHU4V16RGXw1Ah146r46HJpTCfjau2kwAdxo4if3DJ7c88B4Qn7gk5fGFtWAVkeVpp9LN%2Fw19O5qfgnzVzGfhst4p6%2BRXSY3GxKKymEm%2FsDiQd%2BKUDNe7EjHYrLq8--Gf1fvhzZYZp5RvO5A4Dutwla%2BEhQ%2BlXYBMBaW4i3T%2Fs3VRBbdxkNGyuSZhBfJ5JA%3D%3D%7Ctkp%3ABk9SR46_49uTZw
+                  - img "notebook notes book jacket cover wallet card case bag cow leather brown H63"
+                - link "watch notebook notes book jacket cover wallet card case bag cow leather brown H63" [ref=e1664] [cursor=pointer]:
+                  - /url: https://www.ebay.com/myb/WatchListAdd?item=115022441211&pt=null&srt=01000b00000050972a2a905344bb12806d50039e37c6ad651be0a2065c65fd0816fad0844ee3b731ea1e1119ac6c448eb1954d9408d1b153837eb6c26e495a13a572ff6f8e7aec1f689404b3d71e9f70190a11cc8bf361&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D267%26_from%3DR40
+                  - generic [ref=e1665]:
+                    - img
+              - generic [ref=e1666]:
+                - generic [ref=e1667]:
+                  - link "notebook notes book jacket cover wallet card case bag cow leather brown H63 Opens in a new window or tab" [ref=e1668] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/115022441211?_skw=mens+leather+wallet&itmmeta=01KJEVRVXQJGJ4N6D1N7XSBMJ5&hash=item1ac7df2afb:g:zDcAAOSw2iBg4axu&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDWWdDOGuXjjJcCHbmxHvPQyfoZUOd8TgkhRYXPtaAogaPjSXwzluyrMvmEH8iuyDFbxAtXpk5qE%2BB4oqPMYD8kDSm9aQt33nCLVlCGVQ7hIWckHU4V16RGXw1Ah146r46HJpTCfjau2kwAdxo4if3DJ7c88B4Qn7gk5fGFtWAVkeVpp9LN%2Fw19O5qfgnzVzGfhst4p6%2BRXSY3GxKKymEm%2FsDiQd%2BKUDNe7EjHYrLq8--Gf1fvhzZYZp5RvO5A4Dutwla%2BEhQ%2BlXYBMBaW4i3T%2Fs3VRBbdxkNGyuSZhBfJ5JA%3D%3D%7Ctkp%3ABk9SR46_49uTZw
+                    - heading "notebook notes book jacket cover wallet card case bag cow leather brown H63 Opens in a new window or tab" [level=3] [ref=e1669]:
+                      - text: notebook notes book jacket cover wallet card case bag cow leather brown H63
+                      - generic [ref=e1670]: Opens in a new window or tab
+                  - generic [ref=e1672]: Brand New
+                - generic [ref=e1673]:
+                  - generic [ref=e1674]:
+                    - generic [ref=e1675]: $10.90
+                    - generic [ref=e1676]: Buy It Now
+                    - generic [ref=e1677]: +$9.90 delivery
+                    - generic [ref=e1678]: Located in China
+                    - generic [ref=e1679]: 8 watchers
+                  - generic [ref=e1681]: sunnyzone25 97.6% positive (1.4K)
+                - generic [ref=e1682]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading "Sponsored" [level=6]:
+                          - generic [ref=e1683]: Sponsored
+          - listitem [ref=e1684]:
+            - generic [ref=e1685]:
+              - generic [ref=e1687]:
+                - link "Two-Tone Brown Wallet-Genuine Leather-Be Strong And Courageous Bi-Fold" [ref=e1691] [cursor=pointer]:
+                  - /url: https://www.ebay.com/itm/366073477145?_skw=mens+leather+wallet&epid=17057269558&itmmeta=01KJEVRVXQ93JR9M0PXVQX9CD3&hash=item553badf819:g:R4oAAeSwZjppSN6C&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDnYj3hIQr9HmVo5%2FP%2BGONOYA4VJIIHJUmzu1VPdQcSuogroaKh921W1eyuUCGCbNI7qKfhxeEWIUQVOxEhto4LcOsGqwsAFjWMmU48AeoJT6qcfXuW0Br7HTB%2Bxupp689WH6vGVsOH3e%2BNdmse7M3l2CokP7Gh3LdYNzUgHEDf%2BDDEhX3M6Z6HUMGY5O1Uj3%2BeG6KAEvoMFlbKU6M7i1VG%2BpR2XcX0JcP11QYxQlWqWGJmhuB2P3EtMJCcfr%2F2wcRd%2BQF1H1MyMv3Glvkil1f0C1pXaW9f3NqTJamxRXi9UA%3D%3D%7Ctkp%3ABk9SR46_49uTZw
+                  - img "Two-Tone Brown Wallet-Genuine Leather-Be Strong And Courageous Bi-Fold"
+                - link "watch Two-Tone Brown Wallet-Genuine Leather-Be Strong And Courageous Bi-Fold" [ref=e1693] [cursor=pointer]:
+                  - /url: https://www.ebay.com/myb/WatchListAdd?item=366073477145&pt=null&srt=01000b000000505d29ad1f61ac680108a1238c7552ec54fe242f58ca54fa9e8840cf0c3b8833e26896a657cc27fd9f3a1c60046c79bfeffc9725fd4843bcb8230fedb2e4f3fb4eea39ebf6a10ec9d21479d9cde538fd70&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D267%26_from%3DR40
+                  - generic [ref=e1694]:
+                    - img
+              - generic [ref=e1695]:
+                - generic [ref=e1696]:
+                  - link "Two-Tone Brown Wallet-Genuine Leather-Be Strong And Courageous Bi-Fold Opens in a new window or tab" [ref=e1697] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/366073477145?_skw=mens+leather+wallet&epid=17057269558&itmmeta=01KJEVRVXQ93JR9M0PXVQX9CD3&hash=item553badf819:g:R4oAAeSwZjppSN6C&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDnYj3hIQr9HmVo5%2FP%2BGONOYA4VJIIHJUmzu1VPdQcSuogroaKh921W1eyuUCGCbNI7qKfhxeEWIUQVOxEhto4LcOsGqwsAFjWMmU48AeoJT6qcfXuW0Br7HTB%2Bxupp689WH6vGVsOH3e%2BNdmse7M3l2CokP7Gh3LdYNzUgHEDf%2BDDEhX3M6Z6HUMGY5O1Uj3%2BeG6KAEvoMFlbKU6M7i1VG%2BpR2XcX0JcP11QYxQlWqWGJmhuB2P3EtMJCcfr%2F2wcRd%2BQF1H1MyMv3Glvkil1f0C1pXaW9f3NqTJamxRXi9UA%3D%3D%7Ctkp%3ABk9SR46_49uTZw
+                    - heading "Two-Tone Brown Wallet-Genuine Leather-Be Strong And Courageous Bi-Fold Opens in a new window or tab" [level=3] [ref=e1698]:
+                      - text: Two-Tone Brown Wallet-Genuine Leather-Be Strong And Courageous Bi-Fold
+                      - generic [ref=e1699]: Opens in a new window or tab
+                  - generic [ref=e1701]: Brand New
+                - generic [ref=e1702]:
+                  - generic [ref=e1703]:
+                    - generic [ref=e1704]: $19.77
+                    - generic [ref=e1705]: or Best Offer
+                    - generic [ref=e1706]: +$33.89 delivery
+                    - generic [ref=e1707]: Located in United States
+                  - generic [ref=e1709]: joske7096 100% positive (54)
+                - generic [ref=e1710]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading [level=6]:
+                          - generic [ref=e1711]: Sponsored
+          - listitem [ref=e1712]:
+            - generic [ref=e1713]:
+              - link "Credit Card Holder/Wallet Faux Leather (Multiple Colors available)" [ref=e1719] [cursor=pointer]:
+                - /url: https://www.ebay.com/itm/144347719784?_skw=mens+leather+wallet&itmmeta=01KJEVRVXQMERDRKHP5XQV43MK&hash=item219bcb6868:g:ml8AAOSwo11hz7Ej&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xA%2F0V%2Bnb%2FIxoNVPOsqkQzcNYe056Srn4LJrmf9Bze3J%2FKAu89PkjCJTlCKU3Oo6hTNLb4CKxziESm%2FnFyV8ulxbURZNvO5KDYTxlr4GESZCHt4coBLtoBQzoYPoosS5RLMKYvmMTv8IrGoxcCm7w0JvqJyjDIeioyNyunMIJZQ%2BdcmwTeZYw3foXo3c2gOmodfuzwWcjeZCJGG9rGT0W4WnnROL1GkJq31Ri1wxVP%2BfdzCu0AaTJ6rsbM7369kjfTCmZs7Y2rL298BneeJ3UJ4p64D0rd7NBPARdZ4PJd5BaA%3D%3D%7Ctkp%3ABk9SR46_49uTZw
+                - img "Credit Card Holder/Wallet Faux Leather (Multiple Colors available)"
+              - generic [ref=e1720]:
+                - generic [ref=e1721]:
+                  - link "Credit Card Holder/Wallet Faux Leather (Multiple Colors available) Opens in a new window or tab" [ref=e1722] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/144347719784?_skw=mens+leather+wallet&itmmeta=01KJEVRVXQMERDRKHP5XQV43MK&hash=item219bcb6868:g:ml8AAOSwo11hz7Ej&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xA%2F0V%2Bnb%2FIxoNVPOsqkQzcNYe056Srn4LJrmf9Bze3J%2FKAu89PkjCJTlCKU3Oo6hTNLb4CKxziESm%2FnFyV8ulxbURZNvO5KDYTxlr4GESZCHt4coBLtoBQzoYPoosS5RLMKYvmMTv8IrGoxcCm7w0JvqJyjDIeioyNyunMIJZQ%2BdcmwTeZYw3foXo3c2gOmodfuzwWcjeZCJGG9rGT0W4WnnROL1GkJq31Ri1wxVP%2BfdzCu0AaTJ6rsbM7369kjfTCmZs7Y2rL298BneeJ3UJ4p64D0rd7NBPARdZ4PJd5BaA%3D%3D%7Ctkp%3ABk9SR46_49uTZw
+                    - heading "Credit Card Holder/Wallet Faux Leather (Multiple Colors available) Opens in a new window or tab" [level=3] [ref=e1723]:
+                      - text: Credit Card Holder/Wallet Faux Leather (Multiple Colors available)
+                      - generic [ref=e1724]: Opens in a new window or tab
+                  - generic [ref=e1726]: Brand New
+                - generic [ref=e1727]:
+                  - generic [ref=e1728]:
+                    - generic [ref=e1729]: $6.40
+                    - generic [ref=e1730]: Buy It Now
+                    - generic [ref=e1731]: +$24.23 delivery
+                    - generic [ref=e1732]: Located in United States
+                  - generic [ref=e1734]: fauxleather4everyone 99.2% positive (618)
+                - generic [ref=e1735]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading [level=6]:
+                          - generic [ref=e1736]: Sponsored
+          - listitem [ref=e1737]:
+            - generic [ref=e1738]:
+              - generic [ref=e1740]:
+                - link "Leather men's accessories Leather carving edition" [ref=e1744] [cursor=pointer]:
+                  - /url: https://www.ebay.com/itm/157665487792?_skw=mens+leather+wallet&itmmeta=01KJEVRVXQFKBTYXV92ZPKTQQA&hash=item24b5986bb0:g:iQ8AAeSwCylphs0U&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDCXgTsTwSWeE%2FUaZiPeDljqq3r%2FRshovQElCtUOQ%2F2NARbDZutYQPZPKJBLUOAuSowUOedw7dh1DtzoAlZiQPesEhCtlVrVfGW1Q6jpdAkerwtJZ%2FkKeR9O1%2FcwFnwwqeobEffXs3IDINLDHX7S3azxnI7215EgBCyBUunOWc0KIkXA%2B9t6ymRQk2jz6aMyqclN7s4cSNgD2w9ds3uQqc21ZMgzCqshG%2Fe9cBHYM5pLzbOMTtttejecUgWC%2FJ4sw4nAr2GqYI83eqIZ22uqISRWErT2k%2Fc6Yl9cDht6YHpVw%3D%3D%7Ctkp%3ABk9SR46_49uTZw
+                  - img "Leather men's accessories Leather carving edition"
+                - link "watch Leather men's accessories Leather carving edition" [ref=e1746] [cursor=pointer]:
+                  - /url: https://www.ebay.com/myb/WatchListAdd?item=157665487792&pt=null&srt=01000b00000050d6ae55d9b14acc7bde3a4fff1a6c76edcc1d15f5f0569d663da30dedcebc0c1464adfe4fdf944c80518d9bda4d6ed44f01291062d74ec6cd95c3c51d20abbcffb4e5fb46ae1507dfb3b4487c3ccba31b&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D267%26_from%3DR40
+                  - generic [ref=e1747]:
+                    - img
+              - generic [ref=e1748]:
+                - generic [ref=e1749]:
+                  - link "Leather men's accessories Leather carving edition Opens in a new window or tab" [ref=e1750] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/157665487792?_skw=mens+leather+wallet&itmmeta=01KJEVRVXQFKBTYXV92ZPKTQQA&hash=item24b5986bb0:g:iQ8AAeSwCylphs0U&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDCXgTsTwSWeE%2FUaZiPeDljqq3r%2FRshovQElCtUOQ%2F2NARbDZutYQPZPKJBLUOAuSowUOedw7dh1DtzoAlZiQPesEhCtlVrVfGW1Q6jpdAkerwtJZ%2FkKeR9O1%2FcwFnwwqeobEffXs3IDINLDHX7S3azxnI7215EgBCyBUunOWc0KIkXA%2B9t6ymRQk2jz6aMyqclN7s4cSNgD2w9ds3uQqc21ZMgzCqshG%2Fe9cBHYM5pLzbOMTtttejecUgWC%2FJ4sw4nAr2GqYI83eqIZ22uqISRWErT2k%2Fc6Yl9cDht6YHpVw%3D%3D%7Ctkp%3ABk9SR46_49uTZw
+                    - heading "Leather men's accessories Leather carving edition Opens in a new window or tab" [level=3] [ref=e1751]:
+                      - text: Leather men's accessories Leather carving edition
+                      - generic [ref=e1752]: Opens in a new window or tab
+                  - generic [ref=e1754]: New (Other)
+                - generic [ref=e1755]:
+                  - generic [ref=e1756]:
+                    - generic [ref=e1757]:
+                      - text: $98.55
+                      - text: $111.99
+                    - generic [ref=e1758]: or Best Offer
+                    - generic [ref=e1759]: +$15.00 delivery
+                    - generic [ref=e1760]: Located in Japan
+                  - generic [ref=e1762]: bookshopkoume 99.7% positive (342)
+                - generic [ref=e1763]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading [level=6]:
+                          - generic [ref=e1764]: Sponsored
+          - listitem [ref=e1765]:
+            - generic [ref=e1766]:
+              - generic [ref=e1768]:
+                - link "Marvel Captain America Comics Leather Trifold Wallet In Collectors Box" [ref=e1772] [cursor=pointer]:
+                  - /url: https://www.ebay.com/itm/314302948782?_skw=mens+leather+wallet&itmmeta=01KJEVRVXQ1F4TJWXZPMKJAHSZ&hash=item492dea65ae:g:GlYAAOSwMmpjtHEi&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xDSG3PkKJWrDktQ23LAnDsAvNc%2BP46SsYvCoR0SLioOGjAx8NIzzD%2BXq8qO8VRDDD%2FLSpJMCXFM5w1bpWLVfV8%2BDV7X%2Fl9MfOT9JbYhQvK5gZ05cWjaKEbCEEjS1tlsn%2BLTPEhvxrRMfLuON4GgFd6kOAWFaBmMw9%2BY9Q0N8SUCTSXd8xd7O%2Bv0wPobAYDW9zw%2F1lIo1K8xZMNB48uu4ApHMsUbXwnrCcznukf%2F07qTupsMJqk4QUlEXwOwanu%2B834%3D%7Ctkp%3ABk9SR46_49uTZw
+                  - img "Marvel Captain America Comics Leather Trifold Wallet In Collectors Box"
+                - link "watch Marvel Captain America Comics Leather Trifold Wallet In Collectors Box" [ref=e1774] [cursor=pointer]:
+                  - /url: https://www.ebay.com/myb/WatchListAdd?item=314302948782&pt=null&srt=01000b000000508b419aa78d23016b8edd10288283c79daf56999d2d070d54948352a328ac02397b68b6026e1edba8a910d72699e3b7df7c847971a953c08a309ba8d12c8681f67ee67cb34529553a718e0378d5853390&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D267%26_from%3DR40
+                  - generic [ref=e1775]:
+                    - img
+              - generic [ref=e1776]:
+                - generic [ref=e1777]:
+                  - link "Marvel Captain America Comics Leather Trifold Wallet In Collectors Box Opens in a new window or tab" [ref=e1778] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/314302948782?_skw=mens+leather+wallet&itmmeta=01KJEVRVXQ1F4TJWXZPMKJAHSZ&hash=item492dea65ae:g:GlYAAOSwMmpjtHEi&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xDSG3PkKJWrDktQ23LAnDsAvNc%2BP46SsYvCoR0SLioOGjAx8NIzzD%2BXq8qO8VRDDD%2FLSpJMCXFM5w1bpWLVfV8%2BDV7X%2Fl9MfOT9JbYhQvK5gZ05cWjaKEbCEEjS1tlsn%2BLTPEhvxrRMfLuON4GgFd6kOAWFaBmMw9%2BY9Q0N8SUCTSXd8xd7O%2Bv0wPobAYDW9zw%2F1lIo1K8xZMNB48uu4ApHMsUbXwnrCcznukf%2F07qTupsMJqk4QUlEXwOwanu%2B834%3D%7Ctkp%3ABk9SR46_49uTZw
+                    - heading "Marvel Captain America Comics Leather Trifold Wallet In Collectors Box Opens in a new window or tab" [level=3] [ref=e1779]:
+                      - text: Marvel Captain America Comics Leather Trifold Wallet In Collectors Box
+                      - generic [ref=e1780]: Opens in a new window or tab
+                  - generic [ref=e1782]: Brand New
+                - generic [ref=e1783]:
+                  - generic [ref=e1784]:
+                    - generic [ref=e1785]: $25.00
+                    - generic [ref=e1786]: Buy It Now
+                    - generic [ref=e1787]: +$32.07 delivery
+                    - generic [ref=e1788]: Located in United States
+                    - generic [ref=e1789]: 2 watchers
+                  - generic [ref=e1791]: raritiesultd 99.7% positive (6.3K)
+                - generic [ref=e1792]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading "Sponsored" [level=6]:
+                          - generic [ref=e1793]: Sponsored
+          - listitem [ref=e1794]:
+            - generic [ref=e1795]:
+              - generic [ref=e1797]:
+                - link "notebook notes book jacket cover wallet card case pen bag cow leather brown H106" [ref=e1801] [cursor=pointer]:
+                  - /url: https://www.ebay.com/itm/124927841756?_skw=mens+leather+wallet&itmmeta=01KJEVRVXQ2B2PDRAWFQG60ZB2&hash=item1d164795dc:g:4qMAAOSwONZg5xfP&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCXaXGvE%2BuTwn4Xop2Wpu1rIiXPLUz6Y%2FEQHNHiSGjlh1q4MQOqkErxr3BGZuG5o9%2FhS4NaGvGtAB9gJaDJ7ZyrRbdGSRYGDJgnseac%2BFj8RqGNuwePB5QyOicezGLdIOJQEi%2FkLMdJTCg3Q1doJ%2BT7N5OFUWb4i%2Bzymyn%2FruB5SQtZrzz3JlnoZukJEh3CuFoUfzeG7bZ%2BS1fel7c%2B8U2W6CRhOnNoeOZPIzM0sTputUkKKxYlkfks%2FA2BIF5yBJ0BVVVfVn7%2Btd83YBvwHJHr1chJ3my%2BdHqDOmGd0GqEBg%3D%3D%7Ctkp%3ABFBMjr_j25Nn
+                  - img "notebook notes book jacket cover wallet card case pen bag cow leather brown H106"
+                - link "watch notebook notes book jacket cover wallet card case pen bag cow leather brown H106" [ref=e1803] [cursor=pointer]:
+                  - /url: https://www.ebay.com/myb/WatchListAdd?item=124927841756&pt=null&srt=01000b00000050054b2206158be2f0e030c745bdd6913282df6afbc4b3783fec813c2a2ba785b1ae6078271c97859d32b566183bb39c2f23ba91ed41a19431b054277c89ab6b30967290c47863e8362539d9615ccbca92&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D267%26_from%3DR40
+                  - generic [ref=e1804]:
+                    - img
+              - generic [ref=e1805]:
+                - generic [ref=e1806]:
+                  - link "notebook notes book jacket cover wallet card case pen bag cow leather brown H106 Opens in a new window or tab" [ref=e1807] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/124927841756?_skw=mens+leather+wallet&itmmeta=01KJEVRVXQ2B2PDRAWFQG60ZB2&hash=item1d164795dc:g:4qMAAOSwONZg5xfP&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCXaXGvE%2BuTwn4Xop2Wpu1rIiXPLUz6Y%2FEQHNHiSGjlh1q4MQOqkErxr3BGZuG5o9%2FhS4NaGvGtAB9gJaDJ7ZyrRbdGSRYGDJgnseac%2BFj8RqGNuwePB5QyOicezGLdIOJQEi%2FkLMdJTCg3Q1doJ%2BT7N5OFUWb4i%2Bzymyn%2FruB5SQtZrzz3JlnoZukJEh3CuFoUfzeG7bZ%2BS1fel7c%2B8U2W6CRhOnNoeOZPIzM0sTputUkKKxYlkfks%2FA2BIF5yBJ0BVVVfVn7%2Btd83YBvwHJHr1chJ3my%2BdHqDOmGd0GqEBg%3D%3D%7Ctkp%3ABFBMjr_j25Nn
+                    - heading "notebook notes book jacket cover wallet card case pen bag cow leather brown H106 Opens in a new window or tab" [level=3] [ref=e1808]:
+                      - text: notebook notes book jacket cover wallet card case pen bag cow leather brown H106
+                      - generic [ref=e1809]: Opens in a new window or tab
+                  - generic [ref=e1811]: Brand New
+                - generic [ref=e1812]:
+                  - generic [ref=e1813]:
+                    - generic [ref=e1814]: $5.90
+                    - generic [ref=e1815]: Buy It Now
+                    - generic [ref=e1816]: +$8.90 delivery
+                    - generic [ref=e1817]: Located in China
+                    - generic [ref=e1818]: 2 watchers
+                  - generic [ref=e1820]: sunnyzone25 97.6% positive (1.4K)
+                - generic [ref=e1821]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading "Sponsored Sponsored" [level=6]:
+                          - generic [ref=e1822]: Sponsored
+          - listitem [ref=e1823]:
+            - generic [ref=e1824]:
+              - generic [ref=e1826]:
+                - link "notebook notes book jacket cover wallet card case bag cow leather green H63-1" [ref=e1830] [cursor=pointer]:
+                  - /url: https://www.ebay.com/itm/125377096866?_skw=mens+leather+wallet&itmmeta=01KJEVRVXQVEE2BJJ3C72VSCSK&hash=item1d310eaca2:g:wgYAAOSwXQFir1Vz&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBiPYWp4DphUKsAGt8xhexaCAs%2FFrNu%2FLZnQ3m8c9%2B1yb4HAb4NVCa8oTwgFM9lNdvS5bgNMZtrSgullrSJBBsFm2mZJydO5oa4n1%2BBce2yUicN1zzZR6Vb5jDwBopiuIDX7m73CtC0Cbig5Hcs%2Fl8iWOfjDMrMjZDSlLiPmd5rXBdegNqgAiSDbUwSRp2NFf4n%2F3G6ki6I1ZORvn0kMszMUfSDbjwT2OIU4qtjl063VWa%2FVXOUpBcuK7ihl3kZiJbjRUZNu7p7jxlCm6XSiU%2FSmEw7MRvvfaJFHnyMkZrvIQ%3D%3D%7Ctkp%3ABFBMjr_j25Nn
+                  - img "notebook notes book jacket cover wallet card case bag cow leather green H63-1"
+                - link "watch notebook notes book jacket cover wallet card case bag cow leather green H63-1" [ref=e1832] [cursor=pointer]:
+                  - /url: https://www.ebay.com/myb/WatchListAdd?item=125377096866&pt=null&srt=01000b00000050d84a85d2925679268db89880332c0e629ca9748580c7231e01011ee9b37fcd4aeeb152cb2c6f579c758bef6c08ff3b780b7ba0d34898dafc8a7f220ac69c9b18e046a94b2cd7e79a96b41e35dee97b17&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D267%26_from%3DR40
+                  - generic [ref=e1833]:
+                    - img
+              - generic [ref=e1834]:
+                - generic [ref=e1835]:
+                  - link "notebook notes book jacket cover wallet card case bag cow leather green H63-1 Opens in a new window or tab" [ref=e1836] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/125377096866?_skw=mens+leather+wallet&itmmeta=01KJEVRVXQVEE2BJJ3C72VSCSK&hash=item1d310eaca2:g:wgYAAOSwXQFir1Vz&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBiPYWp4DphUKsAGt8xhexaCAs%2FFrNu%2FLZnQ3m8c9%2B1yb4HAb4NVCa8oTwgFM9lNdvS5bgNMZtrSgullrSJBBsFm2mZJydO5oa4n1%2BBce2yUicN1zzZR6Vb5jDwBopiuIDX7m73CtC0Cbig5Hcs%2Fl8iWOfjDMrMjZDSlLiPmd5rXBdegNqgAiSDbUwSRp2NFf4n%2F3G6ki6I1ZORvn0kMszMUfSDbjwT2OIU4qtjl063VWa%2FVXOUpBcuK7ihl3kZiJbjRUZNu7p7jxlCm6XSiU%2FSmEw7MRvvfaJFHnyMkZrvIQ%3D%3D%7Ctkp%3ABFBMjr_j25Nn
+                    - heading "notebook notes book jacket cover wallet card case bag cow leather green H63-1 Opens in a new window or tab" [level=3] [ref=e1837]:
+                      - text: notebook notes book jacket cover wallet card case bag cow leather green H63-1
+                      - generic [ref=e1838]: Opens in a new window or tab
+                  - generic [ref=e1840]: Brand New
+                - generic [ref=e1841]:
+                  - generic [ref=e1842]:
+                    - generic [ref=e1843]: $8.90
+                    - generic [ref=e1844]: Buy It Now
+                    - generic [ref=e1845]: +$9.90 delivery
+                    - generic [ref=e1846]: Located in China
+                  - generic [ref=e1848]: sunnyzone25 97.6% positive (1.4K)
+                - generic [ref=e1849]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading "Sponsored" [level=6]:
+                          - generic [ref=e1850]: Sponsored
+          - listitem [ref=e1851]:
+            - generic [ref=e1852]:
+              - generic [ref=e1854]:
+                - link "Marvel Deadpool Metal Logo Face Faux Leather Bifold Wallet" [ref=e1858] [cursor=pointer]:
+                  - /url: https://www.ebay.com/itm/266304800246?_skw=mens+leather+wallet&itmmeta=01KJEVRVXQYC5DMHDS60K2WWK7&hash=item3e0100c5f6:g:1acAAeSwWthomlz~&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xAYj9uF0D3HDozVPCesB1whrCimdWrXEb48KJBmHo5VAmCgEwz1Zt9CNS8bYAel%2BJJBe%2F0RN%2F%2BHT1cHhn415UAlpY4ziGYlLkXlCxVqVZ%2BrKF18a3qWlTNa3I%2BL58DxG7EtxU%2BVJWLDXRVcoeOMIAG1U8ZUiFDS1vx%2BHS6w0YmTzyIzyrcO4xsnXp1e5z3M%2FXtWYeFjBgTNmGpDcKo1qH01eJ3DxFHsm5FbmJ3JtWfBvKVKfPnUiN%2F%2BtXKeSEk10sU%3D%7Ctkp%3ABk9SR46_49uTZw
+                  - img "Marvel Deadpool Metal Logo Face Faux Leather Bifold Wallet"
+                - link "watch Marvel Deadpool Metal Logo Face Faux Leather Bifold Wallet" [ref=e1860] [cursor=pointer]:
+                  - /url: https://www.ebay.com/myb/WatchListAdd?item=266304800246&pt=null&srt=01000b0000005070ee201fb56b504704c38872c4bac66040c5cdd6354e422a008f002d0a609f3851533788550dc51abdfab4576b4eb0a757c5cc96f92a9ca227ca83b827c686c8068b5e251976bac6f83cc6c1164e5063&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D267%26_from%3DR40
+                  - generic [ref=e1861]:
+                    - img
+              - generic [ref=e1862]:
+                - generic [ref=e1863]:
+                  - link "Marvel Deadpool Metal Logo Face Faux Leather Bifold Wallet Opens in a new window or tab" [ref=e1864] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/266304800246?_skw=mens+leather+wallet&itmmeta=01KJEVRVXQYC5DMHDS60K2WWK7&hash=item3e0100c5f6:g:1acAAeSwWthomlz~&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xAYj9uF0D3HDozVPCesB1whrCimdWrXEb48KJBmHo5VAmCgEwz1Zt9CNS8bYAel%2BJJBe%2F0RN%2F%2BHT1cHhn415UAlpY4ziGYlLkXlCxVqVZ%2BrKF18a3qWlTNa3I%2BL58DxG7EtxU%2BVJWLDXRVcoeOMIAG1U8ZUiFDS1vx%2BHS6w0YmTzyIzyrcO4xsnXp1e5z3M%2FXtWYeFjBgTNmGpDcKo1qH01eJ3DxFHsm5FbmJ3JtWfBvKVKfPnUiN%2F%2BtXKeSEk10sU%3D%7Ctkp%3ABk9SR46_49uTZw
+                    - heading "Marvel Deadpool Metal Logo Face Faux Leather Bifold Wallet Opens in a new window or tab" [level=3] [ref=e1865]:
+                      - text: Marvel Deadpool Metal Logo Face Faux Leather Bifold Wallet
+                      - generic [ref=e1866]: Opens in a new window or tab
+                  - generic [ref=e1868]: Brand New
+                - generic [ref=e1869]:
+                  - generic [ref=e1870]:
+                    - generic [ref=e1871]: $21.99
+                    - generic [ref=e1872]: Buy It Now
+                    - generic [ref=e1873]: +$24.56 delivery
+                    - generic [ref=e1874]: Located in United States
+                  - generic [ref=e1876]: jodiealison 99.5% positive (19K)
+                - generic [ref=e1877]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading [level=6]:
+                          - generic [ref=e1878]: Sponsored
+          - listitem [ref=e1879]:
+            - generic [ref=e1880]:
+              - generic [ref=e1882]:
+                - link "Marvel Deadpool Metal Logo Face Faux Leather Bifold Wallet" [ref=e1886] [cursor=pointer]:
+                  - /url: https://www.ebay.com/itm/205585948655?_skw=mens+leather+wallet&itmmeta=01KJEVRVXQRCMKTJK5VR3SD65M&hash=item2fdde09fef:g:Fr4AAeSwxV1oXvpv&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xBjR0yAuZOcxiVXylCLppyK5uPWneYeeVQvnvoeEFAWRDNo3J3mpSojjZNzEJmZ5Aeq0gSj9bXarAlQt8lGDpwBtH3xwfjnZgezCUzFA6JqenoNrMBxCbarPmZSWbQYJHh%2B%2BFAn5ff1qBI4h4zrFcV3HRoaSJ8MzJsaZsSHwQuwrnaY3X%2BFXP4sSivpt03FDlxULIkehDiSdmractVyJbUP2yueNV%2Bj5lxQ6EUcpkdXCCmgXvDW%2BOYyK4XdDXwJwv8%3D%7Ctkp%3ABk9SR46_49uTZw
+                  - img "Marvel Deadpool Metal Logo Face Faux Leather Bifold Wallet"
+                - link "watch Marvel Deadpool Metal Logo Face Faux Leather Bifold Wallet" [ref=e1888] [cursor=pointer]:
+                  - /url: https://www.ebay.com/myb/WatchListAdd?item=205585948655&pt=null&srt=01000b00000050973fe74e56baaf672e5488f38c89b298527bb298ee73059f69fc2c2f3ce8c65e8fb160c7261bf123687233af63e6bdfb88858f679e95ac6621a84eda0f48c4b7ad23c0a652cdcf2289771a3c7db87e34&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D267%26_from%3DR40
+                  - generic [ref=e1889]:
+                    - img
+              - generic [ref=e1890]:
+                - generic [ref=e1891]:
+                  - link "Marvel Deadpool Metal Logo Face Faux Leather Bifold Wallet Opens in a new window or tab" [ref=e1892] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/205585948655?_skw=mens+leather+wallet&itmmeta=01KJEVRVXQRCMKTJK5VR3SD65M&hash=item2fdde09fef:g:Fr4AAeSwxV1oXvpv&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xBjR0yAuZOcxiVXylCLppyK5uPWneYeeVQvnvoeEFAWRDNo3J3mpSojjZNzEJmZ5Aeq0gSj9bXarAlQt8lGDpwBtH3xwfjnZgezCUzFA6JqenoNrMBxCbarPmZSWbQYJHh%2B%2BFAn5ff1qBI4h4zrFcV3HRoaSJ8MzJsaZsSHwQuwrnaY3X%2BFXP4sSivpt03FDlxULIkehDiSdmractVyJbUP2yueNV%2Bj5lxQ6EUcpkdXCCmgXvDW%2BOYyK4XdDXwJwv8%3D%7Ctkp%3ABk9SR46_49uTZw
+                    - heading "Marvel Deadpool Metal Logo Face Faux Leather Bifold Wallet Opens in a new window or tab" [level=3] [ref=e1893]:
+                      - text: Marvel Deadpool Metal Logo Face Faux Leather Bifold Wallet
+                      - generic [ref=e1894]: Opens in a new window or tab
+                  - generic [ref=e1896]: Brand New
+                - generic [ref=e1897]:
+                  - generic [ref=e1898]:
+                    - generic [ref=e1899]: $20.00
+                    - generic [ref=e1900]: or Best Offer
+                    - generic [ref=e1901]: +$21.59 delivery
+                    - generic [ref=e1902]: Located in United States
+                  - generic [ref=e1904]: cenfam0 100% positive (111)
+                - generic [ref=e1905]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading "Sponsored" [level=6]:
+                          - generic [ref=e1906]: Sponsored
+          - listitem [ref=e1907]:
+            - generic [ref=e1908]:
+              - generic [ref=e1910]:
+                - link "Genuine Leather Bifold Wallet Metropolitan Collection" [ref=e1914] [cursor=pointer]:
+                  - /url: https://www.ebay.com/itm/183876168888?_skw=mens+leather+wallet&itmmeta=01KJEVRVXQGYCKCZC6EA71KKE9&hash=item2acfdfacb8:g:2~AAAOSw8Ftbirt6&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xApniWVhVaKYCEOcCHkvyPy5%2FUC8uzRh7kLcfC9%2F2yU4W7MlrGZgJ%2FeoC2j0Clg1wf0QZkIV5ntsajZnGidBloYQFaSy6T7bQPdns7zugS2NfIqTEFu0zk8scYlJFCzBoxOaXbuycbW14293m1csaTdoLJ8YZf9e6h7d8b605i0t4wBuV5zhImHaEqvfqaefRQMVz3uOPsKSo%2B1YNOV4SLGgJGkNHhwm2Dz0tPQOfQPpUHe9yxP%2BDyGruQYpLhFs27m0%2BXucx9TJBiT%2BqGzEQ1Vg0xdLke4nG6yfchXPop3dw%3D%3D%7Ctkp%3ABk9SR46_49uTZw
+                  - img "Genuine Leather Bifold Wallet Metropolitan Collection"
+                - link "watch Genuine Leather Bifold Wallet Metropolitan Collection" [ref=e1916] [cursor=pointer]:
+                  - /url: https://www.ebay.com/myb/WatchListAdd?item=183876168888&pt=null&srt=01000b0000005042f8cf452be96c8d8d7618ef59914afcdbf07cbfb8b2439c67f7417f289b05f584265363bd20c66354c3f30e8b34c40b1968c416eeafa8198b8afd533e038c3e48194fe536021cb2ac7ecd29461f1cd0&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D267%26_from%3DR40
+                  - generic [ref=e1917]:
+                    - img
+              - generic [ref=e1918]:
+                - generic [ref=e1919]:
+                  - link "Genuine Leather Bifold Wallet Metropolitan Collection Opens in a new window or tab" [ref=e1920] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/183876168888?_skw=mens+leather+wallet&itmmeta=01KJEVRVXQGYCKCZC6EA71KKE9&hash=item2acfdfacb8:g:2~AAAOSw8Ftbirt6&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xApniWVhVaKYCEOcCHkvyPy5%2FUC8uzRh7kLcfC9%2F2yU4W7MlrGZgJ%2FeoC2j0Clg1wf0QZkIV5ntsajZnGidBloYQFaSy6T7bQPdns7zugS2NfIqTEFu0zk8scYlJFCzBoxOaXbuycbW14293m1csaTdoLJ8YZf9e6h7d8b605i0t4wBuV5zhImHaEqvfqaefRQMVz3uOPsKSo%2B1YNOV4SLGgJGkNHhwm2Dz0tPQOfQPpUHe9yxP%2BDyGruQYpLhFs27m0%2BXucx9TJBiT%2BqGzEQ1Vg0xdLke4nG6yfchXPop3dw%3D%3D%7Ctkp%3ABk9SR46_49uTZw
+                    - heading "Genuine Leather Bifold Wallet Metropolitan Collection Opens in a new window or tab" [level=3] [ref=e1921]:
+                      - text: Genuine Leather Bifold Wallet Metropolitan Collection
+                      - generic [ref=e1922]: Opens in a new window or tab
+                  - generic [ref=e1924]: Brand New
+                - generic [ref=e1925]:
+                  - generic [ref=e1926]:
+                    - generic [ref=e1927]: $30.00
+                    - generic [ref=e1928]: Buy It Now
+                    - generic [ref=e1929]: +$28.72 delivery
+                    - generic [ref=e1930]: Located in United States
+                  - generic [ref=e1932]: tulsabookfinder 100% positive (7.9K)
+                - generic [ref=e1933]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading [level=6]:
+                          - generic [ref=e1934]: Sponsored
+          - listitem [ref=e1935]:
+            - generic [ref=e1936]:
+              - generic [ref=e1938]:
+                - link "Premium Vegan Leather Zippered Portfolio for Men & Women w/Inspirational" [ref=e1942] [cursor=pointer]:
+                  - /url: https://www.ebay.com/itm/168158437081?_skw=mens+leather+wallet&itmmeta=01KJEVRVXQQXXDGMAH70MFT6WP&hash=item2727061ed9:g:y~UAAeSw9Qdpj-BZ&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xBZPAt%2FsTGgP--YceTnjDu3jDY%2BRDc1SrAgyBUX%2FlZau%2F7yyk4weg%2F9IyBoOF5GsxkVXdZmmuO2xjendadGLLO7d2%2BYt7BJIG7CZnW9LIwqvzWykVihqjDk1KWOUyXgdmcaIGj7Aoq8boN4Gn7RE6K0rdv578O6qKBM4ex3iduiRK%2BEfUQirJAlFDgmMlNj7EFm%2Bk8jri0nLYXvKKUUI3uqX7Rayqgq%2BG1NVvJbepALPN3EUrNQ0avJaE5sFlRCEtE%3D%7Ctkp%3ABk9SR46_49uTZw
+                  - img "Premium Vegan Leather Zippered Portfolio for Men & Women w/Inspirational"
+                - link "watch Premium Vegan Leather Zippered Portfolio for Men & Women w/Inspirational" [ref=e1944] [cursor=pointer]:
+                  - /url: https://www.ebay.com/myb/WatchListAdd?item=168158437081&pt=null&srt=01000b00000050c2bd0d276e0b4b068fdab4f5ed8fb1cb16e6f7f1b89b05f0aa82a88f10179c7c36fbf79d65d377acf4d98b41361cb92bd7d4857da56862138fb88ec8cac0a72c37b7bd90029a044ce80f71bf12b2e15c&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D267%26_from%3DR40
+                  - generic [ref=e1945]:
+                    - img
+              - generic [ref=e1946]:
+                - generic [ref=e1947]:
+                  - link "Premium Vegan Leather Zippered Portfolio for Men & Women w/Inspirational Opens in a new window or tab" [ref=e1948] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/168158437081?_skw=mens+leather+wallet&itmmeta=01KJEVRVXQQXXDGMAH70MFT6WP&hash=item2727061ed9:g:y~UAAeSw9Qdpj-BZ&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xBZPAt%2FsTGgP--YceTnjDu3jDY%2BRDc1SrAgyBUX%2FlZau%2F7yyk4weg%2F9IyBoOF5GsxkVXdZmmuO2xjendadGLLO7d2%2BYt7BJIG7CZnW9LIwqvzWykVihqjDk1KWOUyXgdmcaIGj7Aoq8boN4Gn7RE6K0rdv578O6qKBM4ex3iduiRK%2BEfUQirJAlFDgmMlNj7EFm%2Bk8jri0nLYXvKKUUI3uqX7Rayqgq%2BG1NVvJbepALPN3EUrNQ0avJaE5sFlRCEtE%3D%7Ctkp%3ABk9SR46_49uTZw
+                    - heading "Premium Vegan Leather Zippered Portfolio for Men & Women w/Inspirational Opens in a new window or tab" [level=3] [ref=e1949]:
+                      - text: Premium Vegan Leather Zippered Portfolio for Men & Women w/Inspirational
+                      - generic [ref=e1950]: Opens in a new window or tab
+                  - generic [ref=e1952]: Brand New
+                - generic [ref=e1953]:
+                  - generic [ref=e1954]:
+                    - generic [ref=e1955]: $34.99
+                    - generic [ref=e1956]: Buy It Now
+                    - generic [ref=e1957]: +$29.74 delivery
+                    - generic [ref=e1958]: Located in United States
+                  - generic [ref=e1960]: christianartgifts 99.8% positive (1.9K)
+                - generic [ref=e1961]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading "Sponsored" [level=6]:
+                          - generic [ref=e1962]: Sponsored
+          - listitem [ref=e1963]:
+            - generic [ref=e1964]:
+              - generic [ref=e1966]:
+                - link "Ariat Rodeo Scrolling Embossed Brown Wallet A3561244" [ref=e1970] [cursor=pointer]:
+                  - /url: https://www.ebay.com/itm/167609077244?_skw=mens+leather+wallet&itmmeta=01KJEVRVXQMYR3F2F9VHQK33RT&hash=item2706478dfc:g:6mQAAOSwGrtm2y74&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCXOFRlJ1MuOLQQy6bvppDxq6%2BaG%2FgGW1jwjukG%2BpbcXkx%2BtLv50%2BtMNzrFGdtdw9uVKbRZQtpRx1ZM2orbN6VrHGunklSPU%2BChHOi%2F7n47L1bz1qkVkteq6jS9wya%2F7NePn%2FtxgULyPwSn6G4rBI7PPjHXM84vdqdBS9F%2FHcEX2%2BYEjSV%2FL74HoWiqG7RTUCXRNHGkEyv86XPrk6xniqy2uD4XjpM2SPQCBL5%2BaWRueQv7Xi%2FcZYQmf7wmNbTzeO9A33P0Xd6ZVaI3QLkKhhuo%2FZ1SCtleQVE5IgALLoKBkQ%3D%3D%7Ctkp%3ABk9SR46_49uTZw
+                  - img "Ariat Rodeo Scrolling Embossed Brown Wallet A3561244"
+                - link "watch Ariat Rodeo Scrolling Embossed Brown Wallet A3561244" [ref=e1972] [cursor=pointer]:
+                  - /url: https://www.ebay.com/myb/WatchListAdd?item=167609077244&pt=null&srt=01000b0000005050f8a74ba43040c20135debd9dd7c518ebb09a2f01a9d62b11e60c3d3106ec765808137be6c04e024b786ff3e47c1901bdf60c451b6ba9f15eaddf11a2b5485bb84ad17c82cb604b1989ec964c957a30&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D267%26_from%3DR40
+                  - generic [ref=e1973]:
+                    - img
+              - generic [ref=e1974]:
+                - generic [ref=e1975]:
+                  - link "Ariat Rodeo Scrolling Embossed Brown Wallet A3561244 Opens in a new window or tab" [ref=e1976] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/167609077244?_skw=mens+leather+wallet&itmmeta=01KJEVRVXQMYR3F2F9VHQK33RT&hash=item2706478dfc:g:6mQAAOSwGrtm2y74&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCXOFRlJ1MuOLQQy6bvppDxq6%2BaG%2FgGW1jwjukG%2BpbcXkx%2BtLv50%2BtMNzrFGdtdw9uVKbRZQtpRx1ZM2orbN6VrHGunklSPU%2BChHOi%2F7n47L1bz1qkVkteq6jS9wya%2F7NePn%2FtxgULyPwSn6G4rBI7PPjHXM84vdqdBS9F%2FHcEX2%2BYEjSV%2FL74HoWiqG7RTUCXRNHGkEyv86XPrk6xniqy2uD4XjpM2SPQCBL5%2BaWRueQv7Xi%2FcZYQmf7wmNbTzeO9A33P0Xd6ZVaI3QLkKhhuo%2FZ1SCtleQVE5IgALLoKBkQ%3D%3D%7Ctkp%3ABk9SR46_49uTZw
+                    - heading "Ariat Rodeo Scrolling Embossed Brown Wallet A3561244 Opens in a new window or tab" [level=3] [ref=e1977]:
+                      - text: Ariat Rodeo Scrolling Embossed Brown Wallet A3561244
+                      - generic [ref=e1978]: Opens in a new window or tab
+                  - generic [ref=e1980]: Brand New
+                - generic [ref=e1981]:
+                  - generic [ref=e1982]:
+                    - generic [ref=e1983]: $42.00
+                    - generic [ref=e1984]: Buy It Now
+                    - generic [ref=e1985]: +$24.99 delivery
+                    - generic [ref=e1986]: Located in United States
+                  - generic [ref=e1988]: redsboots 99.8% positive (2.2K)
+                - generic [ref=e1989]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading "Sponsored" [level=6]:
+                          - generic [ref=e1990]: Sponsored
+          - listitem [ref=e1991]:
+            - generic [ref=e1992]:
+              - generic [ref=e1994]:
+                - link "notebook notes book jacket cover wallet card case bag cow leather brown H745" [ref=e1998] [cursor=pointer]:
+                  - /url: https://www.ebay.com/itm/125880303599?_skw=mens+leather+wallet&itmmeta=01KJEVRVXRFJ3TN3ETVYDEDS78&hash=item1d4f0cffef:g:yBYAAOSwDEtkN5zQ&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xCEDWpbR7zRRu2Kf2TAWMVpNSxsV8oGdVLfqO%2FVkz60OJ2bbeE3iD7dScb%2FC3IvCB9eWCBvAjXrWY820NGUldZ6J29pOmp5q4ACYAIYfoB1JRs0lY%2FIC6TQsGvs2o3NUtzpi2q90UkRe8oYdQ4T1O7ybjuLw5vf9MwFDWQIP4qgH%2BE3vv7xvdb9cKgpu9BB7kNsbJFZJjYwJSWBdGWMoL%2B9nTs4Bob5EmwWFO39DdmBU8NkHWWqatYqwbHGmTSd6ho%3D%7Ctkp%3ABk9SR46_49uTZw
+                  - img "notebook notes book jacket cover wallet card case bag cow leather brown H745"
+                - link "watch notebook notes book jacket cover wallet card case bag cow leather brown H745" [ref=e2000] [cursor=pointer]:
+                  - /url: https://www.ebay.com/myb/WatchListAdd?item=125880303599&pt=null&srt=01000b000000503158adf48c9d695c5c62169fbbc82cfe702c835d8bddd6f47fcb1b3b64c73ba398bc5b146468b42a74c849a1905bedd0f731bdded9e09ca1c87e40174646c74f72096a8029e0e1835f2649dd617489a9&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D267%26_from%3DR40
+                  - generic [ref=e2001]:
+                    - img
+              - generic [ref=e2002]:
+                - generic [ref=e2003]:
+                  - link "notebook notes book jacket cover wallet card case bag cow leather brown H745 Opens in a new window or tab" [ref=e2004] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/125880303599?_skw=mens+leather+wallet&itmmeta=01KJEVRVXRFJ3TN3ETVYDEDS78&hash=item1d4f0cffef:g:yBYAAOSwDEtkN5zQ&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xCEDWpbR7zRRu2Kf2TAWMVpNSxsV8oGdVLfqO%2FVkz60OJ2bbeE3iD7dScb%2FC3IvCB9eWCBvAjXrWY820NGUldZ6J29pOmp5q4ACYAIYfoB1JRs0lY%2FIC6TQsGvs2o3NUtzpi2q90UkRe8oYdQ4T1O7ybjuLw5vf9MwFDWQIP4qgH%2BE3vv7xvdb9cKgpu9BB7kNsbJFZJjYwJSWBdGWMoL%2B9nTs4Bob5EmwWFO39DdmBU8NkHWWqatYqwbHGmTSd6ho%3D%7Ctkp%3ABk9SR46_49uTZw
+                    - heading "notebook notes book jacket cover wallet card case bag cow leather brown H745 Opens in a new window or tab" [level=3] [ref=e2005]:
+                      - text: notebook notes book jacket cover wallet card case bag cow leather brown H745
+                      - generic [ref=e2006]: Opens in a new window or tab
+                  - generic [ref=e2008]: Brand New
+                - generic [ref=e2009]:
+                  - generic [ref=e2010]:
+                    - generic [ref=e2011]: $9.90
+                    - generic [ref=e2012]: Buy It Now
+                    - generic [ref=e2013]: +$9.90 delivery
+                    - generic [ref=e2014]: Located in China
+                    - generic [ref=e2015]: 3 watchers
+                  - generic [ref=e2017]: sunnyzone25 97.6% positive (1.4K)
+                - generic [ref=e2018]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading [level=6]:
+                          - generic [ref=e2019]: Sponsored
+          - listitem [ref=e2020]:
+            - generic [ref=e2021]:
+              - generic [ref=e2023]:
+                - link "MARSHALLS POLITE REPOSITORY in LEATHER WALLET engraved plates Pocket DIARY 1829" [ref=e2027] [cursor=pointer]:
+                  - /url: https://www.ebay.com/itm/267460512109?_skw=mens+leather+wallet&itmmeta=01KJEVRVXR65MZB88ZY46YC2S9&hash=item3e45e3896d:g:I40AAeSw7Vhoy8za&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xBrGKbDPA%2FIOVojV%2BSGQMC6Z8psZFYuQ5caA%2F9HS5F2fhIe5GNMVwnVcqKtFyL35mKUdCyLoPu26cBArIuyJj%2BCXIPEwSZJtGN3ihBB%2F7qAPwYNSlWtkrgoItc3XsKgurBfPWuxmrNTP%2Ff%2BPCNjM0b7wL6MbFTuFylfa5bTCNGlnP7u8VKubsjzbRd6UWPG0GiQ2%2BsNk5Kv1YBonDuXvaqA5n0RAS29FBoKQVuv86pQAsE4tMSImUoOV7zUyKSSsX8%3D%7Ctkp%3ABk9SR46_49uTZw
+                  - img "MARSHALLS POLITE REPOSITORY in LEATHER WALLET engraved plates Pocket DIARY 1829"
+                - link "watch MARSHALLS POLITE REPOSITORY in LEATHER WALLET engraved plates Pocket DIARY 1829" [ref=e2029] [cursor=pointer]:
+                  - /url: https://www.ebay.com/myb/WatchListAdd?item=267460512109&pt=null&srt=01000b00000050592ffa916192a2036f574bd698fe47d9af0a3ef0cc3a8101cd3ed699a34144cb8becbe294d2f4499b5d53ef3ec0430f351fab5a8e008940ecd01f74e75cde9dbacab13b3cbfa4779ce47a35c01d0886b&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D267%26_from%3DR40
+                  - generic [ref=e2030]:
+                    - img
+              - generic [ref=e2031]:
+                - link "MARSHALLS POLITE REPOSITORY in LEATHER WALLET engraved plates Pocket DIARY 1829 Opens in a new window or tab" [ref=e2033] [cursor=pointer]:
+                  - /url: https://www.ebay.com/itm/267460512109?_skw=mens+leather+wallet&itmmeta=01KJEVRVXR65MZB88ZY46YC2S9&hash=item3e45e3896d:g:I40AAeSw7Vhoy8za&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xBrGKbDPA%2FIOVojV%2BSGQMC6Z8psZFYuQ5caA%2F9HS5F2fhIe5GNMVwnVcqKtFyL35mKUdCyLoPu26cBArIuyJj%2BCXIPEwSZJtGN3ihBB%2F7qAPwYNSlWtkrgoItc3XsKgurBfPWuxmrNTP%2Ff%2BPCNjM0b7wL6MbFTuFylfa5bTCNGlnP7u8VKubsjzbRd6UWPG0GiQ2%2BsNk5Kv1YBonDuXvaqA5n0RAS29FBoKQVuv86pQAsE4tMSImUoOV7zUyKSSsX8%3D%7Ctkp%3ABk9SR46_49uTZw
+                  - heading "MARSHALLS POLITE REPOSITORY in LEATHER WALLET engraved plates Pocket DIARY 1829 Opens in a new window or tab" [level=3] [ref=e2034]:
+                    - text: MARSHALLS POLITE REPOSITORY in LEATHER WALLET engraved plates Pocket DIARY 1829
+                    - generic [ref=e2035]: Opens in a new window or tab
+                - generic [ref=e2036]:
+                  - generic [ref=e2037]:
+                    - generic [ref=e2038]: $134.81
+                    - generic [ref=e2039]: or Best Offer
+                    - generic [ref=e2040]: +$31.01 delivery
+                    - generic [ref=e2041]: Located in United Kingdom
+                  - generic [ref=e2043]: berties-antiquebooks 99.7% positive (3.1K)
+                - generic [ref=e2044]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading "Sponsored" [level=6]:
+                          - generic [ref=e2045]: Sponsored
+          - listitem [ref=e2046]:
+            - generic [ref=e2047]:
+              - generic [ref=e2049]:
+                - link "Rover 400 Series Owner's Manual Handbook + Genuine Brown Leather Wallet OEM" [ref=e2053] [cursor=pointer]:
+                  - /url: https://www.ebay.com/itm/306702103193?_skw=mens+leather+wallet&itmmeta=01KJEVRVXRJTVPPSX3JYGX9J58&hash=item4768deb299:g:CsMAAOSwDqhmetRP&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xDTZBFTFRL3EeiwMNYkkUnR5PsSp3PCfiWZs5FqfG7fzIOBf6HbYSqDLFAbCNGKosTBw66bYQSkVJLoeKaKAjKrj%2BqHm%2B%2FTPGc%2BfQa2WaR%2FUusYhpr6xuc8UixfxEZ9hmAIFhGl72uBTSHoO1vVuvrWzgN5KXqaUUKUeZMCeaelzJ8x7G1LJgV7w4bDhCCwsvJZ5UxfHtDM6FxS40v8qcO7BDGgc%2B02L3Th9NAofsQi3pzWo0LiRi0nTcDQP4VToSQ%3D%7Ctkp%3ABk9SR46_49uTZw
+                  - img "Rover 400 Series Owner's Manual Handbook + Genuine Brown Leather Wallet OEM"
+                - link "watch Rover 400 Series Owner's Manual Handbook + Genuine Brown Leather Wallet OEM" [ref=e2055] [cursor=pointer]:
+                  - /url: https://www.ebay.com/myb/WatchListAdd?item=306702103193&pt=null&srt=01000b000000504ac53ffa38533ca7b3cb7c4775390e5bf2e283ddff8746e770b3ac844c87f59aed88293a5d91973fc10ddfc2b0077763a7348fdf42a57deb52eb20a219435e7f253cdb78506c93ec6edfaf191d74bb97&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D267%26_from%3DR40
+                  - generic [ref=e2056]:
+                    - img
+              - generic [ref=e2057]:
+                - link "Rover 400 Series Owner's Manual Handbook + Genuine Brown Leather Wallet OEM Opens in a new window or tab" [ref=e2059] [cursor=pointer]:
+                  - /url: https://www.ebay.com/itm/306702103193?_skw=mens+leather+wallet&itmmeta=01KJEVRVXRJTVPPSX3JYGX9J58&hash=item4768deb299:g:CsMAAOSwDqhmetRP&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xDTZBFTFRL3EeiwMNYkkUnR5PsSp3PCfiWZs5FqfG7fzIOBf6HbYSqDLFAbCNGKosTBw66bYQSkVJLoeKaKAjKrj%2BqHm%2B%2FTPGc%2BfQa2WaR%2FUusYhpr6xuc8UixfxEZ9hmAIFhGl72uBTSHoO1vVuvrWzgN5KXqaUUKUeZMCeaelzJ8x7G1LJgV7w4bDhCCwsvJZ5UxfHtDM6FxS40v8qcO7BDGgc%2B02L3Th9NAofsQi3pzWo0LiRi0nTcDQP4VToSQ%3D%7Ctkp%3ABk9SR46_49uTZw
+                  - heading "Rover 400 Series Owner's Manual Handbook + Genuine Brown Leather Wallet OEM Opens in a new window or tab" [level=3] [ref=e2060]:
+                    - text: Rover 400 Series Owner's Manual Handbook + Genuine Brown Leather Wallet OEM
+                    - generic [ref=e2061]: Opens in a new window or tab
+                - generic [ref=e2062]:
+                  - generic [ref=e2063]:
+                    - generic [ref=e2064]: $31.00
+                    - generic [ref=e2065]: or Best Offer
+                    - generic [ref=e2066]: +$31.00 delivery
+                    - generic [ref=e2067]: Located in United Kingdom
+                  - generic [ref=e2069]: online2ya 99.9% positive (29.6K)
+                - generic [ref=e2070]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading [level=6]:
+                          - generic [ref=e2071]: Sponsored
+          - listitem [ref=e2072]:
+            - generic [ref=e2073]:
+              - generic [ref=e2075]:
+                - link "Dunhill Boston Navy Envelope Book Mark Brand New" [ref=e2079] [cursor=pointer]:
+                  - /url: https://www.ebay.com/itm/256979237798?_skw=mens+leather+wallet&itmmeta=01KJEVRVXRRX0T441BXK0J2SY5&hash=item3bd527fba6:g:EcMAAOSwOx5nqHvE&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xDY5%2BEOUSTHY9F%2BAno3tmUH2oXIaCySu%2F5E2DgilfEEF%2FCbv5pt%2BwdJk80Ypap99tfLnKv9UPcJn4HMDuVV6cjaSF%2BsczAh8voraqSorePPU%2Bibct85w45ET7eOaAaprF4PexmJhpVklLJ%2BoS6358kgw7yhKIbjsjxsqkIyuJxGGpJPMxzjbdMTjDFPVGZ%2BwDKc8JeWaHeNDRmyrv1PWfIXYK9dJgnkcBdjW9%2FtBAuiQfTZcv%2FpH%2Bsy0xPdbup1IdM%3D%7Ctkp%3ABk9SR5C_49uTZw
+                  - img "Dunhill Boston Navy Envelope Book Mark Brand New"
+                - link "watch Dunhill Boston Navy Envelope Book Mark Brand New" [ref=e2081] [cursor=pointer]:
+                  - /url: https://www.ebay.com/myb/WatchListAdd?item=256979237798&pt=null&srt=01000b00000050e5fcf23dd504e22cbecde048da78bbf9f769ddcd920adc7486f5eab3c99429015489a0f8bf1bf02b9b3ecbffac022685e3fbb2b4af62f68ed2b838683c34802549d22584a3f8c406ffb84a16b8e0495d&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D267%26_from%3DR40
+                  - generic [ref=e2082]:
+                    - img
+              - generic [ref=e2083]:
+                - generic [ref=e2084]:
+                  - link "Dunhill Boston Navy Envelope Book Mark Brand New Opens in a new window or tab" [ref=e2085] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/256979237798?_skw=mens+leather+wallet&itmmeta=01KJEVRVXRRX0T441BXK0J2SY5&hash=item3bd527fba6:g:EcMAAOSwOx5nqHvE&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xDY5%2BEOUSTHY9F%2BAno3tmUH2oXIaCySu%2F5E2DgilfEEF%2FCbv5pt%2BwdJk80Ypap99tfLnKv9UPcJn4HMDuVV6cjaSF%2BsczAh8voraqSorePPU%2Bibct85w45ET7eOaAaprF4PexmJhpVklLJ%2BoS6358kgw7yhKIbjsjxsqkIyuJxGGpJPMxzjbdMTjDFPVGZ%2BwDKc8JeWaHeNDRmyrv1PWfIXYK9dJgnkcBdjW9%2FtBAuiQfTZcv%2FpH%2Bsy0xPdbup1IdM%3D%7Ctkp%3ABk9SR5C_49uTZw
+                    - heading "Dunhill Boston Navy Envelope Book Mark Brand New Opens in a new window or tab" [level=3] [ref=e2086]:
+                      - text: Dunhill Boston Navy Envelope Book Mark Brand New
+                      - generic [ref=e2087]: Opens in a new window or tab
+                  - generic [ref=e2089]: Brand New
+                - generic [ref=e2090]:
+                  - generic [ref=e2091]:
+                    - generic [ref=e2092]: $101.61
+                    - generic [ref=e2093]: Buy It Now
+                    - generic [ref=e2094]: +$22.82 delivery
+                    - generic [ref=e2095]: Located in United Kingdom
+                  - generic [ref=e2097]: capitalistboy 99.7% positive (6.5K)
+                - generic [ref=e2098]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading "Sponsored" [level=6]:
+                          - generic [ref=e2099]: Sponsored
+          - listitem [ref=e2100]:
+            - generic [ref=e2101]:
+              - generic [ref=e2103]:
+                - link "Kerusso Men's Leather Journal - Lion of Judah BRAND NEW with FREE SHIPPING" [ref=e2107] [cursor=pointer]:
+                  - /url: https://www.ebay.com/itm/187987689551?_skw=mens+leather+wallet&epid=22078704483&itmmeta=01KJEVRVXRTNEQ843MBG8RRXPZ&hash=item2bc4f0804f:g:eRcAAeSwAwBpdUY~&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xBGgYyLgzw9WEmTy1x60x6XrGMJMQnlX6qOFHBEWLOjBAEGcH9muTddnMH29lUBVE2n8cOXaDeXTv3ERfIJyF32naB1k%2FnTltZC4P0tgTpSoB%2FV%2FdLpgntC3gfFi0wcO97B%2Bb3dChGpOXtugd2uXcbHNJyl99s6GAz3%2FKSMqTibSi95wajIWn9G8u%2FA9Nt0DBAl4hqAE%2Bu8hl5kLt9L%2F0E5WTjqF1k7ymF4zW%2B9%2FtdwmYed8R%2FVRy2Dbguc%2BzJYY7s%3D%7Ctkp%3ABk9SR5C_49uTZw
+                  - img "Kerusso Men's Leather Journal - Lion of Judah BRAND NEW with FREE SHIPPING"
+                - link "watch Kerusso Men's Leather Journal - Lion of Judah BRAND NEW with FREE SHIPPING" [ref=e2109] [cursor=pointer]:
+                  - /url: https://www.ebay.com/myb/WatchListAdd?item=187987689551&pt=null&srt=01000b00000050ec119e1c18411d416a62ebb9928aa441a2742bd0a5c8ad8cfdb31f5518eb4e00011921cb7a8893653873c1a4f45d2c6fce2e131b070632e80459f12641b32af85bc6a7a5b62cd1c71991f9d2868ebf54&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D267%26_from%3DR40
+                  - generic [ref=e2110]:
+                    - img
+              - generic [ref=e2111]:
+                - generic [ref=e2112]:
+                  - link "Kerusso Men's Leather Journal - Lion of Judah BRAND NEW with FREE SHIPPING Opens in a new window or tab" [ref=e2113] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/187987689551?_skw=mens+leather+wallet&epid=22078704483&itmmeta=01KJEVRVXRTNEQ843MBG8RRXPZ&hash=item2bc4f0804f:g:eRcAAeSwAwBpdUY~&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xBGgYyLgzw9WEmTy1x60x6XrGMJMQnlX6qOFHBEWLOjBAEGcH9muTddnMH29lUBVE2n8cOXaDeXTv3ERfIJyF32naB1k%2FnTltZC4P0tgTpSoB%2FV%2FdLpgntC3gfFi0wcO97B%2Bb3dChGpOXtugd2uXcbHNJyl99s6GAz3%2FKSMqTibSi95wajIWn9G8u%2FA9Nt0DBAl4hqAE%2Bu8hl5kLt9L%2F0E5WTjqF1k7ymF4zW%2B9%2FtdwmYed8R%2FVRy2Dbguc%2BzJYY7s%3D%7Ctkp%3ABk9SR5C_49uTZw
+                    - heading "Kerusso Men's Leather Journal - Lion of Judah BRAND NEW with FREE SHIPPING Opens in a new window or tab" [level=3] [ref=e2114]:
+                      - text: Kerusso Men's Leather Journal - Lion of Judah BRAND NEW with FREE SHIPPING
+                      - generic [ref=e2115]: Opens in a new window or tab
+                  - generic [ref=e2117]: Brand New
+                - generic [ref=e2118]:
+                  - generic [ref=e2119]:
+                    - generic [ref=e2120]: $17.99
+                    - generic [ref=e2121]: Buy It Now
+                    - generic [ref=e2122]: +$24.48 delivery
+                    - generic [ref=e2123]: Located in United States
+                  - generic [ref=e2125]: emmasbazaar 99.9% positive (6.3K)
+                - generic [ref=e2126]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading "Sponsored" [level=6]:
+                          - generic [ref=e2127]: Sponsored
+          - listitem [ref=e2128]:
+            - generic [ref=e2129]:
+              - generic [ref=e2131]:
+                - link "Handmade Leather Wallet Sewing Craft Pattern Japanese Edition" [ref=e2135] [cursor=pointer]:
+                  - /url: https://www.ebay.com/itm/388520142683?_skw=mens+leather+wallet&itmmeta=01KJEVRVXRH1K79PYZJ0FHCDAX&hash=item5a759ae75b:g:2zIAAeSwk9VpoIbc&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xB7M%2Bns3B7fUy57%2Fps1WoBbjDmNu0yXVKczzbyhPEwamJ9NaGuV%2F9hwvR407JN%2Byio5hUv2tvphVklh%2BRUifTRTk9lKHSVFTh5UB79ehSNftlcGK%2BRLpGVXecYHwNM%2Fkekr5CMb9KJJQlLYg76WcJTNhgMkO0R4%2Bm0j7H4USHwW%2FZPclIy6Udo3WMzE4%2BDmkG0QLdTaIq8PPq9B%2BvT18Mf7w4cc%2F1S2ILz26K%2BYPtWlqeNfv0LKCxcSgTg409FSsBqT%2FFaEoJUyWebMhzD6sAGBILx%2BEavKKfQOnHLzWXgXkA%3D%3D%7Ctkp%3ABk9SR5C_49uTZw
+                  - img "Handmade Leather Wallet Sewing Craft Pattern Japanese Edition"
+                - link "watch Handmade Leather Wallet Sewing Craft Pattern Japanese Edition" [ref=e2137] [cursor=pointer]:
+                  - /url: https://www.ebay.com/myb/WatchListAdd?item=388520142683&pt=null&srt=01000b00000050ab3396b6b87ef2534c50a5ba2f9a51398ae7ee7054495f3caa8f93b377ce497bb6784faf32e94d06b3a4de462e7e659c177664e7dfb36ffb81d4e7faa74c128dc28b93557ca8b8e89add99d226b78597&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D267%26_from%3DR40
+                  - generic [ref=e2138]:
+                    - img
+              - generic [ref=e2139]:
+                - generic [ref=e2140]:
+                  - link "Handmade Leather Wallet Sewing Craft Pattern Japanese Edition Opens in a new window or tab" [ref=e2141] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/388520142683?_skw=mens+leather+wallet&itmmeta=01KJEVRVXRH1K79PYZJ0FHCDAX&hash=item5a759ae75b:g:2zIAAeSwk9VpoIbc&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xB7M%2Bns3B7fUy57%2Fps1WoBbjDmNu0yXVKczzbyhPEwamJ9NaGuV%2F9hwvR407JN%2Byio5hUv2tvphVklh%2BRUifTRTk9lKHSVFTh5UB79ehSNftlcGK%2BRLpGVXecYHwNM%2Fkekr5CMb9KJJQlLYg76WcJTNhgMkO0R4%2Bm0j7H4USHwW%2FZPclIy6Udo3WMzE4%2BDmkG0QLdTaIq8PPq9B%2BvT18Mf7w4cc%2F1S2ILz26K%2BYPtWlqeNfv0LKCxcSgTg409FSsBqT%2FFaEoJUyWebMhzD6sAGBILx%2BEavKKfQOnHLzWXgXkA%3D%3D%7Ctkp%3ABk9SR5C_49uTZw
+                    - heading "Handmade Leather Wallet Sewing Craft Pattern Japanese Edition Opens in a new window or tab" [level=3] [ref=e2142]:
+                      - text: Handmade Leather Wallet Sewing Craft Pattern Japanese Edition
+                      - generic [ref=e2143]: Opens in a new window or tab
+                  - generic [ref=e2145]: Pre-Owned
+                - generic [ref=e2146]:
+                  - generic [ref=e2147]:
+                    - generic [ref=e2148]: $41.30
+                    - generic [ref=e2149]: or Best Offer
+                    - generic [ref=e2150]: +$10.00 delivery
+                    - generic [ref=e2151]: Located in Japan
+                  - generic [ref=e2153]: d.d.d.shop 99.9% positive (24.1K)
+                - generic [ref=e2154]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading "Sponsored" [level=6]:
+                          - generic [ref=e2155]: Sponsored
+          - listitem [ref=e2156]:
+            - generic [ref=e2157]:
+              - generic [ref=e2159]:
+                - link "c1860 NEW TESTAMENT illustrated CIVIL WAR ERA pocket WALLET STYLE leather" [ref=e2163] [cursor=pointer]:
+                  - /url: https://www.ebay.com/itm/127361433776?_skw=mens+leather+wallet&itmmeta=01KJEVRVXRWVW400KHQT155M0S&hash=item1da75540b0:g:QWcAAeSwpGFowLN1&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDR4ZQSr7Xm53Lt0uGF9r%2FmZFSZvvuUy%2FdZ1mZrfjWVYiuRU3kXSah3gwPIANyxORSh08J7eAVc5njF7pscAV1YlBbDTgcy8rDFnkPkq%2FrnuuYT4Uy9R8GhVNU22NN%2BSy%2B78y3WYaKbSOcp8PIGeviilbmUaUvsDxSAbsz9SSrb5vrm%2BbkfUbZkvf661ycjustkBkBBLCEGCSnWPgO%2FAIYvJE8lhWv%2BHTY82VhUWO0aLqXew2QjiOXuDk%2FCzbnfB0P79O2kkqa43YwToi2Vg2b%2FpYzekIOlYDWEylWSS5xuuw%3D%3D%7Ctkp%3ABk9SR5C_49uTZw
+                  - img "c1860 NEW TESTAMENT illustrated CIVIL WAR ERA pocket WALLET STYLE leather"
+                - link "watch c1860 NEW TESTAMENT illustrated CIVIL WAR ERA pocket WALLET STYLE leather" [ref=e2165] [cursor=pointer]:
+                  - /url: https://www.ebay.com/myb/WatchListAdd?item=127361433776&pt=null&srt=01000b00000050c5469c4b177dc49a5d8ac6fb307a6ea19b78cdd7cad51269dd765034d4e458be103bc006581196f685c7887db69724224c82b699d44dc25c652bebb4e813a522611a4af1e41ceb94aaf37464d44b81fa&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D267%26_from%3DR40
+                  - generic [ref=e2166]:
+                    - img
+              - generic [ref=e2167]:
+                - link "c1860 NEW TESTAMENT illustrated CIVIL WAR ERA pocket WALLET STYLE leather Opens in a new window or tab" [ref=e2169] [cursor=pointer]:
+                  - /url: https://www.ebay.com/itm/127361433776?_skw=mens+leather+wallet&itmmeta=01KJEVRVXRWVW400KHQT155M0S&hash=item1da75540b0:g:QWcAAeSwpGFowLN1&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDR4ZQSr7Xm53Lt0uGF9r%2FmZFSZvvuUy%2FdZ1mZrfjWVYiuRU3kXSah3gwPIANyxORSh08J7eAVc5njF7pscAV1YlBbDTgcy8rDFnkPkq%2FrnuuYT4Uy9R8GhVNU22NN%2BSy%2B78y3WYaKbSOcp8PIGeviilbmUaUvsDxSAbsz9SSrb5vrm%2BbkfUbZkvf661ycjustkBkBBLCEGCSnWPgO%2FAIYvJE8lhWv%2BHTY82VhUWO0aLqXew2QjiOXuDk%2FCzbnfB0P79O2kkqa43YwToi2Vg2b%2FpYzekIOlYDWEylWSS5xuuw%3D%3D%7Ctkp%3ABk9SR5C_49uTZw
+                  - heading "c1860 NEW TESTAMENT illustrated CIVIL WAR ERA pocket WALLET STYLE leather Opens in a new window or tab" [level=3] [ref=e2170]:
+                    - text: c1860 NEW TESTAMENT illustrated CIVIL WAR ERA pocket WALLET STYLE leather
+                    - generic [ref=e2171]: Opens in a new window or tab
+                - generic [ref=e2172]:
+                  - generic [ref=e2173]:
+                    - generic [ref=e2174]: $135.00
+                    - generic [ref=e2175]: Buy It Now
+                    - generic [ref=e2176]: +$26.97 delivery
+                    - generic [ref=e2177]: Located in United States
+                    - generic [ref=e2178]: 20 watchers
+                  - generic [ref=e2180]: burkholderrarebibles 100% positive (2K)
+                - generic [ref=e2181]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading [level=6]:
+                          - generic [ref=e2182]: Sponsored
+          - listitem [ref=e2183]:
+            - generic [ref=e2184]:
+              - generic [ref=e2186]:
+                - link "Leather Magnetic Money Clip PLUS 8\" Leather bookmark place for Picture \"NEW\"" [ref=e2190] [cursor=pointer]:
+                  - /url: https://www.ebay.com/itm/317098195445?_skw=mens+leather+wallet&itmmeta=01KJEVRVXR7PYHZ9KHG6BCY65X&hash=item49d48679f5:g:TxoAAOSwSgdoOK1A&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCmVTyN7RXbqGYUlfjCHLwVZPA5PuYBz4MfMka4GoyxUm4Qh1SuppKWF99m%2Fsg436TQNSZwiEPxKt0J6t7ADcokYtBaAgCJBTP67bn795TvOuNttLfWCO%2BxR%2B%2BKHQsa4tAlsXSYY9eK3get5pCOi4WlW%2FzyiyvKlnnzPZQzLyLTkat0NPrApQVo6ZXiuytKnGkmMU4RBCf3MFlzBqb2oRHoNCh51U3RtKMBslVeooK2wZ8lgGFLZ2jrSkejZr%2BYz43DoOCC85nSNHuVwAeHGhsa0X3fBfoZ4v5Vz8zi%2BIGtNA%3D%3D%7Ctkp%3ABk9SR5C_49uTZw
+                  - img "Leather Magnetic Money Clip PLUS 8\" Leather bookmark place for Picture \"NEW\""
+                - link "watch Leather Magnetic Money Clip PLUS 8\" Leather bookmark place for Picture \"NEW\"" [ref=e2192] [cursor=pointer]:
+                  - /url: https://www.ebay.com/myb/WatchListAdd?item=317098195445&pt=null&srt=01000b00000050cd25e724aca1d6d86d5a5386d89b378affaa840b63b52842216839ace135fbd86b9cb79300be97bb3719d6e06cb0a741be30e6dd566e73f05c613d1fe4efe7714bc3d77dabc629845b374746d2416074&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D267%26_from%3DR40
+                  - generic [ref=e2193]:
+                    - img
+              - generic [ref=e2194]:
+                - generic [ref=e2195]:
+                  - link "Leather Magnetic Money Clip PLUS 8\" Leather bookmark place for Picture \"NEW\" Opens in a new window or tab" [ref=e2196] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/317098195445?_skw=mens+leather+wallet&itmmeta=01KJEVRVXR7PYHZ9KHG6BCY65X&hash=item49d48679f5:g:TxoAAOSwSgdoOK1A&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCmVTyN7RXbqGYUlfjCHLwVZPA5PuYBz4MfMka4GoyxUm4Qh1SuppKWF99m%2Fsg436TQNSZwiEPxKt0J6t7ADcokYtBaAgCJBTP67bn795TvOuNttLfWCO%2BxR%2B%2BKHQsa4tAlsXSYY9eK3get5pCOi4WlW%2FzyiyvKlnnzPZQzLyLTkat0NPrApQVo6ZXiuytKnGkmMU4RBCf3MFlzBqb2oRHoNCh51U3RtKMBslVeooK2wZ8lgGFLZ2jrSkejZr%2BYz43DoOCC85nSNHuVwAeHGhsa0X3fBfoZ4v5Vz8zi%2BIGtNA%3D%3D%7Ctkp%3ABk9SR5C_49uTZw
+                    - heading "Leather Magnetic Money Clip PLUS 8\" Leather bookmark place for Picture \"NEW\" Opens in a new window or tab" [level=3] [ref=e2197]:
+                      - text: Leather Magnetic Money Clip PLUS 8" Leather bookmark place for Picture "NEW"
+                      - generic [ref=e2198]: Opens in a new window or tab
+                  - generic [ref=e2200]: Brand New
+                - generic [ref=e2201]:
+                  - generic [ref=e2202]:
+                    - generic [ref=e2203]: $5.00
+                    - generic [ref=e2204]: Buy It Now
+                    - generic [ref=e2205]: +$29.40 delivery
+                    - generic [ref=e2206]: Located in United States
+                  - generic [ref=e2208]: heshh38 100% positive (6.7K)
+                - generic [ref=e2209]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading [level=6]:
+                          - generic [ref=e2210]: Sponsored
+          - listitem [ref=e2211]:
+            - generic [ref=e2212]:
+              - generic [ref=e2214]:
+                - link "United States Constitution MINI Book Leather Cover Mens Warehouse Black" [ref=e2218] [cursor=pointer]:
+                  - /url: https://www.ebay.com/itm/326979500067?_skw=mens+leather+wallet&itmmeta=01KJEVRVXRYRWH4ZS7Y2N4C776&hash=item4c217f3823:g:qjsAAeSwBy5pfkBt&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xDSYPfssQ1ehcJxvy6boOcClXxKa4yT6GphqsOyQzIEMQHHVoJu5T3HpVWAZBaFzI6GEjSdKACb0a3iR2Y1KiqcXTU93U3P1tgWc4fnMbt6tPU6c0%2B%2F2dwauML69t%2B5SyZ2JVWpg9K4LfWsKUcIER4Pa%2FI7TifXhW6BXdv0Ox5MmRt3Z55k4MotSwsfBjYg%2FYuUhA6IJh7jNWty78WhjfZuOILDCGyWdOqP5uB6jhgJ7XUoo0vFyS4a6Mv19ZJlP8Q%3D%7Ctkp%3ABk9SR5C_49uTZw
+                  - img "United States Constitution MINI Book Leather Cover Mens Warehouse Black"
+                - link "watch United States Constitution MINI Book Leather Cover Mens Warehouse Black" [ref=e2220] [cursor=pointer]:
+                  - /url: https://www.ebay.com/myb/WatchListAdd?item=326979500067&pt=null&srt=01000b00000050f37b2195ad229ff579b0a44a4868b8acb82a6d7a11abdb89c8097b3b8babdc60f5ac83ab6dc8d78dd47f69b2173755cc90986dbb86bb68ac44e7b062da589f67f9fc0187f8ded1c6f1be9da653f24385&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D267%26_from%3DR40
+                  - generic [ref=e2221]:
+                    - img
+              - generic [ref=e2222]:
+                - generic [ref=e2223]:
+                  - link "United States Constitution MINI Book Leather Cover Mens Warehouse Black Opens in a new window or tab" [ref=e2224] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/326979500067?_skw=mens+leather+wallet&itmmeta=01KJEVRVXRYRWH4ZS7Y2N4C776&hash=item4c217f3823:g:qjsAAeSwBy5pfkBt&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xDSYPfssQ1ehcJxvy6boOcClXxKa4yT6GphqsOyQzIEMQHHVoJu5T3HpVWAZBaFzI6GEjSdKACb0a3iR2Y1KiqcXTU93U3P1tgWc4fnMbt6tPU6c0%2B%2F2dwauML69t%2B5SyZ2JVWpg9K4LfWsKUcIER4Pa%2FI7TifXhW6BXdv0Ox5MmRt3Z55k4MotSwsfBjYg%2FYuUhA6IJh7jNWty78WhjfZuOILDCGyWdOqP5uB6jhgJ7XUoo0vFyS4a6Mv19ZJlP8Q%3D%7Ctkp%3ABk9SR5C_49uTZw
+                    - heading "United States Constitution MINI Book Leather Cover Mens Warehouse Black Opens in a new window or tab" [level=3] [ref=e2225]:
+                      - text: United States Constitution MINI Book Leather Cover Mens Warehouse Black
+                      - generic [ref=e2226]: Opens in a new window or tab
+                  - generic [ref=e2228]: Brand New
+                - generic [ref=e2229]:
+                  - generic [ref=e2230]:
+                    - generic [ref=e2231]: $12.00
+                    - generic [ref=e2232]: Buy It Now
+                    - generic [ref=e2233]: +$28.82 delivery
+                    - generic [ref=e2234]: Located in United States
+                  - generic [ref=e2236]: brilliantreductions 99.4% positive (4K)
+                - generic [ref=e2237]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading "Sponsored" [level=6]:
+                          - generic [ref=e2238]: Sponsored
+          - listitem [ref=e2239]:
+            - generic [ref=e2240]:
+              - generic [ref=e2242]:
+                - link "SUPERMAN BI-FOLD WALLET AND KEYRING GIFT SET - OFFICIALLY LICENSED" [ref=e2246] [cursor=pointer]:
+                  - /url: https://www.ebay.com/itm/363767216385?_skw=mens+leather+wallet&itmmeta=01KJEVRVXRCGK8VAV1WP2XHAEY&hash=item54b2373901:g:jWUAAOSw2uJiM4NF&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xAGAu4TSu5Tbo5wzIHOmjRPwtl06VfyGKyPJ3WtYWt6DA3kRTliqRsA2dAMB0hj8J04QlBX71KgcAy2OX--p0D0o%2FWDmyFgE%2FohNql%2BYA%2FeMBk0COOyFQqmFfpR4n3avGjM4iLdrjFcmPP%2BdzP8hvV4u%2F8c2FAAMFfafdodsT0RVXnkDjEUD8w%2FuaVQxOn9Z4yCBjMqKWm25eVPeUE8tjE6PQdJxX%2BqOtux4%2BO%2FO8ZbxgCVQZg69sMK0CXy%2FAxi2fQ%3D%7Ctkp%3ABk9SR5C_49uTZw
+                  - img "SUPERMAN BI-FOLD WALLET AND KEYRING GIFT SET - OFFICIALLY LICENSED"
+                - link "watch SUPERMAN BI-FOLD WALLET AND KEYRING GIFT SET - OFFICIALLY LICENSED" [ref=e2248] [cursor=pointer]:
+                  - /url: https://www.ebay.com/myb/WatchListAdd?item=363767216385&pt=null&srt=01000b000000505ea152d7532ba2f9053181025d806f632946d1a01eaa4dca9bfc30d5221c736c0fa7e638b889a2dab075ca44013571a533e5507bf33dc35766ff9a6a2718a177173e26b2d89dcfa10907250187bf6dea&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D267%26_from%3DR40
+                  - generic [ref=e2249]:
+                    - img
+                - generic [ref=e2254]:
+                  - link "See visually similar items" [ref=e2256] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_id=363767216385&_fsrp=1&_vss=1&_vs=1&itmmeta=01KJEVRVXRCGK8VAV1WP2XHAEY&_udlo=13.49&_vssPrice=1&_sacat=2996
+                    - img
+                  - region "Find similar items" [ref=e2257]:
+                    - generic [ref=e2260]:
+                      - generic [ref=e2261]:
+                        - generic [ref=e2262]: Find similar items
+                        - text: See all the items on eBay that match this style
+                      - button "Close Tourtip" [ref=e2263]:
+                        - img
+              - generic [ref=e2264]:
+                - generic [ref=e2265]:
+                  - link "SUPERMAN BI-FOLD WALLET AND KEYRING GIFT SET - OFFICIALLY LICENSED Opens in a new window or tab" [ref=e2266] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/363767216385?_skw=mens+leather+wallet&itmmeta=01KJEVRVXRCGK8VAV1WP2XHAEY&hash=item54b2373901:g:jWUAAOSw2uJiM4NF&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xAGAu4TSu5Tbo5wzIHOmjRPwtl06VfyGKyPJ3WtYWt6DA3kRTliqRsA2dAMB0hj8J04QlBX71KgcAy2OX--p0D0o%2FWDmyFgE%2FohNql%2BYA%2FeMBk0COOyFQqmFfpR4n3avGjM4iLdrjFcmPP%2BdzP8hvV4u%2F8c2FAAMFfafdodsT0RVXnkDjEUD8w%2FuaVQxOn9Z4yCBjMqKWm25eVPeUE8tjE6PQdJxX%2BqOtux4%2BO%2FO8ZbxgCVQZg69sMK0CXy%2FAxi2fQ%3D%7Ctkp%3ABk9SR5C_49uTZw
+                    - heading "SUPERMAN BI-FOLD WALLET AND KEYRING GIFT SET - OFFICIALLY LICENSED Opens in a new window or tab" [level=3] [ref=e2267]:
+                      - text: SUPERMAN BI-FOLD WALLET AND KEYRING GIFT SET - OFFICIALLY LICENSED
+                      - generic [ref=e2268]: Opens in a new window or tab
+                  - generic [ref=e2270]: Brand New
+                - generic [ref=e2271]:
+                  - generic [ref=e2272]:
+                    - generic [ref=e2273]: $24.25
+                    - generic [ref=e2274]: Buy It Now
+                    - generic [ref=e2275]: +$47.13 shipping estimate
+                    - generic [ref=e2276]: Located in United Kingdom
+                    - generic [ref=e2277]: 3 watchers
+                  - generic [ref=e2278]:
+                    - generic [ref=e2279]: Customs services and international tracking provided
+                    - generic [ref=e2280]: a-place-in-space 100% positive (706.2K)
+                - generic [ref=e2281]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading "Sponsored" [level=6]:
+                          - generic [ref=e2282]: Sponsored
+          - listitem [ref=e2283]:
+            - generic [ref=e2284]:
+              - generic [ref=e2286]:
+                - link "notebook notes book jacket cover wallet card case bag cow leather orange H744" [ref=e2290] [cursor=pointer]:
+                  - /url: https://www.ebay.com/itm/126348960262?_skw=mens+leather+wallet&itmmeta=01KJEVRVXRHV28BQ2NEEQRD4NG&hash=item1d6afc2206:g:Z-sAAOSw2NhkN5ue&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xCUyfGU0HnmwKoB7MweyIrtE39T4jryqeBqIqkzexekUMzkhDCn%2BckK86I7cu00bHpkKMXSpPWQLYZggDToXBnqBzQwLi%2BTG%2FOtjgkah5tAzlmy%2FZzvbjiT7pj65hd9ARWui8I0Qg6doLIDrdoYruU%2FWchuSiBSpZG243zCU3ZjYp40CVLnOZb2dbJ1ZBQ07gRh7sP8ZHO79lVGt2EFmbHsEG33ukZZ6--nombkU5oohH76yBFOA6%2BxsldFVMgNDHk%3D%7Ctkp%3ABk9SR5C_49uTZw
+                  - img "notebook notes book jacket cover wallet card case bag cow leather orange H744"
+                - link "watch notebook notes book jacket cover wallet card case bag cow leather orange H744" [ref=e2292] [cursor=pointer]:
+                  - /url: https://www.ebay.com/myb/WatchListAdd?item=126348960262&pt=null&srt=01000b00000050a4c3fa5d862050a30800aad2edc1a41687d4e538be9c22a6b3ad3a8d8eec09031ef740bc898585e4840b384ce319fac4b3fb8e6b8c3f539d9e26055e32ae213af97fd78e0553597d50f82a29dac7cc0d&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D267%26_from%3DR40
+                  - generic [ref=e2293]:
+                    - img
+              - generic [ref=e2294]:
+                - generic [ref=e2295]:
+                  - link "notebook notes book jacket cover wallet card case bag cow leather orange H744 Opens in a new window or tab" [ref=e2296] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/126348960262?_skw=mens+leather+wallet&itmmeta=01KJEVRVXRHV28BQ2NEEQRD4NG&hash=item1d6afc2206:g:Z-sAAOSw2NhkN5ue&itmprp=enc%3AAQALAAAA0GfYFPkwiKCW4ZNSs2u11xCUyfGU0HnmwKoB7MweyIrtE39T4jryqeBqIqkzexekUMzkhDCn%2BckK86I7cu00bHpkKMXSpPWQLYZggDToXBnqBzQwLi%2BTG%2FOtjgkah5tAzlmy%2FZzvbjiT7pj65hd9ARWui8I0Qg6doLIDrdoYruU%2FWchuSiBSpZG243zCU3ZjYp40CVLnOZb2dbJ1ZBQ07gRh7sP8ZHO79lVGt2EFmbHsEG33ukZZ6--nombkU5oohH76yBFOA6%2BxsldFVMgNDHk%3D%7Ctkp%3ABk9SR5C_49uTZw
+                    - heading "notebook notes book jacket cover wallet card case bag cow leather orange H744 Opens in a new window or tab" [level=3] [ref=e2297]:
+                      - text: notebook notes book jacket cover wallet card case bag cow leather orange H744
+                      - generic [ref=e2298]: Opens in a new window or tab
+                  - generic [ref=e2300]: Brand New
+                - generic [ref=e2301]:
+                  - generic [ref=e2302]:
+                    - generic [ref=e2303]: $8.80
+                    - generic [ref=e2304]: Buy It Now
+                    - generic [ref=e2305]: +$8.90 delivery
+                    - generic [ref=e2306]: Located in China
+                  - generic [ref=e2308]: sunnyzone25 97.6% positive (1.4K)
+                - generic [ref=e2309]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading "Sponsored" [level=6]:
+                          - generic [ref=e2310]: Sponsored
+          - listitem [ref=e2311]:
+            - generic [ref=e2312]:
+              - generic [ref=e2314]:
+                - link "notebook notes book jacket cover wallet card case bag cow leather brown H288" [ref=e2318] [cursor=pointer]:
+                  - /url: https://www.ebay.com/itm/116080797512?_skw=mens+leather+wallet&itmmeta=01KJEVRVXRQEHD11C0GXMZN1CF&hash=item1b06f46748:g:wjMAAOSwN8dhDd-j&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBgi4Zgalttu7OXOOqjRcloPowu1Nm%2Be3g8T6IFYWDm9OqCTDk6Peic6ruReXaOBaAKtC3VF3IXVlQXh3GURXlw2%2FUwI43qOHFoaf%2FqmxOaZZpBDxfIQoARmzhhTvvEGtVZTVtyxDF2hD2pXmqbXtGHQTx4eifBwvLr2aBW0eq0BBNcBdPa%2Fp2PXcydFxgIIMuMI8H0pJzgtwJs3Tclb9Rh1wn17q1FL1dfHdD%2B%2BTod%2BOIPU%2FU5Aror%2Br4JesKjzdvOQZo%2FAKu1%2BYxALkZUB5I2j9ARQaSfxEyGTgr4ki%2BeJg%3D%3D%7Ctkp%3ABFBMkL_j25Nn
+                  - img "notebook notes book jacket cover wallet card case bag cow leather brown H288"
+                - link "watch notebook notes book jacket cover wallet card case bag cow leather brown H288" [ref=e2320] [cursor=pointer]:
+                  - /url: https://www.ebay.com/myb/WatchListAdd?item=116080797512&pt=null&srt=01000b000000508fc837732f7da22fda64e74c2911a2a4e43c040fdb76312b614d509ca2af69c493788f35d1ff3cd67840b61b3accfeaf33922d4936329248142414f21d6e1b577c8512a6425cdf46e4536d59df96c2d9&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D267%26_from%3DR40
+                  - generic [ref=e2321]:
+                    - img
+              - generic [ref=e2322]:
+                - generic [ref=e2323]:
+                  - link "notebook notes book jacket cover wallet card case bag cow leather brown H288 Opens in a new window or tab" [ref=e2324] [cursor=pointer]:
+                    - /url: https://www.ebay.com/itm/116080797512?_skw=mens+leather+wallet&itmmeta=01KJEVRVXRQEHD11C0GXMZN1CF&hash=item1b06f46748:g:wjMAAOSwN8dhDd-j&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBgi4Zgalttu7OXOOqjRcloPowu1Nm%2Be3g8T6IFYWDm9OqCTDk6Peic6ruReXaOBaAKtC3VF3IXVlQXh3GURXlw2%2FUwI43qOHFoaf%2FqmxOaZZpBDxfIQoARmzhhTvvEGtVZTVtyxDF2hD2pXmqbXtGHQTx4eifBwvLr2aBW0eq0BBNcBdPa%2Fp2PXcydFxgIIMuMI8H0pJzgtwJs3Tclb9Rh1wn17q1FL1dfHdD%2B%2BTod%2BOIPU%2FU5Aror%2Br4JesKjzdvOQZo%2FAKu1%2BYxALkZUB5I2j9ARQaSfxEyGTgr4ki%2BeJg%3D%3D%7Ctkp%3ABFBMkL_j25Nn
+                    - heading "notebook notes book jacket cover wallet card case bag cow leather brown H288 Opens in a new window or tab" [level=3] [ref=e2325]:
+                      - text: notebook notes book jacket cover wallet card case bag cow leather brown H288
+                      - generic [ref=e2326]: Opens in a new window or tab
+                  - generic [ref=e2328]: Brand New
+                - generic [ref=e2329]:
+                  - generic [ref=e2330]:
+                    - generic [ref=e2331]: $15.80
+                    - generic [ref=e2332]: Buy It Now
+                    - generic [ref=e2333]: +$11.90 delivery
+                    - generic [ref=e2334]: Located in China
+                  - generic [ref=e2336]: sunnyzone25 97.6% positive (1.4K)
+                - generic [ref=e2337]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading "Sponsored Sponsored" [level=6]:
+                          - generic [ref=e2338]: Sponsored
+          - listitem [ref=e2339]:
+            - generic [ref=e2340]:
+              - generic [ref=e2342]:
+                - 'link "What Was Man Created For? : The Philosophy Of The Common Task . [Leather Bound]" [ref=e2346] [cursor=pointer]':
+                  - /url: https://www.ebay.com/itm/305555805404?_skw=mens+leather+wallet&itmmeta=01KJEVRVXRS6HMJTP0QZ1C81K7&hash=item47248b94dc:g:gPIAAeSwgP9od7HO&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDyzIRW4RunPeD9s3L08xxI4fWvUSYKcQ%2FlHM7yBwlv%2F8C8U0DzZQ8oCyq43P6dvO5w2EVMQPsMOyUkslxfnKjzelayJvfnHnU3HDFRLqkmVLIz0zxaYcUNuC%2BjTIpiNhlnbt6f%2FtCzWpofW3zvEtvKKVlAYCq5BIQL%2Fo4VEdkw%2B1pHkZ%2BPJqfdBHRyYB4TbzJeHqBcH3Bj46sj0AY22YFFV3GveRrhuDx70yGmUmo9JV047T%2BOaMn7YB%2BxsFaj6n%2BtX0wmgE4xolvKZATt31jaxTlN3gHlEabvEnA5crrV2g%3D%3D%7Ctkp%3ABFBMkL_j25Nn
+                  - 'img "What Was Man Created For? : The Philosophy Of The Common Task . [Leather Bound]"'
+                - 'link "watch What Was Man Created For? : The Philosophy Of The Common Task . [Leather Bound]" [ref=e2348] [cursor=pointer]':
+                  - /url: https://www.ebay.com/myb/WatchListAdd?item=305555805404&pt=null&srt=01000b000000507137ffa9785f1303b53ea33ec08799399cbf562b6e95e43bde7c8c38ed1c50140e5ccb985428d3a2321b5b1fb981ce9b7f89d4a8fec5ff953f6c27d83ba8d9ef43db3f6c71a8e323fbf39011f099a73c&ru=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_nkw%3Dmens%2Bleather%2Bwallet%26_sacat%3D267%26_from%3DR40
+                  - generic [ref=e2349]:
+                    - img
+              - generic [ref=e2350]:
+                - generic [ref=e2351]:
+                  - generic "NEW LOW PRICE" [ref=e2353]
+                  - 'link "What Was Man Created For? : The Philosophy Of The Common Task . [Leather Bound] Opens in a new window or tab" [ref=e2354] [cursor=pointer]':
+                    - /url: https://www.ebay.com/itm/305555805404?_skw=mens+leather+wallet&itmmeta=01KJEVRVXRS6HMJTP0QZ1C81K7&hash=item47248b94dc:g:gPIAAeSwgP9od7HO&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDyzIRW4RunPeD9s3L08xxI4fWvUSYKcQ%2FlHM7yBwlv%2F8C8U0DzZQ8oCyq43P6dvO5w2EVMQPsMOyUkslxfnKjzelayJvfnHnU3HDFRLqkmVLIz0zxaYcUNuC%2BjTIpiNhlnbt6f%2FtCzWpofW3zvEtvKKVlAYCq5BIQL%2Fo4VEdkw%2B1pHkZ%2BPJqfdBHRyYB4TbzJeHqBcH3Bj46sj0AY22YFFV3GveRrhuDx70yGmUmo9JV047T%2BOaMn7YB%2BxsFaj6n%2BtX0wmgE4xolvKZATt31jaxTlN3gHlEabvEnA5crrV2g%3D%3D%7Ctkp%3ABFBMkL_j25Nn
+                    - 'heading "What Was Man Created For? : The Philosophy Of The Common Task . [Leather Bound] Opens in a new window or tab" [level=3] [ref=e2355]':
+                      - text: "What Was Man Created For? : The Philosophy Of The Common Task . [Leather Bound]"
+                      - generic [ref=e2356]: Opens in a new window or tab
+                  - generic [ref=e2358]: Brand New
+                - generic [ref=e2359]:
+                  - generic [ref=e2360]:
+                    - generic [ref=e2361]:
+                      - text: $86.40
+                      - text: $96.00
+                    - generic [ref=e2362]: or Best Offer
+                    - generic [ref=e2363]: Free International Shipping
+                    - generic [ref=e2364]: Located in India
+                    - generic [ref=e2365]: Free returns
+                    - generic [ref=e2366]: Last one
+                    - generic [ref=e2367]: 9 sold
+                  - generic [ref=e2369]: gyan_books 98.5% positive (5.2K)
+                - generic [ref=e2370]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading "Sponsored" [level=6]:
+                          - generic [ref=e2371]: Sponsored
+      - generic [ref=e2373]:
+        - generic [ref=e2374]:
+          - heading "Related Searches" [level=2] [ref=e2375]
+          - group "Related Searches" [ref=e2378]:
+            - generic [ref=e2379]:
+              - button "Go to previous slide - Related Searches" [disabled] [ref=e2380]:
+                - img
+              - list [ref=e2382]:
+                - listitem [ref=e2383]:
+                  - link "wallet men leather bifold" [ref=e2385] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_sacat=267&_from=R40&_nkw=wallet+men+leather+bifold
+                    - generic [ref=e2386]: wallet men leather bifold
+                - listitem [ref=e2387]:
+                  - link "wallet men leather genuine" [ref=e2389] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_sacat=267&_from=R40&_nkw=wallet+men+leather+genuine
+                    - generic [ref=e2390]: wallet men leather genuine
+                - listitem [ref=e2391]:
+                  - link "wallet men leather long" [ref=e2393] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_sacat=267&_from=R40&_nkw=wallet+men+leather+long
+                    - generic [ref=e2394]: wallet men leather long
+                - listitem [ref=e2395]:
+                  - link "wallet men leather used" [ref=e2397] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_sacat=267&_from=R40&_nkw=wallet+men+leather+used
+                    - generic [ref=e2398]: wallet men leather used
+                - listitem [ref=e2399]:
+                  - link [ref=e2401] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_sacat=267&_from=R40&_nkw=men+leather+wallet+with+zipper
+                    - generic [ref=e2402]: men leather wallet with zipper
+                - listitem [ref=e2403]:
+                  - link [ref=e2405] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_sacat=267&_from=R40&_nkw=wallet+men+leather+with+chain
+                    - generic [ref=e2406]: wallet men leather with chain
+                - listitem [ref=e2407]:
+                  - link [ref=e2409] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_sacat=267&_from=R40&_nkw=leather+wallet+men+vintage
+                    - generic [ref=e2410]: leather wallet men vintage
+                - listitem [ref=e2411]:
+                  - link [ref=e2413] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_sacat=267&_from=R40&_nkw=slim+leather+wallet+men
+                    - generic [ref=e2414]: slim leather wallet men
+                - listitem [ref=e2415]:
+                  - link [ref=e2417] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_sacat=267&_from=R40&_nkw=leather+wallet+men+italy
+                    - generic [ref=e2418]: leather wallet men italy
+                - listitem [ref=e2419]:
+                  - link [ref=e2421] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_sacat=267&_from=R40&_nkw=leather+wallet+men+trifold
+                    - generic [ref=e2422]: leather wallet men trifold
+                - listitem [ref=e2423]:
+                  - link [ref=e2425] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_sacat=267&_from=R40&_nkw=leather+wallet+men+coach
+                    - generic [ref=e2426]: leather wallet men coach
+                - listitem [ref=e2427]:
+                  - link [ref=e2429] [cursor=pointer]:
+                    - /url: https://www.ebay.com/sch/i.html?_sacat=267&_from=R40&_nkw=carhartt+leather+wallet+men
+                    - generic [ref=e2430]: carhartt leather wallet men
+              - button "Go to next slide - Related Searches" [ref=e2431]:
+                - img
+        - img "Busy" [ref=e2434]:
+          - img
+      - img [ref=e2437]
+  - generic [ref=e2438]:
+    - contentinfo [ref=e2441]:
+      - list [ref=e2442]:
+        - listitem [ref=e2443]:
+          - link "About eBay" [ref=e2444] [cursor=pointer]:
+            - /url: https://www.ebayinc.com
+        - listitem [ref=e2445]:
+          - link "Announcements" [ref=e2446] [cursor=pointer]:
+            - /url: https://community.ebay.com/t5/Announcements/bg-p/Announcements
+        - listitem [ref=e2447]:
+          - link "Community" [ref=e2448] [cursor=pointer]:
+            - /url: https://community.ebay.com
+        - listitem [ref=e2449]:
+          - link "Security Center" [ref=e2450] [cursor=pointer]:
+            - /url: https://pages.ebay.com/securitycenter/index.html
+        - listitem [ref=e2451]:
+          - link "Seller Center" [ref=e2452] [cursor=pointer]:
+            - /url: https://www.ebay.com/sellercenter
+        - listitem [ref=e2453]:
+          - link "Policies" [ref=e2454] [cursor=pointer]:
+            - /url: https://www.ebay.com/help/policies/default/ebays-rules-policies?id=4205
+        - listitem [ref=e2455]:
+          - link "Affiliates" [ref=e2456] [cursor=pointer]:
+            - /url: https://partnernetwork.ebay.com/
+        - listitem [ref=e2457]:
+          - link "Product Safety Tips" [ref=e2458] [cursor=pointer]:
+            - /url: https://pages.ebay.com/safetytips
+        - listitem [ref=e2459]:
+          - link "Help & Contact" [ref=e2460] [cursor=pointer]:
+            - /url: https://www.ebay.com/help/home
+        - listitem [ref=e2461]:
+          - link "Site Map" [ref=e2462] [cursor=pointer]:
+            - /url: https://pages.ebay.com/sitemap.html
+      - generic [ref=e2463]:
+        - text: Copyright © 1995-2026 eBay Inc. All Rights Reserved.
+        - link "Accessibility" [ref=e2464] [cursor=pointer]:
+          - /url: https://www.ebayinc.com/accessibility/
+        - text: ","
+        - link "User Agreement" [ref=e2465] [cursor=pointer]:
+          - /url: https://www.ebay.com/help/policies/member-behaviour-policies/user-agreement?id=4259
+        - text: ","
+        - link "Privacy" [ref=e2466] [cursor=pointer]:
+          - /url: https://www.ebay.com/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260
+        - text: ","
+        - link "Consumer Health Data" [ref=e2467] [cursor=pointer]:
+          - /url: https://www.ebayinc.com/company/privacy-center/privacy-notice/consumer-health-data-privacy-policy/
+        - text: ","
+        - link "Payments Terms of Use" [ref=e2468] [cursor=pointer]:
+          - /url: https://pages.ebay.com/payment/2.0/terms.html
+        - text: ","
+        - link "Cookies" [ref=e2469] [cursor=pointer]:
+          - /url: https://www.ebay.com/help/policies/member-behaviour-policies/ebay-cookie-notice?id=4267
+        - text: ","
+        - link "CA Privacy Notice" [ref=e2470] [cursor=pointer]:
+          - /url: https://www.ebayinc.com/company/privacy-center/privacy-notice/state-privacy-disclosures/#california
+        - text: ","
+        - link "Your Privacy Choices" [ref=e2471] [cursor=pointer]:
+          - /url: https://www.ebay.com/adchoice/ccpa
+        - text: and
+        - link "AdChoice" [ref=e2472] [cursor=pointer]:
+          - /url: https://www.ebay.com/adchoice
+          - text: AdChoice
+          - img
+    - generic [ref=e2474]:
+      - link "*Learn about pricing" [ref=e2476] [cursor=pointer]:
+        - /url: https://pages.ebay.com/buy/popup/pricing.html
+      - generic [ref=e2477]: "This page was last updated: Feb-26 23:14. Number of bids and bid amounts may be slightly out of date. See each listing for international shipping options and costs."
+  - img [ref=e2478]
+  - img
+```
