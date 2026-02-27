@@ -1,6 +1,6 @@
 # Automated Playwright Test Suite
 
-![Main Product Page](Main Product Page.png)
+![Main Product Page](https://github.com/ravinduheshan99/Ebay-Product-Recommendation-QA-Framework-Playwright/blob/main/Main%20Product%20Page.png)
 
 This repository is a **production‑grade Playwright automation framework** built as part of a QA skill assessment. It drives an e‑commerce site to verify core user flows and a custom "Best Sellers" recommendation feature on the product detail page.
 
